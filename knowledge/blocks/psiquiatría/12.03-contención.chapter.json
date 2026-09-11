@@ -1,0 +1,61 @@
+{
+  "id": "12.03-contención",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "12.03 - Contención",
+  "summary": "",
+  "tags": [
+    "12",
+    "psiquiatría",
+    "contención-física",
+    "contención-farmacológica",
+    "5-puntos"
+  ],
+  "block": "12 - Psiquiatría",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/12 - Psiquiatría/12.03 - Contención.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "16501e53760ddc27abbb7bea47d029a0a191fdf387b6c503f3baf520f144fb4b"
+  },
+  "created_at": "2026-08-07T15:56:57.141759+00:00",
+  "updated_at": "2026-08-07T15:56:57.141759+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1202---agitación",
+      "type": "related"
+    },
+    {
+      "to": "0408---sedantes-y-antagonistas",
+      "type": "related"
+    },
+    {
+      "to": "1602---ética-y-confidencialidad",
+      "type": "related"
+    },
+    {
+      "to": "1203---contención1203---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Contención Física",
+    "Contención Farmacológica",
+    "Marco Legal",
+    "Manejo Prehospitalario",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "12.02 - Agitación",
+    "04.08 - Sedantes y Antagonistas",
+    "16.02 - Ética y confidencialidad",
+    "12.03 - Contención|12.03 - Fuentes"
+  ]
+}

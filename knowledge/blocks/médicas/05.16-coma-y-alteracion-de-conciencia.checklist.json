@@ -1,0 +1,40 @@
+{
+  "id": "05.16-coma-y-alteracion-de-conciencia.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 05.16-coma-y-alteracion-de-conciencia",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "coma"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.16 - Coma y alteración de conciencia.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "05.16-coma-y-alteracion-de-conciencia",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "05 - Médicas"
+  ],
+  "items": [
+    "Verificar vía aérea y ventilación",
+    "Glucemia capilar inmediata",
+    "Posición lateral de seguridad",
+    "Monitorizar TA, FC, SatO2",
+    "Buscar signos de focalidad neurológica",
+    "Transportar a hospital"
+  ]
+}

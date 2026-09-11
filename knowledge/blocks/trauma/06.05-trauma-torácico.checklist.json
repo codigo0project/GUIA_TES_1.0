@@ -1,0 +1,40 @@
+{
+  "id": "06.05-trauma-torácico.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 06.05-trauma-torácico",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "trauma"
+  ],
+  "block": "06 - Trauma",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/06 - Trauma/06.05 - Trauma torácico.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "06.05-trauma-torácico",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "06 - Trauma"
+  ],
+  "items": [
+    "Verificar seguridad de escena",
+    "Evaluar estado del paciente",
+    "Aplicar protocolo correspondiente",
+    "Monitorizar constantes vitales",
+    "Documentar actuaciones",
+    "Transportar según prioridad"
+  ]
+}

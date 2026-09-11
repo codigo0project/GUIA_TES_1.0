@@ -1,0 +1,59 @@
+{
+  "id": "06.03-tce",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "06.03 - TCE",
+  "summary": "",
+  "tags": [
+    "06",
+    "trauma",
+    "TCE",
+    "traumatismo-craneoencefálico",
+    "hipertensión-intracraneal",
+    "Cushing"
+  ],
+  "block": "06 - Trauma",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/06 - Trauma/06.03 - TCE.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "44895ef8101a2f01c3234c12595c8794535c65b9c48cc263487369a73e3f6d50"
+  },
+  "created_at": "2026-08-07T15:56:56.758143+00:00",
+  "updated_at": "2026-08-07T15:56:56.758143+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0105---escalas-neurológicas",
+      "type": "related"
+    },
+    {
+      "to": "0604---raquimedular",
+      "type": "related"
+    },
+    {
+      "to": "0516---coma-y-alteración-de-conciencia",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Cuadro Clínico",
+    "Hipertensión Intracraneal",
+    "Manejo Prehospitalario",
+    "Valoración y Transporte",
+    "Errores Críticos",
+    "Caso Práctico",
+    "Puntos Clave"
+  ],
+  "links": [
+    "01.05 - Escalas Neurológicas",
+    "06.04 - Raquimedular",
+    "05.16 - Coma y alteración de conciencia"
+  ]
+}

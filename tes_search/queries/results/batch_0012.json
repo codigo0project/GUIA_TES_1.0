@@ -1,0 +1,322 @@
+[
+  {
+    "keyword": "radio TETRA códigos lenguaje claro OTAN",
+    "category": "13_operativa",
+    "chapter": "13.02",
+    "hits": [
+      {
+        "path": "manual/13 - Operativa/13.02 - Comunicaciones.md",
+        "score": 0.7944,
+        "text": "---\ntags:\n  - operativa\n  - comunicaciones\n  - radio\n  - TETRA\n  - código\nestado: ✅ Completado\nprioridad: Alta\nduracion: 10 min\nimagen: \"Alfabeto fonético OTAN y equipo de radio TETRA\"\n---\n\n# 13.02 - "
+      },
+      {
+        "path": "manual/15 - Protocolos Transtelefónicos/15.01 - Interrogatorio y triaje telefónico.md",
+        "score": 0.7032,
+        "text": "---\ntags:\n  - protocolos\n  - transtelefónico\n  - triaje\n  - interrogatorio\n  - 112\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Flujograma de interrogatorio telefónico del 112\"\n--"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.04 - Seguridad del equipo.md",
+        "score": 0.686,
+        "text": " Normativa]]\n- **Tema relacionado:** [[14.03 - Conducción nocturna y meteorología|14.03 - Conducción Nocturna]]\n- **Fuentes:** [[14.00 - Fuentes Bloque 14]]\n"
+      },
+      {
+        "path": "manual/15 - Protocolos Transtelefónicos/15.02 - RCP telefónica y DESA público.md",
+        "score": 0.6804,
+        "text": "---\ntags:\n  - protocolos\n  - transtelefónico\n  - RCP\n  - DESA\n  - código parada\nestado: 🟡 En progreso\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Guía visual de compresiones para ciudadano\"\n---\n\n# 15"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.04 - DESA.md",
+        "score": 0.68,
+        "text": "---\ntags:\n  - Capítulo\n  - Bloque 02\n  - SVA\nestado: 🟡 En progreso\nbloque: \"02 - Soporte Vital\"\ncapitulo: \"02.04 - DESA\"\n---\n\n# 02.04 - Uso del DESA y algoritmo de desfibrilación\n\n## Objetivos\n- Conoc"
+      }
+    ]
+  },
+  {
+    "keyword": "recepción aviso tiempos respuesta priorización rutas",
+    "category": "13_operativa",
+    "chapter": "13.03",
+    "hits": [
+      {
+        "path": "manual/13 - Operativa/13.03 - Recepción y despacho.md",
+        "score": 0.7089,
+        "text": "| Tiempo objetivo |\n|-------|-----------------|\n| **Emergencia** | < 15 min |\n| **Urgente** | < 30 min |\n| **Programado** | Según agenda |\n\n### 2.2. Factores que influyen\n- **Tráfico** y condiciones m"
+      },
+      {
+        "path": "manual/13 - Operativa/13.03 - Recepción y despacho.md",
+        "score": 0.705,
+        "text": "---\ntags:\n  - operativa\n  - recepción\n  - despacho\n  - 112\n  - priorización\nestado: ✅ Completado\nprioridad: Alta\nduracion: 10 min\nimagen: \"Flujo de recepción y despacho en centro de coordinación\"\n---\n"
+      },
+      {
+        "path": "manual/13 - Operativa/13.03 - Recepción y despacho.md",
+        "score": 0.6996,
+        "text": "**Tiempos:** emergencia < 15 min.\n- **Ruta:** más rápida y segura, no siempre la más corta.\n- **Preaviso:** avisar al hospital antes de llegada.\n\n---\n\n## 🔗 6. Recursos Relacionados\n\n- Vehículo: [[13.0"
+      },
+      {
+        "path": "manual/11 - IMV/11.04 - PMA y Noria.md",
+        "score": 0.6697,
+        "text": "estino y preaviso.\n\n---\n\n## 🔗 6. Recursos Relacionados\n\n- Mando y control: [[11.02 - Mando y control]]\n- Sectorización: [[11.03 - Sectorización]]\n- Transporte hospitalario: [[13.05 - Traslado]]\n- Fuen"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.03 - Valoración Primaria Algoritmo ABCDE.md",
+        "score": 0.6666,
+        "text": "el mecanismo lo requiere.\n- ❌ Confundir respiración agónica con respiración efectiva y retrasar la ventilación.\n- ❌ No controlar hemorragias externas antes de canalizar vía venosa.\n- ❌ Exponer al paci"
+      }
+    ]
+  },
+  {
+    "keyword": "balizamiento protección escena conos luces",
+    "category": "13_operativa",
+    "chapter": "13.04",
+    "hits": [
+      {
+        "path": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+        "score": 0.7576,
+        "text": "ntaminación.\n- **Calzado cerrado y antideslizante:** protección frente a caídas, objetos punzantes y derrames.\n\n### 2.3. Protección avanzada según riesgo\n\nSe añade protección cuando el riesgo supera e"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+        "score": 0.7116,
+        "text": "ario, el TES debe seleccionar el EPI según el escenario, el tipo de exposición y la normativa aplicable. La selección incorrecta o el uso inadecuado anulan la protección.\n\nEl EPI debe:\n- Adecuarse al "
+      },
+      {
+        "path": "base_datos/04_capitulos/01.02_informacion_cruda.md",
+        "score": 0.6975,
+        "text": "ento básico.\n- Documentación: hoja de asistencia, partes de incidencia, registros de limpieza y desinfección.\n\n## Referencias para casos prácticos\n- SAMUR: valoración de escena y protocolo PAS.\n- Osak"
+      },
+      {
+        "path": "manual/13 - Operativa/13.04 - Estacionamiento.md",
+        "score": 0.6937,
+        "text": "---\ntags:\n  - operativa\n  - estacionamiento\n  - balizamiento\n  - seguridad\n  - escena\nestado: ✅ Completado\nprioridad: Alta\nduracion: 10 min\nimagen: \"Balizamiento de ambulancia en autopista\"\n---\n\n# 13."
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+        "score": 0.6884,
+        "text": " coordinación con otros servicios, la seguridad se apoya en la delimitación de zonas:\n\n- **Zona caliente o de exclusión:** acceso restringido a personal autorizado con equipos especiales; riesgos inco"
+      }
+    ]
+  },
+  {
+    "keyword": "monitorización ruta preaviso hospitalario elección centro útil",
+    "category": "13_operativa",
+    "chapter": "13.05",
+    "hits": [
+      {
+        "path": "manual/13 - Operativa/13.05 - Traslado.md",
+        "score": 0.7798,
+        "text": "onales\n\n- **Regla:** \"Estabiliza, monitoriza, avisa, traslada.\"\n- **Preaviso:** da tiempo al hospital a preparar recursos.\n- **Centro útil:** conocer los centros de referencia de la zona.\n"
+      },
+      {
+        "path": "manual/13 - Operativa/13.05 - Traslado.md",
+        "score": 0.7513,
+        "text": "---\ntags:\n  - operativa\n  - traslado\n  - preaviso\n  - centro útil\n  - monitorización\nestado: ✅ Completado\nprioridad: Alta\nduracion: 12 min\nimagen: \"Monitorización en ruta y entrega al hospital\"\n---\n\n#"
+      },
+      {
+        "path": "base_datos/03_modulos/00_modulos_base.md",
+        "score": 0.7037,
+        "text": "a, triage y base.\n- Abastecimiento, distribución y reposición de material sanitario.\n- Apoyo a la coordinación en situaciones de crisis y múltiples víctimas.\n\n### Dotación sanitaria\n- Conocimiento del"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.04 - Valoración Secundaria SAMPLE y Constantes Vitales.md",
+        "score": 0.687,
+        "text": "entrega hospitalaria:\n- Hoja de asistencia: datos de identificación, constantes, hallazgos, tratamientos administrados.\n- Informe verbal estructurado al centro receptor: motivo, antecedentes, mecanism"
+      },
+      {
+        "path": "base_datos/03_modulos/00_modulos_base.md",
+        "score": 0.6835,
+        "text": "e Urgencias y Emergencias\n\n## Sectores y ámbitos de actuación\n- Transporte sanitario programado y urgente.\n- Emergencias extrahospitalarias públicas y privadas.\n- Teleoperación y teleasistencia sanita"
+      }
+    ]
+  },
+  {
+    "keyword": "monitorización multiparámetro en ruta",
+    "category": "13_operativa",
+    "chapter": "13.06",
+    "hits": [
+      {
+        "path": "manual/13 - Operativa/13.06 - Monitorización.md",
+        "score": 0.67,
+        "text": "---\ntags:\n  - operativa\n  - monitorización\n  - ECG\n  - SpO2\n  - capnografía\nestado: ✅ Completado\nprioridad: Alta\nduracion: 12 min\nimagen: \"Monitor multiparámetro en ambulancia\"\n---\n\n# 13.06 - Monitori"
+      },
+      {
+        "path": "manual/13 - Operativa/13.05 - Traslado.md",
+        "score": 0.6553,
+        "text": "---\ntags:\n  - operativa\n  - traslado\n  - preaviso\n  - centro útil\n  - monitorización\nestado: ✅ Completado\nprioridad: Alta\nduracion: 12 min\nimagen: \"Monitorización en ruta y entrega al hospital\"\n---\n\n#"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.04 - Seguridad del equipo.md",
+        "score": 0.6213,
+        "text": " Normativa]]\n- **Tema relacionado:** [[14.03 - Conducción nocturna y meteorología|14.03 - Conducción Nocturna]]\n- **Fuentes:** [[14.00 - Fuentes Bloque 14]]\n"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.07 - Triaje START JumpSTART Siegel y hospitalario.md",
+        "score": 0.6122,
+        "text": " hospitalarios añaden mayor granularidad, pero en prehospitalaria prima la rapidez.\n- El TES debe etiquetar, registrar, reevaluar y comunicar al mando.\n- La presión ambiental y el número de víctimas n"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.03 - Conducción nocturna y meteorología.md",
+        "score": 0.605,
+        "text": "---\ntags:\n  - TES\n  - Conducción Prioritaria\n  - cap-14.03\nprioridad: Alta\nduracion: 15 min\nestado: 🟡 En desarrollo\n---\n\n# 14.03 - Conducción nocturna, fatiga, deslumbramiento y meteorología extrema\n\n"
+      }
+    ]
+  },
+  {
+    "keyword": "transporte órganos equipos ECMO incubadoras sangre",
+    "category": "13_operativa",
+    "chapter": "13.07",
+    "hits": [
+      {
+        "path": "manual/13 - Operativa/13.07 - Logística especial.md",
+        "score": 0.7255,
+        "text": "---\ntags:\n  - operativa\n  - logística\n  - especial\n  - ECMO\n  - órganos\nestado: ✅ Completado\nprioridad: Media\nduracion: 10 min\nimagen: \"Transporte especial: órganos, sangre y equipos complejos\"\n---\n\n#"
+      },
+      {
+        "path": "base_datos/04_capitulos/01.01_informacion_cruda.md",
+        "score": 0.6552,
+        "text": "le, Teleemergencias, Anatomofisiología y patología básicas, FOL, EIE, FCT.\n- Ambulancias RD 836/2012: A1, A2, B, C\n- Puestos: Técnico en Transporte Sanitario, Técnico de Emergencias Sanitarias, Operad"
+      },
+      {
+        "path": "manual/07 - Pediatría/07.07 - Abdomen pediátrico.md",
+        "score": 0.6521,
+        "text": " si shock.\n- **Transporte urgente** a cirugía.\n\n---\n\n## 🩺 2. Estenosis Hipertrófica de Píloro\n\n### 2.1. Definición\n- Hipertrofia muscular del píloro.\n- **Edad:** 2-8 semanas.\n\n### 2.2. Clínica\n- **Vóm"
+      },
+      {
+        "path": "manual/08 - Obstetricia/08.06 - Trauma y quirúrgico.md",
+        "score": 0.6509,
+        "text": "** ayuno, fluidos, transporte.\n- **Transporte** a centro con obstetricia.\n\n---\n\n## 🔗 6. Recursos Relacionados\n\n- Fisiología embarazo: [[08.01 - Fisiología y cambios en el embarazo]]\n- Abdomen agudo: ["
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.01 - Rol, competencias y marco legal (RD 1397/2007).md",
+        "score": 0.6503,
+        "text": "ión sanitaria inicial en situaciones de emergencia\n- Atención sanitaria especial en situaciones de emergencia\n- Evacuación y traslado de pacientes\n- Apoyo psicológico en situaciones de emergencia\n- Pl"
+      }
+    ]
+  },
+  {
+    "keyword": "normativa tráfico luces V-1 sirenas V-2 prioridad paso",
+    "category": "14_conducción",
+    "chapter": "14.01",
+    "hits": [
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.01 - Normativa de tráfico.md",
+        "score": 0.7392,
+        "text": " protección civil en **servicio urgente**.\n- Solo gozan de prioridad cuando están en **servicio real de urgencia**, no en traslados programados.\n\n## 🚑 2. Señales V-1 y V-2\n\n### Señal V-1 (Dispositivos"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.01 - Normativa de tráfico.md",
+        "score": 0.7252,
+        "text": "---\ntags:\n  - TES\n  - Conducción Prioritaria\n  - cap-14.01\nprioridad: Alta\nduracion: 15 min\nestado: 🟡 En desarrollo\n---\n\n# 14.01 - Normativa de tráfico, luces (V-1), sirenas (V-2) y prioridad de paso\n"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.01 - Normativa de tráfico.md",
+        "score": 0.7197,
+        "text": "en la visión lateral. Llevas V-1 y V-2 activados.\n> **Resolución:** Reduce velocidad hasta casi detenerte. Comprueba visualmente ambos lados. Si hay un vehículo que no frena, espera. Cruza solo cuando"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.01 - Normativa de tráfico.md",
+        "score": 0.7179,
+        "text": "ará **de forma intermitente** (no continua) para reducir contaminación acústica.\n- **Prohibido** el uso de señales V-2 en horario nocturno salvo estricta necesidad (perturbación del descanso).\n\n## 🚑 3"
+      },
+      {
+        "path": "manual/videos/14-conduccion/normativa-trafico.md",
+        "score": 0.6845,
+        "text": "---\nimagen: aed-electrode-placement.png\ntitulo: Normativa de tráfico para vehículos prioritarios\ncapitulo: 14.01 - Normativa de tráfico\nurl: https://commons.wikimedia.org/wiki/File:Aed-electrode-place"
+      }
+    ]
+  },
+  {
+    "keyword": "conducción defensiva aquaplaning frenada emergencia deslizamiento",
+    "category": "14_conducción",
+    "chapter": "14.02",
+    "hits": [
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.02 - Conducción defensiva.md",
+        "score": 0.6894,
+        "text": "---\ntags:\n  - TES\n  - Conducción Prioritaria\n  - cap-14.02\nprioridad: Alta\nduracion: 15 min\nestado: 🟡 En desarrollo\n---\n\n# 14.02 - Conducción defensiva, aquaplaning, frenada de emergencia y deslizamie"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.02 - Conducción defensiva.md",
+        "score": 0.6801,
+        "text": "profundidad <3 mm).\n- Agua acumulada en la calzada (charcos, roderas).\n- Vehículo pesado con neumáticos estrechos.\n\n### ¿Cómo detectarlo?\n- Sensación de **ligereza** en el volante.\n- El motor sube de "
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+        "score": 0.6634,
+        "text": "istencia.\n- **Ventilación del habitáculo:** mantener ventilación adecuada para reducir concentración de aerosoles; renovar el aire entre servicios cuando sea posible.\n- **Limitación de profesionales:*"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.02 - Conducción defensiva.md",
+        "score": 0.6619,
+        "text": "ia posible.\n> **Resolución:** Pisa el freno a fondo y mantén. Sentirás vibración en el pedal (ABS funcionando). No sueltes el freno. Si tienes espacio para esquivar, gira el volante mientras mantienes"
+      },
+      {
+        "path": "base_datos/03_modulos/04_atencion_sanitaria_inicial.md",
+        "score": 0.6581,
+        "text": "# Módulo 4 - Atención sanitaria inicial en situaciones de emergencia\n\n## Referencias oficiales\n- Orden ESD/3391/2008, de 3 de noviembre.\n- Real Decreto 1397/2007, de 29 de octubre.\n\n## Contenidos recu"
+      }
+    ]
+  },
+  {
+    "keyword": "conducción nocturna fatiga deslumbramiento meteorología extrema",
+    "category": "14_conducción",
+    "chapter": "14.03",
+    "hits": [
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.04 - Seguridad del equipo.md",
+        "score": 0.7484,
+        "text": " Normativa]]\n- **Tema relacionado:** [[14.03 - Conducción nocturna y meteorología|14.03 - Conducción Nocturna]]\n- **Fuentes:** [[14.00 - Fuentes Bloque 14]]\n"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.03 - Conducción nocturna y meteorología.md",
+        "score": 0.7334,
+        "text": "---\ntags:\n  - TES\n  - Conducción Prioritaria\n  - cap-14.03\nprioridad: Alta\nduracion: 15 min\nestado: 🟡 En desarrollo\n---\n\n# 14.03 - Conducción nocturna, fatiga, deslumbramiento y meteorología extrema\n\n"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.03 - Conducción nocturna y meteorología.md",
+        "score": 0.6746,
+        "text": "| Somnolencia |\n| Comidas copiosas | Redistribución del flujo sanguíneo |\n| Monotonía de la vía | Autopistas largas, poca estimulación |\n\n### Prevención\n- **Descanso cada 2 horas o 200 km** (mínimo 15"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.01 - Rol, competencias y marco legal (RD 1397/2007).md",
+        "score": 0.6494,
+        "text": "d mórbida, hipotermia y ahogamiento]]\n- [[03.02 - Hemorragias y torniquetes|03.02 - Hemorragias]]\n- [[11.04 - PMA y Noria|11.04 - Montaje de PMA, noria de ambulancias, clasificación y evacuación]]\n- ["
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.03 - Conducción nocturna y meteorología.md",
+        "score": 0.6417,
+        "text": "dos, especialmente en curvas |\n\n- Sujetar el volante **con ambas manos**.\n- Reducir velocidad de forma significativa.\n- Especial atención en **salidas de túneles, puentes y zonas despejadas**.\n\n## 🔬 5"
+      }
+    ]
+  },
+  {
+    "keyword": "seguridad equipo cinturones EPIs cabina riesgo proyección",
+    "category": "14_conducción",
+    "chapter": "14.04",
+    "hits": [
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.04 - Seguridad del equipo.md",
+        "score": 0.7581,
+        "text": "---\ntags:\n  - TES\n  - Conducción Prioritaria\n  - cap-14.04\nprioridad: Alta\nduracion: 15 min\nestado: 🟡 En desarrollo\n---\n\n# 14.04 - Seguridad del equipo en cabina: cinturones, EPIs y riesgo de proyecci"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.04 - Seguridad del equipo.md",
+        "score": 0.7404,
+        "text": "hículo deben llevar el cinturón abrochado, incluido el acompañante y los ocupantes de la cabina trasera.\n- En servicio urgente con V-1 y V-2 activadas, **NO hay exención legal** del uso del cinturón.\n"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.04 - Seguridad del equipo.md",
+        "score": 0.7287,
+        "text": "ura excesiva).\n\n## 🚑 3. EPIs en Cabina\n\n### Equipo mínimo durante la conducción\n- **Chaleco reflectante** de alta visibilidad (guardado accesible, no puesto mientras se conduce).\n- **Guantes de nitril"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+        "score": 0.6812,
+        "text": "ntaminación.\n- **Calzado cerrado y antideslizante:** protección frente a caídas, objetos punzantes y derrames.\n\n### 2.3. Protección avanzada según riesgo\n\nSe añade protección cuando el riesgo supera e"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+        "score": 0.6768,
+        "text": "---\ntags:\n  - Capítulo 01.02\n  - TES\n  - seguridad\n  - EPI\n  - bioseguridad\n  - prevención-de-riesgos\nparte: \"01 - Fundamentos\"\ncapitulo: \"01.02 - Seguridad en escena, EPIs y bioseguridad\"\nimagen: \"Ma"
+      }
+    ]
+  }
+]

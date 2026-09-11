@@ -1,0 +1,40 @@
+{
+  "id": "12.04-riesgo-suicida.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 12.04-riesgo-suicida",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "riesgo"
+  ],
+  "block": "12 - Psiquiatría",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/12 - Psiquiatría/12.04 - Riesgo suicida.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "12.04-riesgo-suicida",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "12 - Psiquiatría"
+  ],
+  "items": [
+    "Preguntar directamente sobre suicidio",
+    "Evaluar plan y acceso",
+    "No dejar solo al paciente",
+    "Retirar medios letales",
+    "Monitorizar constantes",
+    "Transportar a psiquiatría"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "mappings": [
+    {
+      "manual": "manual/03 - Material/03.02 - Hemorragias y torniquetes.md",
+      "knowledge": "knowledge/blocks/material/03.02-hemorragias-y-torniquetes.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.029245+00:00"
+    },
+    {
+      "manual": "manual/03 - Material/03.03 - Inmovilización y principios biomecánicos.md",
+      "knowledge": "knowledge/blocks/material/03.03-inmovilización-y-principios-biomecánicos.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.030568+00:00"
+    },
+    {
+      "manual": "manual/03 - Material/03.05 - Colchón de vacío y férulas.md",
+      "knowledge": "knowledge/blocks/material/03.05-colchón-de-vacío-y-férulas.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.033095+00:00"
+    },
+    {
+      "manual": "manual/03 - Material/03.06 - Extricación vehicular.md",
+      "knowledge": "knowledge/blocks/material/03.06-extricación-vehicular.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.034804+00:00"
+    },
+    {
+      "manual": "manual/03 - Material/03.07 - Transferencias y ergonomía.md",
+      "knowledge": "knowledge/blocks/material/03.07-transferencias-y-ergonomía.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.036389+00:00"
+    },
+    {
+      "manual": "manual/03 - Material/03.02 - Hemorragias y torniquetes.md",
+      "knowledge": "knowledge/blocks/material/03.02-hemorragias-y-torniquetes.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.208851+00:00"
+    },
+    {
+      "manual": "manual/03 - Material/03.03 - Inmovilización y principios biomecánicos.md",
+      "knowledge": "knowledge/blocks/material/03.03-inmovilización-y-principios-biomecánicos.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.210501+00:00"
+    },
+    {
+      "manual": "manual/03 - Material/03.05 - Colchón de vacío y férulas.md",
+      "knowledge": "knowledge/blocks/material/03.05-colchón-de-vacío-y-férulas.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.213376+00:00"
+    },
+    {
+      "manual": "manual/03 - Material/03.06 - Extricación vehicular.md",
+      "knowledge": "knowledge/blocks/material/03.06-extricación-vehicular.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.215065+00:00"
+    },
+    {
+      "manual": "manual/03 - Material/03.07 - Transferencias y ergonomía.md",
+      "knowledge": "knowledge/blocks/material/03.07-transferencias-y-ergonomía.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.216642+00:00"
+    },
+    {
+      "manual": "manual/03 - Material/03.01 - Oxigenoterapia.md",
+      "knowledge": "knowledge/blocks/material/03.01-oxigenoterapia.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-04T14:09:51.788804+00:00"
+    },
+    {
+      "manual": "manual/03 - Material/03.04 - Collarín, tabla espinal y cuchara.md",
+      "knowledge": "knowledge/blocks/material/03.04-collarín-tabla-espinal-y-cuchara.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-04T14:09:51.795770+00:00"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "02.02-rcp-adulto.pasos",
+  "type": "pasos-numerados",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Secuencia básica de RCP adulto",
+  "summary": "Pasos secuenciados desde reconocimiento hasta post-resucitación.",
+  "tags": [
+    "rcp",
+    "pasos"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 10,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.02 - RCP Adulto.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "02.02-rcp-adulto",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "02.02 - RCP Adulto"
+  ],
+  "titulo": "Secuencia básica de RCP adulto",
+  "pasos": [
+    {
+      "orden": 1,
+      "accion": "Verificar seguridad y respuesta del paciente.",
+      "verificacion": "Gritar y agitar hombros."
+    },
+    {
+      "orden": 2,
+      "accion": "Solicitar ayuda y DESA.",
+      "verificacion": "Activar emergencias."
+    },
+    {
+      "orden": 3,
+      "accion": "Iniciar compresiones 30:2.",
+      "verificacion": "Profundidad >=5 cm, frecuencia 100-120."
+    },
+    {
+      "orden": 4,
+      "accion": "Aplicar DESA cuando llegue.",
+      "verificacion": "Seguir indicaciones del dispositivo."
+    },
+    {
+      "orden": 5,
+      "accion": "Administrar adrenalina cada 3-5 min.",
+      "verificacion": "Registrar hora."
+    },
+    {
+      "orden": 6,
+      "accion": "Reevaluar ritmo tras cada ciclo.",
+      "verificacion": "Mantener calidad de RCP."
+    }
+  ]
+}

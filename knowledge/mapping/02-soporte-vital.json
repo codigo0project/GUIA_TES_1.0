@@ -1,0 +1,82 @@
+{
+  "mappings": [
+    {
+      "manual": "manual/02 - Soporte Vital/02.02 - RCP Adulto.md",
+      "knowledge": "knowledge/blocks/02-soporte-vital/02.02-rcp-adulto.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T23:18:00+02:00"
+    },
+    {
+      "manual": "manual/02 - Soporte Vital/02.01 - Reconocimiento PCR.md",
+      "knowledge": "knowledge/blocks/02-soporte-vital/02.01-reconocimiento-pcr.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:33:16.268705+00:00"
+    },
+    {
+      "manual": "manual/02 - Soporte Vital/02.03 - RCP en Niños y Lactantes.md",
+      "knowledge": "knowledge/blocks/02-soporte-vital/02.03-rcp-en-niños-y-lactantes.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:33:16.273426+00:00"
+    },
+    {
+      "manual": "manual/02 - Soporte Vital/02.06 - Vía Aérea Avanzada.md",
+      "knowledge": "knowledge/blocks/02-soporte-vital/02.06-vía-aérea-avanzada.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:33:16.277129+00:00"
+    },
+    {
+      "manual": "manual/02 - Soporte Vital/02.07 - IOT y Vía Aérea Quirúrgica.md",
+      "knowledge": "knowledge/blocks/02-soporte-vital/02.07-iot-y-vía-aérea-quirúrgica.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:33:16.278500+00:00"
+    },
+    {
+      "manual": "manual/02 - Soporte Vital/02.08 - OVACE.md",
+      "knowledge": "knowledge/blocks/02-soporte-vital/02.08-ovace.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:33:16.280085+00:00"
+    },
+    {
+      "manual": "manual/02 - Soporte Vital/02.09 - Acceso Vascular.md",
+      "knowledge": "knowledge/blocks/02-soporte-vital/02.09-acceso-vascular.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:33:16.281705+00:00"
+    },
+    {
+      "manual": "manual/02 - Soporte Vital/02.10 - Algoritmos SVA.md",
+      "knowledge": "knowledge/blocks/02-soporte-vital/02.10-algoritmos-sva.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:33:16.282913+00:00"
+    },
+    {
+      "manual": "manual/02 - Soporte Vital/02.11 - Monitorización SVA.md",
+      "knowledge": "knowledge/blocks/02-soporte-vital/02.11-monitorización-sva.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:33:16.283783+00:00"
+    },
+    {
+      "manual": "manual/02 - Soporte Vital/02.12 - RCP en Situaciones Especiales.md",
+      "knowledge": "knowledge/blocks/02-soporte-vital/02.12-rcp-en-situaciones-especiales.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:33:16.284633+00:00"
+    },
+    {
+      "manual": "manual/02 - Soporte Vital/02.13 - RCP Mecánica (LUCAS, AutoPulse).md",
+      "knowledge": "knowledge/blocks/02-soporte-vital/02.13-rcp-mecánica-lucas-autopulse.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:33:16.285861+00:00"
+    },
+    {
+      "manual": "manual/02 - Soporte Vital/02.04 - DESA.md",
+      "knowledge": "knowledge/blocks/02-soporte-vital/02.04-desa.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-04T14:09:51.765114+00:00"
+    },
+    {
+      "manual": "manual/02 - Soporte Vital/02.05 - Vía Aérea Básica.md",
+      "knowledge": "knowledge/blocks/02-soporte-vital/02.05-vía-aérea-básica.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-04T14:09:51.767164+00:00"
+    }
+  ]
+}

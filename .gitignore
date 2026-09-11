@@ -1,0 +1,78 @@
+# === Deploy-only .gitignore ===
+# Solo se incluye lo necesario para levantar y mantener la app.
+# Lo que SÍ va: app/api/, app/web/, app/search/, knowledge/ (blocks, mapping, index.jsonl, media/),
+# manual/, scripts/sync_to_kb.py, scripts/build_kb_index.py,
+# package.json, requirements.txt, Dockerfile, docker-compose.yml, tsconfig.json, .env.example
+
+# --- Documentación del proyecto (fuera del deploy) ---
+docs/
+ARBOL_ESTRUCTURA_COMPLETA.md
+plan-limpieza-guia-tes.md
+
+# --- Scripts de pipeline (solo sync_to_kb.py y build_kb_index.py van) ---
+scripts/
+!scripts/sync_to_kb.py
+!scripts/build_kb_index.py
+
+# --- Datasets externos y ya consumidos ---
+external_datasets/
+knowledge/external_imports/
+
+# --- Datos de referencia archivados ---
+base_datos/_archive/
+
+# --- Proyecto hermano (no forma parte del deploy de guia_tes) ---
+guia-tes-app/
+
+# --- PDFs brutos ---
+pdf_bruto/
+
+# --- Otros proyectos del mismo workspace ---
+emergencias_conocimiento/
+backend/
+audits/
+
+# --- Andamiaje de agentes (no va en deploy) ---
+.kilo/
+.omo/
+.agent-doc/
+.agents/
+.kiro/
+.claude/
+.opencode/
+.openscience/
+
+# --- Caches y builds ---
+node_modules/
+dist/
+build/
+.npm/
+*.tsbuildinfo
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+app/api/.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+.next/
+
+# --- Datos generados (regenerables) ---
+app/public/data/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+*~
+.idea/
+.vscode/
+*.swp
+
+# --- Entorno ---
+.env
+.env.local
+*.log
+
+# --- Manifest de medios (pendiente de generación) ---
+galeria/

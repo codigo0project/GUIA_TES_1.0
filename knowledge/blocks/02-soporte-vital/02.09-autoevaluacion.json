@@ -1,0 +1,24 @@
+{
+  "id": "02.09-autoevaluacion",
+  "type": "question",
+  "version": "2026.08.04",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Autoevaluación acceso vascular",
+  "summary": "Preguntas sobre selección de vía, técnica y criterios de derivación.",
+  "relations": [
+    {
+      "to": "02.09-concepto-acceso-vascular",
+      "type": "related"
+    }
+  ],
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.09 - Acceso Vascular.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": null
+  },
+  "created_at": "2026-08-04T14:00:00+00:00",
+  "updated_at": "2026-08-04T14:00:00+00:00",
+  "reviewed_by": null
+}

@@ -1,0 +1,51 @@
+{
+  "id": "02.03-rcp-en-niños-y-lactantes",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "02.03 - RCP en Niños y Lactantes",
+  "summary": "",
+  "tags": [
+    "02",
+    "soporte-vital",
+    "RCP",
+    "pediatría",
+    "lactante",
+    "niño",
+    "PCR pediátrica"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.03 - RCP en Niños y Lactantes.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "f6fd97afe0df514cb3bdc7515988d598f09e06692721319939931936fe9c0d80"
+  },
+  "created_at": "2026-08-03T21:34:03.816820+00:00",
+  "updated_at": "2026-08-03T21:34:03.816820+00:00",
+  "reviewed_by": null,
+  "relations": [],
+  "nodes": [],
+  "sections": [
+    "Diferencias Esenciales RCP Pediátrica vs Adulta",
+    "Reconocimiento de la PCR en Pediatría",
+    "Técnica de RCP: 1 y 2 Reanimadores",
+    "Algoritmo RCP Pediátrica",
+    "Desfibrilación Pediátrica",
+    "Vía Aérea y Ventilación en Pediatría",
+    "Acceso Vascular en Pediatría",
+    "Casos Prácticos",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "02.02 - RCP Adulto",
+    "02.08 - OVACE",
+    "02.04 - DESA",
+    "02.06 - Vía Aérea Avanzada",
+    "02.12 - RCP en Situaciones Especiales"
+  ]
+}

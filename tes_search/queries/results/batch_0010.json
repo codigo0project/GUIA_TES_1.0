@@ -1,0 +1,322 @@
+[
+  {
+    "keyword": "gases tóxicos monóxido carbono cianuros sulfhídrico",
+    "category": "10_toxicología",
+    "chapter": "10.02",
+    "hits": [
+      {
+        "path": "manual/10 - Toxicología/10.02 - Gases tóxicos.md",
+        "score": 0.7132,
+        "text": "---\ntags:\n  - toxicología\n  - CO\n  - cianuro\n  - gases-toxicos\n  - incendios\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Curva de carboxihemoglobina y tratamiento con oxígeno\"\n--"
+      },
+      {
+        "path": "manual/10 - Toxicología/10.02 - Gases tóxicos.md",
+        "score": 0.7056,
+        "text": " **Cianuro:** incendios, olor a almendras, oxígeno 100%.\n- **H2S:** olor a huevo podrido, proteger escena.\n- **Oxígeno 100%** primera medida en todos.\n\n---\n\n## 🔗 6. Recursos Relacionados\n\n- Toxicologí"
+      },
+      {
+        "path": "manual/10 - Toxicología/10.01 - General.md",
+        "score": 0.6833,
+        "text": "\n- **Antídotos:** naloxona para opioides.\n- **Transporte urgente** a hospital.\n\n---\n\n## 🔗 7. Recursos Relacionados\n\n- Gases tóxicos: [[10.02 - Gases tóxicos]]\n- Plaguicidas: [[10.03 - Plaguicidas]]\n- "
+      },
+      {
+        "path": "manual/10 - Toxicología/10.01 - General.md",
+        "score": 0.6802,
+        "text": "ión** y circulación.\n- **Signos** vitales.\n\n### 2.2. Historia\n- **Sustancia** ingerida.\n- **Cantidad** y hora.\n- **Vía** de exposición.\n- **Antecedentes** psiquiátricos.\n\n---\n\n## 🚑 3. Descontaminación"
+      },
+      {
+        "path": "manual/11 - IMV/11.05 - NRBQ.md",
+        "score": 0.6757,
+        "text": "2.1. Nuclear/Radiológico\n- **Radiación** ionizante.\n- **Síndrome** agudo por radiación.\n- **Contaminación** externa/interna.\n\n### 2.2. Biológico\n- **Infecciones** por bacterias/virus.\n- **Síntomas** s"
+      }
+    ]
+  },
+  {
+    "keyword": "plaguicidas organofosforados carbamatos síndrome colinérgico atropina",
+    "category": "10_toxicología",
+    "chapter": "10.03",
+    "hits": [
+      {
+        "path": "manual/10 - Toxicología/10.03 - Plaguicidas.md",
+        "score": 0.7547,
+        "text": "---\ntags:\n  - toxicología\n  - plaguicidas\n  - organofosforados\n  - carbamatos\n  - atropina\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Síndrome colinérgico y tratamiento con atro"
+      },
+      {
+        "path": "manual/10 - Toxicología/10.03 - Plaguicidas.md",
+        "score": 0.6404,
+        "text": " nicotínicos\n- **Fasciculaciones** musculares.\n- **Debilidad.**\n- **Parálisis** respiratoria.\n\n### 2.3. Signos centrales\n- **Cefalea.**\n- **Confusión.**\n- **Convulsiones.**\n- **Coma.**\n\n---\n\n## 💊 3. T"
+      },
+      {
+        "path": "manual/06 - Trauma/06.08 - Extremidades.md",
+        "score": 0.6217,
+        "text": ".\n- **Hematoma.**\n\n### 2.2. Signos de luxación\n- **Deformidad** articular.\n- **Dolor** intenso.\n- **Impotencia funcional.**\n- **Acortamiento** o rotación miembro.\n\n---\n\n## 🚑 3. Manejo Prehospitalario\n"
+      },
+      {
+        "path": "manual/06 - Trauma/06.10 - Crush syndrome.md",
+        "score": 0.6206,
+        "text": "---\ntags:\n  - trauma\n  - crush-syndrome\n  - síndrome-compartimental\n  - aplastamiento\n  - mioglobinuria\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Fisiopatología del crush syndr"
+      },
+      {
+        "path": "manual/videos/03-material/oxigenoterapia-dispositivos.md",
+        "score": 0.6172,
+        "text": "---\nimagen: oxigenoterapia-cannula.png\ntitulo: Dispositivos de oxigenoterapia\ncapitulo: 03.01 - Oxigenoterapia\nurl: https://commons.wikimedia.org/wiki/File:Oxigenoterapia_canula_nasal.jpg\nlicencia: CC"
+      }
+    ]
+  },
+  {
+    "keyword": "drogas abuso opiáceos cocaína anfetaminas cannabinoides",
+    "category": "10_toxicología",
+    "chapter": "10.04",
+    "hits": [
+      {
+        "path": "manual/10 - Toxicología/10.04 - Drogas de abuso.md",
+        "score": 0.771,
+        "text": "---\ntags:\n  - toxicología\n  - opiáceos\n  - cocaína\n  - anfetaminas\n  - cannabinoides\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Tríada opioide y signos de intoxicación por droga"
+      },
+      {
+        "path": "manual/10 - Toxicología/10.04 - Drogas de abuso.md",
+        "score": 0.7623,
+        "text": "epinas.\n- **Cannabinoides:** ansiedad, taquicardia, tranquilizar.\n- **Transporte obligatorio** en opioides y estimulantes.\n\n---\n\n## 🔗 7. Recursos Relacionados\n\n- Toxicología general: [[10.01 - General"
+      },
+      {
+        "path": "manual/10 - Toxicología/10.04 - Drogas de abuso.md",
+        "score": 0.7233,
+        "text": "xígeno** alto flujo.\n- **Enfriamiento** si hipertermia.\n- **Transporte urgente.**\n\n---\n\n## 🧪 3. Anfetaminas\n\n### 3.1. Clínica\n- **Agitación** intensa.\n- **Taquicardia**, hipertensión.\n- **Midriasis.**"
+      },
+      {
+        "path": "manual/10 - Toxicología/10.01 - General.md",
+        "score": 0.7159,
+        "text": "\n- **Antídotos:** naloxona para opioides.\n- **Transporte urgente** a hospital.\n\n---\n\n## 🔗 7. Recursos Relacionados\n\n- Gases tóxicos: [[10.02 - Gases tóxicos]]\n- Plaguicidas: [[10.03 - Plaguicidas]]\n- "
+      },
+      {
+        "path": "manual/10 - Toxicología/10.07 - Síndromes tóxicos.md",
+        "score": 0.713,
+        "text": "**Abstinencia:** alcohol = benzodiazepinas; opioides = soporte.\n- **Transporte urgente** en síndromes graves.\n\n---\n\n## 🔗 6. Recursos Relacionados\n\n- Toxicología general: [[10.01 - General]]\n- Drogas d"
+      }
+    ]
+  },
+  {
+    "keyword": "fármacos alcohol benzodiacepinas antidepresivos etanol metanol",
+    "category": "10_toxicología",
+    "chapter": "10.05",
+    "hits": [
+      {
+        "path": "manual/10 - Toxicología/10.05 - Fármacos y alcohol.md",
+        "score": 0.7641,
+        "text": "---\ntags:\n  - toxicología\n  - benzodiacepinas\n  - antidepresivos\n  - etanol\n  - metanol\n  - etilenglicol\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Escalas de intoxicación por a"
+      },
+      {
+        "path": "manual/10 - Toxicología/10.05 - Fármacos y alcohol.md",
+        "score": 0.7151,
+        "text": "zodiazepinas** en convulsiones.\n\n### 2.2. ISRS/IRSN\n- **Síndrome serotoninérgico** (teórico).\n- **Agitación**, hipertermia.\n- **Manejo:** benzodiazepinas, transporte.\n\n---\n\n## 🍺 3. Etanol\n\n### 3.1. Cl"
+      },
+      {
+        "path": "manual/10 - Toxicología/10.07 - Síndromes tóxicos.md",
+        "score": 0.7147,
+        "text": ".\n- **Antieméticos** (metoclopramida).\n\n### 2.2. Clínica\n- **Hipertermia** alta.\n- **Rigidez** muscular (\"tubo de plomo\").\n- **Alteración** conciencia.\n- **Autonomicidad** elevada.\n\n### 2.3. Manejo\n- "
+      },
+      {
+        "path": "manual/10 - Toxicología/10.07 - Síndromes tóxicos.md",
+        "score": 0.7031,
+        "text": "**Abstinencia:** alcohol = benzodiazepinas; opioides = soporte.\n- **Transporte urgente** en síndromes graves.\n\n---\n\n## 🔗 6. Recursos Relacionados\n\n- Toxicología general: [[10.01 - General]]\n- Drogas d"
+      },
+      {
+        "path": "manual/10 - Toxicología/10.05 - Fármacos y alcohol.md",
+        "score": 0.7018,
+        "text": ".\n- **TCAs:** taquicardia, QRS ancho, bicarbonato.\n- **Etanol:** hipoglucemia, no antídoto.\n- **Metanol/etilenglicol:** ceguera/cristales, acidosis.\n\n---\n\n## 🔗 7. Recursos Relacionados\n\n- Toxicología "
+      }
+    ]
+  },
+  {
+    "keyword": "cáusticos hidrocarburos ingestión lejía ácidos derivados petróleo",
+    "category": "10_toxicología",
+    "chapter": "10.06",
+    "hits": [
+      {
+        "path": "manual/10 - Toxicología/10.06 - Cáusticos e hidrocarburos.md",
+        "score": 0.7189,
+        "text": "---\ntags:\n  - toxicología\n  - cáusticos\n  - hidrocarburos\n  - lejía\n  - ácidos\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Lesiones por cáusticos y manejo de ingestión\"\n---\n\n# 10"
+      },
+      {
+        "path": "manual/10 - Toxicología/10.06 - Cáusticos e hidrocarburos.md",
+        "score": 0.6899,
+        "text": "aduras]]\n- Fuentes: [[10.06 - Cáusticos e hidrocarburos|10.06 - Fuentes]]\n\n---\n\n## 📝 6. Notas Personales\n\n- Regla: **\"cáusticos = no vomitar, no neutralizar\"**.\n- Hidrocarburos: **\"riesgo de neumoniti"
+      },
+      {
+        "path": "manual/04 - Farmacología/04.07 - Emergencias metabólicas.md",
+        "score": 0.6816,
+        "text": " resuelto: ingesta de hidratos de absorción lenta.\n\n#### Paciente inconsciente o con convulsiones\n- **Vía IV:** glucosa hipertónica 50% (50 mL IV lenta).\n- **Vía IM/SC/IN:** glucagón 1 mg.\n- Si no hay"
+      },
+      {
+        "path": "manual/10 - Toxicología/10.06 - Cáusticos e hidrocarburos.md",
+        "score": 0.6793,
+        "text": "ansporte urgente.**\n\n---\n\n## ☠️ 2. Hidrocarburos\n\n### 2.1. Tipos\n| Tipo | Ejemplo | Riesgo |\n|------|---------|--------|\n| **Gasolina** | Combustible | Neumonitis por aspiración |\n| **Queroseno** | Ca"
+      },
+      {
+        "path": "manual/09 - Ambientales/09.06 - Fauna y flora.md",
+        "score": 0.6541,
+        "text": "anejo\n- **Lavar** con agua y jabón.\n- **Analgesia.**\n- **Transporte** si síntomas graves.\n\n---\n\n## 🪼 3. Medusas\n\n### 3.1. Clasificación\n| Tipo | Peligro |\n|------|---------|\n| **Carabela portuguesa** "
+      }
+    ]
+  },
+  {
+    "keyword": "síndromes tóxicos serotoninérgico neuroléptico maligno abstinencia",
+    "category": "10_toxicología",
+    "chapter": "10.07",
+    "hits": [
+      {
+        "path": "manual/10 - Toxicología/10.07 - Síndromes tóxicos.md",
+        "score": 0.7685,
+        "text": "---\ntags:\n  - toxicología\n  - síndrome-serotoninérgico\n  - síndrome-neuroléptico-maligno\n  - abstinencia\nestado: ✅ Completado\nprioridad: Alta\nduracion: 12 min\nimagen: \"Cuadro comparativo de síndromes "
+      },
+      {
+        "path": "manual/10 - Toxicología/10.07 - Síndromes tóxicos.md",
+        "score": 0.7585,
+        "text": "**Abstinencia:** alcohol = benzodiazepinas; opioides = soporte.\n- **Transporte urgente** en síndromes graves.\n\n---\n\n## 🔗 6. Recursos Relacionados\n\n- Toxicología general: [[10.01 - General]]\n- Drogas d"
+      },
+      {
+        "path": "manual/10 - Toxicología/10.07 - Síndromes tóxicos.md",
+        "score": 0.7293,
+        "text": ".\n- **Antieméticos** (metoclopramida).\n\n### 2.2. Clínica\n- **Hipertermia** alta.\n- **Rigidez** muscular (\"tubo de plomo\").\n- **Alteración** conciencia.\n- **Autonomicidad** elevada.\n\n### 2.3. Manejo\n- "
+      },
+      {
+        "path": "manual/10 - Toxicología/10.05 - Fármacos y alcohol.md",
+        "score": 0.6946,
+        "text": "zodiazepinas** en convulsiones.\n\n### 2.2. ISRS/IRSN\n- **Síndrome serotoninérgico** (teórico).\n- **Agitación**, hipertermia.\n- **Manejo:** benzodiazepinas, transporte.\n\n---\n\n## 🍺 3. Etanol\n\n### 3.1. Cl"
+      },
+      {
+        "path": "manual/10 - Toxicología/10.01 - General.md",
+        "score": 0.6939,
+        "text": "\n- **Antídotos:** naloxona para opioides.\n- **Transporte urgente** a hospital.\n\n---\n\n## 🔗 7. Recursos Relacionados\n\n- Gases tóxicos: [[10.02 - Gases tóxicos]]\n- Plaguicidas: [[10.03 - Plaguicidas]]\n- "
+      }
+    ]
+  },
+  {
+    "keyword": "IMV catástrofe urgencia emergencia diferencia",
+    "category": "11_IMV",
+    "chapter": "11.01",
+    "hits": [
+      {
+        "path": "manual/11 - IMV/11.01 - Conceptos IMV.md",
+        "score": 0.7263,
+        "text": "---\ntags:\n  - IMV\n  - urgencia\n  - emergencia\n  - catástrofe\n  - triaje\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Matriz de diferencias entre urgencia, emergencia e IMV\"\n---\n\n#"
+      },
+      {
+        "path": "manual/11 - IMV/11.01 - Conceptos IMV.md",
+        "score": 0.7087,
+        "text": "sos disponibles.\n  - Requiere activación de protocolos especiales.\n\n### 1.4. Catástrofe\n- **Definición:** IMV que supera capacidad autonómica.\n- **Características:**\n  - Número víctimas muy elevado.\n "
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.01 - Rol, competencias y marco legal (RD 1397/2007).md",
+        "score": 0.7054,
+        "text": "esarrollo de los planes de emergencia, de los dispositivos de riesgo previsibles y de la logística sanitaria ante una emergencia individual, colectiva o catástrofe.\n\n### Competencias profesionales, pe"
+      },
+      {
+        "path": "manual/05 - Médicas/05.05 - Crisis hipertensiva.md",
+        "score": 0.7026,
+        "text": ": **\"TA alta no es igual a emergencia; el daño lo define\"**.\n- Reducción: **\"lenta, gradual, monitorizada\"**.\n- En examen: diferenciar urgencia vs emergencia.\n"
+      },
+      {
+        "path": "base_datos/03_modulos/00_modulos_base.md",
+        "score": 0.6866,
+        "text": "e Urgencias y Emergencias\n\n## Sectores y ámbitos de actuación\n- Transporte sanitario programado y urgente.\n- Emergencias extrahospitalarias públicas y privadas.\n- Teleoperación y teleasistencia sanita"
+      }
+    ]
+  },
+  {
+    "keyword": "PMA puesto mando avanzado cadena mando",
+    "category": "11_IMV",
+    "chapter": "11.02",
+    "hits": [
+      {
+        "path": "manual/11 - IMV/11.02 - Mando y control.md",
+        "score": 0.7336,
+        "text": "---\ntags:\n  - IMV\n  - PMA\n  - mando-y-control\n  - cadena-de-mando\n  - interoperabilidad\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Esquema de Puesto de Mando Avanzado y cadena d"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.01 - Rol, competencias y marco legal (RD 1397/2007).md",
+        "score": 0.6437,
+        "text": "d mórbida, hipotermia y ahogamiento]]\n- [[03.02 - Hemorragias y torniquetes|03.02 - Hemorragias]]\n- [[11.04 - PMA y Noria|11.04 - Montaje de PMA, noria de ambulancias, clasificación y evacuación]]\n- ["
+      },
+      {
+        "path": "manual/08 - Obstetricia/08.02 - Parto normal.md",
+        "score": 0.6348,
+        "text": ":** privacidad, calma.\n- **Material:** gasas estériles, pinzas, cordón, toallas.\n- **Monitorización:** FC materna, TA, SatO2.\n\n### 2.2. Fase expulsiva\n- **No forzar** el expulsivo.\n- **Proteger perine"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.07 - Triaje START JumpSTART Siegel y hospitalario.md",
+        "score": 0.6185,
+        "text": "stado del paciente.\n- Actualizar la categoría si el paciente empeora o mejora.\n\n### 5.4. Registro y comunicación\n\n- Anotar datos, constantes y evolución en fichas de triaje.\n- Informar al puesto de ma"
+      },
+      {
+        "path": "manual/06 - Trauma/06.11 - Quemaduras.md",
+        "score": 0.6173,
+        "text": "rmis profunda | Pálido, húmedo | Disminuido |\n| **3º** | Todo grosor | Blanco/carbonizado | Nulo |\n\n---\n\n## 🩺 2. Valoración\n\n### 2.1. Gravedad\n| SCQ | Adulto | Niño/anciano |\n|-----|--------|---------"
+      }
+    ]
+  },
+  {
+    "keyword": "sectorización zonas caliente templada fría",
+    "category": "11_IMV",
+    "chapter": "11.03",
+    "hits": [
+      {
+        "path": "manual/11 - IMV/11.03 - Sectorización.md",
+        "score": 0.724,
+        "text": "---\ntags:\n  - IMV\n  - sectorización\n  - zonas-caliente\n  - zonas-templada\n  - zonas-fría\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Mapa de sectorización en IMV: zonas caliente,"
+      },
+      {
+        "path": "manual/11 - IMV/11.03 - Sectorización.md",
+        "score": 0.6546,
+        "text": "eso:** libre.\n- **Función:** logística, familiares, prensa.\n- **Ejemplo:** parking, calle alejada.\n\n---\n\n## 🚧 2. Control de Accesos\n\n### 2.1. Medidas\n- **Puntos de control** en cada zona.\n- **Identifi"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+        "score": 0.6443,
+        "text": " coordinación con otros servicios, la seguridad se apoya en la delimitación de zonas:\n\n- **Zona caliente o de exclusión:** acceso restringido a personal autorizado con equipos especiales; riesgos inco"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.02 - Conducción defensiva.md",
+        "score": 0.6429,
+        "text": "-|--------|\n| Carga del vehículo | Mayor peso = mayor distancia de frenado |\n| Velocidad elevada | Reduce tiempo de reacción y aumenta energía cinética |\n| Estrés / fatiga | Disminuye capacidad de ant"
+      },
+      {
+        "path": "manual/11 - IMV/11.04 - PMA y Noria.md",
+        "score": 0.642,
+        "text": "---\ntags:\n  - IMV\n  - PMA\n  - noria-ambulancias\n  - clasificación\n  - evacuación\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Montaje de PMA y esquema de noria de ambulancias\"\n---"
+      }
+    ]
+  },
+  {
+    "keyword": "PMA noria ambulancias clasificación evacuación",
+    "category": "11_IMV",
+    "chapter": "11.04",
+    "hits": [
+      {
+        "path": "manual/11 - IMV/11.04 - PMA y Noria.md",
+        "score": 0.7508,
+        "text": "---\ntags:\n  - IMV\n  - PMA\n  - noria-ambulancias\n  - clasificación\n  - evacuación\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Montaje de PMA y esquema de noria de ambulancias\"\n---"
+      },
+      {
+        "path": "manual/11 - IMV/11.04 - PMA y Noria.md",
+        "score": 0.7092,
+        "text": "estino y preaviso.\n\n---\n\n## 🔗 6. Recursos Relacionados\n\n- Mando y control: [[11.02 - Mando y control]]\n- Sectorización: [[11.03 - Sectorización]]\n- Transporte hospitalario: [[13.05 - Traslado]]\n- Fuen"
+      },
+      {
+        "path": "base_datos/03_modulos/06_evacuacion_traslado_pacientes.md",
+        "score": 0.7081,
+        "text": "# Módulo 6 - Evacuación y traslado de pacientes\n\n## Referencias oficiales\n- Orden ESD/3391/2008, de 3 de noviembre.\n- Real Decreto 1397/2007, de 29 de octubre.\n- Orden PRE/2720/2015, de 7 de diciembre"
+      },
+      {
+        "path": "manual/11 - IMV/11.04 - PMA y Noria.md",
+        "score": 0.6997,
+        "text": "ción.\n2. **Estabilización** y transporte de graves.\n3. **Relevo** por nuevas unidades.\n4. **Reposición** de material.\n\n---\n\n## 🏷️ 3. Clasificación y Evacuación\n\n### 3.1. Clasificación por prioridad\n| "
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.01 - Rol, competencias y marco legal (RD 1397/2007).md",
+        "score": 0.6961,
+        "text": "ión sanitaria inicial en situaciones de emergencia\n- Atención sanitaria especial en situaciones de emergencia\n- Evacuación y traslado de pacientes\n- Apoyo psicológico en situaciones de emergencia\n- Pl"
+      }
+    ]
+  }
+]

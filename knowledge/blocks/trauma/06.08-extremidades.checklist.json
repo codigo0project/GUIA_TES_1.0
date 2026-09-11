@@ -1,0 +1,40 @@
+{
+  "id": "06.08-extremidades.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 06.08-extremidades",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "extremidades"
+  ],
+  "block": "06 - Trauma",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/06 - Trauma/06.08 - Extremidades.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "06.08-extremidades",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "06 - Trauma"
+  ],
+  "items": [
+    "Controlar hemorragia",
+    "Inmovilizar en posición encontrada",
+    "Valorar pulsos distales",
+    "No reducir fracturas abiertas",
+    "Acolchar antes de férula",
+    "Documentar déficit neurológico"
+  ]
+}

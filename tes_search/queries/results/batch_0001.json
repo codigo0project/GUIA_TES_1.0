@@ -1,0 +1,322 @@
+[
+  {
+    "keyword": "RCP alta calidad adultos",
+    "category": "02_soporte_vital",
+    "chapter": "02.02",
+    "hits": [
+      {
+        "path": "manual/02 - Soporte Vital/02.03 - RCP en Niños y Lactantes.md",
+        "score": 0.7193,
+        "text": "ediátrica: [[01.06 - Fuentes|01.06 - Cadena de supervivencia]]\n- RCP Adulto: [[02.02 - RCP Adulto]]\n- OVACE pediátrico: [[02.08 - OVACE]]\n- DESA: [[02.04 - DESA]]\n- Vía Aérea Avanzada: [[02.06 - Vía A"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.02 - RCP Adulto.md",
+        "score": 0.7188,
+        "text": "---\ntags:\n  - soporte-vital\n  - RCP\n  - adulto\n  - alta-calidad\n  - ERC\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Posición manos y capnografía\"\n---\n\n# 02.02 - RCP de alta calid"
+      },
+      {
+        "path": "manual/videos/02-soporte-vital/rcp-adulto-calidad.md",
+        "score": 0.7113,
+        "text": "---\nimagen: cpr-adult-chest-compression.png\ntitulo: RCP de alta calidad en adultos\ncapitulo: 02.02 - RCP Adulto\nurl: https://commons.wikimedia.org/wiki/File:CPR_Adult_Chest_Compression.png\nlicencia: C"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.13 - RCP Mecánica (LUCAS, AutoPulse).md",
+        "score": 0.7049,
+        "text": "- **No retrasar** RCP manual ni desfibrilación por colocar el dispositivo.\n- Colocación **exacta**: centro del tórax, evitar abdomen.\n- **Relevo y verificación** cada 2 minutos.\n- No usar en **niños <"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.03 - RCP en Niños y Lactantes.md",
+        "score": 0.6987,
+        "text": "ubertad (aproximadamente hasta 12-14 años o 25-30 kg, según guía y dispositivo).\n\n> [!danger] REGLA DE ORO PEDIÁTRICA\n> Si solo tienes formación en RCP adulta, **usa 30:2**. No intentes 15:2 si no est"
+      }
+    ]
+  },
+  {
+    "keyword": "RCP niños lactantes",
+    "category": "02_soporte_vital",
+    "chapter": "02.03",
+    "hits": [
+      {
+        "path": "manual/02 - Soporte Vital/02.03 - RCP en Niños y Lactantes.md",
+        "score": 0.7242,
+        "text": "ediátrica: [[01.06 - Fuentes|01.06 - Cadena de supervivencia]]\n- RCP Adulto: [[02.02 - RCP Adulto]]\n- OVACE pediátrico: [[02.08 - OVACE]]\n- DESA: [[02.04 - DESA]]\n- Vía Aérea Avanzada: [[02.06 - Vía A"
+      },
+      {
+        "path": "base_datos/04_capitulos/02.03_informacion_cruda.md",
+        "score": 0.6654,
+        "text": "nuals.com/es/professional/cuidados-cr%C3%ADticos/paro-card%C3%ADaco-y-reanimaci%C3%B3n-cardiopulmonar-rcp/reanimaci%C3%B3n-cardiopulmonar-rcp-en-lactantes-y-ni%C3%B1os\n- SEUP - Soporte vital básico y "
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.03 - RCP en Niños y Lactantes.md",
+        "score": 0.6614,
+        "text": "---\ntags:\n  - soporte-vital\n  - RCP\n  - pediatría\n  - lactante\n  - niño\n  - PCR pediátrica\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Algoritmo RCP pediátrica ERC 2025\"\n---\n\n# 0"
+      },
+      {
+        "path": "manual/07 - Pediatría/07.09 - Reanimación neonatal.md",
+        "score": 0.6442,
+        "text": "ave\n\n- **NRP:** calor, posición, aspiración, ventilación, masaje, adrenalina.\n- **Ventilación** es paso más importante.\n- **Masaje** si FC <60 lpm.\n- **Adrenalina** si FC <60 lpm tras RCP.\n- **Meconio"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.03 - RCP en Niños y Lactantes.md",
+        "score": 0.6319,
+        "text": "ubertad (aproximadamente hasta 12-14 años o 25-30 kg, según guía y dispositivo).\n\n> [!danger] REGLA DE ORO PEDIÁTRICA\n> Si solo tienes formación en RCP adulta, **usa 30:2**. No intentes 15:2 si no est"
+      }
+    ]
+  },
+  {
+    "keyword": "DESA desfibrilación",
+    "category": "02_soporte_vital",
+    "chapter": "02.04",
+    "hits": [
+      {
+        "path": "manual/02 - Soporte Vital/02.04 - DESA.md",
+        "score": 0.6691,
+        "text": "---\ntags:\n  - Capítulo\n  - Bloque 02\n  - SVA\nestado: 🟡 En progreso\nbloque: \"02 - Soporte Vital\"\ncapitulo: \"02.04 - DESA\"\n---\n\n# 02.04 - Uso del DESA y algoritmo de desfibrilación\n\n## Objetivos\n- Conoc"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+        "score": 0.6387,
+        "text": "istencia.\n- **Ventilación del habitáculo:** mantener ventilación adecuada para reducir concentración de aerosoles; renovar el aire entre servicios cuando sea posible.\n- **Limitación de profesionales:*"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.06 - Cadena de Supervivencia.md",
+        "score": 0.6292,
+        "text": "ponibilidad inmediata de desfibrilador y medicación.\n- Integración directa con equipos de críticos y rehabilitación.\n- Menor tiempo de traslado, pero mayor complejidad organizativa.\n\n---\n\n## 5. Funció"
+      },
+      {
+        "path": "base_datos/04_capitulos/02.04_informacion_cruda.md",
+        "score": 0.6201,
+        "text": "stra descarga.\n- Algoritmo: encender, colocar parches, no tocar paciente, análisis, descarga si indica, RCP 2 min, reevaluación.\n- Parches adultos: >=8 años o >=25 kg.\n- Parches pediátricos o modo ate"
+      },
+      {
+        "path": "base_datos/01_normativa/00_normativa_base.md",
+        "score": 0.612,
+        "text": "# Normativa base del TES\n\n## Fuentes oficiales\n- **Real Decreto 1397/2007**, de 29 de octubre — título oficial de Técnico en Emergencias Sanitarias.\n- **Real Decreto 287/2023**, de 18 de abril — actua"
+      }
+    ]
+  },
+  {
+    "keyword": "via aérea básica cánulas Guedel",
+    "category": "02_soporte_vital",
+    "chapter": "02.05",
+    "hits": [
+      {
+        "path": "base_datos/04_capitulos/02.05_informacion_cruda.md",
+        "score": 0.6551,
+        "text": "a-aerea/resumen\n- Manual Clínico - Vía aérea pediátrica: https://manualclinico.hospitaluvrocio.es/urgencias-de-pediatria/tecnicas-y-procedimientos/via-aerea/\n\n## Datos clave extraídos\n- Apertura manua"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.05 - Vía Aérea Básica.md",
+        "score": 0.6386,
+        "text": "---\ntags:\n  - Capítulo\n  - Bloque 02\n  - SVB\nestado: 🟡 En progreso\nbloque: \"02 - Soporte Vital\"\ncapitulo: \"02.05 - Vía Aérea Básica\"\n---\n\n# 02.05 - Cánulas, DLT, aspiración y posición\n\n## Objetivos\n- "
+      },
+      {
+        "path": "manual/videos/03-material/oxigenoterapia-dispositivos.md",
+        "score": 0.5785,
+        "text": "---\nimagen: oxigenoterapia-cannula.png\ntitulo: Dispositivos de oxigenoterapia\ncapitulo: 03.01 - Oxigenoterapia\nurl: https://commons.wikimedia.org/wiki/File:Oxigenoterapia_canula_nasal.jpg\nlicencia: CC"
+      },
+      {
+        "path": "base_datos/04_capitulos/02.05_informacion_cruda.md",
+        "score": 0.5778,
+        "text": "# Información cruda - Capítulo 02.05\n\n## Fuentes oficiales\n- BOE Orden ESD/3391/2008: https://www.boe.es/buscar/doc.php?id=BOE-A-2008-19101\n- BOE RD 1397/2007: https://www.boe.es/buscar/doc.php?id=BOE"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.03 - Valoración Primaria Algoritmo ABCDE.md",
+        "score": 0.5761,
+        "text": "íngea Guedel, aspiración, posición lateral de seguridad si hay vómito y no hay contraindicación.\n- Valorar la necesidad de intubación orotraqueal asistida por personal médico o de enfermería.\n- Coloca"
+      }
+    ]
+  },
+  {
+    "keyword": "via aérea avanzada iGel ML",
+    "category": "02_soporte_vital",
+    "chapter": "02.06",
+    "hits": [
+      {
+        "path": "manual/05 - Médicas/05.07 - Anafilaxia y angioedema.md",
+        "score": 0.6442,
+        "text": "a, prurito, eritema |\n| **Vía aérea** | Disfonía, odinofagia, edema labial |\n| **Respiratorio** | Sibilancias, disnea, estridor |\n| **Cardiovascular** | Hipotensión, taquicardia, shock |\n| **Digestivo"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.06 - Fuentes.md",
+        "score": 0.6437,
+        "text": "estado: 🟡 En progreso\n---\ntags: [fuentes, cap-02.06, via-aerea, igel, laringeo]\ntipo: fuente\n---\n\n# 📚 Fuentes: 02.06 - Vía Aérea Avanzada\n\n## 🧬 Guías Clínicas\n- **ERC Guidelines 2021/2025 - Adult Adva"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.06 - Vía Aérea Avanzada.md",
+        "score": 0.6417,
+        "text": "---\ntags:\n  - soporte-vital\n  - via-aerea\n  - igel\n  - laringeo\n  - ventilacion\nestado: 🟡 En desarrollo\nprioridad: Alta\nduracion: 20 min\nimagen: \"Anatomía iGel y técnica de ventilación BVM\"\n---\n\n# 02."
+      },
+      {
+        "path": "base_datos/04_capitulos/02.05_informacion_cruda.md",
+        "score": 0.6326,
+        "text": "a-aerea/resumen\n- Manual Clínico - Vía aérea pediátrica: https://manualclinico.hospitaluvrocio.es/urgencias-de-pediatria/tecnicas-y-procedimientos/via-aerea/\n\n## Datos clave extraídos\n- Apertura manua"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.10 - Equilibrio Ácido-Base.md",
+        "score": 0.6132,
+        "text": " vía aérea.\n- Depresión del centro respiratorio.\n- Neumotórax.\n- EPOC avanzado.\n\n#### 3.1.3. Gasometría\n\n- pH bajo.\n- PaCO2 alta.\n- HCO3- normal o elevado por compensación.\n\n#### 3.1.4. Signos clínico"
+      }
+    ]
+  },
+  {
+    "keyword": "IOT vía aérea quirúrgica cricotiroidotomía",
+    "category": "02_soporte_vital",
+    "chapter": "02.07",
+    "hits": [
+      {
+        "path": "manual/02 - Soporte Vital/02.07 - IOT y Vía Aérea Quirúrgica.md",
+        "score": 0.7035,
+        "text": "i no puedes ventilar, no pierdas tiempo, accede quirúrgicamente.\"\n- **Cricotiroidotomía:** es técnica de rescate, no de rutina.\n- **Formación:** solo realizar tras curso específico y supervisión.\n"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.07 - IOT y Vía Aérea Quirúrgica.md",
+        "score": 0.7034,
+        "text": "---\ntags:\n  - soporte-vital\n  - vía-aérea\n  - IOT\n  - cricotiroidotomía\n  - OVACE\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Técnica de intubación orotraqueal y kit de cricotiro"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.07 - IOT y Vía Aérea Quirúrgica.md",
+        "score": 0.6857,
+        "text": "Confirmación de posición\n- **Visualización** directa de cuerdas vocales.\n- **Auscultación** bilateral y epigástrica.\n- **Capnografía** si disponible.\n- **Vapor** en clima frío o niebla en tubo.\n\n---\n\n"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.07 - IOT y Vía Aérea Quirúrgica.md",
+        "score": 0.6532,
+        "text": "r** y verificar ventilación bilateral.\n\n---\n\n## ⚠️ 4. Complicaciones\n\n### 4.1. Comunes\n- **Hemorragia** local.\n- **Falso trayecto** subcutáneo.\n- **Lesión** de cuerdas vocales o cartílagos.\n- **Infecc"
+      },
+      {
+        "path": "manual/MULTIMEDIA_PROMPTS.md",
+        "score": 0.6165,
+        "text": "gency medicine\"\nPrompt B: \"OPA airway insertion side view, medical education diagram, tongue and airway anatomy, clean clinical style\"\n\n### 02.06 - Vía Aérea Avanzada\nPrompt A: \"Bag valve mask ventila"
+      }
+    ]
+  },
+  {
+    "keyword": "OVACE Heimlich compresiones",
+    "category": "02_soporte_vital",
+    "chapter": "02.08",
+    "hits": [
+      {
+        "path": "manual/15 - Protocolos Transtelefónicos/15.03 - Parto inminente y OVACE.md",
+        "score": 0.5989,
+        "text": "anosis** facial.\n- **Pérdida** conocimiento inminente.\n\n### 3.2. Instrucciones telefónicas\n1. **Confirmar** obstrucción completa.\n2. **Maniobra de Heimlich:** 5 compresiones abdominales hacia arriba y"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.08 - OVACE.md",
+        "score": 0.5967,
+        "text": "---\ntags:\n  - soporte-vital\n  - ovace\n  - atragantamiento\n  - reanimacion\nestado: 🟡 En desarrollo\nprioridad: Crítica\nduracion: 20 min\nimagen: \"OVACE consciente vs inconsciente y Heimlich paso a paso\"\n"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.04 - Seguridad del equipo.md",
+        "score": 0.5805,
+        "text": "ura excesiva).\n\n## 🚑 3. EPIs en Cabina\n\n### Equipo mínimo durante la conducción\n- **Chaleco reflectante** de alta visibilidad (guardado accesible, no puesto mientras se conduce).\n- **Guantes de nitril"
+      },
+      {
+        "path": "base_datos/04_capitulos/01.09_informacion_cruda.md",
+        "score": 0.5792,
+        "text": "ferencias para casos prácticos\n- MSD Manuals: clasificación oficial.\n- SBORL: manejo integral del shock.\n- REMUS: clasificación y manejo inicial.\n- DocenciaSalud: manejo prehospitalario del shock hipo"
+      },
+      {
+        "path": "manual/04 - Farmacología/04.11 - Hemoderivados.md",
+        "score": 0.5685,
+        "text": "uaciones Especiales: [[02.12 - RCP en Situaciones Especiales]]\n- Fuentes: [[04.11 - Hemoderivados|04.11 - Fuentes]]\n\n---\n\n## 📝 8. Notas Personales\n\n- Regla: **\"compatibilidad primero, velocidad despué"
+      }
+    ]
+  },
+  {
+    "keyword": "acceso vascular canulación periférica IO EZ-IO",
+    "category": "02_soporte_vital",
+    "chapter": "02.09",
+    "hits": [
+      {
+        "path": "manual/02 - Soporte Vital/02.09 - Acceso Vascular.md",
+        "score": 0.7652,
+        "text": "---\ntags:\n  - soporte-vital\n  - acceso-vascular\n  - canulacion\n  - io\n  - ez-io\nestado: 🟡 En desarrollo\nprioridad: Alta\nduracion: 18 min\nimagen: \"Mapa de puntos IO y técnica de canulación\"\n---\n\n# 02.0"
+      },
+      {
+        "path": "manual/04 - Farmacología/04.02 - Vías de administración.md",
+        "score": 0.7308,
+        "text": "nmediato | CVC, fármacos vasoactivos |\n| Endotraqueal | ET | Variable | Solo si no hay vía IV/IO |\n\n---\n\n## 💉 2. Vía Intravenosa Periférica (IV)\n\n### 2.1. Indicaciones\n- Administración de fluidos y fá"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.08 - Fuentes.md",
+        "score": 0.6973,
+        "text": "estado: 🟡 En progreso\n---\ntags: [fuentes, cap-02.08, acceso-vascular, IO]\ntipo: fuente\n---\n\n# 📚 Fuentes: 02.08 - Acceso Vascular\n\n## 🧬 Guías Clínicas\n- **ERC Guidelines 2021/2025 - IO Access and Fluid"
+      },
+      {
+        "path": "manual/04 - Farmacología/04.02 - Vías de administración.md",
+        "score": 0.6774,
+        "text": "02.09 - Acceso Vascular]]\n- Fuentes: [[04.02 - Vías de administración|04.02 - Fuentes]]\n\n---\n\n## 📝 9. Notas Personales\n\n- Practicar canalización en brazo de entrenamiento.\n- Memorizar calibres de cánu"
+      },
+      {
+        "path": "manual/videos/03-material/oxigenoterapia-dispositivos.md",
+        "score": 0.6722,
+        "text": "---\nimagen: oxigenoterapia-cannula.png\ntitulo: Dispositivos de oxigenoterapia\ncapitulo: 03.01 - Oxigenoterapia\nurl: https://commons.wikimedia.org/wiki/File:Oxigenoterapia_canula_nasal.jpg\nlicencia: CC"
+      }
+    ]
+  },
+  {
+    "keyword": "algoritmos SVA FV ESP asistolia 4H 4T",
+    "category": "02_soporte_vital",
+    "chapter": "02.10",
+    "hits": [
+      {
+        "path": "manual/02 - Soporte Vital/02.10 - Algoritmos SVA.md",
+        "score": 0.6439,
+        "text": "---\ntags:\n  - soporte-vital\n  - algoritmos\n  - sva\n  - ERC\n  - fv-esp\nestado: 🟡 En desarrollo\nprioridad: Crítica\nduracion: 25 min\nimagen: \"Algoritmo ERC 2025 FV/ESP vs Asistolia/HEP\"\n---\n\n# 02.09 - Al"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.09 - Fuentes.md",
+        "score": 0.6248,
+        "text": "estado: 🟡 En progreso\n---\ntags: [fuentes, cap-02.09, algoritmos, sva]\ntipo: fuente\n---\n\n# 📚 Fuentes: 02.09 - Algoritmos SVA\n\n## 🧬 Guías Clínicas\n- **ERC Guidelines 2021/2025 - Advanced Life Support.**"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.11 - Monitorización SVA.md",
+        "score": 0.606,
+        "text": "scular|02.09 - Algoritmos SVA]]\n- Shock: [[01.09 - Fisiopatología del Shock]]\n\n---\n\n> [!quote] Regla Mnemotécnica\n> \"EtCO2 es tu termómetro de perfusión. ECG es tu brújula de desfibrilación. POCUS es "
+      },
+      {
+        "path": "manual/08 - Obstetricia/08.01 - Fisiología y cambios en el embarazo.md",
+        "score": 0.5949,
+        "text": "g IV | Si hidralazina contraindicada |\n| **Sulfato magnesio** | 4-6 g IV (teórico) | Eclampsia |\n\n---\n\n## ⚠️ 4. Errores Críticos\n\n- ❌ Posición supina en embarazada >20 semanas → shock por compresión v"
+      },
+      {
+        "path": "base_datos/05_conceptos/00_conceptos_base.md",
+        "score": 0.5895,
+        "text": "# Conceptos base\n\n## TES\nProfesional sanitario de nivel medio, regulado por RD 1397/2007, que actúa en el ámbito prehospitalario.\n\n## SVA / SVB\n- SVB: soporte vital básico.\n- SVA: soporte vital avanza"
+      }
+    ]
+  },
+  {
+    "keyword": "capnografía EtCO2 ECG 12 derivaciones POCUS",
+    "category": "02_soporte_vital",
+    "chapter": "02.11",
+    "hits": [
+      {
+        "path": "manual/02 - Soporte Vital/02.11 - Monitorización SVA.md",
+        "score": 0.7734,
+        "text": "---\ntags:\n  - soporte-vital\n  - monitorizacion\n  - capnografia\n  - pocus\n  - ECG\nestado: 🟡 En desarrollo\nprioridad: Alta\nduracion: 20 min\nimagen: \"Ondas capnográficas y ecocardiografía POCUS básica\"\n-"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.11 - Monitorización SVA.md",
+        "score": 0.7706,
+        "text": "Obstrucción vía aérea | Reevaluar posición |\n\n## 🔍 2. ECG de 12 Derivaciones\n\n### 2.1. En PCR\n- FV/TVsp: Desfibrilable\n- AESP: No desfibrilable (buscar causas reversibles)\n- Asistolia: RCP + adrenalin"
+      },
+      {
+        "path": "manual/05 - Médicas/05.15 - Alteraciones hidroelectrolíticas.md",
+        "score": 0.752,
+        "text": "cología: [[04.10 - Vasoactivos y Antiarrítmicos]]\n- Fuentes: [[05.15 - Alteraciones hidroelectrolíticas|05.15 - Fuentes]]\n\n---\n\n## 📝 8. Notas Personales\n\n- Regla: **\"K alto = ECG, Ca bajo = tetania\"**"
+      },
+      {
+        "path": "manual/13 - Operativa/13.06 - Monitorización.md",
+        "score": 0.7427,
+        "text": "---\ntags:\n  - operativa\n  - monitorización\n  - ECG\n  - SpO2\n  - capnografía\nestado: ✅ Completado\nprioridad: Alta\nduracion: 12 min\nimagen: \"Monitor multiparámetro en ambulancia\"\n---\n\n# 13.06 - Monitori"
+      },
+      {
+        "path": "manual/13 - Operativa/13.06 - Monitorización.md",
+        "score": 0.7346,
+        "text": "posición.\n\n---\n\n## 📈 2. Monitor Avanzada\n\n### 2.1. Capnografía\n- **EtCO2:** telémetro de corriente de oxígeno.\n- **Valor normal:** 35-45 mmHg.\n- **Interpretación:** hipoventilación, obstrucción, parad"
+      }
+    ]
+  }
+]

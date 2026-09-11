@@ -1,0 +1,89 @@
+{
+  "id": "01.02-seguridad-en-escena-epis-y-bioseguridad",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "01.02 - Seguridad en escena, EPIs y bioseguridad",
+  "summary": "",
+  "tags": [
+    "fundamentos",
+    "seguridad",
+    "EPI",
+    "bioseguridad",
+    "prevención-de-riesgos"
+  ],
+  "block": "01 - Fundamentos",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "9e2e5a49f68c097571bb121390371dcaa12970c2048005397326e62d539512d4"
+  },
+  "created_at": "2026-08-07T15:56:56.321098+00:00",
+  "updated_at": "2026-08-07T15:56:56.321098+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0101---rol-competencias-y-marco-legal-rd-1397-20070101",
+      "type": "related"
+    },
+    {
+      "to": "0201---reconocimiento-pcr0201---reconocimiento-de-pcr-y-activación",
+      "type": "related"
+    },
+    {
+      "to": "0205---vía-aérea-básica0205---vía-aérea-básica",
+      "type": "related"
+    },
+    {
+      "to": "0301---oxigenoterapia0301---oxigenoterapia",
+      "type": "related"
+    },
+    {
+      "to": "0302---hemorragias-y-torniquetes0302---hemorragias",
+      "type": "related"
+    },
+    {
+      "to": "1106---descontaminación1106---descontaminación-nbq",
+      "type": "related"
+    },
+    {
+      "to": "1301---vehículo1301---tipos-de-ambulancias-y-dotación",
+      "type": "related"
+    },
+    {
+      "to": "1306---monitorización1306---monitorización",
+      "type": "related"
+    },
+    {
+      "to": "1601---marco-legal1601---marco-legal",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Seguridad en escena y gestión del riesgo inicial",
+    "Protección individual: EPIs",
+    "Bioseguridad en la ambulancia y durante la asistencia",
+    "Gestión de residuos en el transporte sanitario",
+    "Normativa aplicable",
+    "Casos prácticos",
+    "Errores críticos y precauciones",
+    "Checklist de repaso"
+  ],
+  "links": [
+    "imagenes/01.02-matriz-de-riesgos-y-diagrama-de-un-tes-con-sus-epis.png.webp",
+    "01.01 - Rol, competencias y marco legal RD 1397-2007|01.01",
+    "02.01 - Reconocimiento PCR|02.01 - Reconocimiento de PCR y activación",
+    "02.05 - Vía Aérea Básica|02.05 - Vía Aérea Básica",
+    "03.01 - Oxigenoterapia|03.01 - Oxigenoterapia",
+    "03.02 - Hemorragias y torniquetes|03.02 - Hemorragias",
+    "11.06 - Descontaminación|11.06 - Descontaminación NBQ",
+    "13.01 - Vehículo|13.01 - Tipos de ambulancias y dotación",
+    "13.06 - Monitorización|13.06 - Monitorización",
+    "16.01 - Marco Legal|16.01 - Marco Legal"
+  ]
+}

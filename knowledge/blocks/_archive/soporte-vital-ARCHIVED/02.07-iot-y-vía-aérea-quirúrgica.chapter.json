@@ -1,0 +1,67 @@
+{
+  "id": "02.07-iot-y-vía-aérea-quirúrgica",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "02.07 - IOT y Vía Aérea Quirúrgica",
+  "summary": "",
+  "tags": [
+    "02",
+    "soporte-vital",
+    "vía-aérea",
+    "IOT",
+    "cricotiroidotomía",
+    "OVACE"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.07 - IOT y Vía Aérea Quirúrgica.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "a05ecea2658536f4ed6a1d7c4f8450715f475be7afd749e396c1b4130911447d"
+  },
+  "created_at": "2026-08-07T15:56:56.373767+00:00",
+  "updated_at": "2026-08-07T15:56:56.373767+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0206---vía-aérea-avanzada",
+      "type": "related"
+    },
+    {
+      "to": "0208---ovace",
+      "type": "related"
+    },
+    {
+      "to": "0210---algoritmos-sva",
+      "type": "related"
+    },
+    {
+      "to": "0202---rcp-adulto",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Intubación Orotraqueal (Asistencia)",
+    "Vía Aérea Quirúrgica: Cricotiroidotomía",
+    "Complicaciones",
+    "Caso Práctico",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Fuentes",
+    "Autoevaluación"
+  ],
+  "links": [
+    "02.06 - Vía Aérea Avanzada",
+    "02.08 - OVACE",
+    "02.10 - Algoritmos SVA",
+    "02.02 - RCP Adulto"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chapter_id": "03.01-oxigenoterapia",
+  "block": "03 - Material",
+  "items": [
+    {
+      "type": "image",
+      "filename": "venturi-mask.png",
+      "source": "imagenes/venturi-mask.png"
+    }
+  ],
+  "notes": "Placeholder catalog; populate when assets are available."
+}

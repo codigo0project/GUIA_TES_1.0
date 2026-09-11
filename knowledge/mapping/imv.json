@@ -1,0 +1,100 @@
+{
+  "mappings": [
+    {
+      "manual": "manual/11 - IMV/11.01 - Conceptos IMV.md",
+      "knowledge": "knowledge/blocks/imv/11.01-conceptos-imv.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.152724+00:00"
+    },
+    {
+      "manual": "manual/11 - IMV/11.02 - Mando y control.md",
+      "knowledge": "knowledge/blocks/imv/11.02-mando-y-control.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.154256+00:00"
+    },
+    {
+      "manual": "manual/11 - IMV/11.03 - Sectorización.md",
+      "knowledge": "knowledge/blocks/imv/11.03-sectorización.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.156127+00:00"
+    },
+    {
+      "manual": "manual/11 - IMV/11.04 - PMA y Noria.md",
+      "knowledge": "knowledge/blocks/imv/11.04-pma-y-noria.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.158007+00:00"
+    },
+    {
+      "manual": "manual/11 - IMV/11.05 - NRBQ.md",
+      "knowledge": "knowledge/blocks/imv/11.05-nrbq.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.159522+00:00"
+    },
+    {
+      "manual": "manual/11 - IMV/11.06 - Descontaminación.md",
+      "knowledge": "knowledge/blocks/imv/11.06-descontaminación.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.161034+00:00"
+    },
+    {
+      "manual": "manual/11 - IMV/11.07 - Tirador activo.md",
+      "knowledge": "knowledge/blocks/imv/11.07-tirador-activo.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.162674+00:00"
+    },
+    {
+      "manual": "manual/11 - IMV/11.08 - Violencia doméstica.md",
+      "knowledge": "knowledge/blocks/imv/11.08-violencia-doméstica.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.164225+00:00"
+    },
+    {
+      "manual": "manual/11 - IMV/11.01 - Conceptos IMV.md",
+      "knowledge": "knowledge/blocks/imv/11.01-conceptos-imv.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.344220+00:00"
+    },
+    {
+      "manual": "manual/11 - IMV/11.02 - Mando y control.md",
+      "knowledge": "knowledge/blocks/imv/11.02-mando-y-control.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.345867+00:00"
+    },
+    {
+      "manual": "manual/11 - IMV/11.03 - Sectorización.md",
+      "knowledge": "knowledge/blocks/imv/11.03-sectorización.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.347495+00:00"
+    },
+    {
+      "manual": "manual/11 - IMV/11.04 - PMA y Noria.md",
+      "knowledge": "knowledge/blocks/imv/11.04-pma-y-noria.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.349167+00:00"
+    },
+    {
+      "manual": "manual/11 - IMV/11.05 - NRBQ.md",
+      "knowledge": "knowledge/blocks/imv/11.05-nrbq.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.350712+00:00"
+    },
+    {
+      "manual": "manual/11 - IMV/11.06 - Descontaminación.md",
+      "knowledge": "knowledge/blocks/imv/11.06-descontaminación.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.352250+00:00"
+    },
+    {
+      "manual": "manual/11 - IMV/11.07 - Tirador activo.md",
+      "knowledge": "knowledge/blocks/imv/11.07-tirador-activo.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.353780+00:00"
+    },
+    {
+      "manual": "manual/11 - IMV/11.08 - Violencia doméstica.md",
+      "knowledge": "knowledge/blocks/imv/11.08-violencia-doméstica.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.355641+00:00"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "04.07-emergencias-metabólicas",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "04.07 - Emergencias metabólicas",
+  "summary": "",
+  "tags": [
+    "04",
+    "farmacologia",
+    "glucosa",
+    "glucagón",
+    "insulina",
+    "hipoglucemia",
+    "cetoacidosis"
+  ],
+  "block": "04 - Farmacología",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/04 - Farmacología/04.07 - Emergencias metabólicas.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "9dc92397db119d011c4b8b1dae744504aeeabd19e1277d317e62e50ca6a871f9"
+  },
+  "created_at": "2026-08-07T15:56:56.502681+00:00",
+  "updated_at": "2026-08-07T15:56:56.502681+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0401---farmacocinética",
+      "type": "related"
+    },
+    {
+      "to": "0402---vías-de-administración",
+      "type": "related"
+    },
+    {
+      "to": "0409---fluidoterapia",
+      "type": "related"
+    },
+    {
+      "to": "0509---crisis-epiléptica-y-eclampsia",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Hipoglucemia",
+    "Glucagón",
+    "Insulina (teórico)",
+    "Cetoacidosis Diabética (CAD) y Estado Hiperosmolar (CEH)",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "04.01 - Farmacocinética",
+    "04.02 - Vías de administración",
+    "04.09 - Fluidoterapia",
+    "05.09 - Crisis epiléptica y eclampsia"
+  ]
+}

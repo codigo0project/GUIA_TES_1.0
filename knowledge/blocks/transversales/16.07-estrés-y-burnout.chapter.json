@@ -1,0 +1,60 @@
+{
+  "id": "16.07-estrés-y-burnout",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "16.07 - Estrés y burnout",
+  "summary": "",
+  "tags": [
+    "16",
+    "transversales",
+    "estres",
+    "burnout",
+    "teps"
+  ],
+  "block": "16 - Transversales",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/16 - Transversales/16.07 - Estrés y burnout.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "e994169ff98a57468cdec9f034de4c9b4219ba327e8b6ea5e31902ff883d33b6"
+  },
+  "created_at": "2026-08-07T15:56:57.208710+00:00",
+  "updated_at": "2026-08-07T15:56:57.208710+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1606---duelo-y-malas-noticias",
+      "type": "related"
+    },
+    {
+      "to": "1603---documentación-clínica",
+      "type": "related"
+    },
+    {
+      "to": "1608---calidad-y-auditoría",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Fundamentos y Fisiopatología del Estrés",
+    "Estrés Agudo y TEPT",
+    "Burnout (Síndrome de Fatiga Profesional)",
+    "Protocolo de Intervención",
+    "Señales de Alarma",
+    "Estrategias de Resiliencia",
+    "Cultura de Equipo y Prevención",
+    "Caso Práctico",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "16.06 - Duelo y malas noticias",
+    "16.03 - Documentación clínica",
+    "16.08 - Calidad y auditoría"
+  ]
+}

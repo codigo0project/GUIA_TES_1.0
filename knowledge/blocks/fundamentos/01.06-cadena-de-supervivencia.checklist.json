@@ -1,0 +1,40 @@
+{
+  "id": "01.06-cadena-de-supervivencia.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 01.06-cadena-de-supervivencia",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "cadena"
+  ],
+  "block": "01 - Fundamentos",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/01 - Fundamentos/01.06 - Cadena de Supervivencia.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "01.06-cadena-de-supervivencia",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "01 - Fundamentos"
+  ],
+  "items": [
+    "Reconocer emergencia",
+    "Activar sistema de emergencias",
+    "Iniciar RCP precoz",
+    "Desfibrilar tempranamente",
+    "Manejo post-resucitación",
+    "Transportar a centro adecuado"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "11.03-sectorización.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 11.03-sectorización",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [],
+  "block": "11 - IMV",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/11 - IMV/11.03 - Sectorización.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "11.03-sectorización",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "11 - IMV"
+  ],
+  "items": [
+    "**Definición:** Zona de riesgo activo.",
+    "**Acceso:** Solo personal autorizado con EPI adecuado.",
+    "**Función:** rescate y asistencia inicial.",
+    "**Ejemplo:** edificio en llamas, zona con fuga química.",
+    "**Duración:** Limitada en el tiempo por seguridad.",
+    "**Definición:** Zona de apoyo y triaje.",
+    "**Acceso:** personal sanitario y rescate.",
+    "**Función:** triaje, estabilización, espera de transporte.",
+    "**Ejemplo:** área exterior al edificio, zona de acopio.",
+    "**EPI:** Equipo de protección individual mínimo.",
+    "**Definición:** Zona segura.",
+    "**Acceso:** libre para personal autorizado.",
+    "**Función:** logística, familiares, prensa.",
+    "**Ejemplo:** parking, calle alejada, base de operaciones.",
+    "**Seguridad:** Sin riesgo directo, pero control de acceso."
+  ]
+}

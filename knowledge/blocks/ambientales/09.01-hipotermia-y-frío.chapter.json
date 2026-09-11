@@ -1,0 +1,59 @@
+{
+  "id": "09.01-hipotermia-y-frío",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "09.01 - Hipotermia y frío",
+  "summary": "",
+  "tags": [
+    "09",
+    "ambientales",
+    "hipotermia",
+    "congelación",
+    "muerte-inmersión",
+    "frío"
+  ],
+  "block": "09 - Ambientales",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/09 - Ambientales/09.01 - Hipotermia y frío.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "20e7fb6c2c7bb57cfca2c0b9ae3b85eef8761b5833b532d3bf82c003a6b46996"
+  },
+  "created_at": "2026-08-07T15:56:57.095316+00:00",
+  "updated_at": "2026-08-07T15:56:57.095316+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0212---rcp-en-situaciones-especiales",
+      "type": "related"
+    },
+    {
+      "to": "0611---quemaduras",
+      "type": "related"
+    },
+    {
+      "to": "0901---hipotermia-y-frío0901---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Cuadro Clínico",
+    "Manejo Prehospitalario",
+    "Congelaciones",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "02.12 - RCP en Situaciones Especiales",
+    "06.11 - Quemaduras",
+    "09.01 - Hipotermia y frío|09.01 - Fuentes"
+  ]
+}

@@ -1,0 +1,2792 @@
+Trabajo de Fin de Máster
+
+Máster en Formación del Profesorado
+de Educación Secundaria Obligatoria y
+Bachillerato, Formación Profesional y
+Enseñanzas de Idiomas
+
+Programación didáctica del módulo profesional
+‘Atención sanitaria inicial en situaciones de
+emergencia’ del ciclo formativo ‘Técnico en
+Emergencias Sanitarias’
+
+Sandra Rivero Fernández
+MARZO 2021
+
+Resumen
+En este trabajo se presenta la programación didáctica del módulo profesional código 0055 de
+“Atención sanitaria inicial en situaciones de emergencias”, perteneciente al ciclo de formación
+profesional de grado medio “Técnico de Emergencias Sanitarias”. Dentro de la memoria se
+presenta la Unidad de trabajo “Soporte Vital Básico: Reanimación Cardiopulmonar (RCP)
+básica e instrumental”. Así como las conclusiones de la realización de este trabajo.
+He realizado esta programación basándome en el centro de integrado de formación profesional
+de Los Gladiolos, en Santa Cruz de Tenerife, el cual he elegido por ser un centro referente de
+formación profesional, con ciclos eminentemente de la rama sanitaria y por haber realizado mis
+prácticas de fin de máster allí.
+
+Abstract
+
+This work presents the didactic programming of the professional module code 0055 "Initial
+health care in emergency situations", belonging to the intermediate vocational training cycle
+"Health Emergency Technician". The report presents the work unit "Basic Life Support: Basic
+and instrumental Cardiopulmonary Resuscitation (CPR)". As well as the conclusions of the
+realisation of this work.
+I have carried out this programme based on the integral vocational training centre of Los
+Gladiolos, in Santa Cruz de Tenerife, which I have chosen because it is a reference centre and
+because I have done my final master's degree internship there.
+
+1
+
+Índice de contenidos:
+
+1. Datos del centro, ciclo formativo y módulo profesional …………………………………... 3
+2. Justificación del módulo profesional dentro del ciclo formativo ………………………….. 8
+3. Competencia general del título …………………………………………………………….. 9
+4. Competencias profesionales, personales y sociales ………………………………………... 9
+5. Objetivos del módulo profesional ………………………………………………………… 10
+6. Resultados de aprendizaje, criterios de evaluación y contenidos básicos ………………… 10
+7. Atención a la diversidad ………………………………………………………………….. 13
+8. Metodología u orientaciones metodológicas……………………………………………… 16
+9. Procedimientos e Instrumentos de Evaluación …………………………………………… 22
+9.1 Procedimientos de Evaluación ………………………………………………..……… 25
+9.2 Instrumentos de Evaluación ………………………………………………………….. 26
+9.3 Criterios de Calificación ……………………………………………………………... 26
+9.4 Recuperación ………………………………………………………………………… 27
+9.5 Pérdida de Evaluación Continua …………………………………………………….. 28
+10. Procedimientos para valorar el desarrollo y resultados de la programación didáctica … 28
+11. Secuenciación y programación de las unidades de trabajo……………………............... 30
+12. Actividades extraescolares ……………………………………………………………... 38
+13. Actividades complementarias ………………………………………………………….. 39
+14. Estrategias para desarrollar la educación en valores, planes y programas …………….. 40
+15. Unidades de trabajo ……………………………………………………………………. 42
+16. Materiales, recursos y referencias bibliográficas ……………………………………… 47
+17. Conclusiones …………………………………………………………………………... 47
+18. Anexos ………………………………………………………………………………… 48
+
+2
+
+1. Datos del centro, ciclo formativo y módulo profesional
+
+Nombre del centro: Los Gladiolos
+Dirección: C/ Huaracheros Nº 5
+Localidad: Santa Cruz de Tenerife
+Teléfono: 922 922 414 / 922 922 987
+Correo electrónico: 38016519@gobiernodecanarias.org
+Horario de secretaría: 10:00 - 12:00 y 13:30 - 14:00
+Horario lectivo: Turno de mañana: de 8 a 13 h, turno de tarde de 16 a 20 h, turno de noche
+(semipresencial) de 19 a 23 h.
+
+Descripción y análisis de las características más relevantes del centro.
+El Centro Integrado de Formación Profesional Los Gladiolos es un centro público en el cual se
+imparten enseñanzas en tres turnos (mañana, tarde y noche) en modalidad de enseñanza
+presencial y semipresencial, de Ciclos Formativos de las Familias Profesionales de Sanidad,
+Servicios Socioculturales y a la Comunidad, Mantenimiento y Servicios a la Producción y
+Seguridad y Medio Ambiente y de Formación Ocupacional y Continua.
+
+La oferta educativa del centro es amplia: en total se imparten 18 ciclos formativos, donde
+predominan los pertenecientes a la rama sanitaria.
+Ciclos formativos de las Familias Profesionales de Sanidad: son 10, de ellos, 7 son de Grado
+Superior, 3 son de Grado Medio y 2 de ellos forman parte del proyecto Dual, realizando
+prácticas en centros de trabajo.
+Los de Grado Superior son: Radioterapia y Dosimetría (nuevo), Dietética, Imagen para el
+Diagnóstico y Medicina Nuclear (FP Dual), Laboratorio Clínico y Biomédico, Anatomía
+Patológica y citodiagnóstico, Higiene Bucodental (FP Dual) y Documentación y
+Administración Sanitaria.
+Los de Grado Medio son: Cuidados Auxiliares de Enfermería, Farmacia y Parafarmacia y
+Técnico en Emergencias Sanitarias.
+Ciclos formativos de la Familia Profesional Seguridad y Medio Ambiente: son 2, ambos de
+Grado Superior, Química y Salud Ambiental y Educación y Control Ambiental, el último
+pertenece al proyecto de FP Dual.
+De la Familia Mantenimiento y Servicio a la Producción hay solo un ciclo formativo de Grado
+3
+
+Superior: Prevención de Riesgos Profesionales.
+De la Familia Servicios Socioculturales y a la Comunidad hay 5 ciclos formativos de los cuales
+solo uno es de Grado Medio: Atención a Personas en situación de Dependencia, y los cuatro
+restantes son de Grado Superior: Promoción de Igualdad de Género, Animación Sociocultural
+y Turística, Educación Infantil e Integración Social.
+
+El CIFP Los Gladiolos forma parte de un proyecto en curso (desde 2019 hasta 2023) para
+convertirse en un Centro Integrado de Formación Profesional. Se trata de un proceso de
+importantes cambios con propósito de mejora continua y satisfacción en el que se está dando
+cabida a nuevos enfoques, prácticas renovadoras, nuevas interpretaciones pedagógicas que dan
+respuesta a las necesidades de la sociedad actual. La tarea docente resalta por su participación
+en proyectos innovativos, y por criterios como creatividad y flexibilidad acordes a las nuevas
+tendencias educativas.
+Se ofrece con ello, a los alumnos, un servicio de orientación escolar y profesional facilitado
+gracias al Departamento de Información y Orientación Profesional. Y se ocupa además, del
+reconocimiento y acreditación de competencias profesionales.
+Además, el centro tiene varios departamentos a servicio del profesorado y estudiantes:
+Departamento de Idiomas, Departamento de Innovación y Calidad, Departamento Relaciones
+Empresas (FP Dual) y Departamento de Orientación Laboral.
+Cabe destacar que debido a la dificultad actual de inserción laboral acentuada en el entorno
+cercano al centro, las enseñanzas de este centro están dirigidas a abarcar un entorno más amplio
+de la zona relativa al centro, no solo a nivel municipal sino incluso insular, provincial y
+posiblemente hasta regional. La movilidad se hace necesaria debido a la escasez de mercado
+laboral en la zona, insuficientes para cubrir la cantidad y variedad de profesionales formados
+en este centro.
+En cualquier caso, por todas las características anteriormente descritas y por la atractiva oferta
+educativa que proporciona, el centro de CIFP Los Gladiolos es un claro referente para otros
+centros.
+
+Instalaciones
+El centro consta de dos edificios:
+1) El edificio “Los Gladiolos”: su entrada principal da hacia el cruce de las calles Almadi y
+Prolongación Albéniz (que son perpendiculares a la Calle Simón Bolívar) con la Calle Los
+4
+
+Huaracheros (que es paralela a la Calle Simón Bolívar.
+
+2) El edificio “Poeta Viana”: su entrada principal se encuentra en la calle Simón Bolívar, nº 7.
+Precisamente en esta zona confluyen varios centros escolares: I.E.S. Andrés Bello, I.E.S.
+Teobaldo Power y el I.E.S. Benito Pérez Armas.
+Los edificios se encuentran próximos entre sí pero no conectados. Está en proyecto pendiente
+de realizarse la conexión entre los dos edificios para facilitar la movilidad de los miembros del
+centro entre ambos edificios que permita el uso de las instalaciones comunes con mayor
+comodidad.
+Cada uno de ellos contiene los espacios necesarios y con el material que se precisa para impartir
+las diferentes enseñanzas de cada familia profesional, que se ofertan en el centro.
+En general se pueden enumerar, 31 aulas polivalentes, 5 laboratorios específicos de Sanidad, 5
+talleres de Sanidad y 4 de SSCC, 2 aulas de psicomotricidad, 4 aulas de informática, 2
+bibliotecas (una sin dotación bibliográfica), 2 salones de actos, 3 almacenes de material, 1 sala
+para departamento de Información y Orientación Profesional (DIOP), 2 salas para
+departamentos didácticos, 1 departamento para las coordinaciones de Innovación y Calidad,
+Relación con las empresas y FCT, 2 salas de profesorado, 2 sala de reuniones, 2 despachos de
+dirección, 1 despacho de vicedirección, 2 despachos de jefatura de estudio, 1 secretaría, 2
+conserjerías, 1 cafetería, 10 aseos, 4 cuartos de mantenimiento/limpieza, 3 aparcamientos, 2
+patios interiores, 2 canchas deportivas y varios jardines.
+
+Respecto al material didáctico, la dotación que dispone es bastante completa. La mayoría de las
+aulas cuenta con material propio para la enseñanza que se imparte en ellas, ordenadores,
+cañones proyectores, televisión, vídeo, DVD, retroproyectores, proyectores de diapositivas,
+radiocasetes, libros de consulta, etc.
+- Los laboratorios y talleres: tienen material específico para cada enseñanza, en continua
+revisión. Algunos cuentan con ordenadores y cañón.
+- Se dispone de ordenadores portátiles, tableta y varios cañones para ser prestados si se precisa.
+- La dotación de libros de la biblioteca es específica para cada enseñanza.
+- Se cuenta con cinco aulas de informática.
+- La administración dispone de ordenadores en red para el servicio de las oficinas, jefatura de
+estudios y despachos.
+- La cafetería posee una buena calidad en sus productos y servicios.
+5
+
+Características del entorno
+Se encuentra situado en el barrio de la capital Santa Cruz de Tenerife, llamado Los Gladiolos
+que da nombre al propio centro. Este barrio se halla en una zona periférica de la ciudad pero no
+excesivamente lejana al centro. Es una zona urbana fácilmente accesible por diferentes medios
+de transporte. A nivel público hay conexión directa con varias líneas urbanas e interurbanas de
+autobuses.
+El centro cuenta con un aparcamiento exclusivo para los usuarios del centro.
+Desafortunadamente la infraestructura de la zona donde se encuentra ubicado el centro es
+compleja en cuanto a la organización de sus calles, siendo además una área estudiantil por la
+presencia de varios centros en la misma zona, se crean problemas de tráfico durante los horarios
+de entrada y salida del alumnado, lo cual dificultaría la ejecución de un plan de evacuación y el
+acceso de equipos en caso de emergencia, esto se ha identificado como un factor de riesgo en
+caso de ser necesaria la evacuación del centro.
+La zona circundante cuenta con, además de numerosos centros de educación pública, con varias
+plazas públicas, parques, una comisaría de policía Nacional, albergue municipal, centro
+sociocultural, centro de salud y zona deportiva.
+
+Características del alumnado
+La mayoría del alumnado proviene de zonas muy diversas de la isla de Tenerife, incluso de las
+islas periféricas a nivel provincial y en algunos casos incluso procedentes de la Provincia de
+Las Palmas de Gran Canaria.
+Esto se debe a que no hay oferta suficiente en relación a la cada vez mayor demanda de estudios
+de formación profesional.
+La mayor parte del alumnado que accede a los ciclos formativos de grado superior proviene de
+finalizar sus estudios de Bachillerato. Una reducida proporción accede a través de la prueba de
+acceso o a tras haber obtenido una titulación de grado medio. Respecto al alumnado que accede
+a los ciclos de grado superior, una parte lo realiza como curso puente para poder acceder
+posteriormente a estudios universitarios, por lo que no ejercerán la profesión. De igual modo
+sucede al contrario, existe un porcentaje de alumnado universitario que realiza formación
+profesional con vistas a una inserción laboral más productiva o para complementar sus estudios.
+En general pues, los usuarios de ciclos de grado superior, parten de una buena formación
+académica y un alta implicación debida a la motivación y madurez personal a la hora de elegir
+acceder a los estudios de formación profesional. Obtienen por la tanto, unos buenos resultados
+finales por regla general.
+6
+
+Lo contrario suele ocurrir con el alumnado más joven de los ciclos formativos de grado medio.
+Estos a menudo son propiciados a estudiar algún ciclo profesional como opción restante para
+una salida profesional debido al fracaso escolar previo o por problemas socioeconómicos que
+no les permiten acceder a otro tipo de estudios superiores. El grado de motivación que muestran
+es notablemente menor a pesar de encontrarse excepciones. Se ha observado, además, de que
+en general una gran mayoría carece de adecuada fluidez en la expresión oral y escrita básica.
+Todo ello propicia que las metodologías de trabajo que se deben emplear con el alumnado de
+ciclos de grado medio sean muy diferentes a las empleadas con los de grado superior. Se hace
+preciso aplicar acciones de mejora concretas para los bajos resultados académicos de algunos
+módulos formativos.
+En referencia al alumnado de la modalidad de enseñanza semipresencial, las características son
+bastante diversas. Resalta en primer lugar, que el promedio de edad es más alto que el resto del
+alumnado del centro. Esto supone un mayor índice de sacrificio personal que delata el alto
+interés que poseen para realizar estos estudios. A pesar de poder presentar ciertas carencias
+académicas, éstas en general suelen ser compensadas por el aprendizaje obtenido a través de su
+experiencia laboral. En general empeñan mucho esfuerzo, gran aprovechamiento de las clases
+presenciales por ser escasas (alto grado de participación) y suelen ser más interactivos entre sí
+y con el profesorado.
+Si atendemos a la globalidad del alumnado del centro nos encontramos que provienen de todas
+los niveles sociales, edades diversas, actitudes positivas y buen nivel de motivación para las
+especialidades elegidas, existiendo una buena predisposición al estudio en la mayoría de los
+casos. Casi la totalidad del alumnado es mayor de edad, con un número reducido de alumnos
+entre 16 y 17 años. La asistencia del alumnado es regular y apenas existen problemas de
+disciplina.
+
+Datos del módulo profesional
+Denominación del título del ciclo de formación profesional: Técnico en Emergencias
+Sanitarias.
+Nivel del título: Ciclo formativo de grado medio
+Título MEC: REAL DECRETO 1397/2007, de 29 de octubre, por el que se establece el título
+de Técnico en Emergencias Sanitarias y se fijan sus enseñanzas mínimas.
+Currículo: ORDEN ESD/3391/2008, de 3 de noviembre, por la que se establece el currículo del
+ciclo formativo de Grado Medio correspondiente al título de Técnico en Emergencias
+Sanitarias.
+7
+
+Familia profesional: Sanidad
+Horas anuales título: 2000 h
+Módulo profesional: 0055 Atención Sanitaria inicial en situaciones de emergencia.
+Horas anuales del módulo: 224 h
+Horas semanales del módulo: 7 h
+
+2. Justificación del módulo profesional dentro del ciclo formativo.
+
+Se define emergencia sanitaria como una situación crítica de riesgo vital inminente en la que la
+vida de la persona está en evidente peligro y que requiere una actuación inmediata por parte de
+personal especializado. Un técnico de emergencias es una figura fundamental dentro de una
+cadena de socorro donde están presentes el vehículo y el personal sanitario. La pronta actuación
+de un técnico de emergencias, tanto en solitario como en colaboración con el resto del equipo,
+determina de manera importante la eficacia de la resolución de la emergencia. Para ello, el
+técnico debe ser capaz de actuar con agilidad, determinación y precisión y esto sólo es posible
+con los conocimientos teóricos y prácticos adecuados.
+Es imprescindible que además, un técnico de emergencias sea capaz de desarrollar con éxito
+habilidades interpersonales y psicosociales de manera que pueda realizar una comunicación
+efectiva tanto con los pacientes como con el resto del equipo sanitario, puesto que de ello
+depende gran parte del éxito de la resolución de los problemas, especialmente en cuanto a
+rapidez se refiere, punto fundamental en cuanto a la resolución de emergencias en materia de
+salud.
+En conjunto, la adecuada combinación de los conocimientos teórico-prácticos y de dichas
+habilidades psicosociales y comunicativas son el objetivo primordial de este ciclo.
+Para la atención inicial en situaciones de emergencia se requiere una pronta actuación y una
+valoración eficaz del problema. Esto supone en la mayor parte de los casos, el primer contacto
+con un paciente, antes de recibir la atención especializada en un centro hospitalario. Para ello
+no se puede desligar el conocimiento teórico práctico de las habilidades psicosociales para
+calmar, valorar y obtener la información de calidad necesaria para decidir el tipo de actuación
+en situaciones muy estresantes.
+La eficacia con la que se realicen esta serie de acciones iniciales puede determinar con muy alta
+probabilidad el buen pronóstico del paciente. En el caso de la asistencia avanzada en situaciones
+de emergencia, contenido que corresponde a otro módulo, generalmente el mayor peso en
+8
+
+importancia lo tiene una correcta actuación práctica de las maniobras que hay que ejecutar y
+esto generalmente viene como posterior a una valoración inicial en cualquier caso. Una correcta
+y eficaz valoración inicial desencadenará la correcta sucesión de decisiones y acciones a llevar
+a cabo.
+Recordemos que de entre las funciones principales que se encuentran dentro del título de grado
+medio de FP “Técnico en Emergencias Sanitarias”, encontramos: “aplicar técnicas de soporte
+vital básico ventilatorio y circulatorio en situación de compromiso y de atención básica inicial
+en otras situaciones de emergencia”, o lo que es lo mismo, dicho con otras palabras: saber
+reanimar a personas en riesgo vital y saber actuar en situación de las emergencias principales.
+He elegido el módulo de “Atención sanitaria inicial en situaciones de emergencia” precisamente
+por la importancia que tienen los conocimientos y habilidades que dentro de este módulo se
+imparten y desarrollan, y sin los cuales, no sería posible la existencia de la figura de técnico
+sanitario en emergencias como tal.
+
+3. Competencia general del título
+
+Según el Real Decreto 1397/2007, 29 de octubre, “la competencia general de este título consiste
+en trasladar al paciente al centro sanitario, prestar atención básica sanitaria y psicológica en el
+entorno pre-hospitalario, llevar a cabo actividades de tele operación y tele asistencia sanitaria,
+y colaborar en la organización y desarrollo de los planes de emergencia, de los dispositivos de
+riesgo previsibles y de la logística sanitaria ante una emergencia individual, colectiva o
+catástrofe”. [2]
+
+4. Competencias profesionales, personales y sociales
+
+Según el Anexo I del Real Decreto 1397/2007, 29 de octubre, las competencias profesionales,
+personales y sociales que se deben alcanzar con la impartición del módulo de Atención sanitaria
+inicial en situaciones de emergencia, son las que a
+continuación se exponen:
+b) Aplicar técnicas de soporte vital básico ventilatorio y circulatorio en situación de
+compromiso y de atención básica inicial en otras situaciones de emergencia.
+c) Colaborar en la clasificación de las víctimas en todo tipo de emergencias y catástrofes, bajo
+9
+
+supervisión y siguiendo indicaciones del superior sanitario responsable.
+k) Actuar en la prestación sanitaria y el traslado de pacientes o víctimas siguiendo los protocolos
+de protección individual, prevención, seguridad y calidad.
+o) Adaptarse a diferentes puestos de trabajo y nuevas situaciones laborales originados por
+cambios tecnológicos y organizativos en la prestación de los servicios.
+q) Participar en el trabajo en equipo, respetando la jerarquía en las instrucciones de trabajo. [2]
+
+5. Objetivos del módulo profesional
+
+Según el Anexo I del Real Decreto 1397/2007, 29 de octubre, se prevé que los objetivos
+generales del ciclo que se pretenden conseguir con las enseñanzas del módulo de Atención
+sanitaria inicial en situaciones de emergencia son los siguientes:
+c) Enumerar signos de gravedad, relacionándolos con criterios y protocolos de actuación, para
+clasificar a las víctimas.
+d) Reconoce los signos de compromiso vital, relacionando desviaciones de signos externos
+respecto de los parámetros normales para determinar el estado del paciente.
+e) Aplicar maniobras de reanimación cardiopulmonar y técnicas de asistencia sanitaria inicial,
+relacionando los síntomas con las maniobras y técnicas, para estabilizar al paciente.
+o) Analizar posibilidades de intervención identificando y valorando riesgos en siniestros y
+desastres para resolver problemas y tomar decisiones. [2]
+
+6. Resultados de aprendizaje, criterios de evaluación y contenidos básicos.
+
+A continuación, se detallan los resultados de aprendizaje y los criterios de evaluación
+correspondientes al módulo de Atención sanitaria inicial en situaciones de emergencia, y que
+han sido extraídos del Real Decreto 1397/2007, 29 de octubre:
+
+1. Reconoce los signos de compromiso vital relacionándolos con el estado del paciente.
+Criterios de evaluación:
+a) Se han descrito los procedimientos para verificar la permeabilidad de las vías aéreas.
+b) Se han identificado las condiciones de funcionamiento adecuadas de la ventilaciónoxigenación.
+10
+
+c) Se han descrito y ejecutado los procedimientos de actuación en caso de hemorragias.
+d) Se han descrito procedimientos para evaluar el nivel de consciencia del paciente.
+e) Se han tomado las constantes vitales.
+f) Se ha identificado la secuencia de actuación según protocolo establecido por el ILCOR
+(Comité Internacional de Coordinación sobre Resucitación).
+g) Se ha actuado con seguridad mostrando confianza en sí mismo.
+
+2. Aplica técnicas de soporte vital básico describiéndolas y relacionándolas con el objetivo a
+conseguir.
+Criterios de evaluación.
+a) Se han descrito los fundamentos de la resucitación cardiopulmonar básica e instrumental.
+b) Se han aplicado técnicas de apertura de la vía aérea.
+c) Se han aplicado técnicas de soporte ventilatorio.
+d) Se han aplicado técnicas de soporte circulatorio.
+e) Se ha realizado desfibrilación externa semiautomática.
+f) Se han aplicado medidas post-reanimación.
+g) Se han aplicado normas y protocolos de seguridad y de autoprotección personal.
+
+3. Aplica criterios de clasificación de víctimas relacionando los recursos existentes con la
+gravedad y la probabilidad de supervivencia.
+Criterios de evaluación:
+a) Se ha definido el concepto de triaje.
+b) Se han explicado los objetivos del primer y segundo triaje.
+c) Se han explicado los diferentes métodos de triaje inicial clasificándolos según su
+funcionamiento operativo.
+d) Se han aplicado un método de triaje simple para hacer la primera clasificación de las víctimas.
+e) Se ha descrito la codificación y la estructura de las tarjetas de triaje.
+f) Se han descrito los métodos de identificación de las víctimas.
+g) Se ha priorizado la evacuación de las víctimas seleccionando el medio de transporte
+adecuado.
+h) Se han tomado decisiones con rapidez.
+11
+
+4. Clasifica las acciones terapéuticas en la atención a múltiples víctimas, relacionándolas con
+las principales lesiones según el tipo de suceso.
+Criterios de evaluación.
+a) Se ha identificado el ámbito de intervención.
+b) Se ha valorado la información para iniciar el proceso asistencial.
+c) Se han descrito los objetivos terapéuticos generales en la medicina de catástrofe.
+d) Se han explicado las acciones terapéuticas que se ejecutan en cada sector asistencial.
+e) Se ha relacionado la naturaleza de la catástrofe con los mecanismos “lesiones”.
+f) Se han descrito las principales lesiones según el tipo de catástrofe. g) Se ha definido la cadena
+de supervivencia y se ha precisado la unidad de cada uno de sus eslabones.
+h) Se ha relacionado la información recibida con el procedimiento de intervención. [2]
+
+Respecto a los contenidos básicos, el módulo cuenta con:
+1. Reconocimiento de los signos de compromiso vital:
+-
+
+Fisiopatología del proceso respiratorio.
+
+-
+
+Fisiopatología de la circulación.
+
+-
+
+Fisiopatología neurológica: alteraciones del nivel de consciencia.
+
+-
+
+Signos de compromiso vital en adulto, niño y lactante.
+
+-
+
+Proceso de valoración ABC (Airway Breathing Circulation).
+
+-
+
+Toma de constantes vitales.
+
+-
+
+Valoración del nivel de consciencia.
+
+-
+
+Protocolos de exploración.
+
+-
+
+Actuación con seguridad mostrando confianza en sí mismo.
+
+2. Aplicación de técnicas de soporte vital básico:
+- Parada cardiorrespiratoria.
+- Control de la permeabilidad de las vías aéreas.
+- Electrofisiología cardiaca básica. Trastornos del ritmo cardiaco.
+- Resucitacióno cardiopulmonar básica e instrumental.
+- Indicaciones del soporte ventiatorio.
+12
+
+- Técnicas de apertura de la via aérea.
+- Permeabilización de la vía aérea con dispositivos orofaríngeos.
+- Técnicas de limpieza y desobstrucción de la vía aérea.
+- Desfibrilación externa semiautomática (DEA)
+- Medidas post-reanimación
+- Aplicación de normas y protocolos de seguridad y de autoprotección personal.
+
+3. Clasificación de las víctimas.
+-
+
+El triaje
+
+-
+
+Primer y segundo triaje.
+
+-
+
+Puesto de triaje.
+
+-
+
+Valoración por criterios de gravedad.
+
+-
+
+Clasificación de métodos de triaje inicial según su fundamento operativo.
+
+-
+
+Categorización de las víctimas y procedimiento de etiquetado.
+
+-
+
+Codificación y estructura de las tarjetas de triaje.
+
+-
+
+Toma de decisiones con rapidez.
+
+4 .Clasificación de las acciones terapéuticas en la atención a múltiples víctimas:
+-
+
+Urgencia y emergencia.
+
+-
+
+Sistema Integral de Urgencias y Emergencias (SIE)
+
+-
+
+Decálogo Prehospitalario.
+
+-
+
+Cadena de supervivencia.
+
+-
+
+Mecanismos lesionales según la naturaleza de la catástrofe.
+
+-
+
+Objetivos terapéuticos generales en la medicina de catástrofe.
+
+-
+
+Objetivos terapéuticos en las áeras de rescate, socorro y base. [3]
+
+7. Atención a la diversidad
+
+La atención a la diversidad en la Comunidad Autónoma de Canarias está regulada en la Orden
+de 13 de diciembre de 2010 del Boletín Oficial de Canarias.
+Es una Orden extensa donde describe de manera detallada en cada artículo las disposiciones
+13
+
+necesarias para la detección temprana, la identificación, la evaluación, el informe
+psicopedagógico, las medidas extraordinarias, etc.
+Hago especial mención del Artículo 10 sobre la “realización de las adaptaciones del currículo
+en otras etapas y modalidades educativas” donde se especifica en el punto 2 cuáles son las
+instrucciones para la formación profesional en el contexto de NEAE.
+En él especifica lo siguiente:
+-
+
+En formación profesional, las adaptaciones no supondrán la desaparición de objetivos
+relacionados con las competencias profesionales necesarias para el logro de la competencia
+general a que se hace referencia en cada uno de los títulos.
+
+-
+
+Los programas de cualificación profesional inicial adaptados están destinados a los jóvenes
+escolarizados con necesidades educativas especiales, con un nivel de autonomía personal y
+social que les permite acceder a un puesto de trabajo, que requieran de una adaptación de la
+modalidad ordinaria.
+
+-
+
+Se autoriza a los alumnos y alumnas con necesidades educativas especiales asociadas a
+discapacidad, a cursar en régimen presencial las actividades programadas para un mismo
+módulo profesional un máximo de cuatro veces, y a presentarse a la evaluación y calificación
+final, incluidas las ordinarias y las extraordinarias, un máximo de seis veces.
+
+Destaco también lo expresado en el Artículo 10 donde describe que el Plan de Atención a la
+Diversidad “es el documento que formando parte del Proyecto Educativo, recoge el conjunto
+de actuaciones, los criterios generales para la elaboración de las adaptaciones del currículo, las
+medidas organizativas, preventivas y de intervención que un centro diseña, selecciona y pone
+en práctica para proporcionar la respuesta más ajustada a las necesidades educativas, generales
+y particulares de todo el alumnado…”
+En él se explica que debe adaptarse a la realidad del centro y se deben especificar los objetivos,
+medidas y recursos que el centro dispone, así como el procedimiento de seguimiento,
+evaluación y revisión de dicho plan.
+Así, al inicio del curso escolar, cada centro deberá concretar, en su programación general anual,
+cuales son los criterios y procedimientos previstos para gestionar la atención a la diversidad del
+alumnado, teniendo en cuenta los recursos disponibles. [4]
+
+14
+
+7.1 Atención a la diversidad en el centro
+
+En el Proyecto de Dirección que el CIFP Los Gladiolos expone a través de su sitio web oficial,
+se recogen las medidas que adopta para la gestión de la atención a la diversidad en el centro.
+En él, explica que en el centro la diversidad es una realidad que se afronta activamente y que
+se gestiona a través del Departamento de Información y Orientación Profesional (DIOP), con
+el Plan de actuación a la diversidad.
+En la “Zona Compartida” y en el Aula virtual, ambas exclusivas del profesorado, existe a
+disposición un documento diseñado por el DIOP con las indicaciones para realizar las
+necesarias adaptaciones de acceso al currículo para el alumnado con sordera, asperger, TDAH.
+Para el alumnado que requiera adaptaciones, existe una persona del DIOP, responsable de
+coordinar su seguimiento con el profesorado tutor, resto del equipo docente, equipos de
+orientación específica, etc.
+Igualmente, informa sobre el protocolo de acompañamiento al alumnado “Trans”, y sobre la
+atención a la diversidad de género y de la atención en el aula de la disforia de género.
+El Plan de Atención a la Diversidad informa de las siguientes medidas aplicadas en el centro:
+• Detección de necesidades del alumnado en el seno de los equipos educativos y adaptación
+metodológica de las actividades de aprendizaje en el aula con la colaboración de Jefatura de
+estudios y el Departamento de Información y Orientación profesional -DIOP- puntualmente.
+En las reuniones del equipo educativo se recogerán en acta las necesidades que se presenten y
+las medidas a adoptar por el equipo docente. En la siguiente reunión se evaluarán los resultados
+de las medidas adoptadas pudiendo continuar su aplicación, modificarlas o finalizar si se
+superan las dificultades.
+• Favorecer reuniones de equipos docentes y Jefatura de estudios, con la colaboración del DIOP
+y Departamentos Didácticos implicados y solicitando la visita de profesionales externos
+especialistas con responsabilidad en medidas de atención al alumnado con discapacidad o
+dificultades de aprendizaje.
+• Los/as tutores/as recogerán las necesidades desde: la dirección, directamente desde el
+alumnado o reuniones con el equipo educativo.
+• Propuestas de actividades de recuperación y refuerzo para aquellos alumnos/as con
+dificultades de aprendizaje por parte de los departamentos didácticos.
+• Cada profesor o profesora incluirá en su programación del módulo profesional el plan de
+actividades de apoyo para alumnos/as con dificultades de aprendizaje, una vez que se ha
+15
+
+detectado.
+Especifica que tal y como se recoge en la Orden de 13 de diciembre de 2010, las adaptaciones
+curriculares serán individuales y las realizará el equipo educativo coordinado por el tutor o
+tutora, jefatura de estudios y el DIOP. El profesorado del módulo o módulos que precisen
+adaptación deben estar implicados, supone una parte primordial para llevar a cabo el plan con
+éxito.
+Respecto al proceso de evaluación, éste también será adaptado, esto significa que se deben
+adoptar algunas de las siguientes medidas: adaptar las actividades de evaluación acorde a las
+circunstancias físicas del alumnado, por ejemplo, orales o con el apoyo de las TIC, realizar estas
+actividades de evaluación con mecanismos diferentes a los usuales, aumentar la cantidad de
+actividades de evaluación pero pudiendo tener una duración limitada. En todo caso, todos los
+contenidos deben ser evaluados a pesar de las adaptaciones en el proceso de evaluación. [1]
+
+8. Metodología u orientaciones metodológicas.
+
+La metodología que vamos a seguir será la de una metodología ecléctica y nuestro principal
+objetivo será que nuestros alumnos alcancen todas las competencias necesarias. Esto quiere
+decir, que ya no nos centraremos únicamente en la enseñanza teórica que no prevé la
+experimentación práctica, ni en enseñanzas puramente técnicas que no prevén haber aprendido
+los fundamentos que respaldan las acciones que un profesional lleva a cabo en su profesión. El
+papel del técnico en un equipo de emergencias es sumamente fundamental para la resolución
+de la misma. Se pretende con esto que el alumnado entienda perfectamente el significado del
+papel que ejerce y de todo aquello que realizará en su profesión, con plena responsabilidad y
+total confianza en su profesionalidad. Esto viene apoyado por la puesta en práctica de las
+enseñanzas impartidas durante todo el tiempo que dura la formación.
+Pero antes de seguir adelante, debemos establecer firmemente los principios metodológicos
+básicos sobre los que construimos la metodología y estrategias de enseñanza:
+Los métodos de enseñanza son ampliamente responsabilidad del profesor. No obstante, existen
+algunos principios metodológicos básicos que deberemos tener en cuenta para una aplicación
+coherente del currículo establecido. Estos principios giran en torno a los principios básicos del
+constructivismo. El constructivismo se basa en la idea de que es la actividad constructiva del
+alumno la que construye su conocimiento y, donde la intervención pedagógica del profesor debe
+crear las condiciones adecuadas para que aprendizaje se lleve a cabo con éxito. El profesor es
+el "Gran Ayudante" que ayudará a los alumnos a llegar hasta donde ellos no pueden solos.
+16
+
+Debemos tener en cuenta lo siguiente:
+Partir del nivel de desarrollo del alumnado y de sus características generales. Tenemos que tener
+en cuenta los conocimientos previos del alumno/a. Cuando un alumno o alumna se enfrenta a
+un nuevo aprendizaje lo hace desde lo que ya sabe. Si no lo hacemos así, los estudiantes no
+construirán un aprendizaje significativo. El hecho de identificar las características generales de
+un grupo nos ayudará a adaptarnos al alumnado para garantizar que la comunicación sea
+efectiva, para ello podemos adecuar el lenguaje que utilicemos a las características del grupo.
+Un aprendizaje significativo significa que el aprendizaje es funcional y práctico en ese
+momento y por lo tanto operativo. Para que el aprendizaje sea significativo, en primer lugar, el
+contenido a aprender debe ser potencialmente significativo, es decir, lógico y coherente y ser
+adecuado y adaptado a las posibilidades de aprendizaje del alumno.
+En segundo lugar, el estudiante debe estar motivado para aprender de forma significativa. Si
+los alumnos/as no están motivados, no se esforzarán en construir su aprendizaje. Todo esto
+demuestra que no podemos presentar a los alumnos/as contenidos que estén muy por encima de
+su nivel de competencia, ni muy por debajo, ya que esto les desanimará y desmotivará e influirá
+negativamente en su proceso de aprendizaje.
+Nuestra selección de contenidos debe tener en cuenta su nivel de competencia, así como sus
+necesidades e intereses. Esta selección de contenidos se impartirá con el uso de variados
+recursos didácticos y material adecuado junto con actividades variadas y utilización de
+diferentes instrumentos de evaluación. El dominio y el uso de las TIC como recurso didáctico
+docente es primordial hoy en día así que debe ser una herramienta de uso habitual por la amplia
+oferta de posibilidades y facilidades que nos pueden proporcionar.
+El aprendizaje significativo requiere un papel activo por parte del alumnado. Papel activo que
+no emprenderá a menos que la selección de contenidos haya tenido en cuenta sus conocimientos
+previos, sus necesidades e intereses y sus capacidades y estilos de aprendizaje. Parte del papel
+del profesor es promover un clima de confianza que fomente la participación activa.
+Aprender a aprender será uno de nuestros principales objetivos para hacer que nuestros alumnos
+y alumnas sean autónomos y esto requiere ayudarles a aprender por sí mismos. Para ello se debe
+promover la iniciativa, la autonomía y el trabajo en grupo. Esto se consigue prestando atención
+a la adquisición de estrategias cognitivas como la planificación, la autocorrección, el
+establecimiento de metas y objetivos a principio de curso, etc.
+
+17
+
+Modelos de enseñanza y metodologías.
+Durante el desarrollo de las diferentes unidades de trabajo a lo largo del curso, se incluirá el
+uso de diversos modelos de enseñanza que se irán alternando o repitiendo según necesidad. Se
+aporta así, variedad de posibilidades de desarrollar el proceso de enseñanza que facilite la
+adquisición de conocimientos y destrezas al alumnado.
+La simulación: Trata de situar al alumnado en un contexto que imite algún aspecto de la realidad
+y en establecer en este ambiente, situaciones similares a las que se deberá enfrentar en un futuro.
+Se logra así, entrenar y lograr que sean capaces de actuar cuando se den las situaciones reales
+durante el desarrollo de su profesión. La simulación es un modelo muy utilizado importante en
+los procesos de aprendizaje de este ciclo. A través de simulaciones se pueden llevar a la práctica
+conocimientos teóricos, fomentando así el aprendizaje significativo del alumnado y la
+autonomía del mismo. Generalmente se usa la simulación para recrear diversas situaciones de
+emergencia de diferente tipo y en diferentes contextos en los que deban desarrollar todo el
+proceso que deberían realizar en una situación real: llegada con el vehículo, evaluar, razonar,
+decidir, interactuar en equipo, llevar a cabo técnicas prácticas para la resolución de la
+emergencia, tales como reanimación cardiopulmonar, técnicas de inmovilización de pacientes,
+movilización de pacientes, entre otras. Generalmente, muchas de las simulaciones debido a la
+complejidad de las situaciones recreadas, requieren de varias personas por lo que, como ya he
+nombrado anteriormente, se resuelven en grupo debiendo a menudo realizar juego de roles.
+Cabe resaltar que en ocasiones se realizarán simulaciones con el apoyo de herramientas TIC
+gracias a programas informáticos.
+Enseñanza no directiva: El alumnado es libre para explorar problemas, para decidir la respuesta
+y tomar decisiones, según un criterio personal. El profesorado no interviene.
+A la hora de enfrentarse a las emergencias sanitarias, es común que los alumnos duden de su
+propia capacidad para afrontarlas. A pesar de las numerosas prácticas y técnicas aprendidas, los
+alumnos de este ciclo pueden sentirse temerosos de las situaciones reales por la gran
+responsabilidad que estas implican. El modelo de enseñanza no directiva es útil para explorar
+y liberar sus emociones al respecto, en grupo o individualmente, con la escucha activa del
+profesor. Esto suele calmar y afianzar la motivación y confianza al darse cuenta de que es un
+sentimiento común y recordarles que están siendo preparados para poder afrontarlas.
+Enseñanza directiva: A lo largo de la formación que se imparte en este ciclo, es primordial el
+aprendizaje de numerosas técnicas muy específicas que el alumnado debe aprender y sin el cual
+no estarían preparados para afrontar la profesión. Por ello se hace necesaria la aplicación de
+múltiples estrategias para que desarrollen las habilidades prácticas requeridas. Una de ellas se
+18
+
+recoge en el modelo de enseñanza directiva de la familia de modelos conductuales, a través del
+cual el alumno realiza un entrenamiento de habilidades y destrezas: para ello el docente muestra
+primero el procedimiento combinando práctica, explicación de conceptos y demostración de
+habilidades. Esta demostración se centra en el docente pero esto no significa que los alumnos/as
+sean pasivos. Durante todo el proceso los estudiantes se retroalimentan e interactúan, el
+profesorado usa preguntas y ejemplos. Posteriormente se realiza una práctica guiada donde los
+estudiantes prueban el nuevo contenido con la supervisión del docente en interacción continua
+para apoyar y resolver dudas durante la realización de la misma y, por último los alumnos/as
+realizan una práctica autónoma, con supervisión pero con menos ayuda por parte del docente.
+En este ciclo nos sirve para mostrar técnicas muy precisas con materiales muy específicos con
+el que el alumnado debe por fuerza familiarizarse y manejar con soltura al final de la formación.
+No es suficiente la visualización de las técnicas puesto que esto también se podría realizar con
+la visualización de vídeos (pueden servir como refuerzo sin embargo). La enseñanza directiva
+se puede realizar para aprender la toma de constantes vitales (uso de fonendoscopio
+esfingomanómetro, pulsioxímetro, etc), técnicas de reanimación cardiopulmonar básica y con
+desfibrilador semiautomático, las técnicas de inmovilización y de movilización de un paciente
+(colocación de cintas, collarín, férulas, monitorización cardiaca, colocación en camilla, cambios
+de posición de pacientes en condiciones de seguridad con el uso de maniquíes, etc).
+Investigación grupal: Los estudiantes se organizan en grupos para abordar juntos una tarea de
+investigación. Esto está claramente relacionado con el aprendizaje basado en proyectos y el
+aprendizaje basado en problemas. Sirve fundamentalmente para expresar, reflexionar, organizar
+y compartir conocimientos, experiencias y sentimientos, sirviendo en general como punto de
+partida para trabajos posteriores de análisis, contrastar con otras informaciones, abordando
+sobre todo los objetivos y contenidos, aunque también habilidades. Lo importante es la
+interacción del alumnado y la construcción colaborativa del conocimiento.
+En este ciclo se propone este tipo de modelo especialmente para el desarrollo de casos prácticos.
+El docente expone un caso práctico (que puede ser el mismo para todos los grupos o bien uno
+diferente por grupo). En el caso práctico se expone un problema en toda su complejidad como
+puede ser una situación de emergencia en particular. Para realizar la investigación grupal el
+problema planteado debe tratarse de una situación de emergencia que el alumnado no conozca
+y no tenga conocimientos previos sobre cómo resolverla. Conjuntamente desarrollarán la
+investigación para el abordaje y resolución de la emergencia que luego expondrán al resto de
+los grupos, de esta manera, en el caso de que todos hayan resuelto el mismo caso práctico, se
+realizará la confrontación de varias posibles respuestas válidas aunque diferentes, y en el caso
+19
+
+de haber realizado investigaciones de diferentes casos prácticos, se tendrá la oportunidad de
+aprender a través de sus propios compañeros. Esto es a su vez motivador, promueve la
+autonomía y confianza de los alumnos.
+Juego de roles: método de aprendizaje cooperativo que permite representar situaciones que
+pueden darse en la realidad. Es un modelo de enseñanza social en la que los estudiantes asumen
+diferentes roles que pueden ser apoyados con un guión previo o bien libres. El alumnado así, se
+acerca a una posible situación real en la que se debe responsabilizar de su actuación profesional,
+o darse cuenta de cómo se pueden sentir las personas en otros roles (el miedo, desinformación,
+dolor, que puede sufrir un paciente, familiares, responsabilidad del equipo médico y enfermero,
+necesidad de comunicación efectiva con los teleoperadores del 112, etc). Sirve por tanto para
+desarrollar empatía y para darse cuenta de la importancia de cada rol y del trabajo en equipo.
+Se suele plantear una situación de emergencia contextualizada de manera lo más cercana a la
+realidad posible. En ellas se sitúan todos los alumnos y alumnas cada uno con su rol y recrean
+la situación. En el proceso deben interactuar según como ellos creen que harían en la realidad
+utilizando el material necesario. Por ejemplo, la simulación de dos técnicos de emergencias que
+acuden a la llamada de emergencia ante un accidente en vía pública con víctimas de diferente
+gravedad, familiares y otros transeúntes no accidentados. Realmente en el juego de roles se
+entremezcla con el modelo de simulación, por ser similares. A su vez, a menudo sirve para
+poner en práctica lo aprendido a través de la enseñanza directiva y no directiva o de
+investigación grupal, y con ello reforzar los conocimientos adquiridos.
+Método inductivo - básico: La principal herramienta es la inducción, una forma de pensamiento
+que se pone en práctica al sacar conclusiones a partir de la experiencia. El alumnado analiza la
+información y los datos que les ha proporcionado el docente o bien el obtenido como resultado
+de sus investigaciones. Se analizan y realizan interconexiones y reflexiones de los mismos para
+sacar conclusiones más allá del manejo concreto de la información obtenida.
+En este ciclo es útil cuando queremos que el alumnado conozca las características de materiales
+concretos, la diferencia entre los diferentes tipos de prioridades en las emergencias sanitarias y
+la clasificación de las mismas, para establecer un análisis de lo que se ha desarrollado
+previamente durante juegos de roles o de una simulación y sacar conclusiones útiles para el
+aprendizaje.
+Expositivo: Consiste en la transmisión de información, conocimientos, en presentación oral
+como recurso principal, por parte del docente hacia los estudiantes de un tema, lógicamente
+estructurado. Se puede exponer la información de manera dogmática, en la cual el mensaje no
+puede ser contestado o abierta, el mensaje es un simple pretexto para iniciar la participación de
+20
+
+la clase.
+En nuestro caso, usaremos este modelo en algunas ocasiones sobre todo para realizar la
+introducción de temas complejos a modo de simplificación y contextualización y siempre de
+una posición didáctica abierta, en la que el alumnado puede interactuar con el profesorado que
+imparte. Es el caso de ciertos temas como la RCP básica e instrumental. Se tratará en cualquier
+caso, de limitar el uso de este recurso didáctico.
+Organizadores previos: El profesorado suministra mucha información, organizada y explicada.
+Un organizador previo es un material o información que sirve para sintetizar, esquematizar y
+contextualizar sobre algún tema amplio y complejo. Esto facilita al alumnado la asimilación
+de información nueva.
+Usaremos organizadores previos de manera introductoria y con carácter expositivo, para
+exponer una idea general compleja de manera esquematizada como por ejemplo pueden ser las
+Fases del Decálogo Prehospitalario.
+
+Agrupamientos y espacios
+Estamos ante un currículo centrado en el alumno, por lo que el profesor ya no es el centro de la
+clase. Esto implica que la organización de nuestra clase reflejará también este principio
+agrupando a los alumnos en clase de modo que favorezca la interacción y haga que nuestras
+clases estén menos centradas en el profesor.
+La organización del alumnado en el aula y del espacio debe favorecer los principios
+metodológicos mencionados anteriormente. Por tanto, no podemos perder de vista que nuestro
+objetivo principal es que los alumnos se comuniquen de manera eficaz y esto, como decíamos
+antes, se va a llevar a cabo mediante una variedad de tareas que favorezcan la comunicación;
+pero también por la disposición de las aulas no centradas en el profesor sino en el alumno; y
+también mediante una organización espacial y de aula abierta y flexible: trabajo por parejas,
+trabajo en grupo e interacción global de la clase (profesor-alumno, alumno-alumno y alumnoprofesor). Así pues, la disposición cambiará dependiendo del tipo de clase que se vaya a dar y
+de las necesidades de las mismas. En las diferentes unidades de trabajo del módulo
+necesitaremos diferentes espacios. Haremos uso por lo tanto, según sea la Unidad de Trabajo
+que se trate, de los recursos espaciales disponibles en el centro: esto es, usaremos el aula
+principal, el aula taller general, el aula taller específico sanitario, el aula de informática, el salón
+de actos, las canchas.
+Teniendo en cuenta todos estos aspectos, hemos organizado a los alumnos en forma de U
+siempre que sea posible en el aula principal, para despejar el campo visual; en segundo lugar,
+21
+
+la interacción profesor-alumno y, por último, la interacción global de la clase para la resolución
+de problemas, ejercicios y debates.
+La forma U permite al profesorado observar a los alumnos y a los alumnos observar al profesor
+y a los demás compañeros, no es excluyente ni coloca en situación de privilegio o desventaja a
+ningún alumno (un ejemplo podría ser la excesiva lejanía de un alumno en una disposición al
+estilo auditorio en filas horizontales, la cual desconecta al alumno del foco de atención, crea
+por tanto problemas de comunicación o bien puede influenciar negativamente en su aprendizaje
+y participación la incomodidad visual o auditiva que pueda sufrir por su situación, y por la tanto
+en su motivación además)
+Esta disposición en forma de U permite las actuaciones de la clase con mayor precisión, ya que
+puede moverse libremente por la clase. El hecho de permitir verse las caras favorece la
+comunicación entre todos y sitúa a todos en una mayor situación de igualdad. Por último, hay
+que señalar que esta organización es flexible, lo que significa que a conveniencia del profesor/a
+puede ser fácilmente modificable.
+A lo largo del desarrollo del módulo precisaremos de espacios diferentes con frecuencia, sobre
+todo para desenvolver las actividades prácticas. La organización espacial del alumnado en estos
+contextos dependerá también del tipo de actividad y agrupamiento que se vaya a realizar.
+
+9. Procedimientos de evaluación
+La evaluación es un proceso sistemático de recogida de la información que se precisa para crear
+juicios de valor sobre una situación. Se consigue con la ejecución de un conjunto de actividades
+programadas para recoger dichos datos. A partir de esto, tanto profesores como estudiantes
+reflexionan y toman decisiones para su mejora.
+Existen varios tipos de evaluación. Aplicaremos una combinación de varias durante la duración
+del módulo. Por un lado la Evaluación Inicial, es la que se realiza al inicio de cada fase de
+aprendizaje, con el objetivo de conocer el nivel de conocimientos previos del alumnado y así
+poder establecer el nivel de los contenidos de enseñanza que se van a seleccionar. Puede tener
+también una función introductoria, en cuanto a que acerca a los alumnos al tema sobre el que
+se va a trabajar y a su vez así, una función motivadora.
+La evaluación continua, es la que, como su nombre orienta, se realiza de manera continuada,
+se realiza pues, a lo largo de todo el proceso de aprendizaje. La finalidad es obtener la mayor
+información significativa del alumnado para conocer mejor el aprendizaje alcanzado. Se
+pretende con la evaluación continua, cambiar la anterior tendencia a relacionar evaluación con
+realización de examen y evaluación como calificación final del alumno donde se daban además
+22
+
+pocas o una única oportunidad para obtener un resultado final que limitaba la posibilidad de
+evaluar de manera realista el auténtico proceso de aprendizaje del alumno.
+La evaluación criterial trata de evaluar el progreso del alumno desde que se realizó la
+evaluación inicial y se establecieron las metas en base a ésta. Compara cuál ha sido el progreso
+personal que ha tenido desde entonces, esto se hace independientemente de cuáles han sido los
+progresos del resto de sus compañeros.
+Hablamos de evaluación formativa hace alusión a la función educativa y orientadora de la
+evaluación que se realiza a lo largo de todo el proceso de aprendizaje. Realizando un
+seguimiento de la evaluación desde inicio a fin y analizando el proceso previamente, durante y
+al finalizar, hace a los alumnos conscientes de sus propias necesidades y actúa en cierto modo
+como guía para alcanzar las metas de aprendizaje pretendidas. Así, se pueden establecer
+mejoras, refuerzo de puntos débiles en el proceso, refuerzo positivo y reorientación durante el
+proceso si lo precisa.
+Evaluación global: Consiste en hacer una valoración general, sintética, de todo el conjunto de
+los elementos y procesos que se quieren evaluar.
+Evaluación cualitativa: Evalúa la calidad de las situaciones educativas que se han desarrollado
+a lo largo del proceso de aprendizaje, es decir, interpreta el clima general, el entorno educativo,
+que se ha creado en el aula.
+La suma de todas las evaluaciones que se realizan durante el proceso de aprendizaje, y que se
+realiza al final del mismo, da lugar a la evaluación final.
+
+Según lo redactado por la Orden del 20 de octubre de 2000 del BOC, la evaluación en la
+Formación Profesional se va a realizar durante todo el proceso de enseñanza - aprendizaje del
+alumnado. Para ello, la programación de cada módulo profesional debe tener en cuenta que las
+actividades de enseñanza-aprendizaje que se realizarán lo van a ser también de evaluación.
+En Formación Profesional el proceso de evaluación debe tener en cuenta que los instrumentos
+y herramientas de evaluación deben permitirnos obtener los datos que hacen falta para
+comprobar que el alumnado ha adquirido el aprendizaje necesario para poder desenvolver las
+capacidades que se requieren para la profesión. Debe hacer hincapié por lo tanto, en los
+aprendizajes aplicables a la práctica en el puesto de trabajo. No es suficiente solo con “saber”.
+Respecto al objeto de la evaluación, “qué evaluar”, son las capacidades lo que debe constituir
+objeto de evaluación. La evaluación del Ciclo Formativo será continua, formando parte del
+proceso educativo. Por medio de la evaluación continua, obtenemos la información necesaria
+23
+
+acerca del proceso de enseñanza-aprendizaje que se está realizando y podemos tomar las
+medidas adecuadas sobre la base de los resultados obtenidos.
+Para que la evaluación continua sea lo más eficaz posible se intentará utilizar los procedimientos
+más variados posibles y adecuados a los diferentes módulos, de tal manera que una evaluación
+no para clasificar al alumnado, para compararlos entre sí o con respecto a una norma genérica,
+sino que se evalúa para orientar al propio alumno/a y para guiar el proceso de enseñanza y
+aprendizaje. Igual que no hay verdadera intervención educativa sin evaluación, tampoco hay
+verdadera evaluación educativa sin intervención.
+El proceso evaluativo se realizará de acuerdo con la normativa vigente en esta materia, Orden
+de 20 de octubre de 2000, por la que se regulan los procesos de evaluación de las enseñanzas
+de la Formación Profesional Especifica en el ámbito de Comunidad Autónoma Canaria. (BOC
+no 148 de 10.11.2000) y Orden de 3 de diciembre de 2003. REAL DECRETO 1538/2006, de
+15 de diciembre, por el que se establece la ordenación general de la formación profesional del
+sistema educativo. Así, el diseño específico de la evaluación de cada ciclo formativo se guiará
+por las siguientes pautas generales:
+1.- En el proceso de evaluación se contará con las informaciones y calificaciones que aporte el
+profesorado así como el departamento de orientación
+2.- Las calificaciones se formularán en cifras de 1 a 10, sin decimales. La nota media final del
+ciclo se expresará en cifras de 1 a 10 con una cifra decimal. Serán positivas las notas igual o
+superior a cinco puntos.
+3.- En el primer curso se realizará, al menos, cuatro sesiones de evaluación a lo largo del curso.
+La primera será una evaluación inicial, sin calificación, con el objetivo de obtener una mayor
+información y conocimiento del alumnado y del grupo, intercambiando información entre los
+miembros del equipo docente. La última sesión tendrá un carácter de evaluación final. Para
+aquellos alumnos y alumnas que no hubieran superado todos los módulos en la evaluación final
+del periodo lectivo se celebrará una sesión para los módulos pendientes.
+4.- La evaluación será continua y requiere la asistencia regular del alumno o alumna a las clases
+y actividades programadas.
+5. - Se garantiza la presencia del alumnado en las sesiones de evaluación: Si el tutor/a previa
+sesión de tutoría con el alumnado ven la necesidad de asistir a la sesión de evaluación, se
+garantizará al comienzo de la sesión de evaluación, en los 15 primeros minutos, el que asistan
+cómo máximo dos representantes del grupo (siendo aconsejable que uno/a de ellos/as sea el
+delegado/a del curso).
+24
+
+6. - Se debe garantizar la presencia del alumnado en las sesiones de evaluación si así lo estiman.
+Pueden acudir un máximo de dos representantes de los estudiantes durante los primeros 15 min
+de la sesión.
+7. Los criterios de evaluación y calificación de cada módulo deberán estar redactados con la
+máxima claridad y estar a disposición de todos los alumnos y alumnas
+
+9.1 Procedimientos de Evaluación
+
+El módulo tendrá una evaluación continua e individualizada. El alumno/a deberá tener una
+asistencia regular a clase para poder acogerse a esta evaluación continua. Deberá realizar los
+trabajos teóricos y prácticos programados durante el desarrollo de este módulo.
+A continuación, se expondrán los aspectos a tener en cuenta por parte del profesorado a la hora
+de evaluar al alumno/a:
+Asistencia a clases teóricas.
+ Asistencia a las prácticas.
+ Asistencia a las actividades extraescolares y complementarias.
+ Calificación obtenida por el alumno/a en todas las pruebas escritas.
+ Realización y calificación obtenida por el alumno/a en las prácticas propuestas.
+ Realización y calificación obtenida por el alumno/a en los proyectos de grupo.
+
+El alumno deberá tener una asistencia mínima del 80 % a las clases impartidas en este módulo,
+esto quiere decir, que no se aceptará la falta de más del 20 % de clases. Se aplicará el mismo
+criterio sobre la asistencia a las prácticas y/o visitas que se realizarán fuera del centro. Solo se
+entenderá como falta justificada, aquellas que el alumno justifique con un parte médico o
+cualquier otro documento firmado por el padre, madre o tutor legal que indique el motivo por
+el cual el alumno ha faltado a su clase.
+Para evaluar la progresión del proceso de aprendizaje de los estudiantes, usaremos los siguientes
+procedimientos:
+- Cuaderno de trabajo
+- Pruebas orales y/o escritas
+- Realización de prácticas
+- Realización de Trabajos
+25
+
+- Realización de exposiciones orales individuales y grupales.
+
+9.2 Instrumentos de Evaluación
+
+Los instrumentos de evaluación que usaremos dependerá del tipo de actividad que se va a
+realizar para valorar el grado de conocimiento/competencia del alumno:
+El cuaderno de trabajo: el alumnado realizará un cuaderno con ejercicios del temario y un diario
+escrito de prácticas, de manera individual.
+Para las pruebas orales y/o escritas: los estudiantes realizarán exámenes escritos de diversos
+tipos (desarrollo, tipo test, resolución de casos prácticos) y exámenes orales (de desarrollo, que
+puede ser la descripción de una secuencia práctica, la resolución razonada de un caso práctico).
+Éstos se realizarán a la finalización de cada trimestre pero se realizarán exámenes cortos al final
+de algunos bloques principales más largos a modo de autoevaluación.
+Para la realización de prácticas: se prevé que los alumnos realicen numerosas actividades de
+tipo práctico, como son los talleres de signos vitales en parejas, taller de apertura de vía aérea
+en parejas, práctica de RCP en grupos, juego de roles de casos prácticos con material específico
+en grupos, simulacro emergencia con técnicos de la Cruz Roja), desarrollo de protocolos de
+emergencia en grupo.
+Para la realización de trabajos: la creación de un informe escrito con caso práctico elaborado
+en grupos de 3 alumnos/as.
+La realización de exposiciones orales individuales y grupales: exposición oral para toda la clase
+de las resoluciones de casos prácticos diversos propuestos por la docente.
+Las herramientas principales de evaluación que usaremos son:
+-
+
+La rubrica para todo el material escrito.
+
+-
+
+La checklist para las prácticas, exposiciones orales y exámenes orales.
+
+-
+
+Así mismo, el docente llevará un diario de clases donde se aportará además, un registro
+anecdótico de las incidencias y del ambiente en clase.
+
+9.3 Criterios de Calificación
+
+Los alumnos/as serán calificados/as al finalizar cada uno de los tres trimestres programados.
+Como ya nombramos anteriormente, la valoración inicial carece de calificación por lo que no
+cuenta. Al finalizar los tres trimestres, la última evaluación será la final y tendrá en cuenta todas
+26
+
+las evaluaciones realizadas durante el curso.
+La nota podrá variar desde el 1 hasta el 10. El alumno/a habrá superado el módulo si la nota
+final obtenida es superior al 5.
+Para realizar la nota media de cada trimestre, se tendrán en cuenta los siguientes aspectos.
+1. La nota que el alumno haya obtenido en las pruebas escritas, y exámenes tanto escritos como
+orales, vale un 60 %.
+2. La nota que el alumno haya obtenido referente a las prácticas a lo largo del trimestre, 40 %.
+Los criterios anteriormente expuestos para poder realizar la nota media, serán de aplicación
+para todos aquellos alumnos que cumplan con los requisitos, de manera que su incumplimiento
+supondrá la no superación del módulo:
+ Aprobar la totalidad de las pruebas escritas y exámenes.
+ Aprobar la totalidad de las pruebas prácticas.
+
+Tanto en pruebas escritas como en las prácticas, supone la superación de la misma una
+puntuación superior a 5 sobre 10.
+
+9.4 Recuperación
+
+Los alumnos/as que no hayan superado alguna de las pruebas escritas o exámenes, deberán
+repetirlo. Tendrán una única oportunidad de repetirla al comienzo del nuevo trimestre,
+manteniendo los mismos criterios de calificación anteriormente nombrados, es decir,
+puntuación de 1 al 10 con un mínimo de 5 puntos para su superación.
+En cuanto a las prácticas se refiere, la no superación de una actividad o la ausencia de la misma
+supone la no superación de la práctica. La ausencia debe estar debidamente justificada para
+tener
+
+el
+
+derecho
+
+a
+
+la
+
+recuperación.
+
+En aquellos casos en los que, la práctica no pueda ser repetida, generalmente debido a la
+dificultad para hacerlo (especialmente en aquellas en las que debido a la complejidad de la
+misma, y al tiempo y material que implica), el alumno/a tendrá una oportunidad de presentar
+un trabajo relacionado con la práctica en cuestión, así como de responder a un examen oral con
+contenido también relacionado con práctica. Para la superación de esta recuperación el alumno
+debe superar ambas partes con un mínimo de 5 sobre 10 puntos.
+En aquellos casos, en los que, debido al tipo de práctica, sea posible realizar una repetición de
+la misma (es el caso de prácticas en talleres sencillos como los de signos vitales, taller de
+27
+
+apertura de la via aérea, taller de funcionamiento de equipo DEA) el alumno realizará la
+repetición con el resto de estudiantes que deban repetir la prueba. En este caso, se realizará solo
+la prueba práctica y la evaluación es individual aunque puede que deban realizar parte de la
+práctica con algún compañero. La puntuación mínima para superarlo será también de 5 sobre
+10.
+
+9.5 Pérdida de Evaluación Continua
+
+Los alumnos perderán el derecho a evaluación continua en el caso de que no hayan asistido a
+clase de forma regular, para ello debe acudir al menos al 80 % de las clases. Es importante
+mencionar que las prácticas no se cuentan de manera disociada, éstas forman parte del programa
+teniendo la misma importancia que las clases no prácticas. De modo que este 80 % se refiere la
+asistencia a todo el programa previsto.
+El alumnado, una vez perdida la evaluación continua porque se ha ausentado a más del 20 %
+de las clases, tendrá derecho a un sistema extraordinario de evaluación que se compone de
+varias pruebas y/o actividades que serán comunes para todos aquellos que hayan perdido la
+evaluación continua. Este conjunto de pruebas y/o actividades tienen el objetivo de comprobar
+si el alumno ha alcanzado todos los resultados de aprendizaje de la programación, no
+reduciendo la evaluación a una prueba de contenidos mínimos.
+Para ello se les convocará a una reunión, con más de 15 días antes de cada evaluación final,
+para conocer la cantidad de alumnos que van a hacer uso de esta oportunidad extraordianaria
+de evaluación.
+La pérdida del derecho a la evaluación continua no impide que el alumnado pueda seguir
+asistiendo a clase ni su atención por parte del profesorado. Del mismo modo puede realizar las
+actividades pero no se podrán calificar así como no se le podrá guardar ninguna nota y en las
+sesiones de evaluación se le calificará con un 1.
+
+10. Procedimientos para valorar el desarrollo y resultados de la programación didáctica
+
+El CIFP Los Gladiolos cuenta con un Departamento para Innovación y Calidad educativa. Entre
+sus objetivos se encuentre el de mejorar los niveles de éxito académico y competencias del
+alumnado para garantizar entre otras cosas, una buena preparación e implicarse activamente en
+la mejora continua.
+28
+
+Los Gladiolos forma parte de una Alianza de Centros en Canarias, en total 30 centros, que se
+comprometen a conseguir el mismo objetivo de Calidad.
+Para ello se ponen en juego numerosas estrategias entre las cuales, debe existir la implicación
+de cada miembro del equipo docente, a nivel personal y de equipo.
+Los varios elementos implicados en la evaluación de los procesos de enseñanza-aprendizaje y
+de la práctica docente del CIFP Los Gladiolos son: los departamentos didácticos (con reuniones
+de coordinación sobre la práctica docente y el análisis del contenido de las memorias del curso),
+los equipos docentes, los tutores y departamento de información y orientación profesional (con
+el Plan de Acción Tutorial), el propio alumnado (con su opinión, recogida de cuestionarios
+online)
+Respecto a la parte que nos concierte como docentes: el análisis autocrítico que debe llevar a
+cabo cada miembro del profesorado contribuirá en varios niveles a la mejora continua, tanto
+para la formación personal, como en beneficios traducidos a nivel global, es decir, para el
+alumnado, para la mejora de funcionamiento entre compañeros del equipo docente, y en general
+de todo centro, con la idea de que si cada uno aporta mejoras todos mejoramos.
+Como hemos nombrado anteriormente, no se evaluará solamente el progreso y los resultados
+del aprendizaje del alumnado, sino el progreso de todo el proceso educativo.
+Se analizará por tanto todo el trabajo desarrollado desde el inicio del curso académico. La
+programación, a pesar de tener cierto grado de flexibilidad debe cumplir una serie de objetivos
+fundamentales. Los resultados finales no podremos conocerlos hasta la finalización del curso,
+tras haber tenido en cuenta las características de todo el proceso durante todo el curso.
+Se puede decir por la tanto, que al igual que no se evaluará al alumno tan solo con una
+evaluación final única eliminatoria, tampoco juzgaremos la calidad de nuestro proceso de
+enseñanza a través de un mero análisis de los resultados finales.
+Para saber si la programación didáctica prevista se ha llevado a cabo de manera satisfactoria se
+proponen usar diferentes instrumentos y herramientas a lo largo del curso.¡
+Para poder realizar la valoración se usarán los siguientes instrumentos implementados en el
+centro:
+-
+
+Recogida de informe trimestral de los Departamentos.
+
+-
+
+Tutoría de grupo: los alumnos rellenarán cuestionarios de valoración del proceso de enseñanza
+- aprendizaje, en ellos se valorará también al profesorado y al grupo de compañeros.
+
+-
+
+Informe final del tutor o tutora.
+
+-
+
+Encuestas de satisfacción.
+29
+
+-
+
+Resultados académicos del alumnado (promoción y tituación).
+
+En el informe trimestral se objetivizan datos concretos, ¿se han podido impartir todos los
+contenidos previstos en el programa? , ¿ se han conseguido los objetivos? ¿se han podido
+realizar los talleres y prácticas en el tiempo previsto? , ¿han faltado recursos para ello?, ¿se ha
+conseguido estimular al alumnado con las propuestas innovativas?, ¿se ha fomentado la
+comunicación y participación gracias a la disposición en los agrupamientos previstos para cada
+actividad?, ¿se ha subestimado la complejidad de alguna unidad de trabajo?, ¿ se ha respetado
+el ritmo de aprendizaje del alumnado?, ¿ha sido motivacional la docencia para el alumnado?.
+La motivación de los estudiantes será valorada a través de un cuestionario que se les facilite
+(anónimo) para obtener información que nos ayude a mejorar. Tener en cuenta el punto de vista
+de los alumnos es primordial para entender gran parte de nuestra calidad docente.
+Es útil también para el profesorado, llevar un registro de información anecdótica que va
+surgiendo durante el desarrollo del curso, esto es, anotar las incidencias que han podido alterar
+el trascurso de la programación didáctica. Puede servir para tener en cuenta un plan alternativo
+para futuros imprevistos en aquellos casos en los que pudiera ser mejorable. Cito varios
+ejemplos: la celebración de las festividades de un barrio próximo al centro han impedido el
+acceso de los alumnos al centro en la semana de exámenes lo cual ha perjudicado a la
+puntualidad y ha provocado estrés en el alumnado. El material que se debía usar en un taller no
+funcionaba. La crisis sanitaria obliga a modificar los horarios y metodología previstos en la
+programación. En aquellos casos en los que pueda ser tenido en cuenta, nos puede servir para
+trazar un plan alternativo para futuros imprevistos en aquellos casos en los que pudiera ser
+mejorable.
+Al final del curso, la suma de toda la información recogida se plasmará en una memoria final
+que pondrá de manifiesto todas las dificultades encontradas. Así mismo, expresará cuales han
+sido las conclusiones sacadas y se plantearán las propuestas de mejora para poner en práctica
+en la programación del año siguiente una vez el departamento de calidad haya analizado los
+datos.
+
+11. Secuenciación y programación de las unidades de trabajo
+
+Este módulo es de tipo presencial y se realiza durante todo el curso académico. Consta de 224
+horas repartidas en tres trimestres, con un total de 7 horas semanales de impartición. La
+distribución del horario semanalmente será la siguiente: una clase de 3 horas y dos clases de
+30
+
+dos horas cada una. El alto contenido práctico de este módulo hacen necesarias clases de larga
+duración.
+Habiendo tenido todo esto en cuenta, la secuenciación de las unidades de trabajo y su peso en
+la consecución de los resultados de aprendizaje sería la siguiente:
+
+UT
+
+Denominación
+
+Horas
+
+Semanas
+
+Sesiones
+
+%
+
+1
+
+Introducción:
+fisiopatología y
+valoración de los
+sistemas vitales.
+
+21
+
+3
+
+10,5 (2 h)
+
+9,3
+
+2
+
+Signos
+de
+compromiso
+vital: ABC y
+constantes
+vitales.
+
+14
+
+2
+
+7 (2 h)
+
+6,3
+
+3
+
+Soporte
+vital
+básico:
+RCP
+básica
+e
+instrumental.
+
+49
+
+7
+
+7 (3 h)
+14(2h)
+
+21,
+8
+
+4
+
+Cuidados post reanimación.
+Medidas
+y
+controles
+
+14
+
+2
+
+7 (2 h)
+
+6,3
+
+5
+
+Clasifiación de
+las
+víctimas:
+triaje.
+
+56
+
+8
+
+19 (2 h)
+
+25
+
+6
+
+Asistencia
+múltiples
+víctimas.
+
+a
+
+42
+
+6
+
+22 (2 h)
+
+18,
+7
+
+7
+
+Atención
+específica
+en
+emergencias
+
+28
+
+4
+
+14 (2 h)
+
+12,
+5
+
+3 (3 h)
+
+31
+
+extra
+hospitalarias de
+diversa índole
+TO
+TA
+L
+
+224
+
+32
+
+93,5 (2 h)
+10 (3 h)
+
+10
+0
+
+TRIMEST
+RE
+
+UNIDADE
+S
+DE
+TRABAJO
+
+SEMANAS
+
+HORAS
+
+SESIONES
+
+1er
+Trimestre
+
+UT 1
+
+12
+
+84
+
+31,5 (2 h)
+
+UT 2
+
+7 (3 h)
+
+UT 3
+2º
+Trimestre
+
+UT 4
+
+3er
+Trimestre
+
+UT 6
+
+10
+
+70
+
+UT 5
+
+26 (2 h)
+3 (3 h)
+
+10
+
+70
+
+36 (2 h)
+
+UT 7
+
+Teniendo en cuenta el calendario escolar (gobierno de canarias) para el curso 2020 -2021 en le
+que se prevee que el curso de formación profesional de gradio medio comience el 17 de
+septiembre y finalice el 22 de junio, y donde las vacaciones están previstas para las fechas entre
+el 23 de diciembre y el 7 de enero tras el primer trimestre y para el 27 de marzo al 4 de abril
+tras el segundo trimestre.
+En total suman 35 semanas, sin embargo, la motivación para encajar el contenido de las
+unidades en 32 semanas se debe a que se contempla haber finalizado las unidades previstas
+dentro de cada trimestre al menos una semana antes de la finalización del trimestre, tiempo
+necesario para realizar la evaluación (teniendo en cuenta de que para ello el alumnado tendrá
+que realizar alguna prueba y que para ello deben haber finalizado los contenidos previamente y
+tener el tiempo mínimo suficiente para estudiarlo). A su vez, los docentes necesitan tiempo para
+analizar toda la información recabada a lo largo de trimestre y poder realizar la corrección de
+las pruebas antes de publicar las calificaciones finales de cada trimestre.
+32
+
+A continuación se describe brevemente cada unidad de trabajo y se expone un recuadro con los
+contenidos que trata, resultados de aprendizaje y criterios de evaluación así como del tiempo
+en horas que se empleará para impartirlos.
+
+UT 1. Introducción: fisiopatología y valoración de los sistemas vitales:
+Contenido introductorio. Se explican el funcionamiento general así como la correcta valoración
+de las alteraciones de los principales sistemas implicados en el Soporte Vital Básico, que
+profundizaremos en la UT 3.
+
+UT 1. Introducción: fisiopatología y valoración de
+
+21 h
+
+los sistemas vitales.
+Contenidos
+
+Resultados
+Aprendizaje/
+
+de
+Criterios
+
+de Evaluación
+￫ Fisiopatología y valoración del sistema respiratorio
+
+1A, 1B, 1C, 1D
+
+￫ Fisiopatología y valoración del sistema circulatorio..
+￫ Fisiopatología neurológica: alteraciones del nivel de
+consciencia.
+￫ Valoración del nivel de consciencia. Escala de coma
+de Glasgow
+
+UT 2. Signos de compromiso vital: ABC y constantes vitales.
+Primeras nociones básicas de acercamiento al SVB. Signos de compromiso vital y exploración
+física fundamental en casos de incidentes. Se explican las diferencias en la valoración del
+compromiso vital según la edad del paciente y las diferencias en la valoración de las mismas.
+
+33
+
+UT 2. Signos de compromiso vital: ABC y constantes
+
+14 horas
+
+vitales.
+Contenidos
+
+RA/CE
+
+￫ Signos de compromiso vital en adulto, niño y lactante.
+
+1E, 1F, 1G
+
+￫ Proceso de valoración ABC (Airway Breathing
+Circulation).
+￫ Toma de constantes vitales.
+￫ Protocolos de exploración.
+￫ Actuación con seguridad mostrando confianza en sí
+mismo.
+
+UT3. Soporte Vital Básico: Reanimación cardiopulmonar básica e instrumental.
+Nociones básicas de electrocardiografía y funcionamiento cardiaco. Se enseña la realización
+correcta de electrocardiograma, con colocación de electrodos. Se aprende a identificar las
+alteraciones del ritmo más graves. Vía aérea: gestión de valoración, apertura y desobstrucción,
+fundamentales en el SVB. Familiarización con el material médico de apoyo orofaríngeo.
+Indicaciones y mecanismos de realización para la reanimación cardiopulmonar, solo o con
+equipo. Diferencias en la realización según la edad del paciente. Manejo y mantenimiento de
+un dispositivo de desfibrilación automática y semiautomática.
+
+UT
+
+3.
+
+Soporte
+
+Vital
+
+Básico:
+
+Reanimación
+
+49 horas
+
+cardiopulmonar básica e instrumental.
+Contenidos
+
+RA/CE
+
+￫ Electrofisiología cardiaca básica.
+
+2A, 2B, 2C, 2D, 2E
+
+￫ Parada cardiorrespiratoria.
+￫ Electrocardiograma. Electrocardiograma de esfuerzo.
+￫ Trastornos del ritmo cardiaco.
+34
+
+￫ Control de la permeabilidad de las vías aéreas.
+￫ Técnicas de apertura de la via aérea.
+￫ Técnicas de limpieza y desobstrucción de la vía aérea.
+￫ Permeabilización de la vía aérea con dispositivos
+orofaríngeos.
+￫ Indicaciones del soporte ventilatorio.
+￫ RCP básica e instrumental.
+Respiración boca a boca.
+Respiración boca-nariz.
+Ventilación con mascarilla de resucitación. Ventilación
+con bolsa autoinflable.
+Masaje cardíaco externo.
+￫ Protocolo en función de paciente (lactante, niño,
+adulto).
+￫ Desfibrilación externa automática y semiautomática
+(DEA y DESA)
+￫ Funcionamiento y mantenimiento del desfibrilador
+externo automático.
+
+UT. 4 Cuidados post - reanimación. Medidas y controles:
+En esta unidad aprenderán todos los cuidados, protocolos de actuación y seguridad para el
+mantenimiento de la vida tras la RCP.
+
+UT 4. Cuidados post - reanimación. Medidas y controles
+
+14 horas
+
+Contenidos
+
+RA/CE
+
+￫ Medidas post-reanimación
+
+2F, 2G
+
+35
+
+￫ Controles de: Vía aérea y respiración.
+￫ Circulación y función cerebral.
+￫ Temperatura.
+￫ Aplicación de normas y protocolos de seguridad y de
+autoprotección personal.
+
+UT 5. Clasificación de las víctimas: Triaje.
+En esta unidad se va a aprender el significado de triaje y la importancia de la valoración inicial.
+El objetivo principal es aprender a identificar los diferentes niveles de prioridades de actuación
+en una emergencia y los diversos protocolos de actuación ante la misma dependiendo del tipo
+de prioridad.
+
+UT 5. Clasificación de las víctimas: Triaje.
+
+56 horas
+
+Contenidos
+
+RA/CE
+
+￫ El triaje
+
+3A. 3B, 3C, 3D, 3E,
+
+￫ Primer y segundo triaje.
+
+3F, 3G, 3H
+
+￫ Puesto de triaje.
+￫ Valoración por criterios de gravedad.
+￫ Clasificación de métodos de triaje inicial.
+￫ Categorización de las víctimas.
+￫ Codificación y estructura de las tarjetas de triaje.
+￫ Toma de decisiones con rapidez.
+
+UT 6. Asistencia a múltiples víctimas.
+En esta unidad se amplia el conocimiento a la gestión global de las emergencias. Se conoce la
+mecánica del trabajo en el centro de mandos, los métodos de comunicación entre miembros del
+36
+
+equipo. Tipos de catástrofes y bases para la actuación ante las mismas (eslabones de la cadena
+de supervivencia y fases del decálogo prehospitalario).
+
+UT 6. Asistencia a múltiples víctimas.
+
+42 horas
+
+Contenidos
+
+RA/CE
+
+￫ Urgencia y emergencia.
+
+4A, 4B, 4C, 4G, 4H
+
+￫ Sistema Integral de Urgencias y Emergencias (SIE)
+￫ Centro coordinador de urgencias y emergencias.
+￫ Fases del Decálogo Prehospitalario.
+￫ Eslabones de la cadena de supervivencia.
+￫ Objetivos terapéuticos generales en la medicina de
+catástrofe.
+￫ Objetivos terapéuticos en las áeras de rescate, socorro y
+base.
+
+UT 7. Atención específica en emergencias extra hospitalarias de diversa índole
+En esta unidad se exponen detalladamente las posibilidades mas comunes en emergencias
+sanitarias, se describe la lesión y los protocolos de actuación específicos para cada una de ellas.
+
+UT 7.
+
+Atención específica en emergencias extra
+
+28 horas
+
+hospitalarias de diversa índole
+Contenidos
+
+RA/CE
+
+Mecanismos lesionales de:
+
+4D, 4E, 4F
+
+￫ Heridos en explosiones.
+￫ Síndrome por aplastamiento.
+￫ Síndrome compartimental.
+
+37
+
+￫ Amputaciones.
+￫ Inhalaciones de gases o partículas.
+￫ Asfixia traumática.
+
+12. Actividades extraescolares.
+
+Las actividades extraescolares complementan la formación del alumnado. Son una oportunidad
+para poder familiarizarse con contextos reales relacionados con la profesión. En general
+resultan muy enriquecedoras y estimulantes para los estudiantes. No son obligatorias por lo que
+no forman parte de la evaluación pero el equipo docente tratará siempre de fomentar su
+participación en las mismas mostrando el valor de la oportunidad ofrecida y la influencia
+positiva que puede tener en su propia formación. A pesar de no ser actividades con carácter
+evaluativo, posteriormente se dedicará un tiempo reservado a el análisis de la experiencia entre
+todos los asistentes, esto además, puede orientar a los docentes sobre el valor de la actividad
+para los estudiantes y si es por lo tanto, recomendable repetirla o no para futuros cursos.
+La actividad extraescolar prevista para el módulo se realizará al finalizar el segundo
+
+trimestre.
+
+Consiste en una visita guiada al centro de coordinación de urgencias y emergencias, el 112. Allí
+contaremos con la colaboración de un técnico especialista en emergencias que además de
+guiarles, finalizará con una breve ponencia abierta al diálogo y participación por parte de los
+estudiantes.
+Dicha actividad en el módulo de atención sanitaria inicial en emergencias viene justificada
+porque:
+-
+
+refuerza los conocimientos adquiridos durante los dos trimestres anteriores.
+
+-
+
+el alumnado se familiariza con un contexto real de trabajo.
+
+-
+
+fomenta la curiosidad y motivación de los estudiantes.
+
+-
+
+El ponente colaborador que guiará la visita explicará la importancia de la cadena de mandos, el
+trabajo en equipo, la relevancia que tienen la observación y la comunicación a la hora de evaluar
+un situación inicial de emergencia y de cómo la información va a ser trasladada al resto del
+equipo.
+
+38
+
+13. Actividades complementarias.
+
+Las actividades complementarias asociadas al módulo forman parte de la programación como
+actividades de enseñanza que serán evaluadas dentro de la unidad correspondiente. La
+asistencia del alumnado es de carácter obligatorio puesto que se considera fundamental para
+abordar contenidos y enseñanzas que deben desenvolver en la actividad como como
+competencia práctica.
+En el módulo de atención a la diversidad, la actividad complementaria seleccionada es un taller
+práctico ofrecido por técnicos en emergencias de la Cruz Roja que se desarrollará en el área
+abierta (canchas) del centro uniendo materiales aportados por los mismos a materiales aportados
+por el propio centro para ofrecer variedad y equipamiento lo más completo posible. Previo
+acuerdo entre el docente y ponentes, se realizarán varias acciones posibles como puede ser el
+simulacro de una varias situaciones de emergencia. Todos los alumnos deben realizar por sí
+mismos absolutamente todas las actividades previstas en cada simulacro (maniobras de
+movilización o inmovilización, apertura de vía aérea, boca a boca, masaje cardiaco,
+monitorización, toma de constantes, comunicación con el resto del equipo, etc)
+supervisión
+
+y
+
+guía
+
+de
+
+docente
+
+y
+
+ponentes
+
+con la
+
+colaboradores.
+
+Esta actividad forma parte de la UT 3 “Soporte Vital Básico: RCP básica e instrumental” y se
+realizará al final de la impartición de la misma, que coincide con el final del trimestre.
+
+La justificación de esta actividad en el currículo es:
+-
+
+Poner en práctica los conocimientos adquiridos. La complejidad de los contenidos teóricos debe
+ser puesta en práctica por cada uno de los alumnos con el fin de familiarizarse, perder el temor
+a realizarlas y sacar conclusiones tras la actividad. Las maniobras de reanimación
+cardiopulmonar por el nivel de estrés que supone realizarlas tanto a nivel físico como
+psicológico unida a la carga de responsabilidad que implica realizarlas bien deben ser
+aprendidas con precisión y practicadas antes de enfrentarse al mundo laboral.
+
+-
+
+Tras la actividad se realizará el análisis de la experiencia entre todos los asistentes donde se
+fomentará un ambiente en que los estudiantes expresen sus sensaciones, emociones, dificultades
+encontradas, conclusiones y propuestas.
+
+39
+
+14. Estrategias para desarrollar la educación en valores, planes y programas
+
+El CIFP Los Gladiolos muestra tal y como publicado en su Programación General Anual,
+cuáles son su Misión, Visión y Valores compartidos.
+Misión - La misión de La Alianza de Centros Educativos para la Mejora Continua (ACEMEC)
+es ser el eje vertebrador e impulsor de la voluntad de trabajar en red y mejorar, de todos los
+centros de Enseñanza Secundaria y Formación Profesional que la conforman.
+Visión. - Ser una red educativa para la mejora continua, de referencia en Canarias, en el Estado
+y en Europa, coordinada, transparente, comprometida, competitiva y sostenible, que impulsa la
+excelencia, genera buenas prácticas y proyectos de innovación.
+Valores compartidos. - Compromiso con la educación, comprometidos con el conjunto de los
+valores democráticos, la equidad y la lucha contra la desigualdad y con la formación global de
+las personas a través de la educación pública basándose en la sostenibilidad, espíritu de
+colaboración, trabajo en equipo y espíritu crítico y transformador.
+
+El CIFP Los Gladiolos ha elaborado e implementado una serie de planes, proyectos y acciones
+de mejora que promueva la misión, visión y valores compartidos, previamente citados.
+En ellos, todos los departamentos y el profesorado a través de la propia actividad docente están
+implicados. Entre los proyectos y planes encontramos Plan de formación del digitalización del
+centro, plan de formación del centro, plan de formación del profesorado, Plan Anual de Red de
+Innovación, Proyecto de Innovación para el Desarrollo del Aprendizaje Sostenible, etc.
+Las programaciones indicarán en qué Eje Temático está comprometido el Ciclo formativo y el
+módulo implicado en su implementación, que generalmente serán aquellos en los que se pueda
+establecer una relación directa con la temática.
+En el caso del módulo de Atención inicial en situaciones de emergencia, no existe ninguna
+actividad directamente vinculada a la formación específica. Sin embargo, la lista de actividades
+disponibles propuestas por el centro están, en su mayoría, abiertas a la libre participación del
+alumnado de otros ciclos formativos.
+Los ejes temáticos generales son:
+1. Educación para la Salud: Promoción de la Salud y la Educación Emocional
+2. Educación Ambiental y Sostenibilid: educación en el respeto, cuidado, conservación y
+preservación del medio natural
+3. Educación para la paz: Cooperación para el Desarrollo y la Solidaridad)
+40
+
+4. Educación en la prevención de la violencia de género y el respeto a la diversidad afectivo
+sexual en todas las dimensiones de la vida del centro: Igualdad y Educación Afectivo Sexual y
+de Género
+Basándose en estos ejes temáticos, el centro ha desarrollado, diversas actividades
+complementarias y extraescolares, para la participación y el compromiso que incluyen temas
+de educación en valores, para la salud, medio ambiente, igualdad de género.
+A continuación expongo algunos ejemplos de actividades relacionadas con cada pilar en los
+que el centro se compromete con la educación en valores, y que, como se puede comprobar,
+son de interés general.
+
+1. Educación para la Salud: Charlas de sobre prevención de los trastornos de la conducta
+alimentaria, Taller online sobre Salud Mental, Charla de prevención de riesgos laboral en el
+entorno laboral.
+2. Educación Ambiental y Sostenibilidad: Día Mundial del Medio Ambiente: Talleres y
+Exposiciones, .Interpretación del Patrimonio Natural de las Islas Canarias a través del Jardín
+Didáctico Canario
+3. Educación para la paz: Mercadillo solidario, Charlas médicos del mundo (migraciones), Charla
+“Día de los derechos humanos “,
+4. Educación en la Igualdad y Educación Afectivo Sexual y de Género: Acción formativa sobre
+realidad trans* y atención a la diversidad, Acción formativa sobre detección de situaciones de
+violencia de género entre el alumnado.
+
+La actividad educativa se desarrollará atendiendo a los siguientes principios:
+● Formación personalizada que propicie una educación integral en conocimientos, destrezas y
+valores del alumnado en todos los ámbitos de la vida personal, familiar, social y profesional.
+● Formar profesionales altamente cualificados, capaces de dar respuesta a las necesidades
+cambiantes del entorno socio-laboral actual.
+● Potenciar capacidades de iniciativa y autonomía en el alumnado.
+● La participación y colaboración de los padres y tutores para contribuir a la mejor consecución
+de los objetivos educativos.
+● La efectiva igualdad de derechos entre los sexos, el rechazo a todo tipo de discriminación y el
+respeto a todas las culturas.
+● El desarrollo de las capacidades creativas y del espíritu crítico.
+41
+
+● El fomento de los hábitos de comportamiento democrático.
+● La autonomía pedagógica del centro dentro de los límites establecidos por las leyes, así como
+la actividad investigadora de los docentes a partir de la práctica docente.
+● Atención psicopedagógica y la orientación educativa y profesional.
+● La metodología activa, creativa y democrática que asegure la participación del alumnado en
+los procesos de enseñanza y aprendizaje.
+● La formación en el respeto y defensa del medio ambiente.
+● La relación con el entorno social, cultural y económico de la zona. [1]
+
+15. Unidad
+
+de trabajo: Soporte Vital Básico: reanimación cardiopulmonar básica e
+
+instrumental.
+
+Justificación personal de la unidad de trabajo dentro del módulo:
+
+Considerando el conjunto de las unidades de trabajo dentro del módulo de Atención inicial en
+emergencias sanitarias, he seleccionado la UT 3, Soporte Vital Básico por ser bajo mi punto de
+vista, la que desarrolla el conjunto de conocimientos con mayor peso de importancia en el rol
+de un técnico de emergencias sanitarias.
+En esta unidad se describen el conjunto de maniobras y decisiones dentro del protocolo de
+reanimación cardiopulmonar, que sería la situación más grave ante la que se puede encontrar
+un técnico puesto supone con certeza el deceso del paciente si no se actúa con eficacia. La buena
+actuación del equipo de emergencias - entre las cuales está el técnico - es por lo tanto de vital
+importancia y por ello considero que esta unidad merece una dedicación con especial esmero.
+
+En los siguientes recuadros se describen, por un lado, en el recuadro A, los objetivos didácticos
+y los contenidos, y por otro lado, en el recuadro B, las actividades de enseñanza - aprendizaje
+y las actividades de evaluación. Se especifica también la temporalización de la misma y el
+porcentaje de la unidad de trabajo respecto al contenido total del módulo.
+
+Finalmente se adjuntan dos ejemplos de material curricular:
+-
+
+una checklist para evaluación de una práctica.
+
+-
+
+una rúbrica de evaluación para informe de caso clínico.
+42
+
+-
+
+una infografía sobre pasos fundamentales del técnico para realización de secuencia RCP.
+Los tres contenidos se encontrarán adjuntos en los anexos de este trabajo.
+
+Unidad
+
+Nombre
+
+Tiempo
+
+Semanas
+
+Sesiones
+
+%
+
+49 h
+
+7
+
+7 (3 h)
+
+21,8
+
+de
+Trabajo
+UT 3
+
+Soporte
+
+vital
+
+básico:
+
+RCP
+
+básica
+
+e
+
+14 (2 h)
+
+instrumental.
+
+Tabla A)
+
+Objetivos didácticos
+
+Contenidos
+
+c) Enumerar signos de gravedad,
+
+￫ Electrofisiología cardiaca básica.
+
+relacionándolos
+
+con
+
+criterios
+
+y
+
+protocolos de actuación, para clasificar
+a las víctimas.
+
+￫ Parada cardiorrespiratoria.
+
+d) Reconoce los signos de compromiso
+vital, relacionando desviaciones de
+signos
+
+externos
+
+respecto
+
+de
+
+los
+
+￫ Electrocardiograma. Electrocardiograma
+de esfuerzo.
+
+parámetros normales para determinar
+el estado del paciente.
+
+￫ Trastornos del ritmo cardiaco.
+
+e) Aplicar maniobras de reanimación
+cardiopulmonar
+asistencia
+
+y
+
+técnicas
+
+sanitaria
+
+de
+
+inicial,
+
+relacionando los síntomas con las
+
+￫ Control de la permeabilidad de las vías
+aéreas.
+
+maniobras y técnicas, para estabilizar
+￫ Técnicas de apertura de la via aérea.
+
+al paciente.
+o)
+
+Analizar
+
+posibilidades
+
+de
+
+intervención identificando y valorando
+
+￫ Técnicas de limpieza y desobstrucción de
+43
+
+riesgos en siniestros y desastres para
+
+la vía aérea.
+
+resolver problemas y tomar decisiones.
+￫ Permeabilización de la vía aérea con
+dispositivos orofaríngeos.
+
+￫ Indicaciones del soporte ventilatorio.
+
+￫ Resucitación cardiopulmonar básica e
+instrumental.
+Respiración boca a boca.
+Respiración boca-nariz.
+Ventilación con mascarilla de resucitación.
+Ventilación con bolsa autoinflable.
+Masaje cardíaco externo.
+
+￫ Protocolo en función de paciente (lactante,
+niño,
+adulto).
+
+￫ Desfibrilación externa automática y
+semiautomática (DEA y DESA)
+
+￫ Funcionamiento y mantenimiento del
+desfibrilador externo automático.
+
+44
+
+Tabla B)
+
+Actividades de enseñanza - aprendizaje
+
+Actividades
+
+de
+
+RA/CE
+
+caso
+
+2-A,
+
+práctico en grupo, con
+
+2-B,
+
+informe escrito.
+
+2-C,
+
+evaluación
+Actividades iniciales
+
+-
+
+-
+
+Presentación de la unidad y de cómo se
+
+Resolución
+
+de
+
+va a evaluar.
+
+2-D,
+-
+
+-
+
+-
+
+Resolución
+
+de
+
+caso
+
+Test de contenidos para saber los
+
+práctico
+
+conocimientos previos. Uso de TIC
+
+individualmente,
+
+con
+
+(Kahoot)
+
+informe
+
+Actividades de desarrollo:
+
+-
+
+escrito.
+
+Explicación de la mecánica del corazón
+
+-
+
+Creación en grupo de la
+
+y ECG con el soporte de vídeo en
+
+simulación
+
+proyección para ver secuencia de
+
+situación de emergencia
+
+electrocardiograma y tipos de ritmos
+
+donde
+
+cardiacos en movimiento.
+
+valoración de la vía aérea
+así
+
+-
+
+y
+de
+
+para
+
+Demostración práctica.
+
+-
+
+Test con imágenes para
+verificar
+
+el
+
+reconocimiento de los
+diferentes
+
+-
+
+apertura
+
+adulto, niño o lactante.
+
+de la vía aérea básica e instrumental.
+
+RCP básica e instrumental.
+
+una
+precise
+
+desobstrucción
+
+maniobras de apertura y comprobación
+
+Definición del concepto de SVB y de
+
+se
+
+técnicas
+
+Mostrar ejemplos de obstrucción de vía
+aérea por cuerpos extraños (OVACE) y
+
+-
+
+como
+
+de
+
+2-E
+
+materiales
+
+Realización de los protocolos de
+
+específicos precisos para
+
+actuación de RCP en adulto, lactante y
+
+el SVB.
+45
+
+niño.
+-
+
+Asistencia obligatoria a
+
+Descripción de la desfibrilación externa
+
+todas las actividades de
+
+automática y semiautomática con taller
+
+tipo práctico.
+
+de demostración de uso con maniquíes e
+instrucciones
+
+funcionamiento
+
+del
+
+-
+
+aparato.
+
+Demostración práctica de
+las técnicas aprendidas,
+durante
+
+el
+
+desarrollo
+
+tanto del taller impartido
+
+Actividades finales:
+
+por el profesorado sobre
+-
+
+las técnicas de RCP y
+
+Demostración práctica del docente y
+
+DEA como el impartido
+
+práctica del alumnado en taller con
+
+por Cruz Roja en el
+
+material específico (maniquíes, ambú,
+
+simulacro. Cada alumno
+
+reservorio, ventimask). Demostración y
+prueba
+
+debe haber aplicado las
+
+con maniquíes de adulto,
+
+técnicas
+
+lactante y niño.
+
+-
+
+correctamente.
+
+Realización de taller práctico ofrecido
+por técnicos de la Cruz Roja con
+realización
+
+de
+
+simulacros
+
+emergencia
+
+variados
+
+estudiantes
+
+deban
+
+de
+
+donde
+
+los
+
+desenvolver
+
+las
+
+maniobras y técnicas aprendidas.
+
+-
+
+Debate y análisis de la experiencia
+práctica de todo el grupo. (contraste de
+opiniones,
+
+adecuadas
+
+expresar
+
+expectativas, conclusiones).
+
+emociones,
+
+-
+
+Rúbrica:
+
+nivel
+
+participación
+
+de
+e
+
+implicación
+
+en
+
+la
+
+práctica,
+
+actitud,
+
+participación en el debate
+y
+
+análisis,
+
+asistencia,
+
+desenvoltura en casos
+prácticos,
+
+trabajo
+
+equipo,
+
+lenguaje
+
+adecuado
+
+y
+
+comunicación
+con
+
+en
+
+los
+
+efectiva
+
+compañeros,
+
+reconoce los materiales,
+conoce
+
+la
+
+secuencia
+
+técnica, etc.
+46
+
+16. Referencias bibliográficas
+
+[1] https://www.losgladiolos.es. Último acceso marzo 2021.
+[2] REAL DECRETO 1397/2007, de 29 de octubre, por el que se establece el título de Técnico
+en Emergencias Sanitarias y se fijan sus enseñanzas mínimas.
+[3] ORDEN ESD/3391/2008, de 3 de noviembre, por la que se establece el currículo del ciclo
+formativo de Grado Medio correspondiente al título de Técnico en Emergencias Sanitarias.
+[4] ORDEN de 13 de diciembre de 2010, por la que se regula la atención al alumnado con
+necesidades específicas de apoyo educativo en la Comunidad Autónoma de Canarias y
+ORDEN de 20 de octubre de 2000, por la que se regulan los procesos de evaluación de las
+enseñanzas de la Formación Profesional Específica en el ámbito de la Comunidad Autónoma
+de Canarias.
+[5] Rodríguez, A.J y Cabrera J.F (s.f). El Diseño de la programación didáctica en las
+enseñanzas de formación profesional. [archivo pdf] www3.gobiernodecanarias.org
+
+17. Conclusiones
+
+Personalmente he considerado siempre a la educación como la herramienta más importante para
+afrontar la vida.
+El hecho de haber realizado el Máster en Formación del Profesorado de Educación Secundaria
+Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas, y con él, este
+Trabajo de Fin de Máster, me ha dado la oportunidad de reflexionar especialmente en el tema,
+especialmente en lo que a cambios y novedades educativas se refiere.
+Si bien la educación siempre ha gozado de una connotación positiva, de lo que me ha hecho
+tener más conciencia este trabajo es de que la educación, así como todo, está en constante
+cambio en busca de mejora, intentando optimizar los resultados, y esto es, finalmente no sólo
+en cuanto a expediente académico, sino en el empeño en alcanzar la adquisición de
+conocimientos útiles para la vida, el estar en formación constante, el promover la mayor
+autonomía de cada alumno/a y la importancia que tiene la motivación en el proceso de
+aprendizaje.
+Por la profesión que he ejercido hasta ahora, de enfermera, estoy habituada a trabajar en un
+ambiente hostil y con múltiples limitaciones. La frustración que esto puede generar la he
+superado precisamente por haberme esforzado en mantener una actitud constructiva y
+47
+
+motivada, sin perder de vista el objetivo de la profesión y del importante papel que cada uno de
+los implicados en profesiones sociales, ejerce en una sociedad de la que todos formamos parte.
+Por eso considero, tras la realización de este trabajo como punto y final del máster, que ambas
+profesiones tienen ciertos puntos en común, por un lado, el hecho de saber que el camino en
+ocasiones no será sencillo, y de que existirán limitaciones y por otro, el hecho de estar
+completamente convencida de querer ser partícipe en una profesión de ayuda, de implicación
+constante, que no suponga el mero hecho de acudir a un trabajo a ejecutar acciones.
+Para mí ha sido un proceso de aprendizaje muy interesante y motivador que me hace darme
+cuenta de lo mucho que me queda por aprender, de la emoción que ello me genera, y que me
+empuja a su vez, a tratar de mejorar y de transmitirlo a los alumnos/as y compañeros/as.
+
+18. Anexos
+
+1. CHECKLIST
+
+PRÁCTICA
+
+Protocolo de RCP en práctica de
+
+SÍ
+
+NO
+
+simulacro grupal
+
+1
+
+A su llegada valora la escena del
+suceso
+
+teniendo
+
+en
+
+cuenta
+
+la
+
+seguridad.
+
+2
+
+Realiza como primer paso la conducta
+PAS: Avisar, Proteger y Socorrer
+
+3
+
+Avisar: informa correctamente al
+resto del equipo (evaluación correcta,
+terminología correcta, comunicación
+clara y eficaz)
+
+4
+
+Proteger: reconoce los peligros vitales
+y actúa colocando en situación de
+48
+
+bioseguridad.
+5
+
+Clasificación de las víctimas: evalúa
+correctamente la gravedad de los
+pacientes actuando por prioridad.
+
+6
+
+Realiza correctamente las técnicas de
+valoración:
+-
+
+Estado de consciencia
+
+-
+
+Estado respiratorio
+
+-
+
+Estado circulatorio: pulso debe ser
+carotídeo
+
+7
+
+Previa
+
+RCP:
+
+el
+
+paciente
+
+está
+
+correctamente colocado (superficie
+rígida plana)
+8
+
+Ha colocado correctamente su propia
+postura para la realización eficaz de
+las maniobras de RCP: brazos, altura,
+posición respecto al cuerpo de la
+víctima, manos, posición torácica.
+
+9
+
+Ha
+
+realizado
+
+correctamente
+
+las
+
+compresiones:
+
+respetando
+
+la
+
+frecuencia, la constancia, las pausas y
+la profundidad de las mismas.
+10
+
+Ha
+
+colocado
+
+correctamente
+
+al
+
+paciente para la comprobación de la
+vía
+
+aérea
+
+y
+
+realización
+
+de
+
+insuflaciones boca a boca.
+11
+
+Ha
+
+realizado
+
+correctamente
+
+las
+
+insuflaciones: respetando frecuencia,
+49
+
+constancia, pausas y comprobando la
+elevación del tórax.
+12
+
+No realiza interrupciones durante
+todo el proceso
+
+13
+
+Realiza cinco ciclos seguidos sin
+modificar eficacia.
+
+14
+
+Tras
+
+cinco
+
+ciclo
+
+alterna
+
+con
+
+compañero realizando el cambio con
+seguridad, eficacia y rapidez.
+15
+
+Realizan revaloración de los signos
+vitales correctamente: respiración y
+pulso.
+
+16
+
+Trabaja en equipo: no realiza acciones
+sin
+
+comunicar,
+
+realiza
+
+una
+
+comunicación verbal clara, fluída,
+rápida y eficaz con el resto del equipo.
+17
+
+Actúa
+
+con
+
+confianza,
+
+agilidad,
+
+precisión y decisión.
+18
+
+El paciente recupera signos vitales,
+actúa correctamente: posición del
+paciente, revaloración constante de
+signos vitales a la espera de la llegada
+del Soporte Vital Avanzado.
+
+19
+
+Actúa correctamente a la llegada del
+SVA: realizando correctamente:1. la
+comunicación
+
+de
+
+lo
+
+ocurrido,
+
+evolución del paciente, estado actual,
+tiempo recorrido
+50
+
+20
+
+En presencia de DEA: el paciente
+sabe manejar el aparato, reconocer el
+ritmo cardiaco desfibrilador y colocar
+electrodos
+
+sobre
+
+el
+
+paciente
+
+correctamente.
+
+TOTAL
+
+PUNTUACIÓN: SÍ = 0,5 puntos. NO = 0 puntos
+
+2. RUBRICA
+
+Caso
+
+Informe
+
+de
+
+Mal
+
+Bien
+
+Muy
+
+P
+
+Práctico
+
+resolución
+
+con
+
+0
+
+0,5
+
+bien 1
+
+t
+
+puntos
+
+puntos
+
+punto
+
+o
+
+soporte
+ventilatorio
+1
+
+s
+
+Realiza
+
+la
+
+conducta
+
+PAS:
+
+Proteger, Avisar,
+Socorrer.
+Solicita DEA.
+2
+
+Describe
+
+la
+
+motivación para
+realizar
+
+el
+
+soporte
+ventilatorio
+3
+
+Describe
+
+la
+
+realización
+
+de
+51
+
+control
+
+de
+
+permeabilidad
+de la vía aérea
+4
+
+Describe
+
+la
+
+técnica
+
+de
+
+apertura de vía
+aérea
+5
+
+Describe
+
+la
+
+técnica
+
+de
+
+desobstrucción y
+limpieza de la
+vía aérea
+6
+
+Nombra el uso
+de material de
+soporte
+ventilatorio:
+ambú, cánula de
+Guedel,
+colocación
+
+de
+
+mascarilla
+
+de
+
+oxígeno.
+7.
+
+Explica los pasos
+a
+
+seguir
+
+de
+
+manera ordenada
+y coherente.
+8
+
+Tiene en cuenta
+la coordinación
+con el resto del
+equipo:
+comunicación y
+52
+
+técnicas
+conjuntas.
+9.
+
+Utiliza lenguaje
+técnico
+específico
+apropiado
+
+10.
+
+Correcta
+ortografía
+
+y
+
+presentación
+
+53
+
+RCP
+BÁSICA
+PROTOCOLO DE
+ACTUACIÓN T.E.S
+
+PUNTOS FUNDAMENTALES
+
+1 AVISAR
+
+Comunicar a central
+Solicitar recurso avanzado
+Conseguir DEA
+
+HORA
+
+2
+Recordar la hora de inicio
+Controlar duración de
+cada paso
+
+Colocar al paciente en :
+Decúbito supino
+Superficia rígida
+
+POSICIÓN
+REANIMADOR
+
+3
+
+POSICIÓN
+PACIENTE
+
+4
+
+De rodillas
+Brazos rectos
+Manos entrelazadas
+2 cm sobre apófisis xifoide
+
+

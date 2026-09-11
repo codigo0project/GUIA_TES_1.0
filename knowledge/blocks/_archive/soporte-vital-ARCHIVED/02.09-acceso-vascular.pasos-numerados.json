@@ -1,0 +1,59 @@
+{
+  "id": "02.09-acceso-vascular.pasos",
+  "type": "pasos-numerados",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Secuencia 02.09-acceso-vascular",
+  "summary": "Pasos estructurados.",
+  "tags": [
+    "acceso"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 8,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.09 - Acceso Vascular.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "02.09-acceso-vascular",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "02 - Soporte Vital"
+  ],
+  "titulo": "Secuencia 02.09-acceso-vascular",
+  "pasos": [
+    {
+      "orden": 1,
+      "accion": "Seleccionar vena y calibre de cánula"
+    },
+    {
+      "orden": 2,
+      "accion": "Colocar torniquete y localizar vena"
+    },
+    {
+      "orden": 3,
+      "accion": "Punción con ángulo adecuado"
+    },
+    {
+      "orden": 4,
+      "accion": "Confirmar retorno sanguíneo"
+    },
+    {
+      "orden": 5,
+      "accion": "Fijar y conectar suero"
+    },
+    {
+      "orden": 6,
+      "accion": "Documentar calibre, vena y complicaciones"
+    }
+  ]
+}

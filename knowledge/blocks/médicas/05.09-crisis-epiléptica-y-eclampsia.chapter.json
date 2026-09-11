@@ -1,0 +1,72 @@
+{
+  "id": "05.09-crisis-epiléptica-y-eclampsia",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "05.09 - Crisis epiléptica y eclampsia",
+  "summary": "",
+  "tags": [
+    "05",
+    "médicas",
+    "crisis-epiléptica",
+    "status-epiléptico",
+    "eclampsia",
+    "convulsiones"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.09 - Crisis epiléptica y eclampsia.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "837e644ad9853b16d12f87f6e2cb5e30a6dd72f31ccd4211615a029d4264778e"
+  },
+  "created_at": "2026-08-07T15:56:56.735266+00:00",
+  "updated_at": "2026-08-07T15:56:56.735266+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0408---sedantes-y-antagonistas",
+      "type": "related"
+    },
+    {
+      "to": "0516---coma-y-alteración-de-conciencia",
+      "type": "related"
+    },
+    {
+      "to": "0105---escalas-neurológicas",
+      "type": "related"
+    },
+    {
+      "to": "0603---tce",
+      "type": "related"
+    },
+    {
+      "to": "0509---crisis-epiléptica-y-eclampsia0509---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Cuadro Clínico",
+    "Etiología",
+    "Tratamiento Prehospitalario",
+    "Evaluación Postictal",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "04.08 - Sedantes y Antagonistas",
+    "05.16 - Coma y alteración de conciencia",
+    "01.05 - Escalas Neurológicas",
+    "06.03 - TCE",
+    "05.09 - Crisis epiléptica y eclampsia|05.09 - Fuentes"
+  ]
+}

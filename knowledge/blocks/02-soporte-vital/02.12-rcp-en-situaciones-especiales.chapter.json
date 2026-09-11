@@ -1,0 +1,43 @@
+{
+  "id": "02.12-rcp-en-situaciones-especiales",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "02.12 - RCP en Situaciones Especiales",
+  "summary": "",
+  "tags": [
+    "02",
+    "soporte-vital",
+    "RCP-especial",
+    "embarazo",
+    "hipotermia",
+    "obesidad"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.12 - RCP en Situaciones Especiales.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "52ed51cde12c0c0b662df93df7a1577f2423d97b2a28d547edec0cde6b18b6d5"
+  },
+  "created_at": "2026-08-03T21:34:03.830348+00:00",
+  "updated_at": "2026-08-03T21:34:03.830348+00:00",
+  "reviewed_by": null,
+  "relations": [],
+  "nodes": [],
+  "sections": [
+    "RCP en Embarazada",
+    "RCP en Obesidad Mórbida",
+    "RCP en Hipotermía Profunda",
+    "RCP en Ahogamiento",
+    "Errores Críticos"
+  ],
+  "links": [
+    "02.02 - RCP Adulto",
+    "09.01 - Hipotermia y frío|09.01 - Frío",
+    "02.04 - DESA"
+  ]
+}

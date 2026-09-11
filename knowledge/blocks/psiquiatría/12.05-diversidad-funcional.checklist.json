@@ -1,0 +1,40 @@
+{
+  "id": "12.05-diversidad-funcional.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 12.05-diversidad-funcional",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "diversidad"
+  ],
+  "block": "12 - Psiquiatría",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/12 - Psiquiatría/12.05 - Diversidad funcional.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "12.05-diversidad-funcional",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "12 - Psiquiatría"
+  ],
+  "items": [
+    "Verificar seguridad de escena",
+    "Evaluar estado del paciente",
+    "Aplicar protocolo correspondiente",
+    "Monitorizar constantes vitales",
+    "Documentar actuaciones",
+    "Transportar según prioridad"
+  ]
+}

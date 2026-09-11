@@ -1,0 +1,59 @@
+{
+  "id": "14.04-seguridad-del-equipo",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "14.04 - Seguridad del equipo en cabina",
+  "summary": "",
+  "tags": [
+    "14",
+    "Conducción Prioritaria"
+  ],
+  "block": "14 - Conducción Prioritaria",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/14 - Conducción Prioritaria/14.04 - Seguridad del equipo.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "7d1c146cf72d868e4ddcb0b9861df0a54310683fe2a3f73c10b1edecc80bd3ad"
+  },
+  "created_at": "2026-08-07T15:56:57.169560+00:00",
+  "updated_at": "2026-08-07T15:56:57.169560+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1401---normativa-de-tráfico",
+      "type": "related"
+    },
+    {
+      "to": "1402---conducción-defensiva",
+      "type": "related"
+    },
+    {
+      "to": "1403---conducción-nocturna-y-meteorología",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Cinturón de Seguridad",
+    "EPIs en Cabina",
+    "Riesgo de Proyección",
+    "Postura de Conducción Segura",
+    "Caso Práctico",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Fuentes",
+    "Autoevaluación"
+  ],
+  "links": [
+    "14.01 - Normativa de tráfico",
+    "14.02 - Conducción defensiva",
+    "14.03 - Conducción nocturna y meteorología"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "06.09-amputaciones",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "06.09 - Amputaciones",
+  "summary": "",
+  "tags": [
+    "06",
+    "trauma",
+    "amputación",
+    "muñón",
+    "reimplante",
+    "conservación-partes"
+  ],
+  "block": "06 - Trauma",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/06 - Trauma/06.09 - Amputaciones.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "3b2418c3b76f70f0cec2fa9727040ee5f1b2b868c0b9875b6f53eda2a0bcc910"
+  },
+  "created_at": "2026-08-07T15:56:56.966531+00:00",
+  "updated_at": "2026-08-07T15:56:56.966531+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0302---hemorragias-y-torniquetes",
+      "type": "related"
+    },
+    {
+      "to": "0608---extremidades",
+      "type": "related"
+    },
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    },
+    {
+      "to": "0209---acceso-vascular",
+      "type": "related"
+    },
+    {
+      "to": "0609---amputaciones0609---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Manejo del Muñón",
+    "Conservación de la Parte Amputada",
+    "Tratamiento Complementario",
+    "Criterios de Destino",
+    "Complicaciones",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "03.02 - Hemorragias y torniquetes",
+    "06.08 - Extremidades",
+    "01.09 - Fisiopatología del Shock",
+    "02.09 - Acceso Vascular",
+    "06.09 - Amputaciones|06.09 - Fuentes"
+  ]
+}

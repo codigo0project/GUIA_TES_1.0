@@ -1,0 +1,64 @@
+{
+  "id": "13.06-monitorización",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "13.06 - Monitorización",
+  "summary": "",
+  "tags": [
+    "13",
+    "operativa",
+    "monitorización",
+    "ECG",
+    "SpO2",
+    "capnografía"
+  ],
+  "block": "13 - Operativa",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/13 - Operativa/13.06 - Monitorización.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "5ce0d5c6fde07a53995c29bf131ca6dc1c5d360dad2783630665c4081824be95"
+  },
+  "created_at": "2026-08-07T15:56:57.160076+00:00",
+  "updated_at": "2026-08-07T15:56:57.160076+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1305---traslado",
+      "type": "related"
+    },
+    {
+      "to": "1307---logística-especial",
+      "type": "related"
+    },
+    {
+      "to": "1301---vehículo",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Monitor Básica",
+    "Monitor Avanzada",
+    "Registro y Documentación",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Situaciones Especiales",
+    "Errores Críticos",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica",
+    "Fuentes",
+    "Autoevaluación"
+  ],
+  "links": [
+    "13.05 - Traslado",
+    "13.07 - Logística especial",
+    "13.01 - Vehículo"
+  ]
+}

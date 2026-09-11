@@ -1,0 +1,40 @@
+{
+  "id": "08.05-aborto-y-ectopico.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 08.05-aborto-y-ectopico",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "aborto"
+  ],
+  "block": "08 - Obstetricia",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/08 - Obstetricia/08.05 - Aborto y ectópico.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "08.05-aborto-y-ectopico",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "08 - Obstetricia"
+  ],
+  "items": [
+    "Evaluar dolor abdominal y sangrado",
+    "Monitorizar TA y FC",
+    "Canalizar vía y fluidos",
+    "Posición lateral izquierda",
+    "No examinar vaginalmente",
+    "Transportar a maternidad urgentemente"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "04.10-vasoactivos-y-antiarrítmicos",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "04.10 - Vasoactivos y Antiarrítmicos",
+  "summary": "",
+  "tags": [
+    "04",
+    "farmacologia",
+    "noradrenalina",
+    "amiodarona",
+    "atropina",
+    "adenosina",
+    "vasoactivos",
+    "antiarrítmicos"
+  ],
+  "block": "04 - Farmacología",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/04 - Farmacología/04.10 - Vasoactivos y Antiarrítmicos.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "c12f96b2c64b4993f7026a4905d78064d238c9a2da9c304dc60b7a0aa0660d4f"
+  },
+  "created_at": "2026-08-07T15:56:56.508668+00:00",
+  "updated_at": "2026-08-07T15:56:56.508668+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0210---algoritmos-sva",
+      "type": "related"
+    },
+    {
+      "to": "0202---rcp-adulto",
+      "type": "related"
+    },
+    {
+      "to": "0404---adrenalina",
+      "type": "related"
+    },
+    {
+      "to": "0409---fluidoterapia",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Vasoactivos",
+    "Antiarrítmicos en PCR",
+    "Otros Fármacos en SVA",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "02.10 - Algoritmos SVA",
+    "02.02 - RCP Adulto",
+    "04.04 - Adrenalina",
+    "04.09 - Fluidoterapia"
+  ]
+}

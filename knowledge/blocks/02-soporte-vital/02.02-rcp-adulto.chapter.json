@@ -1,0 +1,137 @@
+{
+  "id": "02.02-rcp-adulto",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "02.02 - RCP Adulto: de alta calidad en adultos y feedback devices",
+  "summary": "",
+  "tags": [
+    "openem-enriched"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.02 - RCP Adulto.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "eeb2d672246b76eaa4ab4a64c3b3cee8ab56d9ac8f9ba221cddc9900aa269151",
+    "citations": [
+      {
+        "type": "guideline",
+        "ref": "2020 AHA Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care",
+        "doi": "10.1161/CIR.0000000000000916"
+      },
+      {
+        "type": "guideline",
+        "ref": "2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure"
+      },
+      {
+        "type": "guideline",
+        "ref": "2021 ERC/ESICM Guidelines on Post-Resuscitation Care",
+        "doi": "10.1007/s00134-021-06368-4"
+      },
+      {
+        "type": "pubmed",
+        "ref": "Hypothermia versus Normothermia after Out-of-Hospital Cardiac Arrest (TTM2 Trial)",
+        "pmid": "34133859",
+        "doi": "10.1056/NEJMoa2100591"
+      },
+      {
+        "type": "pubmed",
+        "ref": "Early Coronary Angiography after Cardiac Arrest without ST-Segment Elevation (COACT Trial)",
+        "pmid": "30883057",
+        "doi": "10.1056/NEJMoa1816897"
+      },
+      {
+        "type": "guideline",
+        "ref": "2020 AHA Post-Cardiac Arrest Care Algorithm"
+      },
+      {
+        "type": "guideline",
+        "ref": "Panchal AR, Bartos JA, Cabanas JG, et al. Part 3: Adult Basic and Advanced Life Support: 2020 AHA Guidelines for CPR and ECC. Circulation. 2020;142(16_suppl_2):S366-S468.",
+        "pmid": "33081529"
+      },
+      {
+        "type": "guideline",
+        "ref": "Link MS, Berkow LC, Kudenchuk PJ, et al. Part 7: Adult Advanced Cardiovascular Life Support: 2015 AHA Guidelines Update for CPR and ECC. Circulation. 2015;132(18 Suppl 2):S444-S464.",
+        "pmid": "26472995"
+      },
+      {
+        "type": "pubmed",
+        "ref": "Stiell IG, Walker RG, Nesbitt LP, et al. BIPHASIC Trial: a randomized comparison of fixed lower versus escalating higher energy levels for defibrillation in out-of-hospital cardiac arrest. Circulation. 2007;115(12):1511-1517.",
+        "pmid": "17353444"
+      },
+      {
+        "type": "guideline",
+        "ref": "January CT, Wann LS, Calkins H, et al. 2019 AHA/ACC/HRS Focused Update of the 2014 Guideline for the Management of Patients With Atrial Fibrillation. J Am Coll Cardiol. 2019;74(1):104-132.",
+        "pmid": "30703431"
+      },
+      {
+        "type": "textbook",
+        "ref": "Roberts JR, Custalow CB, Thomsen TW. Roberts and Hedges' Clinical Procedures in Emergency Medicine and Acute Care, 7th Edition. Elsevier. 2019."
+      },
+      {
+        "type": "guideline",
+        "ref": "2025 AHA Guidelines for CPR and Emergency Cardiovascular Care — Part 11: Post-Cardiac Arrest Care. Circulation. 2025."
+      },
+      {
+        "type": "guideline",
+        "ref": "2021 ERC/ESICM Guidelines on Post-Resuscitation Care. Resuscitation. 2021;161:220-269."
+      },
+      {
+        "type": "review",
+        "ref": "Nolan JP, et al. Post-Cardiac Arrest Syndrome: Epidemiology, Pathophysiology, Treatment, and Prognostication. Resuscitation. 2008;79(3):350-379."
+      },
+      {
+        "type": "guideline",
+        "ref": "NAEMSP Position Statement: Prehospital Manual Ventilation. Prehosp Emerg Care. 2022;26(sup1):46-51."
+      },
+      {
+        "type": "review",
+        "ref": "Gerstein NS, Carey MC, Braude DA, et al. Efficacy of facemask ventilation techniques in novice providers. J Clin Anesth. 2013;25(3):193-197.",
+        "pmid": "23567482"
+      },
+      {
+        "type": "guideline",
+        "ref": "ATLS Advanced Trauma Life Support, 10th Edition. American College of Surgeons. 2018."
+      },
+      {
+        "type": "pubmed",
+        "ref": "Joffe AM, Hetzel S, Liew EC. A two-handed jaw-thrust technique is superior to the one-handed 'EC-clamp' technique for mask ventilation in the apneic unconscious person. Anesthesiology. 2010;113(4):873-879.",
+        "pmid": "20808210"
+      }
+    ],
+    "openem_conditions": [
+      "cardiac-arrest,cardioversion-defibrillation,post-cardiac-arrest-syndrome,bag-valve-mask-ventilation"
+    ],
+    "citation_count": 18
+  },
+  "created_at": "2026-08-03T21:34:03.814843+00:00",
+  "updated_at": "2026-08-03T21:34:03.814843+00:00",
+  "reviewed_by": null,
+  "relations": [],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Cadena de Supervivencia",
+    "Técnica de RCP Adulto",
+    "Algoritmo ERC 2025",
+    "Tratamiento Adyuvante",
+    "Situaciones Especiales",
+    "Post-resucitación",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica",
+    "Autoevaluación",
+    "Fuentes"
+  ],
+  "links": [
+    "02.04 - DESA",
+    "02.05 - Vía Aérea Básica",
+    "02.06 - Vía Aérea Avanzada",
+    "02.10 - Algoritmos SVA"
+  ]
+}

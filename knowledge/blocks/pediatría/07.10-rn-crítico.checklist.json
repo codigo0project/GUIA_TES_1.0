@@ -1,0 +1,40 @@
+{
+  "id": "07.10-rn-crítico.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 07.10-rn-crítico",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "rn"
+  ],
+  "block": "07 - Pediatría",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/07 - Pediatría/07.10 - RN crítico.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "07.10-rn-crítico",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "07 - Pediatría"
+  ],
+  "items": [
+    "Verificar seguridad de escena",
+    "Evaluar estado del paciente",
+    "Aplicar protocolo correspondiente",
+    "Monitorizar constantes vitales",
+    "Documentar actuaciones",
+    "Transportar según prioridad"
+  ]
+}

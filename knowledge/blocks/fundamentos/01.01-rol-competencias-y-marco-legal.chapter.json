@@ -1,0 +1,53 @@
+{
+  "id": "01.01-rol-competencias-y-marco-legal",
+  "type": "chapter",
+  "version": "2026.08.04",
+  "status": "published",
+  "language": "es-ES",
+  "title": "01.01 - Rol, competencias y marco legal RD 1397/2007",
+  "summary": "Marco normativo estatal del TES: RD 1397/2007, RD 287/2023, LOPS, RD 836/2012 y normativa complementaria de transporte sanitario.",
+  "tags": [
+    "fundamentos",
+    "marco-legal",
+    "TES",
+    "RD-1397-2007",
+    "RD-287-2023",
+    "LOPS",
+    "transporte-sanitario"
+  ],
+  "block": "01 - Fundamentos",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/01 - Fundamentos/01.01 - Rol, competencias y marco legal RD 1397-2007.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "5405e5430698eb68c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2"
+  },
+  "created_at": "2026-08-04T13:40:00+00:00",
+  "updated_at": "2026-08-04T13:40:00+00:00",
+  "reviewed_by": null,
+  "relations": [],
+  "nodes": [],
+  "sections": [
+    "Normativa estatal del TES",
+    "RD 1397/2007",
+    "RD 287/2023",
+    "LOPS",
+    "Transporte sanitario y dotación",
+    "Normativa complementaria",
+    "Servicios autonómicos",
+    "Comparativa de competencias",
+    "Discrepancias y debate",
+    "Investigación documental",
+    "Caso práctico",
+    "Puntos clave",
+    "Autoevaluación"
+  ],
+  "links": [
+    "manual/01 - Fundamentos/01.01 - Rol, competencias y marco legal RD 1397-2007.md",
+    "02.01 - Reconocimiento PCR",
+    "13.01 - Comunicación y documentación",
+    "16.01 - Marco Legal"
+  ]
+}

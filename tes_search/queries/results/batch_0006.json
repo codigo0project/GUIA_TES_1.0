@@ -1,0 +1,322 @@
+[
+  {
+    "keyword": "shock hemorrágico fases control daños REBOAM TXA",
+    "category": "06_trauma",
+    "chapter": "06.02",
+    "hits": [
+      {
+        "path": "manual/06 - Trauma/06.02 - Shock hemorrágico.md",
+        "score": 0.7529,
+        "text": "---\ntags:\n  - trauma\n  - shock-hemorrágico\n  - control-de-daños\n  - REBOAM\n  - TXA\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Clases de shock hemorrágico y control de daños\"\n---"
+      },
+      {
+        "path": "manual/06 - Trauma/06.02 - Shock hemorrágico.md",
+        "score": 0.7424,
+        "text": "ón directa** primera línea.\n- **Torniquete** si no cede.\n- **Apósitos hemostáticos.**\n\n### 4.2. Hemorragia interna\n- **Sospecha** por shock sin fuente externa.\n- **Transporte urgente** a quirófano.\n- "
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.09 - Fisiopatología del Shock.md",
+        "score": 0.7417,
+        "text": "ento inicial\n\n- **Shock hipovolémico:** control de la hemorragia, acceso vascular, reposición de fluidos.\n- **Shock cardiogénico:** oxigenoterapia, posición semisentada, monitorización, traslado urgen"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.09 - Fisiopatología del Shock.md",
+        "score": 0.735,
+        "text": "co; requiere descompresión o reperfusión inmediata.\n\n### 4.2. Clases de shock hemorrágico\n\n| Clase | Pérdida sanguínea | FC | TA | Estado mental |\n|-------|-------------------|----|----|--------------"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.03 - Valoración Primaria Algoritmo ABCDE.md",
+        "score": 0.7173,
+        "text": "s, sibilancias.\n- **Percusión:** timpanismo o matidez que sugieran neumotórax, hemotórax o derrame.\n- **Oxigenoterapia:** administrar O₂ a alto flujo, monitorizar saturación y estado de conciencia.\n- "
+      }
+    ]
+  },
+  {
+    "keyword": "TCE leve moderado grave hipertensión intracraneal Cushing",
+    "category": "06_trauma",
+    "chapter": "06.03",
+    "hits": [
+      {
+        "path": "manual/06 - Trauma/06.03 - TCE.md",
+        "score": 0.6993,
+        "text": ". Recursos Relacionados\n\n- Escalas Neurológicas: [[01.05 - Escalas Neurológicas]]\n- Raquimedular: [[06.04 - Raquimedular]]\n- Coma: [[05.16 - Coma y alteración de conciencia]]\n- Fuentes: [[06.03 - TCE|"
+      },
+      {
+        "path": "manual/06 - Trauma/06.03 - TCE.md",
+        "score": 0.6918,
+        "text": "gnos de alarma\n- **Dolor** o sensibilidad en cráneo.\n- **Hematoma** o herida en cuero cabelludo.\n- **Rinorrea/otorrea** de líquido claro (LCR).\n| **Signos de focalidad:** hemiparesia, afasia, desviaci"
+      },
+      {
+        "path": "manual/06 - Trauma/06.03 - TCE.md",
+        "score": 0.6816,
+        "text": "---\ntags:\n  - trauma\n  - TCE\n  - traumatismo-craneoencefálico\n  - hipertensión-intracraneal\n  - Cushing\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Clasificación TCE y signos de "
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.03 - Valoración Primaria Algoritmo ABCDE.md",
+        "score": 0.6714,
+        "text": "el lenguaje.\n- Hipoglucemia: glucemia capilar si está disponible, especialmente en pacientes con disminución del nivel de conciencia sin trauma claro.\n\n#### 3.4.3. Criterios de gravedad\n\n- Glasgow ≤8:"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.05 - Escalas Neurológicas.md",
+        "score": 0.662,
+        "text": "* riesgo de herniación cerebral; traslado urgente, hiperventilación controlada si está indicada.\n- **Cincinnati positivo:** activación de código ictus, traslado directo a centro adecuado.\n- **Pupilas "
+      }
+    ]
+  },
+  {
+    "keyword": "lesión medular shock neurogénico espinal dermatomas",
+    "category": "06_trauma",
+    "chapter": "06.04",
+    "hits": [
+      {
+        "path": "manual/06 - Trauma/06.04 - Raquimedular.md",
+        "score": 0.6857,
+        "text": "---\ntags:\n  - trauma\n  - raquimedular\n  - lesión-medular\n  - shock-neurogénico\n  - columna\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Mapa dermatomes y signos de shock neurogéni"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.11 - Monitorización SVA.md",
+        "score": 0.6156,
+        "text": "scular|02.09 - Algoritmos SVA]]\n- Shock: [[01.09 - Fisiopatología del Shock]]\n\n---\n\n> [!quote] Regla Mnemotécnica\n> \"EtCO2 es tu termómetro de perfusión. ECG es tu brújula de desfibrilación. POCUS es "
+      },
+      {
+        "path": "manual/07 - Pediatría/07.04 - Shock pediátrico.md",
+        "score": 0.6123,
+        "text": "---\ntags:\n  - pediatría\n  - shock-pediátrico\n  - deshidratación\n  - gastroenteritis\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Escala de deshidratación pediátrica y signos de sh"
+      },
+      {
+        "path": "manual/06 - Trauma/06.04 - Raquimedular.md",
+        "score": 0.6093,
+        "text": "TA | Baja | Baja |\n| FC | **Baja** | **Alta** |\n| Piel | **Caliente y seca** | **Fría y sudorosa** |\n| Llenado capilar | Normal | Lento |\n\n---\n\n## ⚠️ 4. Errores Críticos\n\n- ❌ No inmovilizar cervical →"
+      },
+      {
+        "path": "manual/06 - Trauma/06.10 - Crush syndrome.md",
+        "score": 0.6091,
+        "text": "---\ntags:\n  - trauma\n  - crush-syndrome\n  - síndrome-compartimental\n  - aplastamiento\n  - mioglobinuria\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Fisiopatología del crush syndr"
+      }
+    ]
+  },
+  {
+    "keyword": "trauma torácico neumotórax a tensión descompresión taponamiento",
+    "category": "06_trauma",
+    "chapter": "06.05",
+    "hits": [
+      {
+        "path": "manual/06 - Trauma/06.05 - Trauma torácico.md",
+        "score": 0.7868,
+        "text": "fracturado.\n- **Signos:**\n  - Dolor torácico intenso.\n  - Crepitación ósea.\n  - Disnea, taquipnea.\n\n### 1.3. Taponamiento cardíaco\n- **Definición:** Sangre en pericardio que comprime el corazón.\n- **S"
+      },
+      {
+        "path": "manual/06 - Trauma/06.05 - Trauma torácico.md",
+        "score": 0.7756,
+        "text": "---\ntags:\n  - trauma\n  - trauma-torácico\n  - neumotórax\n  - tórax-inestable\n  - taponamiento\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Tipos de trauma torácico y técnicas de de"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.09 - Fisiopatología del Shock.md",
+        "score": 0.7725,
+        "text": " neumotórax a tensión y el taponamiento son causas de shock obstructivo en trauma.\n\n---\n\n## 11. Notas personales\n\n- En prehospitalaria, “shock” es un diagnóstico clínico, no una cifra de TA.\n- Si el p"
+      },
+      {
+        "path": "manual/06 - Trauma/06.05 - Trauma torácico.md",
+        "score": 0.7724,
+        "text": ", SatO2.\n\n### 3.2. Tratamiento según lesión\n| Lesión | Tratamiento |\n|--------|-------------|\n| **Neumotórax a tensión** | Descompresión + O2 + transporte |\n| **Tórax inestable** | O2 + analgesia + tr"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.09 - Fisiopatología del Shock.md",
+        "score": 0.7623,
+        "text": "tórax a tensión.\n- Hipertensión intracraneal grave.\n\n#### 3.4.3. Mecanismo\n\nAumento de la postcarga o disminución de la precarga por obstrucción.\n\n#### 3.4.4. Compensaciones iniciales\n\n- Taquicardia.\n"
+      }
+    ]
+  },
+  {
+    "keyword": "trauma abdominal órganos sólidos huecos evisceración",
+    "category": "06_trauma",
+    "chapter": "06.06",
+    "hits": [
+      {
+        "path": "manual/06 - Trauma/06.06 - Trauma abdominal.md",
+        "score": 0.7795,
+        "text": "---\ntags:\n  - trauma\n  - trauma-abdominal\n  - órganos-sólidos\n  - evisceración\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Lesiones de órganos sólidos y manejo de evisceración\"\n-"
+      },
+      {
+        "path": "manual/06 - Trauma/06.06 - Trauma abdominal.md",
+        "score": 0.7682,
+        "text": "Órganos huecos:** peritonitis + shock.\n- **Evisceración:** no reintroducir, apósito húmedo.\n- **Fluidoterapia** en shock.\n- **Transporte urgente** a cirugía.\n\n---\n\n## 🔗 6. Recursos Relacionados\n\n- Sho"
+      },
+      {
+        "path": "manual/06 - Trauma/06.06 - Trauma abdominal.md",
+        "score": 0.7128,
+        "text": "* por contenido intestinal.\n- **Dolor** abdominal intenso.\n- **Vómitos.**\n- **Signos de irritación peritoneal.**\n\n### 2.3. Evisceración\n- **Definición:** Salida de asas intestinales por herida.\n- **Ma"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.04 - Valoración Secundaria SAMPLE y Constantes Vitales.md",
+        "score": 0.7047,
+        "text": " hematomas, heridas penetrantes, pelvis inestable.\n- **Pelvis:** estabilidad, dolor a la compresión, sangrado urogenital.\n- **Extremidades:** pulsos, movimiento, sensibilidad, deformidades, heridas, s"
+      },
+      {
+        "path": "manual/05 - Médicas/05.10 - Abdomen agudo.md",
+        "score": 0.6969,
+        "text": "sentérica |\n| **Traumático** | Hematoma esplénico, lesión hepática |\n| **Ginecológico** | Embarazo ectópico, torsión ovárica |\n\n---\n\n## 🩸 2. Principales Cuadros\n\n### 2.1. Apendicitis aguda\n- **Dolor:*"
+      }
+    ]
+  },
+  {
+    "keyword": "trauma pélvico fracturas faja pélvica",
+    "category": "06_trauma",
+    "chapter": "06.07",
+    "hits": [
+      {
+        "path": "manual/06 - Trauma/06.07 - Trauma pélvico.md",
+        "score": 0.7836,
+        "text": "---\ntags:\n  - trauma\n  - pelvis\n  - fractura-pélvica\n  - faja-pélvica\n  - shock-hemorrágico\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Aplicación de faja pélvica en fractura de "
+      },
+      {
+        "path": "manual/06 - Trauma/06.07 - Trauma pélvico.md",
+        "score": 0.7527,
+        "text": " + shock sin causa externa.\n- **Faja pélvica:** primera medida, nivel trocánteres.\n- **Shock** por hemorragia retroperitoneal.\n- **Fluidoterapia** agresiva.\n- **Transporte urgente** a centro con cirug"
+      },
+      {
+        "path": "manual/03 - Material/03.05 - Colchón de vacío y férulas.md",
+        "score": 0.7401,
+        "text": "s** o fracturas complejas.\n- **Inmovilización de pelvis** en traumatismos pélvicos.\n- Traslados **prolongados** donde la comodidad es importante.\n- Pacientes **ancianos** o con osteoporosis (tabla pue"
+      },
+      {
+        "path": "manual/06 - Trauma/06.07 - Trauma pélvico.md",
+        "score": 0.7256,
+        "text": "co intenso.\n- **Deformidad** en pelvis.\n- **Shock** hipovolémico por hemorragia retroperitoneal.\n- **Hematoma** en región inguinal o perineal.\n\n### 2.2. Complicaciones\n- **Hemorragia retroperitoneal**"
+      },
+      {
+        "path": "manual/03 - Material/03.03 - Inmovilización y principios biomecánicos.md",
+        "score": 0.6988,
+        "text": " en la **zona pélvica**.\n- Mantener la carga **pegada al cuerpo** para reducir el momento de fuerza.\n- Cuanto más alejada esté la carga del cuerpo, mayor esfuerzo y riesgo de lesión.\n\n### 1.3. Base de"
+      }
+    ]
+  },
+  {
+    "keyword": "fracturas fémur tibia húmero clavícula luxaciones",
+    "category": "06_trauma",
+    "chapter": "06.08",
+    "hits": [
+      {
+        "path": "manual/06 - Trauma/06.08 - Extremidades.md",
+        "score": 0.6536,
+        "text": "---\ntags:\n  - trauma\n  - extremidades\n  - fracturas\n  - luxaciones\n  - férulas\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Fracturas de extremidades y técnica de inmovilización c"
+      },
+      {
+        "path": "manual/03 - Material/03.05 - Colchón de vacío y férulas.md",
+        "score": 0.6455,
+        "text": "s** o fracturas complejas.\n- **Inmovilización de pelvis** en traumatismos pélvicos.\n- Traslados **prolongados** donde la comodidad es importante.\n- Pacientes **ancianos** o con osteoporosis (tabla pue"
+      },
+      {
+        "path": "manual/06 - Trauma/06.08 - Extremidades.md",
+        "score": 0.6425,
+        "text": ".\n- **Hematoma.**\n\n### 2.2. Signos de luxación\n- **Deformidad** articular.\n- **Dolor** intenso.\n- **Impotencia funcional.**\n- **Acortamiento** o rotación miembro.\n\n---\n\n## 🚑 3. Manejo Prehospitalario\n"
+      },
+      {
+        "path": "manual/06 - Trauma/06.07 - Trauma pélvico.md",
+        "score": 0.6388,
+        "text": "---\ntags:\n  - trauma\n  - pelvis\n  - fractura-pélvica\n  - faja-pélvica\n  - shock-hemorrágico\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Aplicación de faja pélvica en fractura de "
+      },
+      {
+        "path": "manual/06 - Trauma/06.13 - Trauma maxilofacial.md",
+        "score": 0.631,
+        "text": "rea: [[02.05 - Vía Aérea Básica]]\n- Trauma torácico: [[06.05 - Trauma torácico]]\n- Fuentes: [[06.13 - Trauma maxilofacial|06.13 - Fuentes]]\n\n---\n\n## 📝 7. Notas Personales\n\n- Regla: **\"trauma facial = "
+      }
+    ]
+  },
+  {
+    "keyword": "amputaciones manejo muñones conservación partes",
+    "category": "06_trauma",
+    "chapter": "06.09",
+    "hits": [
+      {
+        "path": "manual/06 - Trauma/06.09 - Amputaciones.md",
+        "score": 0.7636,
+        "text": "---\ntags:\n  - trauma\n  - amputación\n  - muñón\n  - reimplante\n  - conservación-partes\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Empaquetado de muñón y conservación de partes amp"
+      },
+      {
+        "path": "manual/06 - Trauma/06.09 - Amputaciones.md",
+        "score": 0.6811,
+        "text": "porte urgente** a centro con cirugía plástica.\n\n---\n\n## 🔗 6. Recursos Relacionados\n\n- Hemorragias: [[03.02 - Hemorragias y torniquetes]]\n- Extremidades: [[06.08 - Extremidades]]\n- Shock: [[01.09 - Fis"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.04 - Seguridad del equipo.md",
+        "score": 0.6504,
+        "text": "levas una mochila con material en el asiento trasero, una botella de agua en el portabotellas y un teléfono en un soporte magnético.\n> **Resolución:** La frenada será segura si todo está correctamente"
+      },
+      {
+        "path": "manual/08 - Obstetricia/08.02 - Parto normal.md",
+        "score": 0.6468,
+        "text": ":** privacidad, calma.\n- **Material:** gasas estériles, pinzas, cordón, toallas.\n- **Monitorización:** FC materna, TA, SatO2.\n\n### 2.2. Fase expulsiva\n- **No forzar** el expulsivo.\n- **Proteger perine"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+        "score": 0.6406,
+        "text": "istencia.\n- **Ventilación del habitáculo:** mantener ventilación adecuada para reducir concentración de aerosoles; renovar el aire entre servicios cuando sea posible.\n- **Limitación de profesionales:*"
+      }
+    ]
+  },
+  {
+    "keyword": "crush syndrome aplastamiento mioglobinuria",
+    "category": "06_trauma",
+    "chapter": "06.10",
+    "hits": [
+      {
+        "path": "manual/06 - Trauma/06.10 - Crush syndrome.md",
+        "score": 0.726,
+        "text": "---\ntags:\n  - trauma\n  - crush-syndrome\n  - síndrome-compartimental\n  - aplastamiento\n  - mioglobinuria\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Fisiopatología del crush syndr"
+      },
+      {
+        "path": "manual/06 - Trauma/06.10 - Crush syndrome.md",
+        "score": 0.616,
+        "text": "resiva** prehospitalaria.\n- **Transporte urgente** a hospital con diálisis.\n\n---\n\n## 🔗 6. Recursos Relacionados\n\n- Shock: [[01.09 - Fisiopatología del Shock]]\n- Extremidades: [[06.08 - Extremidades]]\n"
+      },
+      {
+        "path": "manual/06 - Trauma/06.10 - Crush syndrome.md",
+        "score": 0.614,
+        "text": "idos:** acidosis metabólica.\n- **Factores tisulares:** coagulopatía.\n\n### 2.2. Complicaciones\n- **Insuficiencia renal aguda.**\n- **Hiperpotasemia** mortal.\n- **Shock** hipovolémico.\n- **Coagulopatía.*"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.10 - Equilibrio Ácido-Base.md",
+        "score": 0.5767,
+        "text": "o: oxígeno, vía aérea y circulación.\n- Si el pH está muy alterado, sospecha shock o parada inminente.\n- La fórmula de Winter es útil, pero no sustituye al juicio clínico.\n- Comunicar siempre: “acidosi"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.09 - Fisiopatología del Shock.md",
+        "score": 0.5745,
+        "text": "ivo del bombeo, acidosis, arritmias, muerte.\n\n### 3.3. Shock distributivo\n\n#### 3.3.1. Definición\n\nSe caracteriza por una redistribución anormal del flujo sanguíneo por vasodilatación generalizada.\n\n#"
+      }
+    ]
+  },
+  {
+    "keyword": "quemaduras regla 9 profundidad química eléctrica vía aérea",
+    "category": "06_trauma",
+    "chapter": "06.11",
+    "hits": [
+      {
+        "path": "manual/06 - Trauma/06.11 - Quemaduras.md",
+        "score": 0.7155,
+        "text": "ntes** protectores.\n\n### 4.2. Eléctricas\n- **Desconectar** fuente eléctrica.\n- **No tocar** paciente hasta asegurar fuente.\n- **Buscar** entrada y salida.\n- **Monitorizar** ECG: arritmias.\n\n### 4.3. I"
+      },
+      {
+        "path": "base_datos/03_modulos/09_teleemergencias.md",
+        "score": 0.7145,
+        "text": "# Módulo 9 - Teleemergencias\n\n## Referencias oficiales\n- Orden ESD/3391/2008, de 3 de noviembre.\n- Real Decreto 1397/2007, de 29 de octubre.\n\n## Contenidos recuperados\n- Recepción, clasificación y pri"
+      },
+      {
+        "path": "manual/videos/14-conduccion/normativa-trafico.md",
+        "score": 0.7091,
+        "text": "---\nimagen: aed-electrode-placement.png\ntitulo: Normativa de tráfico para vehículos prioritarios\ncapitulo: 14.01 - Normativa de tráfico\nurl: https://commons.wikimedia.org/wiki/File:Aed-electrode-place"
+      },
+      {
+        "path": "manual/06 - Trauma/06.12 - Trauma ocular.md",
+        "score": 0.6956,
+        "text": "**Tiempo** es tejido en trauma químico.\n\n---\n\n## 🔗 7. Recursos Relacionados\n\n- Quemaduras: [[06.11 - Quemaduras]]\n- Vía Aérea: [[02.05 - Vía Aérea Básica]]\n- Fuentes: [[06.12 - Trauma ocular|06.12 - F"
+      },
+      {
+        "path": "base_datos/03_modulos/01_mantenimiento_mecanico_preventivo.md",
+        "score": 0.6851,
+        "text": "# Módulo 1 - Mantenimiento mecánico preventivo del vehículo\n\n## Referencias oficiales\n- Orden ESD/3391/2008, de 3 de noviembre — currículo oficial del ciclo TES.\n- Real Decreto 1397/2007, de 29 de oct"
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "id": "12.04-riesgo-suicida",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "12.04 - Riesgo suicida",
+  "summary": "",
+  "tags": [
+    "12",
+    "psiquiatría",
+    "riesgo-suicida",
+    "ideación",
+    "tentativa",
+    "negociación"
+  ],
+  "block": "12 - Psiquiatría",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/12 - Psiquiatría/12.04 - Riesgo suicida.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "bbadbcd1a12cafdab0e1e17ab29aa4d6887e64674b1591e4d53d79375cc823a7"
+  },
+  "created_at": "2026-08-07T15:56:57.145249+00:00",
+  "updated_at": "2026-08-07T15:56:57.145249+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1201---reconocimiento",
+      "type": "related"
+    },
+    {
+      "to": "1202---agitación",
+      "type": "related"
+    },
+    {
+      "to": "1203---contención",
+      "type": "related"
+    },
+    {
+      "to": "1204---riesgo-suicida1204---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Factores de Riesgo",
+    "Evaluación",
+    "Actuación Prehospitalaria",
+    "Manejo Prehospitalario",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "12.01 - Reconocimiento",
+    "12.02 - Agitación",
+    "12.03 - Contención",
+    "12.04 - Riesgo suicida|12.04 - Fuentes"
+  ]
+}

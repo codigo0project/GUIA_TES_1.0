@@ -1,0 +1,96 @@
+{
+  "id": "01.10-equilibrio-ácido-base",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "01.10 - Equilibrio Ácido-Base",
+  "summary": "",
+  "tags": [
+    "fundamentos",
+    "gasometría",
+    "equilibrio ácido-base",
+    "acidosis",
+    "alcalosis"
+  ],
+  "block": "01 - Fundamentos",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/01 - Fundamentos/01.10 - Equilibrio Ácido-Base.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "49a0c70e7d447d917f76ae45a2e22227b6964dd53aea59312a9df949abe0265f"
+  },
+  "created_at": "2026-08-07T15:56:56.339925+00:00",
+  "updated_at": "2026-08-07T15:56:56.339925+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0103---valoración-primaria-algoritmo-abcde0103---valoración-primaria",
+      "type": "related"
+    },
+    {
+      "to": "0104---valoración-secundaria-sample-y-constantes-vitales0104",
+      "type": "related"
+    },
+    {
+      "to": "0109---fisiopatología-del-shock0109---fisiopatología-del-shock",
+      "type": "related"
+    },
+    {
+      "to": "0513---sepsis-y-shock-séptico0513---sepsis",
+      "type": "related"
+    },
+    {
+      "to": "0508---diabetes0508---diabetes",
+      "type": "related"
+    },
+    {
+      "to": "0103---valoración-primaria-algoritmo-abcde0103",
+      "type": "related"
+    },
+    {
+      "to": "0104---valoración-secundaria-sample-y-constantes-vitales0104",
+      "type": "related"
+    },
+    {
+      "to": "0109---fisiopatología-del-shock0109",
+      "type": "related"
+    },
+    {
+      "to": "0513---sepsis-y-shock-séptico0513",
+      "type": "related"
+    },
+    {
+      "to": "0508---diabetes0508",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Definición, utilidad y limitaciones en prehospitalaria",
+    "Método sistemático de interpretación",
+    "Trastornos respiratorios",
+    "Trastornos metabólicos",
+    "Compensación y reglas prácticas",
+    "Trastornos mixtos y aplicación prehospitalaria",
+    "Casos prácticos",
+    "Errores críticos y precauciones",
+    "Puntos clave y checklist",
+    "Conexiones transversales",
+    "10 – EQUILIBRIO ÁCIDO-BASE"
+  ],
+  "links": [
+    "01.03 - Valoración Primaria Algoritmo ABCDE|01.03 - Valoración Primaria",
+    "01.04 - Valoración Secundaria SAMPLE y Constantes Vitales|01.04",
+    "01.09 - Fisiopatología del Shock|01.09 - Fisiopatología del Shock",
+    "05.13 - Sepsis y shock séptico|05.13 - Sepsis",
+    "05.08 - Diabetes|05.08 - Diabetes",
+    "01.03 - Valoración Primaria Algoritmo ABCDE|01.03",
+    "01.04 - Valoración Secundaria SAMPLE y Constantes Vitales|01.04",
+    "01.09 - Fisiopatología del Shock|01.09",
+    "05.13 - Sepsis y shock séptico|05.13",
+    "05.08 - Diabetes|05.08"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "02.04-desa",
+  "type": "chapter",
+  "version": "2026.08.04",
+  "status": "published",
+  "language": "es-ES",
+  "title": "02.04 - Uso del DESA y algoritmo de desfibrilación",
+  "summary": "Aplicación del desfibrilador externo semiautomático en parada cardiorrespiratoria, reconocimiento de ritmos desfibrilables y secuencia de actuación integrada en la cadena de supervivencia.",
+  "tags": [
+    "soporte-vital",
+    "desa",
+    "desfibrilacion",
+    "parada-cardiorrespiratoria",
+    "erc",
+    "dea"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.04 - DESA.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "7f26750c51cab241c1e2d3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4"
+  },
+  "created_at": "2026-08-04T13:40:00+00:00",
+  "updated_at": "2026-08-04T13:40:00+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "02.02-desfibrilacion",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Concepto y tipos de desfibriladores",
+    "Indicaciones y momento de uso",
+    "Ritmos desfibrilables: VF, VT sin pulso, FV",
+    "Secuencia de actuación con DESA",
+    "Colocación de parches",
+    "Análisis y descarga",
+    "Post-desfibrilación y reanudación de RCP",
+    "Mantenimiento y verificación del DESA",
+    "Errores críticos",
+    "Caso práctico",
+    "Puntos clave y checklist",
+    "Conexiones transversales",
+    "Autoevaluación"
+  ],
+  "links": [
+    "manual/02 - Soporte Vital/02.04 - DESA.md",
+    "02.02 - RCP Adulto",
+    "02.03 - RCP en Niños y Lactantes",
+    "02.10 - Algoritmos SVA",
+    "02.01 - Reconocimiento PCR"
+  ]
+}

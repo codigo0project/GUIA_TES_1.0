@@ -1,0 +1,59 @@
+{
+  "id": "04.02-vías-de-administración.pasos",
+  "type": "pasos-numerados",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Secuencia 04.02-vías-de-administración",
+  "summary": "Pasos estructurados.",
+  "tags": [
+    "vías"
+  ],
+  "block": "04 - Farmacología",
+  "duration_min": 8,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/04 - Farmacología/04.02 - Vías de administración.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "04.02-vías-de-administración",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "04 - Farmacología"
+  ],
+  "titulo": "Secuencia 04.02-vías-de-administración",
+  "pasos": [
+    {
+      "orden": 1,
+      "accion": "Seleccionar vía según fármaco y urgencia"
+    },
+    {
+      "orden": 2,
+      "accion": "Preparar material estéril"
+    },
+    {
+      "orden": 3,
+      "accion": "Canalizar vena con técnica aséptica"
+    },
+    {
+      "orden": 4,
+      "accion": "Confirmar flujo y posición"
+    },
+    {
+      "orden": 5,
+      "accion": "Fijar y etiquetar vía"
+    },
+    {
+      "orden": 6,
+      "accion": "Documentar vía, fármaco y hora"
+    }
+  ]
+}

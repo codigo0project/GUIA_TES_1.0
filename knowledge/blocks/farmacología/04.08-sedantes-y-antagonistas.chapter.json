@@ -1,0 +1,62 @@
+{
+  "id": "04.08-sedantes-y-antagonistas",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "04.08 - Sedantes y Antagonistas",
+  "summary": "",
+  "tags": [
+    "04",
+    "farmacologia",
+    "midazolam",
+    "ketamina",
+    "naloxona",
+    "sedación",
+    "antagonistas"
+  ],
+  "block": "04 - Farmacología",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/04 - Farmacología/04.08 - Sedantes y Antagonistas.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "a5e3f0a1d4398ae5d268d87a4c3f313d1afb64f008b84c7dabd35aa7f3feed7f"
+  },
+  "created_at": "2026-08-07T15:56:56.504607+00:00",
+  "updated_at": "2026-08-07T15:56:56.504607+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0401---farmacocinética",
+      "type": "related"
+    },
+    {
+      "to": "0402---vías-de-administración",
+      "type": "related"
+    },
+    {
+      "to": "0509---crisis-epiléptica-y-eclampsia",
+      "type": "related"
+    },
+    {
+      "to": "0507---anafilaxia-y-angioedema",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Midazolam",
+    "Ketamina (teórico)",
+    "Naloxona",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "04.01 - Farmacocinética",
+    "04.02 - Vías de administración",
+    "05.09 - Crisis epiléptica y eclampsia",
+    "05.07 - Anafilaxia y angioedema"
+  ]
+}

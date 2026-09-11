@@ -1,0 +1,51 @@
+{
+  "id": "01.05-escalas-neurológicas",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "01.05 - Escalas Neurológicas",
+  "summary": "",
+  "tags": [
+    "fundamentos",
+    "neurologia",
+    "escalas",
+    "Glasgow",
+    "ictus",
+    "valoracion-neurologica",
+    "AVDI",
+    "Cincinnati",
+    "NIHSS",
+    "RASS"
+  ],
+  "block": "01 - Fundamentos",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/01 - Fundamentos/01.05 - Escalas Neurológicas.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "cb96b89d85db65488ded0f046f717201be96ea91eeea3d552272f5ffd723af81"
+  },
+  "created_at": "2026-08-07T15:56:56.330971+00:00",
+  "updated_at": "2026-08-07T15:56:56.330971+00:00",
+  "reviewed_by": null,
+  "relations": [],
+  "nodes": [],
+  "sections": [
+    "Concepto, finalidad y principios generales",
+    "Escala de Coma de Glasgow (GCS)",
+    "AVDI (Airway, Voice, Grimace, Interaction)",
+    "Escala de Cincinnati / FAST",
+    "NIHSS (National Institutes of Health Stroke Scale)",
+    "RASS (Richmond Agitation-Sedation Scale)",
+    "Comparativa y algoritmo de selección",
+    "Errores críticos",
+    "Caso práctico",
+    "Puntos clave y checklist",
+    "Conexiones transversales"
+  ],
+  "links": [
+    "imagenes/01.05_glasgow-coma-scale.png"
+  ]
+}

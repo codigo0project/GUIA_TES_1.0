@@ -1,0 +1,74 @@
+{
+  "id": "05.15-alteraciones-hidroelectrolíticas",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "05.15 - Alteraciones hidroelectrolíticas",
+  "summary": "",
+  "tags": [
+    "05",
+    "médicas",
+    "hidroelectrolítico",
+    "hiponatremia",
+    "hipernatremia",
+    "hipopotasemia",
+    "calcio"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.15 - Alteraciones hidroelectrolíticas.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "821c6531f8adec372bbd13f4d95029f41e9af117963e5229044c359479ddcda8"
+  },
+  "created_at": "2026-08-07T15:56:56.747311+00:00",
+  "updated_at": "2026-08-07T15:56:56.747311+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0503---arritmias",
+      "type": "related"
+    },
+    {
+      "to": "0516---coma-y-alteración-de-conciencia",
+      "type": "related"
+    },
+    {
+      "to": "0410---vasoactivos-y-antiarrítmicos",
+      "type": "related"
+    },
+    {
+      "to": "0514---insuficiencia-renal",
+      "type": "related"
+    },
+    {
+      "to": "0515---alteraciones-hidroelectrolíticas0515---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Sodio (Na)",
+    "Potasio (K)",
+    "Calcio (Ca)",
+    "Magnesio (Mg)",
+    "Tratamiento Prehospitalario",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "imagenes/05.15_alteraciones-hidroelectroliticas.png",
+    "05.03 - Arritmias",
+    "05.16 - Coma y alteración de conciencia",
+    "04.10 - Vasoactivos y Antiarrítmicos",
+    "05.14 - Insuficiencia renal",
+    "05.15 - Alteraciones hidroelectrolíticas|05.15 - Fuentes"
+  ]
+}

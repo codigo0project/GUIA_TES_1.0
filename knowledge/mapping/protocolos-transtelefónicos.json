@@ -1,0 +1,28 @@
+{
+  "mappings": [
+    {
+      "manual": "manual/23 - Protocolos Transtelefónicos/23.01 - Interrogatorio y triaje telefónico.md",
+      "knowledge": "knowledge/blocks/protocolos-transtelefónicos/23.01-interrogatorio-y-triaje-teleférico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-09-11T10:36:00+00:00"
+    },
+    {
+      "manual": "manual/23 - Protocolos Transtelefónicos/23.02 - RCP telefónica y DESA público.md",
+      "knowledge": "knowledge/blocks/protocolos-transtelefónicos/23.02-rcp-telefónica-y-desa-público.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-09-11T10:36:00+00:00"
+    },
+    {
+      "manual": "manual/23 - Protocolos Transtelefónicos/23.03 - Parto inminente y OVACE.md",
+      "knowledge": "knowledge/blocks/protocolos-transtelefónicos/23.03-parto-inminente-y-ovace.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-09-11T10:36:00+00:00"
+    },
+    {
+      "manual": "manual/23 - Protocolos Transtelefónicos/23.04 - Algoritmos específicos.md",
+      "knowledge": "knowledge/blocks/protocolos-transtelefónicos/23.04-algoritmos-específicos.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-09-11T10:36:00+00:00"
+    }
+  ]
+}

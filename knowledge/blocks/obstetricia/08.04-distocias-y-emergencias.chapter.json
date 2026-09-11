@@ -1,0 +1,67 @@
+{
+  "id": "08.04-distocias-y-emergencias",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "08.04 - Distocias y emergencias",
+  "summary": "",
+  "tags": [
+    "08",
+    "obstetricia",
+    "distocias",
+    "prolapso-cordón",
+    "presentación-podálica",
+    "parto-múltiple"
+  ],
+  "block": "08 - Obstetricia",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/08 - Obstetricia/08.04 - Distocias y emergencias.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "1bdd9475a82f9face1051217311f4ab1f03a9fd01e67234d3947f253a750bb50"
+  },
+  "created_at": "2026-08-07T15:56:57.089600+00:00",
+  "updated_at": "2026-08-07T15:56:57.089600+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0802---parto-normal",
+      "type": "related"
+    },
+    {
+      "to": "0801---fisiología-y-cambios-en-el-embarazo",
+      "type": "related"
+    },
+    {
+      "to": "0203---rcp-en-niños-y-lactantes",
+      "type": "related"
+    },
+    {
+      "to": "0804---distocias-y-emergencias0804---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Prolapso de Cordón",
+    "Presentación Podálica",
+    "Shoulder Dystocia",
+    "Parto Múltiple",
+    "Otras Distocias",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "08.02 - Parto normal",
+    "08.01 - Fisiología y cambios en el embarazo",
+    "02.03 - RCP en Niños y Lactantes",
+    "08.04 - Distocias y emergencias|08.04 - Fuentes"
+  ]
+}

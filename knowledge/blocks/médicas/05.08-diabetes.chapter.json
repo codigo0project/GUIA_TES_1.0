@@ -1,0 +1,73 @@
+{
+  "id": "05.08-diabetes",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "05.08 - Diabetes",
+  "summary": "",
+  "tags": [
+    "05",
+    "médicas",
+    "hipoglucemia",
+    "diabetes",
+    "cetoacidosis",
+    "estado-hiperosmolar",
+    "glucagón"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.08 - Diabetes.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "80632461dc0015d7654be295a5c00a6daa94e0f6faad859cfa8eb25d4ef30d47"
+  },
+  "created_at": "2026-08-07T15:56:56.733184+00:00",
+  "updated_at": "2026-08-07T15:56:56.733184+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0407---emergencias-metabólicas",
+      "type": "related"
+    },
+    {
+      "to": "0509---crisis-epiléptica-y-eclampsia0509---crisis-epiléptica",
+      "type": "related"
+    },
+    {
+      "to": "0516---coma-y-alteración-de-conciencia",
+      "type": "related"
+    },
+    {
+      "to": "0515---alteraciones-hidroelectrolíticas",
+      "type": "related"
+    },
+    {
+      "to": "0508---diabetes0508---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Hipoglucemia",
+    "Cetoacidosis Diabética (CAD)",
+    "Estado Hiperosmolar Hiperglucémico (CEH)",
+    "Comparación CAD vs CEH",
+    "Manejo Prehospitalario",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "04.07 - Emergencias metabólicas",
+    "05.09 - Crisis epiléptica y eclampsia|05.09 - Crisis epiléptica",
+    "05.16 - Coma y alteración de conciencia",
+    "05.15 - Alteraciones hidroelectrolíticas",
+    "05.08 - Diabetes|05.08 - Fuentes"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "03.06-extricación-vehicular",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "03.06 - Extricación vehicular",
+  "summary": "",
+  "tags": [
+    "03",
+    "material",
+    "extricación",
+    "rescate-técnico",
+    "vehículo",
+    "KED",
+    "tracción"
+  ],
+  "block": "03 - Material",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/03 - Material/03.06 - Extricación vehicular.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "4b775d7ee51bc7ce4108b2d6a855b74253616a3933a953f2cc2af5a76ada6f34"
+  },
+  "created_at": "2026-08-07T15:56:56.398283+00:00",
+  "updated_at": "2026-08-07T15:56:56.398283+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0303---inmovilización-y-principios-biomecánicos",
+      "type": "related"
+    },
+    {
+      "to": "0304---collarín-tabla-espinal-y-cuchara",
+      "type": "related"
+    },
+    {
+      "to": "0305---colchón-de-vacío-y-férulas",
+      "type": "related"
+    },
+    {
+      "to": "0307---transferencias-y-ergonomía",
+      "type": "related"
+    },
+    {
+      "to": "0608---extremidades0608---trauma-vertebral",
+      "type": "related"
+    },
+    {
+      "to": "0306---extricación-vehicular0306---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Seguridad de la Escena",
+    "Herramientas de Rescate",
+    "Acceso y Valoración Inicial",
+    "Inmovilización Antes de Extraer",
+    "Técnicas de Extracción",
+    "Casos Prácticos",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "03.03 - Inmovilización y principios biomecánicos",
+    "03.04 - Collarín, tabla espinal y cuchara",
+    "03.05 - Colchón de vacío y férulas",
+    "03.07 - Transferencias y ergonomía",
+    "06.08 - Extremidades|06.08 - Trauma vertebral",
+    "03.06 - Extricación vehicular|03.06 - Fuentes"
+  ]
+}

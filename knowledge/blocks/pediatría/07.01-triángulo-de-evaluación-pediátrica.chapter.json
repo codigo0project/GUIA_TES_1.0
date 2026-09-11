@@ -1,0 +1,68 @@
+{
+  "id": "07.01-triángulo-de-evaluación-pediátrica",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "07.01 - Triángulo de Evaluación Pediátrica",
+  "summary": "",
+  "tags": [
+    "07",
+    "pediatría",
+    "TEP",
+    "triángulo-evaluación-pediátrica",
+    "apariencia",
+    "respiratorio",
+    "circulación"
+  ],
+  "block": "07 - Pediatría",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/07 - Pediatría/07.01 - Triángulo de Evaluación Pediátrica.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "a892d7be9f7050e4428aa5de15f7e585dff84bcb786338c1373d5f8f1985f4d0"
+  },
+  "created_at": "2026-08-07T15:56:57.034921+00:00",
+  "updated_at": "2026-08-07T15:56:57.034921+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0103---valoración-primaria-algoritmo-abcde",
+      "type": "related"
+    },
+    {
+      "to": "0702---constantes-y-dosis-por-peso",
+      "type": "related"
+    },
+    {
+      "to": "0704---shock-pediátrico",
+      "type": "related"
+    },
+    {
+      "to": "0701---triángulo-de-evaluación-pediátrica0701---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Concepto",
+    "Apariencia",
+    "Trabajo Respiratorio",
+    "Circulación",
+    "Interpretación",
+    "Aplicación Práctica",
+    "Errores Críticos",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "01.03 - Valoración Primaria Algoritmo ABCDE",
+    "07.02 - Constantes y dosis por peso",
+    "07.04 - Shock pediátrico",
+    "07.01 - Triángulo de Evaluación Pediátrica|07.01 - Fuentes"
+  ]
+}

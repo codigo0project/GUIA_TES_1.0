@@ -1,0 +1,47 @@
+{
+  "id": "09.05-barotrauma.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 09.05-barotrauma",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [],
+  "block": "09 - Ambientales",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/09 - Ambientales/09.05 - Barotrauma.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "09.05-barotrauma",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "09 - Ambientales"
+  ],
+  "items": [
+    "A temperatura constante, el volumen de un gas es inversamente proporcional a la presión.",
+    "**Ascenso:** expansión de gases.",
+    "**Descenso:** compresión de gases.",
+    "**Definición:** Lesión por diferencia de presión.",
+    "**Causas:**",
+    "Ascenso rápido en buceo.",
+    "Retención de aire (senos, oído medio).",
+    "Sobrepresión pulmonar.",
+    "**Dolor** torácico.",
+    "**Disnea.**",
+    "**Tos.**",
+    "**Neumotórax** si ruptura alveolar.",
+    "**Dolor** articular (\"bends\").",
+    "**Parálisis** o déficit neurológico.",
+    "**Mareo, vértigo.**"
+  ]
+}

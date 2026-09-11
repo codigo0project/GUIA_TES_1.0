@@ -1,0 +1,58 @@
+{
+  "id": "08.02-parto-normal.pasos",
+  "type": "pasos-numerados",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "parto"
+  ],
+  "block": "08 - Obstetricia",
+  "duration_min": 8,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/08 - Obstetricia/08.02 - Parto normal.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "08.02-parto-normal",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "08 - Obstetricia"
+  ],
+  "pasos": [
+    {
+      "orden": 1,
+      "accion": "Posicionar a la paciente"
+    },
+    {
+      "orden": 2,
+      "accion": "No interrumpir el expulsivo"
+    },
+    {
+      "orden": 3,
+      "accion": "Soportar la cabeza fetal"
+    },
+    {
+      "orden": 4,
+      "accion": "Extraer hombros"
+    },
+    {
+      "orden": 5,
+      "accion": "Clampear y cortar cordón si es necesario"
+    },
+    {
+      "orden": 6,
+      "accion": "Alentar contacto piel con piel"
+    }
+  ],
+  "titulo": "Secuencia 08.02-parto-normal"
+}

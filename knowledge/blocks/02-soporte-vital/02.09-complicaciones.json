@@ -1,0 +1,24 @@
+{
+  "id": "02.09-complicaciones",
+  "type": "concept",
+  "version": "2026.08.04",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Complicaciones y resolución",
+  "summary": "Hematoma, vena colapsada, punción fallida y soluciones prehospitalarias.",
+  "relations": [
+    {
+      "to": "02.09-vía-periférica-iv",
+      "type": "related"
+    }
+  ],
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.09 - Acceso Vascular.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": null
+  },
+  "created_at": "2026-08-04T14:00:00+00:00",
+  "updated_at": "2026-08-04T14:00:00+00:00",
+  "reviewed_by": null
+}

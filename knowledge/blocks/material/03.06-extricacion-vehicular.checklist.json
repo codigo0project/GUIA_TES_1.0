@@ -1,0 +1,40 @@
+{
+  "id": "03.06-extricacion-vehicular.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 03.06-extricacion-vehicular",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "extricacion"
+  ],
+  "block": "03 - Material",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/03 - Material/03.06 - Extricación vehicular.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "03.06-extricacion-vehicular",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "03 - Material"
+  ],
+  "items": [
+    "Asegurar escena y vehículo",
+    "Evaluar estado del paciente",
+    "Inmovilizar columna cervical",
+    "Extraer con técnica adecuada",
+    "Monitorizar constantes",
+    "Transportar a hospital"
+  ]
+}

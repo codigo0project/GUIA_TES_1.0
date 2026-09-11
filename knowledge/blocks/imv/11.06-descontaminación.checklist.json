@@ -1,0 +1,47 @@
+{
+  "id": "11.06-descontaminación.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 11.06-descontaminación",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [],
+  "block": "11 - IMV",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/11 - IMV/11.06 - Descontaminación.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "11.06-descontaminación",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "11 - IMV"
+  ],
+  "items": [
+    "**Información previa:** Fichas de seguridad, avisos, detectores.",
+    "**Tipo de agente:** Químico, biológico, radiológico, nuclear.",
+    "**Concentración:** Alta, media o baja.",
+    "**Duración prevista:** Exposición corta o prolongada.",
+    "**Retirar** ropa y neutralizar según protocolo específico.",
+    "**No** aplicar agua en todas las sustancias: consultar ficha.",
+    "**Cubrir** con gasas estériles.",
+    "**No** aplicar pomadas caseras.",
+    "**Unidireccional:** Sucio → descontaminación → limpio.",
+    "**No retroceder:** Evitar recontaminación.",
+    "**Doble verificación:** Responsable confirma descontaminación.",
+    "**Preaviso:** Agente, número de víctimas, estado.",
+    "**Protocolo activado:** Preparar sala de descontaminación hospitalaria.",
+    "**Registro:** Agente, dosis estimada, tratamiento realizado.",
+    "La **ropa** elimina el 90% de la contaminación química."
+  ]
+}

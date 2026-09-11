@@ -1,0 +1,59 @@
+{
+  "id": "11.08-violencia-doméstica",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "11.08 - Violencia doméstica",
+  "summary": "",
+  "tags": [
+    "11",
+    "IMV",
+    "violencia-doméstica",
+    "violencia-género",
+    "abuso-mayores"
+  ],
+  "block": "11 - IMV",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/11 - IMV/11.08 - Violencia doméstica.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "427f5d81e04eae60eb0467b2f19a033d270958f16a49ad44aea4dad2d1a53c16"
+  },
+  "created_at": "2026-08-07T15:56:57.132758+00:00",
+  "updated_at": "2026-08-07T15:56:57.132758+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1101---conceptos-imv",
+      "type": "related"
+    },
+    {
+      "to": "1102---mando-y-control",
+      "type": "related"
+    },
+    {
+      "to": "0708---maltrato-infantil",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Signos de Alarma",
+    "Actuación Prehospitalaria",
+    "Comunicación con la Víctima",
+    "Aspectos Legales",
+    "Protocolo de Actuación",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Caso Práctico"
+  ],
+  "links": [
+    "11.01 - Conceptos IMV",
+    "11.02 - Mando y control",
+    "07.08 - Maltrato infantil"
+  ]
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "keyword": "RCP situaciones especiales embarazo obesidad hipotermia",
+    "category": "02_soporte_vital",
+    "chapter": "02.12",
+    "hits": [
+      {
+        "path": "manual/02 - Soporte Vital/02.12 - RCP en Situaciones Especiales.md",
+        "score": 0.7924,
+        "text": "---\ntags:\n  - soporte-vital\n  - RCP-especial\n  - embarazo\n  - hipotermia\n  - obesidad\nestado: 🟡 En desarrollo\nprioridad: Alta\nduracion: 20 min\nimagen: \"Posición de manos en embarazada y RCP en hipoter"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.12 - RCP en Situaciones Especiales.md",
+        "score": 0.7546,
+        "text": "* 5-6 cm según posición\n- **Frecuencia:** 100-120 por minuto\n- **Manos:** Ubicación en esternón accesible\n- **Largo alcanza:** iGel o LMA si guedel falla\n\n## 🚑 3. RCP en Hipotermía Profunda\n\n### 3.1. "
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.11 - Fuentes.md",
+        "score": 0.732,
+        "text": "estado: 🟡 En progreso\n---\ntags: [fuentes, cap-02.11, RCP-especial, hipotermia, embarazo]\ntipo: fuente\n---\n\n# 📚 Fuentes: 02.11 - RCP en Situaciones Especiales\n\n## 🧬 Guías Clínicas\n- **ERC Guidelines 20"
+      },
+      {
+        "path": "manual/09 - Ambientales/09.05 - Barotrauma.md",
+        "score": 0.7057,
+        "text": "rácico]]\n- RCP en situaciones especiales: [[02.12 - RCP en Situaciones Especiales]]\n- Fuentes: [[09.05 - Barotrauma|09.05 - Fuentes]]\n\n---\n\n## 📝 7. Notas Personales\n\n- Regla: **\"buceo + dolor = oxígen"
+      },
+      {
+        "path": "manual/09 - Ambientales/09.01 - Hipotermia y frío.md",
+        "score": 0.6735,
+        "text": "---\ntags:\n  - ambientales\n  - hipotermia\n  - congelación\n  - muerte-inmersión\n  - frío\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Estadios de hipotermia y lesiones por frío\"\n---"
+      }
+    ]
+  },
+  {
+    "keyword": "RCP mecánica LUCAS AutoPulse",
+    "category": "02_soporte_vital",
+    "chapter": "02.13",
+    "hits": [
+      {
+        "path": "base_datos/04_capitulos/02.13_informacion_cruda.md",
+        "score": 0.7453,
+        "text": "isAllowed=y\n- Revista Emergencias - LUCAS vs AutoPulse modelo porcino: https://revistaemergencias.org/numeros-anteriores/volumen-26/numero-6/reanimacion-con-cardiocompresores-comparacion-de-los-efecto"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.13 - RCP Mecánica (LUCAS, AutoPulse).md",
+        "score": 0.7232,
+        "text": "---\ntags:\n  - soporte-vital\n  - RCP\n  - dispositivos-mecánicos\n  - LUCAS\n  - AutoPulse\n  - compresiones\nestado: ✅ Completado\nprioridad: Alta\nduracion: 10 min\nimagen: \"Dispositivos LUCAS y AutoPulse so"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.13 - RCP Mecánica (LUCAS, AutoPulse).md",
+        "score": 0.6747,
+        "text": "tienes RCP manual mientras el compañero despliega LUCAS.\n> 2. Posicionas LUCAS: pistón en esternón, base en espalda.\n> 3. Activas dispositivo: compresiones a 100/min sin interrupción.\n> 4. Continuas d"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.13 - RCP Mecánica (LUCAS, AutoPulse).md",
+        "score": 0.6579,
+        "text": "- **No retrasar** RCP manual ni desfibrilación por colocar el dispositivo.\n- Colocación **exacta**: centro del tórax, evitar abdomen.\n- **Relevo y verificación** cada 2 minutos.\n- No usar en **niños <"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.13 - RCP Mecánica (LUCAS, AutoPulse).md",
+        "score": 0.6264,
+        "text": "nes.\n\n> [!warning] NO RETRASAR LA RCP\n> Si la PCR es presenciada y hay DESA disponible, **no pierdas tiempo** colocando el dispositivo mecánico. Inicia RCP manual, usa el DESA, y coloca el dispositivo"
+      }
+    ]
+  },
+  {
+    "keyword": "oxigenoterapia dispositivos FiO2 caudales",
+    "category": "03_material",
+    "chapter": "03.01",
+    "hits": [
+      {
+        "path": "manual/03 - Material/03.01 - Oxigenoterapia.md",
+        "score": 0.7289,
+        "text": "---\ntags:\n  - material\n  - oxigenoterapia\n  - oxígeno\n  - FiO2\n  - gafas\n  - mascarilla\n  - reservorio\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 10 min\nimagen: \"Tabla de dispositivos de oxigen"
+      },
+      {
+        "path": "manual/04 - Farmacología/04.03 - Oxígeno medicinal.md",
+        "score": 0.7268,
+        "text": "n FiO2 100% >6 h.\n- **Hiperoxia** empeora pronóstico en IAM y ictus.\n- Riesgo de **incendio**: no fumar, no grasa, no chispas.\n\n---\n\n## 🔗 7. Recursos Relacionados\n\n- Oxigenoterapia: [[03.01 - Oxigenot"
+      },
+      {
+        "path": "manual/04 - Farmacología/04.03 - Oxígeno medicinal.md",
+        "score": 0.6994,
+        "text": " | FiO2 100% hasta descenso de COHb |\n| Dolor torácico / IAM | SatO2 94-98% |\n| EPOC / riesgo hipercapnia | SatO2 88-92% |\n\n> [!abstract] REGLA DE ORO\n> Administrar oxígeno **solo si hay hipoxemia o i"
+      },
+      {
+        "path": "manual/03 - Material/03.01 - Oxigenoterapia.md",
+        "score": 0.6704,
+        "text": "Caudal (L/min)\n- Cantidad de oxígeno suministrada por minuto.\n- Diferentes dispositivos requieren caudales mínimos/máximos para funcionar correctamente.\n\n---\n\n## ⚙️ 2. Sistemas de Bajo Flujo\n\n### 2.1."
+      },
+      {
+        "path": "manual/videos/03-material/oxigenoterapia-dispositivos.md",
+        "score": 0.6687,
+        "text": "---\nimagen: oxigenoterapia-cannula.png\ntitulo: Dispositivos de oxigenoterapia\ncapitulo: 03.01 - Oxigenoterapia\nurl: https://commons.wikimedia.org/wiki/File:Oxigenoterapia_canula_nasal.jpg\nlicencia: CC"
+      }
+    ]
+  },
+  {
+    "keyword": "torniquetes hemostáticos QuikClot vendaje compresivo",
+    "category": "03_material",
+    "chapter": "03.02",
+    "hits": [
+      {
+        "path": "manual/06 - Trauma/06.02 - Shock hemorrágico.md",
+        "score": 0.723,
+        "text": "ón directa** primera línea.\n- **Torniquete** si no cede.\n- **Apósitos hemostáticos.**\n\n### 4.2. Hemorragia interna\n- **Sospecha** por shock sin fuente externa.\n- **Transporte urgente** a quirófano.\n- "
+      },
+      {
+        "path": "manual/04 - Farmacología/04.11 - Hemoderivados.md",
+        "score": 0.7228,
+        "text": "uaciones Especiales: [[02.12 - RCP en Situaciones Especiales]]\n- Fuentes: [[04.11 - Hemoderivados|04.11 - Fuentes]]\n\n---\n\n## 📝 8. Notas Personales\n\n- Regla: **\"compatibilidad primero, velocidad despué"
+      },
+      {
+        "path": "manual/04 - Farmacología/04.11 - Hemoderivados.md",
+        "score": 0.7205,
+        "text": "LI |\n| **Plaquetas** | Trombocitopenia, sangrado | Mejora agregación | Conservación limitada |\n\n---\n\n## 🩺 2. Transfusión en el Shock Hemorrágico\n\n### 2.1. Cuándo transfundir prehospitalariamente\n- **P"
+      },
+      {
+        "path": "manual/03 - Material/03.02 - Hemorragias y torniquetes.md",
+        "score": 0.7143,
+        "text": "---\ntags:\n  - material\n  - hemorragia\n  - torniquete\n  - vendaje-compresivo\n  - hemostático\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Aplicación de torniquete CAT en muslo con "
+      },
+      {
+        "path": "manual/04 - Farmacología/04.11 - Hemoderivados.md",
+        "score": 0.6963,
+        "text": "---\ntags:\n  - farmacologia\n  - hemoderivados\n  - transfusión\n  - sangre\n  - plasma\n  - shock-hemorrágico\nestado: ✅ Completado\nprioridad: Alta\nduracion: 12 min\nimagen: \"Kit de transfusión prehospitalar"
+      }
+    ]
+  },
+  {
+    "keyword": "inmovilización principios biomecánicos tracción",
+    "category": "03_material",
+    "chapter": "03.03",
+    "hits": [
+      {
+        "path": "manual/03 - Material/03.03 - Inmovilización y principios biomecánicos.md",
+        "score": 0.736,
+        "text": "---\ntags:\n  - material\n  - biomecánica\n  - alineación\n  - inmovilización\n  - levantamiento\n  - ergonomía\nestado: ✅ Completado\nprioridad: Alta\nduracion: 10 min\nimagen: \"Ilustración de alineación corpor"
+      },
+      {
+        "path": "manual/03 - Material/03.03 - Inmovilización y principios biomecánicos.md",
+        "score": 0.7105,
+        "text": " Bioseguridad: [[01.02 - Seguridad en escena, EPIs y bioseguridad|01.02 - Seguridad y Bioseguridad]]\n- Valoración Primaria: [[01.03 - Valoración Primaria Algoritmo ABCDE|01.03 - Valoración Primaria]]\n"
+      },
+      {
+        "path": "manual/03 - Material/03.05 - Colchón de vacío y férulas.md",
+        "score": 0.7059,
+        "text": "ión rápida** > inmovilización perfecta.\n\n---\n\n## 🔗 6. Recursos Relacionados\n\n- Inmovilización y biomecánica: [[03.03 - Inmovilización y principios biomecánicos]]\n- Collarín y tabla: [[03.04 - Collarín"
+      },
+      {
+        "path": "manual/03 - Material/03.04 - Collarín, tabla espinal y cuchara.md",
+        "score": 0.7042,
+        "text": "n vertebral** o espacios estrechos.\n- Comprobar **permeabilidad de vía aérea** tras inmovilización completa.\n- Si hay compromiso vital, **priorizar vía aérea** sobre inmovilización perfecta.\n\n---\n\n## "
+      },
+      {
+        "path": "manual/06 - Trauma/06.01 - Biomecánica y cinemática.md",
+        "score": 0.6865,
+        "text": "ágico: [[06.02 - Shock hemorrágico]]\n- TCE: [[06.03 - TCE]]\n- Raquimedular: [[06.04 - Raquimedular]]\n- Fuentes: [[06.01 - Biomecánica y cinemática|06.01 - Fuentes]]\n\n---\n\n## 📝 8. Notas Personales\n\n- R"
+      }
+    ]
+  },
+  {
+    "keyword": "collarín tabla espinal cuchara log-roll",
+    "category": "03_material",
+    "chapter": "03.04",
+    "hits": [
+      {
+        "path": "manual/03 - Material/03.06 - Extricación vehicular.md",
+        "score": 0.7248,
+        "text": "bla espinal (log roll en vehículo)\n1. Acceder por el hueco de puerta abierta.\n2. Log roll con 4 personas manteniendo alineación.\n3. Introducir tabla por el lateral.\n4. Extraer paciente en bloque sobre"
+      },
+      {
+        "path": "manual/03 - Material/03.04 - Collarín, tabla espinal y cuchara.md",
+        "score": 0.7101,
+        "text": "---\ntags:\n  - material\n  - collarín\n  - tabla-espinal\n  - cuchara\n  - inmovilización\n  - columna\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Juego de collarines de distintas tall"
+      },
+      {
+        "path": "manual/03 - Material/03.04 - Collarín, tabla espinal y cuchara.md",
+        "score": 0.6929,
+        "text": " baja posible.\n2. Alinear manualmente columna.\n3. Deslizar paciente en **bloque** usando sábanas o láminas deslizantes.\n4. Centrar en tabla.\n5. Bloquear cabeza y cinchar.\n\n#### Método 2: Log roll (gir"
+      },
+      {
+        "path": "manual/03 - Material/03.04 - Collarín, tabla espinal y cuchara.md",
+        "score": 0.6575,
+        "text": "ncomodidad.\n\n### 3.2. Ventajas\n- No requiere levantamiento del paciente.\n- Más cómoda que tabla espinal.\n- Se adapta a sillas, pasillos estrechos, escaleras.\n\n### 3.3. Técnica\n1. Abrir cáscaras de la "
+      },
+      {
+        "path": "manual/13 - Operativa/13.00 - Fuentes Bloque 13.md",
+        "score": 0.6245,
+        "text": "---\ntags:\n  - Fuentes\n  - Bloque 13\nestado: 🟡 En progreso\nbloque: \"13 - Operativa\"\ncapitulo: \"13 - Fuentes\"\n---\n\n# Fuentes - Bloque 13\n\n## Referencias normativas\n- Real Decreto 836/2012, de 25 de mayo"
+      }
+    ]
+  },
+  {
+    "keyword": "colchón de vacío férulas tracción Sager pélvica",
+    "category": "03_material",
+    "chapter": "03.05",
+    "hits": [
+      {
+        "path": "manual/03 - Material/03.05 - Colchón de vacío y férulas.md",
+        "score": 0.7179,
+        "text": "s** o fracturas complejas.\n- **Inmovilización de pelvis** en traumatismos pélvicos.\n- Traslados **prolongados** donde la comodidad es importante.\n- Pacientes **ancianos** o con osteoporosis (tabla pue"
+      },
+      {
+        "path": "manual/03 - Material/03.05 - Colchón de vacío y férulas.md",
+        "score": 0.6903,
+        "text": "---\ntags:\n  - material\n  - colchón-vacío\n  - férula\n  - tracción\n  - inmovilización\n  - KED\nestado: ✅ Completado\nprioridad: Alta\nduracion: 10 min\nimagen: \"Colchón de vacío moldeado a paciente y férula"
+      },
+      {
+        "path": "manual/03 - Material/03.03 - Inmovilización y principios biomecánicos.md",
+        "score": 0.6763,
+        "text": " en la **zona pélvica**.\n- Mantener la carga **pegada al cuerpo** para reducir el momento de fuerza.\n- Cuanto más alejada esté la carga del cuerpo, mayor esfuerzo y riesgo de lesión.\n\n### 1.3. Base de"
+      },
+      {
+        "path": "manual/03 - Material/03.05 - Colchón de vacío y férulas.md",
+        "score": 0.666,
+        "text": " la posición encontrada, cubrir herida con apósito estéril y preparar para transporte urgente.\n\n---\n\n## 🚑 3. Férula de Extracción (KED)\n\n### 3.1. ¿Qué es?\n- Dispositivo de inmovilización para **extrac"
+      },
+      {
+        "path": "manual/03 - Material/03.05 - Colchón de vacío y férulas.md",
+        "score": 0.6565,
+        "text": "re bomba de vacío funcional |\n| Permite revisión sin retirar | Peso adicional en camilla |\n\n---\n\n## 🦴 2. Férulas de Inmovilización\n\n### 2.1. Tipos de férulas\n| Tipo | Uso | Material |\n|------|-----|--"
+      }
+    ]
+  },
+  {
+    "keyword": "extricación vehicular rescate técnico",
+    "category": "03_material",
+    "chapter": "03.06",
+    "hits": [
+      {
+        "path": "manual/03 - Material/03.06 - Extricación vehicular.md",
+        "score": 0.7384,
+        "text": "---\ntags:\n  - material\n  - extricación\n  - rescate-técnico\n  - vehículo\n  - KED\n  - tracción\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Secuencia de extricación vehicular con KE"
+      },
+      {
+        "path": "manual/09 - Ambientales/09.07 - Rescate técnico.md",
+        "score": 0.7272,
+        "text": "do.\n- ❌ No coordinar con bomberos → rescate inseguro.\n- ❌ Retrasar transporte una vez rescatado.\n\n---\n\n## ✅ 7. Puntos Clave\n\n- **Seguridad del equipo primero.**\n- **No entrar** sin entrenamiento.\n- **"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.02 - Conducción defensiva.md",
+        "score": 0.7109,
+        "text": "\n  4. Esperar a que el tren delantero recupere tracción.\n\n### Sobreviraje (el vehículo gira más de lo debido)\n- **Causa**: frenar o soltar acelerador en curva, superficie deslizante.\n- **Sensación**: "
+      },
+      {
+        "path": "base_datos/03_modulos/00_modulos_base.md",
+        "score": 0.6981,
+        "text": "s y recursos para atender la demanda.\n- Realizar mantenimiento de primer nivel del vehículo y su dotación.\n- Describir operaciones de limpieza, desinfección y verificación de equipos.\n- Analizar proto"
+      },
+      {
+        "path": "base_datos/03_modulos/01_mantenimiento_mecanico_preventivo.md",
+        "score": 0.6806,
+        "text": "# Módulo 1 - Mantenimiento mecánico preventivo del vehículo\n\n## Referencias oficiales\n- Orden ESD/3391/2008, de 3 de noviembre — currículo oficial del ciclo TES.\n- Real Decreto 1397/2007, de 29 de oct"
+      }
+    ]
+  },
+  {
+    "keyword": "transferencias ergonomía carga descarga",
+    "category": "03_material",
+    "chapter": "03.07",
+    "hits": [
+      {
+        "path": "manual/03 - Material/03.07 - Transferencias y ergonomía.md",
+        "score": 0.7125,
+        "text": "---\ntags:\n  - material\n  - transferencias\n  - ergonomía\n  - camilla\n  - silla-de-traslado\n  - levantamiento\nestado: ✅ Completado\nprioridad: Alta\nduracion: 10 min\nimagen: \"Secuencia de transferencia de"
+      },
+      {
+        "path": "manual/03 - Material/03.07 - Transferencias y ergonomía.md",
+        "score": 0.7117,
+        "text": ", carga pegada, base amplia.\n- **Transferencia básica**: 2 personas mínimo para paciente no colaborador.\n- **Escaleras**: subir cabeza arriba, bajar cabeza abajo.\n- **Silla de traslado**: solo para pa"
+      },
+      {
+        "path": "base_datos/03_modulos/06_evacuacion_traslado_pacientes.md",
+        "score": 0.6665,
+        "text": "programaciones-sanidad/emergencias-sanitarias/2512-san203-1-evacuacion-y-traslado/file\n- https://open.tutoring.es/guias_didacticas/GD_MF0071_2.pdf\n- https://ediciones.grupoaran.com/tecnico-en-emergenc"
+      },
+      {
+        "path": "manual/13 - Operativa/13.01 - Vehículo.md",
+        "score": 0.6441,
+        "text": "\n- ❌ No reponer material tras consumo.\n- ❌ Trabajar sin cinturón en movimiento.\n- ❌ Levantar cargas en solitario.\n- ❌ Ignorar fallos mecánicos o eléctricos.\n\n---\n\n## ✅ 6. Puntos Clave\n\n- **Ambulancia "
+      },
+      {
+        "path": "base_datos/04_capitulos/02.13_informacion_cruda.md",
+        "score": 0.6441,
+        "text": "del dispositivo.\n- Colocación correcta: centro del tórax, evitar abdomen, comprobación visual de posición.\n- No retrasar desfibrilación por colocar dispositivo mecánico.\n- En paradas presenciadas con "
+      }
+    ]
+  },
+  {
+    "keyword": "farmacocinética cálculos dosis 10 correctos",
+    "category": "04_farmacología",
+    "chapter": "04.01",
+    "hits": [
+      {
+        "path": "manual/04 - Farmacología/04.01 - Farmacocinética.md",
+        "score": 0.7338,
+        "text": "---\ntags:\n  - farmacologia\n  - farmacocinética\n  - cálculos\n  - dosis\n  - 10-correctos\n  - goteo\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Fórmulas de cálculo de dosis y goteo\""
+      },
+      {
+        "path": "manual/04 - Farmacología/04.02 - Vías de administración.md",
+        "score": 0.709,
+        "text": "\n- Fármacos: adrenalina, atropina, naloxona.\n- Dosis: **2-2.5 veces la dosis IV**.\n- Efectividad variable: no es vía de primera elección.\n\n---\n\n## ⚠️ 6. Errores Críticos\n\n- ❌ Punción arterial en lugar"
+      },
+      {
+        "path": "manual/07 - Pediatría/07.02 - Constantes y dosis por peso.md",
+        "score": 0.6849,
+        "text": "2 meses** | (meses × 0.5) + 4 |\n| **1-5 años** | (edad × 2) + 8 |\n| **6-12 años** | (edad × 3) + 7 |\n\n### 2.2. Cinta de Broselow\n- Estimación de peso por longitud.\n- Color-coded por longitud.\n- Incluy"
+      },
+      {
+        "path": "manual/04 - Farmacología/04.01 - Farmacocinética.md",
+        "score": 0.6803,
+        "text": "recto** → Verificar identidad (nombre + DNI/NASS).\n2. **Medicamento correcto** → Leer etiqueta 3 veces: sacar, preparar, administrar.\n3. **Dosis correcta** → Calcular y verificar con compañero si es a"
+      },
+      {
+        "path": "manual/04 - Farmacología/04.10 - Vasoactivos y Antiarrítmicos.md",
+        "score": 0.6753,
+        "text": "Indicación | Bradicardia sintomática, asistolia |\n| Dosis | **1 mg IV/IO** |\n| Repetir | Cada 3-5 min, máximo 3 mg |\n| Efectos adversos | Taquicardia, delirio, midriasis |\n\n---\n\n## ⚡ 3. Otros Fármacos"
+      }
+    ]
+  }
+]

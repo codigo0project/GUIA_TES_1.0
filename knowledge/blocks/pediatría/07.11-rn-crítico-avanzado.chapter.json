@@ -1,0 +1,72 @@
+{
+  "id": "07.11-rn-crítico-avanzado",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "07.11 - RN crítico avanzado",
+  "summary": "",
+  "tags": [
+    "07",
+    "pediatría",
+    "RN-crítico-avanzado",
+    "prematuridad-extrema",
+    "hernia-diafragmática",
+    "shock-neonatal"
+  ],
+  "block": "07 - Pediatría",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/07 - Pediatría/07.11 - RN crítico avanzado.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "7e55fd2cd03366ae33af5dd070526db2fd93076419c175f4767399f5a99e8f28"
+  },
+  "created_at": "2026-08-07T15:56:57.081343+00:00",
+  "updated_at": "2026-08-07T15:56:57.081343+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0709---reanimación-neonatal",
+      "type": "related"
+    },
+    {
+      "to": "0704---shock-pediátrico",
+      "type": "related"
+    },
+    {
+      "to": "0513---sepsis-y-shock-séptico",
+      "type": "related"
+    },
+    {
+      "to": "0710---rn-crítico",
+      "type": "related"
+    },
+    {
+      "to": "0711---rn-crítico-avanzado0711---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Prematuridad Extrema",
+    "Shock Neonatal",
+    "Infección Neonatal",
+    "Hernia Diafragmática Congénita",
+    "Otras Patologías",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "07.09 - Reanimación neonatal",
+    "07.04 - Shock pediátrico",
+    "05.13 - Sepsis y shock séptico",
+    "07.10 - RN crítico",
+    "07.11 - RN crítico avanzado|07.11 - Fuentes"
+  ]
+}

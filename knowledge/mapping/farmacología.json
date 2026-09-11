@@ -1,0 +1,136 @@
+{
+  "mappings": [
+    {
+      "manual": "manual/04 - Farmacología/04.01 - Farmacocinética.md",
+      "knowledge": "knowledge/blocks/farmacología/04.01-farmacocinética.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.037712+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.02 - Vías de administración.md",
+      "knowledge": "knowledge/blocks/farmacología/04.02-vías-de-administración.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.038853+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.03 - Oxígeno medicinal.md",
+      "knowledge": "knowledge/blocks/farmacología/04.03-oxígeno-medicinal.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.040215+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.04 - Adrenalina.md",
+      "knowledge": "knowledge/blocks/farmacología/04.04-adrenalina.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.041210+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.05 - Antiagregantes y Nitratos.md",
+      "knowledge": "knowledge/blocks/farmacología/04.05-antiagregantes-y-nitratos.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.042167+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.06 - Broncodilatadores.md",
+      "knowledge": "knowledge/blocks/farmacología/04.06-broncodilatadores.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.043324+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.07 - Emergencias metabólicas.md",
+      "knowledge": "knowledge/blocks/farmacología/04.07-emergencias-metabólicas.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.044568+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.08 - Sedantes y Antagonistas.md",
+      "knowledge": "knowledge/blocks/farmacología/04.08-sedantes-y-antagonistas.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.045553+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.09 - Fluidoterapia.md",
+      "knowledge": "knowledge/blocks/farmacología/04.09-fluidoterapia.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.046621+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.10 - Vasoactivos y Antiarrítmicos.md",
+      "knowledge": "knowledge/blocks/farmacología/04.10-vasoactivos-y-antiarrítmicos.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.047969+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.11 - Hemoderivados.md",
+      "knowledge": "knowledge/blocks/farmacología/04.11-hemoderivados.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.049450+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.01 - Farmacocinética.md",
+      "knowledge": "knowledge/blocks/farmacología/04.01-farmacocinética.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.217929+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.02 - Vías de administración.md",
+      "knowledge": "knowledge/blocks/farmacología/04.02-vías-de-administración.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.219659+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.03 - Oxígeno medicinal.md",
+      "knowledge": "knowledge/blocks/farmacología/04.03-oxígeno-medicinal.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.220779+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.04 - Adrenalina.md",
+      "knowledge": "knowledge/blocks/farmacología/04.04-adrenalina.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.222104+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.05 - Antiagregantes y Nitratos.md",
+      "knowledge": "knowledge/blocks/farmacología/04.05-antiagregantes-y-nitratos.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.223225+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.06 - Broncodilatadores.md",
+      "knowledge": "knowledge/blocks/farmacología/04.06-broncodilatadores.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.224637+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.07 - Emergencias metabólicas.md",
+      "knowledge": "knowledge/blocks/farmacología/04.07-emergencias-metabólicas.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.225786+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.08 - Sedantes y Antagonistas.md",
+      "knowledge": "knowledge/blocks/farmacología/04.08-sedantes-y-antagonistas.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.227215+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.09 - Fluidoterapia.md",
+      "knowledge": "knowledge/blocks/farmacología/04.09-fluidoterapia.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.228862+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.10 - Vasoactivos y Antiarrítmicos.md",
+      "knowledge": "knowledge/blocks/farmacología/04.10-vasoactivos-y-antiarrítmicos.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.230559+00:00"
+    },
+    {
+      "manual": "manual/04 - Farmacología/04.11 - Hemoderivados.md",
+      "knowledge": "knowledge/blocks/farmacología/04.11-hemoderivados.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.231999+00:00"
+    }
+  ]
+}

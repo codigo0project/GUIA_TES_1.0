@@ -1,0 +1,72 @@
+{
+  "id": "05.11-aneurisma-de-aorta-abdominal",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "05.11 - Aneurisma de aorta abdominal",
+  "summary": "",
+  "tags": [
+    "05",
+    "médicas",
+    "AAA",
+    "aneurisma-aorta",
+    "shock-hemorrágico",
+    "dolor-lumbar"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.11 - Aneurisma de aorta abdominal.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "4a7b18418e1c51f25a53e3ada46b0a3a7e61ef808c7a476cc918d9368c054dfd"
+  },
+  "created_at": "2026-08-07T15:56:56.739306+00:00",
+  "updated_at": "2026-08-07T15:56:56.739306+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0510---abdomen-agudo",
+      "type": "related"
+    },
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    },
+    {
+      "to": "0302---hemorragias-y-torniquetes",
+      "type": "related"
+    },
+    {
+      "to": "0411---hemoderivados",
+      "type": "related"
+    },
+    {
+      "to": "0511---aneurisma-de-aorta-abdominal0511---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Cuadro Clínico",
+    "Diagnóstico Diferencial",
+    "Manejo Prehospitalario",
+    "Criterios de Destino",
+    "Complicaciones",
+    "Pronóstico",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "05.10 - Abdomen agudo",
+    "01.09 - Fisiopatología del Shock",
+    "03.02 - Hemorragias y torniquetes",
+    "04.11 - Hemoderivados",
+    "05.11 - Aneurisma de aorta abdominal|05.11 - Fuentes"
+  ]
+}

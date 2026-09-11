@@ -1,0 +1,126 @@
+{
+  "id": "01.09-fisiopatología-del-shock",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "01.09 - Fisiopatología del Shock",
+  "summary": "",
+  "tags": [
+    "fundamentos",
+    "shock",
+    "fisiopatología",
+    "hipovolémico",
+    "cardiogénico",
+    "distributivo",
+    "obstructivo"
+  ],
+  "block": "01 - Fundamentos",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/01 - Fundamentos/01.09 - Fisiopatología del Shock.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "6ecfec1efa54d5f1728df1dd05592eddf30ba87a2888cfe89c7ff9de1da9ef29"
+  },
+  "created_at": "2026-08-07T15:56:56.338254+00:00",
+  "updated_at": "2026-08-07T15:56:56.338254+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0103---valoración-primaria-algoritmo-abcde0103---valoración-primaria",
+      "type": "related"
+    },
+    {
+      "to": "0104---valoración-secundaria-sample-y-constantes-vitales0104",
+      "type": "related"
+    },
+    {
+      "to": "0105---escalas-neurológicas0105---escalas-neurológicas",
+      "type": "related"
+    },
+    {
+      "to": "0502---edema-agudo-de-pulmón-y-shock-cardiogénico0502---insuficiencia-cardiaca",
+      "type": "related"
+    },
+    {
+      "to": "0507---anafilaxia-y-angioedema0507---anafilaxia",
+      "type": "related"
+    },
+    {
+      "to": "0513---sepsis-y-shock-séptico0513---sepsis",
+      "type": "related"
+    },
+    {
+      "to": "0602---shock-hemorrágico0602---shock-hemorrágico",
+      "type": "related"
+    },
+    {
+      "to": "0605---trauma-torácico0605---trauma-torácico",
+      "type": "related"
+    },
+    {
+      "to": "0103---valoración-primaria-algoritmo-abcde0103",
+      "type": "related"
+    },
+    {
+      "to": "0104---valoración-secundaria-sample-y-constantes-vitales0104",
+      "type": "related"
+    },
+    {
+      "to": "0105---escalas-neurológicas0105",
+      "type": "related"
+    },
+    {
+      "to": "0502---edema-agudo-de-pulmón-y-shock-cardiogénico0502",
+      "type": "related"
+    },
+    {
+      "to": "0507---anafilaxia-y-angioedema0507",
+      "type": "related"
+    },
+    {
+      "to": "0513---sepsis-y-shock-séptico0513",
+      "type": "related"
+    },
+    {
+      "to": "0602---shock-hemorrágico0602",
+      "type": "related"
+    },
+    {
+      "to": "0605---trauma-torácico0605",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Definición general y alcance clínico",
+    "Conceptos hemodinámicos básicos",
+    "Tipos de shock: fisiopatología y signos clínicos",
+    "Clasificación práctica para prehospitalaria",
+    "Actuación del TES ante el shock",
+    "Casos prácticos",
+    "Errores críticos y precauciones",
+    "Puntos clave y checklist",
+    "Conexiones transversales"
+  ],
+  "links": [
+    "01.03 - Valoración Primaria Algoritmo ABCDE|01.03 - Valoración Primaria",
+    "01.04 - Valoración Secundaria SAMPLE y Constantes Vitales|01.04",
+    "01.05 - Escalas Neurológicas|01.05 - Escalas Neurológicas",
+    "05.02 - Edema agudo de pulmón y shock cardiogénico|05.02 - Insuficiencia Cardiaca",
+    "05.07 - Anafilaxia y angioedema|05.07 - Anafilaxia",
+    "05.13 - Sepsis y shock séptico|05.13 - Sepsis",
+    "06.02 - Shock hemorrágico|06.02 - Shock Hemorrágico",
+    "06.05 - Trauma torácico|06.05 - Trauma Torácico",
+    "01.03 - Valoración Primaria Algoritmo ABCDE|01.03",
+    "01.04 - Valoración Secundaria SAMPLE y Constantes Vitales|01.04",
+    "01.05 - Escalas Neurológicas|01.05",
+    "05.02 - Edema agudo de pulmón y shock cardiogénico|05.02",
+    "05.07 - Anafilaxia y angioedema|05.07",
+    "05.13 - Sepsis y shock séptico|05.13",
+    "06.02 - Shock hemorrágico|06.02",
+    "06.05 - Trauma torácico|06.05"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "11.05-nrbq",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "11.05 - NRBQ",
+  "summary": "",
+  "tags": [
+    "11",
+    "IMV",
+    "NRBQ",
+    "nuclear",
+    "radiológico",
+    "biológico",
+    "químico"
+  ],
+  "block": "11 - IMV",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/11 - IMV/11.05 - NRBQ.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "149a77dac3af6b98b11b88183aa0b1cb1b0700e810f526569c9a270494061fdf"
+  },
+  "created_at": "2026-08-07T15:56:57.126882+00:00",
+  "updated_at": "2026-08-07T15:56:57.126882+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1106---descontaminación",
+      "type": "related"
+    },
+    {
+      "to": "1002---gases-tóxicos",
+      "type": "related"
+    },
+    {
+      "to": "1003---plaguicidas",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Riesgos Específicos",
+    "Manejo Prehospitalario",
+    "Descontaminación",
+    "Reconocimiento y Diagnóstico",
+    "Coordinación con Equipos Especializados",
+    "Caso Práctico",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "11.06 - Descontaminación",
+    "10.02 - Gases tóxicos",
+    "10.03 - Plaguicidas"
+  ]
+}

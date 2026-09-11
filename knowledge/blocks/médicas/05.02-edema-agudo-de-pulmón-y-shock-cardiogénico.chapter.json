@@ -1,0 +1,71 @@
+{
+  "id": "05.02-edema-agudo-de-pulmón-y-shock-cardiogénico",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "05.02 - Edema agudo de pulmón y shock cardiogénico",
+  "summary": "",
+  "tags": [
+    "05",
+    "médicas",
+    "edema-agudo-pulmón",
+    "EAP",
+    "shock-cardiogénico",
+    "insuficiencia-cardíaca"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.02 - Edema agudo de pulmón y shock cardiogénico.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "88ac68156beba4be6ed50eb9f0e6e05084407a5d45733f6b389fbb573c97630e"
+  },
+  "created_at": "2026-08-07T15:56:56.516946+00:00",
+  "updated_at": "2026-08-07T15:56:56.516946+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0501---angina-iam-y-código-infarto",
+      "type": "related"
+    },
+    {
+      "to": "0503---arritmias",
+      "type": "related"
+    },
+    {
+      "to": "0409---fluidoterapia",
+      "type": "related"
+    },
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    },
+    {
+      "to": "0502---edema-agudo-de-pulmón-y-shock-cardiogénico0502---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Cuadro Clínico",
+    "Manejo Prehospitalario",
+    "Criterios de Gravedad",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "05.01 - Angina, IAM y código infarto",
+    "05.03 - Arritmias",
+    "04.09 - Fluidoterapia",
+    "01.09 - Fisiopatología del Shock",
+    "05.02 - Edema agudo de pulmón y shock cardiogénico|05.02 - Fuentes"
+  ]
+}

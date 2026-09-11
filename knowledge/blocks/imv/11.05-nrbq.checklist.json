@@ -1,0 +1,40 @@
+{
+  "id": "11.05-nrbq.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 11.05-nrbq",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "nrbq"
+  ],
+  "block": "11 - IMV",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/11 - IMV/11.05 - NRBQ.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "11.05-nrbq",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "11 - IMV"
+  ],
+  "items": [
+    "Identificar agente sospechoso",
+    "Establecer zona caliente/ tibia/ fría",
+    "Usar EPI adecuado",
+    "Descontaminar al paciente",
+    "Coordinar con recursos especializados",
+    "Documentar exposición"
+  ]
+}

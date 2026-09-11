@@ -1,0 +1,47 @@
+{
+  "id": "05.18-hematológico.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 05.18-hematológico",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [],
+  "block": "05 - Médicas",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.18 - Hematológico.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "05.18-hematológico",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "05 - Médicas"
+  ],
+  "items": [
+    "**Palidez:** piel, mucosas.",
+    "**Fatiga:** disnea de esfuerzo.",
+    "**Taquicardia:** compensadora.",
+    "**Hipotensión:** si sangrado agudo.",
+    "**Angina:** en pacientes cardiópatas.",
+    "**Confusión:** en ancianos.",
+    "**Crisis vaso-oclusiva:** obstrucción microvascular por drepanocitos.",
+    "**Ocurre** en pacientes con drepanocitosis.",
+    "**Desencadenantes:** infección, deshidratación, frío, estrés.",
+    "**Trastorno** de la coagulación sanguínea.",
+    "**Causas:** hemofilia, déficit factores, anticoagulantes, enfermedad hepática.",
+    "**Hemorragia** espontánea o traumática.",
+    "**Hematomas** extensos, dolorosos.",
+    "**Sangrado** articular, muscular.",
+    "**Sangrado** intracraneal."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "16.02-ética-y-confidencialidad",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "16.02 - Ética y confidencialidad",
+  "summary": "",
+  "tags": [
+    "16",
+    "transversales",
+    "ética",
+    "confidencialidad",
+    "consentimiento"
+  ],
+  "block": "16 - Transversales",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/16 - Transversales/16.02 - Ética y confidencialidad.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "81afb9902e8a02f5544d4c62f9f65a682c4cfde61d8f1ac51a386dbdbc960b3a"
+  },
+  "created_at": "2026-08-07T15:56:57.189082+00:00",
+  "updated_at": "2026-08-07T15:56:57.189082+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1601---marco-legal",
+      "type": "related"
+    },
+    {
+      "to": "1603---documentación-clínica",
+      "type": "related"
+    },
+    {
+      "to": "1604---órdenes-de-no-rcp",
+      "type": "related"
+    },
+    {
+      "to": "0101---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Fundamentos y Fisiopatología Ética",
+    "Principios Éticos Fundamentales",
+    "Consentimiento Informado",
+    "Consentimiento en Emergencias",
+    "Secretos Profesionales y Derechos",
+    "Documentación Ética-Clínica",
+    "Conflictos Éticos Frecuentes",
+    "Caso Práctico",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "16.01 - Marco Legal",
+    "16.03 - Documentación clínica",
+    "16.04 - Órdenes de No RCP",
+    "01.01 - Fuentes"
+  ]
+}

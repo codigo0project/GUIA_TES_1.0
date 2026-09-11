@@ -1,0 +1,67 @@
+{
+  "id": "07.09-reanimación-neonatal",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "07.09 - Reanimación neonatal",
+  "summary": "",
+  "tags": [
+    "07",
+    "pediatría",
+    "reanimación-neonatal",
+    "NRP",
+    "RN-crítico"
+  ],
+  "block": "07 - Pediatría",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/07 - Pediatría/07.09 - Reanimación neonatal.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "7a014790289f0b4ab667d086de67c3d8445542b5d0cc2623859201aab0f59687"
+  },
+  "created_at": "2026-08-07T15:56:57.077331+00:00",
+  "updated_at": "2026-08-07T15:56:57.077331+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0203---rcp-en-niños-y-lactantes",
+      "type": "related"
+    },
+    {
+      "to": "0202---rcp-adulto",
+      "type": "related"
+    },
+    {
+      "to": "0710---rn-crítico",
+      "type": "related"
+    },
+    {
+      "to": "0709---reanimación-neonatal0709---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Algoritmo NRP",
+    "Distress Respiratorio",
+    "Meconio",
+    "Prematuridad",
+    "Errores Críticos",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "02.03 - RCP en Niños y Lactantes",
+    "02.02 - RCP Adulto",
+    "07.10 - RN crítico",
+    "07.09 - Reanimación neonatal|07.09 - Fuentes"
+  ]
+}

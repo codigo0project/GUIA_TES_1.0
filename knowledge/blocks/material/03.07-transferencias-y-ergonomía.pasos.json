@@ -1,0 +1,55 @@
+{
+  "id": "03.07-transferencias-y-ergonomía.pasos",
+  "type": "pasos-numerados",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Pasos 03.07-transferencias-y-ergonomía",
+  "summary": "Secuencia estructurada de actuación.",
+  "tags": [
+    "transferencias"
+  ],
+  "block": "03 - Material",
+  "duration_min": 8,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/03 - Material/03.07 - Transferencias y ergonomía.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "03.07-transferencias-y-ergonomía",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "03 - Material"
+  ],
+  "pasos": [
+    {
+      "orden": 1,
+      "accion": "Evaluar escena y seguridad en 03.07-transferencias-y-ergonomía"
+    },
+    {
+      "orden": 2,
+      "accion": "Aplicar protocolo específico"
+    },
+    {
+      "orden": 3,
+      "accion": "Monitorizar constantes vitales"
+    },
+    {
+      "orden": 4,
+      "accion": "Documentar actuaciones"
+    },
+    {
+      "orden": 5,
+      "accion": "Transportar según prioridad"
+    }
+  ],
+  "titulo": "Secuencia 03.07-transferencias-y-ergonomía"
+}

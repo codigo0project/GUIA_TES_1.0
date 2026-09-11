@@ -1,0 +1,65 @@
+{
+  "id": "08.05-aborto-y-ectópico",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "08.05 - Aborto y ectópico",
+  "summary": "",
+  "tags": [
+    "08",
+    "obstetricia",
+    "aborto",
+    "embarazo-ectópico",
+    "torsión-ovárica"
+  ],
+  "block": "08 - Obstetricia",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/08 - Obstetricia/08.05 - Aborto y ectópico.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "aad96b981e729bfeb4f9fa9e3521f1e2caabf10485d2ea6591de3cf680742d31"
+  },
+  "created_at": "2026-08-07T15:56:57.091614+00:00",
+  "updated_at": "2026-08-07T15:56:57.091614+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0801---fisiología-y-cambios-en-el-embarazo",
+      "type": "related"
+    },
+    {
+      "to": "0510---abdomen-agudo",
+      "type": "related"
+    },
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    },
+    {
+      "to": "0805---aborto-y-ectópico0805---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Amenaza de Aborto",
+    "Embarazo Ectópico",
+    "Torsión Ovárica",
+    "Otras Emergencias Ginecológicas",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "08.01 - Fisiología y cambios en el embarazo",
+    "05.10 - Abdomen agudo",
+    "01.09 - Fisiopatología del Shock",
+    "08.05 - Aborto y ectópico|08.05 - Fuentes"
+  ]
+}

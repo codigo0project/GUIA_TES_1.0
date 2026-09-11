@@ -1,0 +1,72 @@
+{
+  "id": "05.12-hemorragia-digestiva",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "05.12 - Hemorragia digestiva",
+  "summary": "",
+  "tags": [
+    "05",
+    "médicas",
+    "hemorragia-digestiva",
+    "hematemesis",
+    "melenas",
+    "varices-esofágicas"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.12 - Hemorragia digestiva.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "eb178094c16365302d862f92ad0001bdb3edfed833b6b89d16d98fc4e5eeb04b"
+  },
+  "created_at": "2026-08-07T15:56:56.741957+00:00",
+  "updated_at": "2026-08-07T15:56:56.741957+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    },
+    {
+      "to": "0510---abdomen-agudo",
+      "type": "related"
+    },
+    {
+      "to": "0411---hemoderivados",
+      "type": "related"
+    },
+    {
+      "to": "0518---hematológico",
+      "type": "related"
+    },
+    {
+      "to": "0512---hemorragia-digestiva0512---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Cuadro Clínico",
+    "Tratamiento Prehospitalario",
+    "Etiologías Específicas",
+    "Manejo de Vía Aérea",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "01.09 - Fisiopatología del Shock",
+    "05.10 - Abdomen agudo",
+    "04.11 - Hemoderivados",
+    "05.18 - Hematológico",
+    "05.12 - Hemorragia digestiva|05.12 - Fuentes"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "11.07-tirador-activo.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 11.07-tirador-activo",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "tirador"
+  ],
+  "block": "11 - IMV",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/11 - IMV/11.07 - Tirador activo.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "11.07-tirador-activo",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "11 - IMV"
+  ],
+  "items": [
+    "Asegurar escena y equipo",
+    "Seguir protocolo NRBQ/tirador",
+    "Alejarse de la zona caliente",
+    "Buscar cobertura y protección",
+    "Coordinar con fuerzas de seguridad",
+    "Atender heridos cuando sea seguro"
+  ]
+}

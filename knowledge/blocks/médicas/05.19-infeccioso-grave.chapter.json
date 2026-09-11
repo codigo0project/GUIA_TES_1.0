@@ -1,0 +1,73 @@
+{
+  "id": "05.19-infeccioso-grave",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "05.19 - Infeccioso grave",
+  "summary": "",
+  "tags": [
+    "05",
+    "médicas",
+    "infeccioso-grave",
+    "meningitis",
+    "meningococemia",
+    "fascitis-necrotizante",
+    "tétanos"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.19 - Infeccioso grave.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "c0538eaea42a201b2edeb44a9feebe1c0fbf7b314e262efc8c8b651ba71ed3af"
+  },
+  "created_at": "2026-08-07T15:56:56.753445+00:00",
+  "updated_at": "2026-08-07T15:56:56.753445+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0513---sepsis-y-shock-séptico",
+      "type": "related"
+    },
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    },
+    {
+      "to": "0302---hemorragias-y-torniquetes",
+      "type": "related"
+    },
+    {
+      "to": "0516---coma-y-alteración-de-conciencia",
+      "type": "related"
+    },
+    {
+      "to": "0519---infeccioso-grave0519---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Meningitis y Meningococemia",
+    "Fascitis Necrotizante",
+    "Tétanos",
+    "Tratamiento Prehospitalario",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Prevención",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "05.13 - Sepsis y shock séptico",
+    "01.09 - Fisiopatología del Shock",
+    "03.02 - Hemorragias y torniquetes",
+    "05.16 - Coma y alteración de conciencia",
+    "05.19 - Infeccioso grave|05.19 - Fuentes"
+  ]
+}

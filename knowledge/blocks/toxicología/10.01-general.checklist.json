@@ -1,0 +1,47 @@
+{
+  "id": "10.01-general.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 10.01-general",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [],
+  "block": "10 - Toxicología",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/10 - Toxicología/10.01 - General.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "10.01-general",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "10 - Toxicología"
+  ],
+  "items": [
+    "**Intoxicación:** entrada de sustancia tóxica al organismo con efecto nocivo.",
+    "**Vías:** oral, inhalatoria, cutánea, parenteral.",
+    "**Estado de conciencia.**",
+    "**Vía aérea** permeable.",
+    "**Respiración** y circulación.",
+    "**Signos** vitales.",
+    "**Sustancia** ingerida.",
+    "**Cantidad** y hora.",
+    "**Vía** de exposición.",
+    "**Antecedentes** psiquiátricos.",
+    "**Retirar** ropa contaminada.",
+    "**Lavar** con agua y jabón.",
+    "**No** frotar.",
+    "**Irrigar** con agua 15-20 min.",
+    "**No** neutralizar."
+  ]
+}

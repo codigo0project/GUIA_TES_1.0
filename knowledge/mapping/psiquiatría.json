@@ -1,0 +1,64 @@
+{
+  "mappings": [
+    {
+      "manual": "manual/12 - Psiquiatría/12.01 - Reconocimiento.md",
+      "knowledge": "knowledge/blocks/psiquiatría/12.01-reconocimiento.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.165929+00:00"
+    },
+    {
+      "manual": "manual/12 - Psiquiatría/12.02 - Agitación.md",
+      "knowledge": "knowledge/blocks/psiquiatría/12.02-agitación.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.167345+00:00"
+    },
+    {
+      "manual": "manual/12 - Psiquiatría/12.03 - Contención.md",
+      "knowledge": "knowledge/blocks/psiquiatría/12.03-contención.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.169155+00:00"
+    },
+    {
+      "manual": "manual/12 - Psiquiatría/12.04 - Riesgo suicida.md",
+      "knowledge": "knowledge/blocks/psiquiatría/12.04-riesgo-suicida.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.170785+00:00"
+    },
+    {
+      "manual": "manual/12 - Psiquiatría/12.05 - Diversidad funcional.md",
+      "knowledge": "knowledge/blocks/psiquiatría/12.05-diversidad-funcional.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.172508+00:00"
+    },
+    {
+      "manual": "manual/12 - Psiquiatría/12.01 - Reconocimiento.md",
+      "knowledge": "knowledge/blocks/psiquiatría/12.01-reconocimiento.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.357302+00:00"
+    },
+    {
+      "manual": "manual/12 - Psiquiatría/12.02 - Agitación.md",
+      "knowledge": "knowledge/blocks/psiquiatría/12.02-agitación.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.359019+00:00"
+    },
+    {
+      "manual": "manual/12 - Psiquiatría/12.03 - Contención.md",
+      "knowledge": "knowledge/blocks/psiquiatría/12.03-contención.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.360486+00:00"
+    },
+    {
+      "manual": "manual/12 - Psiquiatría/12.04 - Riesgo suicida.md",
+      "knowledge": "knowledge/blocks/psiquiatría/12.04-riesgo-suicida.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.362021+00:00"
+    },
+    {
+      "manual": "manual/12 - Psiquiatría/12.05 - Diversidad funcional.md",
+      "knowledge": "knowledge/blocks/psiquiatría/12.05-diversidad-funcional.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.363661+00:00"
+    }
+  ]
+}

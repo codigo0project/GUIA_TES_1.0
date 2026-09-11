@@ -1,0 +1,55 @@
+{
+  "id": "23.02-rcp-telefónica-y-desa-público.pasos",
+  "type": "pasos-numerados",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Pasos 23.02-rcp-telefónica-y-desa-público",
+  "summary": "Secuencia estructurada de actuación.",
+  "tags": [
+    "rcp"
+  ],
+  "block": "23 - Protocolos Transtelefónicos",
+  "duration_min": 8,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/23 - Protocolos Transtelefónicos/23.02 - RCP telefónica y DESA público.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "23.02-rcp-telefónica-y-desa-público",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "23 - Protocolos Transtelefónicos"
+  ],
+  "pasos": [
+    {
+      "orden": 1,
+      "accion": "Evaluar escena y seguridad en 23.02-rcp-telefónica-y-desa-público"
+    },
+    {
+      "orden": 2,
+      "accion": "Aplicar protocolo específico"
+    },
+    {
+      "orden": 3,
+      "accion": "Monitorizar constantes vitales"
+    },
+    {
+      "orden": 4,
+      "accion": "Documentar actuaciones"
+    },
+    {
+      "orden": 5,
+      "accion": "Transportar según prioridad"
+    }
+  ],
+  "titulo": "Secuencia 23.02-rcp-telefónica-y-desa-público"
+}

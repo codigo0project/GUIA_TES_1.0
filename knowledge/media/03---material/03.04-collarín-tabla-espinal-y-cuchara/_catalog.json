@@ -1,0 +1,12 @@
+{
+  "chapter_id": "03.04-collarín-tabla-espinal-y-cuchara",
+  "block": "03 - Material",
+  "items": [
+    {
+      "type": "image",
+      "filename": "spinal-immobilization.png",
+      "source": "imagenes/spinal-immobilization.png"
+    }
+  ],
+  "notes": "Placeholder catalog; populate when assets are available."
+}

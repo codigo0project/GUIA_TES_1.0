@@ -1,0 +1,40 @@
+{
+  "id": "14.01-normativa-de-trafico.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 14.01-normativa-de-trafico",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "normativa"
+  ],
+  "block": "14 - Conducción Prioritaria",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/14 - Conducción Prioritaria/14.01 - Normativa de tráfico.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "14.01-normativa-de-trafico",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "14 - Conducción Prioritaria"
+  ],
+  "items": [
+    "Conocer normativa local",
+    "Usar señales acústicas y luminosas",
+    "Respetar límites de velocidad",
+    "Priorizar seguridad vial",
+    "Documentar incidencias",
+    "Informar a centro de control"
+  ]
+}

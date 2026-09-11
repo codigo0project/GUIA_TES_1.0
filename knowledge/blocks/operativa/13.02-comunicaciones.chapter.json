@@ -1,0 +1,63 @@
+{
+  "id": "13.02-comunicaciones",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "13.02 - Comunicaciones",
+  "summary": "",
+  "tags": [
+    "13",
+    "operativa",
+    "comunicaciones",
+    "radio",
+    "TETRA",
+    "código"
+  ],
+  "block": "13 - Operativa",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/13 - Operativa/13.02 - Comunicaciones.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "53f85629e8b0f667fd0e4e421e1e6921c8b9ed8650b45e503b8ca0221342177b"
+  },
+  "created_at": "2026-08-07T15:56:57.154163+00:00",
+  "updated_at": "2026-08-07T15:56:57.154163+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1301---vehículo",
+      "type": "related"
+    },
+    {
+      "to": "1303---recepción-y-despacho",
+      "type": "related"
+    },
+    {
+      "to": "1304---estacionamiento",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Equipo de Radio",
+    "Alfabeto Fonético OTAN",
+    "Códigos y Lenguaje Claro",
+    "Protocolo de Transmisión",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica",
+    "Fuentes",
+    "Autoevaluación"
+  ],
+  "links": [
+    "13.01 - Vehículo",
+    "13.03 - Recepción y despacho",
+    "13.04 - Estacionamiento"
+  ]
+}

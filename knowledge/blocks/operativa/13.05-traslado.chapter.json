@@ -1,0 +1,62 @@
+{
+  "id": "13.05-traslado",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "13.05 - Traslado",
+  "summary": "",
+  "tags": [
+    "13",
+    "operativa",
+    "traslado",
+    "preaviso",
+    "centro útil",
+    "monitorización"
+  ],
+  "block": "13 - Operativa",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/13 - Operativa/13.05 - Traslado.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "7072117e711e58f7bcf8cca6278891ef7ceae64918a2556c90b58a79da1b7c80"
+  },
+  "created_at": "2026-08-07T15:56:57.158607+00:00",
+  "updated_at": "2026-08-07T15:56:57.158607+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1301---vehículo",
+      "type": "related"
+    },
+    {
+      "to": "1303---recepción-y-despacho",
+      "type": "related"
+    },
+    {
+      "to": "1304---estacionamiento",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Preparación del Traslado",
+    "Monitorización en Ruta",
+    "Preaviso Hospitalario",
+    "Elección del Centro Útil",
+    "Errores Críticos",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica",
+    "Fuentes",
+    "Autoevaluación"
+  ],
+  "links": [
+    "13.01 - Vehículo",
+    "13.03 - Recepción y despacho",
+    "13.04 - Estacionamiento"
+  ]
+}

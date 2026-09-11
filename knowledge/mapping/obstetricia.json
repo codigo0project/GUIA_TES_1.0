@@ -1,0 +1,76 @@
+{
+  "mappings": [
+    {
+      "manual": "manual/08 - Obstetricia/08.01 - Fisiología y cambios en el embarazo.md",
+      "knowledge": "knowledge/blocks/obstetricia/08.01-fisiología-y-cambios-en-el-embarazo.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.125107+00:00"
+    },
+    {
+      "manual": "manual/08 - Obstetricia/08.02 - Parto normal.md",
+      "knowledge": "knowledge/blocks/obstetricia/08.02-parto-normal.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.126357+00:00"
+    },
+    {
+      "manual": "manual/08 - Obstetricia/08.03 - Hemorragias obstétricas.md",
+      "knowledge": "knowledge/blocks/obstetricia/08.03-hemorragias-obstétricas.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.127638+00:00"
+    },
+    {
+      "manual": "manual/08 - Obstetricia/08.04 - Distocias y emergencias.md",
+      "knowledge": "knowledge/blocks/obstetricia/08.04-distocias-y-emergencias.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.128913+00:00"
+    },
+    {
+      "manual": "manual/08 - Obstetricia/08.05 - Aborto y ectópico.md",
+      "knowledge": "knowledge/blocks/obstetricia/08.05-aborto-y-ectópico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.130209+00:00"
+    },
+    {
+      "manual": "manual/08 - Obstetricia/08.06 - Trauma y quirúrgico.md",
+      "knowledge": "knowledge/blocks/obstetricia/08.06-trauma-y-quirúrgico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.131514+00:00"
+    },
+    {
+      "manual": "manual/08 - Obstetricia/08.01 - Fisiología y cambios en el embarazo.md",
+      "knowledge": "knowledge/blocks/obstetricia/08.01-fisiología-y-cambios-en-el-embarazo.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.312868+00:00"
+    },
+    {
+      "manual": "manual/08 - Obstetricia/08.02 - Parto normal.md",
+      "knowledge": "knowledge/blocks/obstetricia/08.02-parto-normal.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.314756+00:00"
+    },
+    {
+      "manual": "manual/08 - Obstetricia/08.03 - Hemorragias obstétricas.md",
+      "knowledge": "knowledge/blocks/obstetricia/08.03-hemorragias-obstétricas.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.316386+00:00"
+    },
+    {
+      "manual": "manual/08 - Obstetricia/08.04 - Distocias y emergencias.md",
+      "knowledge": "knowledge/blocks/obstetricia/08.04-distocias-y-emergencias.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.318065+00:00"
+    },
+    {
+      "manual": "manual/08 - Obstetricia/08.05 - Aborto y ectópico.md",
+      "knowledge": "knowledge/blocks/obstetricia/08.05-aborto-y-ectópico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.319935+00:00"
+    },
+    {
+      "manual": "manual/08 - Obstetricia/08.06 - Trauma y quirúrgico.md",
+      "knowledge": "knowledge/blocks/obstetricia/08.06-trauma-y-quirúrgico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.321477+00:00"
+    }
+  ]
+}

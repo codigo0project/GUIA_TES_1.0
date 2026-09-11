@@ -1,0 +1,65 @@
+{
+  "id": "08.03-hemorragias-obstétricas",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "08.03 - Hemorragias obstétricas",
+  "summary": "",
+  "tags": [
+    "08",
+    "obstetricia",
+    "hemorragia-postparto",
+    "placenta-previa",
+    "dppni",
+    "atonía-uterina"
+  ],
+  "block": "08 - Obstetricia",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/08 - Obstetricia/08.03 - Hemorragias obstétricas.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "0b2d8f8af66dba17e2a3ef72685ebd6b14a17da4d638e421d49c21be0dd349a8"
+  },
+  "created_at": "2026-08-07T15:56:57.087359+00:00",
+  "updated_at": "2026-08-07T15:56:57.087359+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0801---fisiología-y-cambios-en-el-embarazo",
+      "type": "related"
+    },
+    {
+      "to": "0802---parto-normal",
+      "type": "related"
+    },
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    },
+    {
+      "to": "0803---hemorragias-obstétricas0803---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Placenta Previa y DPPNI",
+    "Atonía Uterina",
+    "Manejo Prehospitalario",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Complicaciones y Criterios de Destino",
+    "Información al Hospital",
+    "Caso Práctico Avanzado"
+  ],
+  "links": [
+    "08.01 - Fisiología y cambios en el embarazo",
+    "08.02 - Parto normal",
+    "01.09 - Fisiopatología del Shock",
+    "08.03 - Hemorragias obstétricas|08.03 - Fuentes"
+  ]
+}

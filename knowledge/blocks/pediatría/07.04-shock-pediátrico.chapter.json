@@ -1,0 +1,71 @@
+{
+  "id": "07.04-shock-pediátrico",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "07.04 - Shock pediátrico",
+  "summary": "",
+  "tags": [
+    "07",
+    "pediatría",
+    "shock-pediátrico",
+    "deshidratación",
+    "gastroenteritis"
+  ],
+  "block": "07 - Pediatría",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/07 - Pediatría/07.04 - Shock pediátrico.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "19da9019ef85f81ec2e8bc3f60f9c5ec88f2654f1775d36c1e7c2f634780781e"
+  },
+  "created_at": "2026-08-07T15:56:57.066229+00:00",
+  "updated_at": "2026-08-07T15:56:57.066229+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0701---triángulo-de-evaluación-pediátrica",
+      "type": "related"
+    },
+    {
+      "to": "0702---constantes-y-dosis-por-peso",
+      "type": "related"
+    },
+    {
+      "to": "0409---fluidoterapia",
+      "type": "related"
+    },
+    {
+      "to": "0209---acceso-vascular",
+      "type": "related"
+    },
+    {
+      "to": "0704---shock-pediátrico0704---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Deshidratación",
+    "Fluidoterapia",
+    "Manejo Prehospitalario",
+    "Deshidratación por Gastroenteritis",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "07.01 - Triángulo de Evaluación Pediátrica",
+    "07.02 - Constantes y dosis por peso",
+    "04.09 - Fluidoterapia",
+    "02.09 - Acceso Vascular",
+    "07.04 - Shock pediátrico|07.04 - Fuentes"
+  ]
+}

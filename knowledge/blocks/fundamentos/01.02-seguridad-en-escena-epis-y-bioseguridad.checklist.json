@@ -1,0 +1,40 @@
+{
+  "id": "01.02-seguridad-en-escena-epis-y-bioseguridad.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 01.02-seguridad-en-escena-epis-y-bioseguridad",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "seguridad"
+  ],
+  "block": "01 - Fundamentos",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "01.02-seguridad-en-escena-epis-y-bioseguridad",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "01 - Fundamentos"
+  ],
+  "items": [
+    "Evaluar seguridad de la escena",
+    "Usar EPI adecuado al riesgo",
+    "Aplicar precauciones estándar",
+    "Identificar riesgos ambientales",
+    "Documentar incidencias",
+    "Informar de exposición si existe"
+  ]
+}

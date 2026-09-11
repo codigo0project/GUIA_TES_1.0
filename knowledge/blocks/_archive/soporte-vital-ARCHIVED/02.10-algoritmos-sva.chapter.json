@@ -1,0 +1,83 @@
+{
+  "id": "02.10-algoritmos-sva",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "02.10 - Algoritmos SVA",
+  "summary": "",
+  "tags": [
+    "02",
+    "soporte-vital",
+    "algoritmos",
+    "sva",
+    "ERC",
+    "fv-esp",
+    "PCR"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.10 - Algoritmos SVA.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "c3cc57482c93b0db8cc600f03df9730f08ad64cfd2c00e70c2e4bf239a4eeb04"
+  },
+  "created_at": "2026-08-07T15:56:56.381201+00:00",
+  "updated_at": "2026-08-07T15:56:56.381201+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0204---desa",
+      "type": "related"
+    },
+    {
+      "to": "0202---rcp-adulto",
+      "type": "related"
+    },
+    {
+      "to": "0206---vía-aérea-avanzada",
+      "type": "related"
+    },
+    {
+      "to": "0209---acceso-vascular",
+      "type": "related"
+    },
+    {
+      "to": "0409---fluidoterapia",
+      "type": "related"
+    },
+    {
+      "to": "0401---farmacocinética",
+      "type": "related"
+    },
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Fundamentos del SVA",
+    "Algoritmo SVA - FV/ESP (Fibrilación Ventricular / Taquicardia Ventricular Sin Pulso)",
+    "Algoritmo SVA - Asistolia / AESP / PEA (No Desfibrilable)",
+    "4H/4T - Causas Reversibles de la PCR",
+    "Medicamentos del SVA",
+    "Monitorización durante SVA",
+    "Transición a Post-RCP",
+    "Errores Críticos",
+    "Caso Práctico",
+    "Puntos Clave",
+    "Checklist de Repaso"
+  ],
+  "links": [
+    "02.04 - DESA",
+    "02.02 - RCP Adulto",
+    "02.06 - Vía Aérea Avanzada",
+    "02.09 - Acceso Vascular",
+    "04.09 - Fluidoterapia",
+    "04.01 - Farmacocinética",
+    "01.09 - Fisiopatología del Shock"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "10.04-drogas-de-abuso",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "10.04 - Drogas de abuso",
+  "summary": "",
+  "tags": [
+    "10",
+    "toxicología",
+    "opiáceos",
+    "cocaína",
+    "anfetaminas",
+    "cannabinoides"
+  ],
+  "block": "10 - Toxicología",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/10 - Toxicología/10.04 - Drogas de abuso.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "8b572bd2f619406e87aca4ff8cb83039a29051aa70521a9d77d8e8f60620fae5"
+  },
+  "created_at": "2026-08-07T15:56:57.111870+00:00",
+  "updated_at": "2026-08-07T15:56:57.111870+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1001---general",
+      "type": "related"
+    },
+    {
+      "to": "1005---fármacos-y-alcohol",
+      "type": "related"
+    },
+    {
+      "to": "1004---drogas-de-abuso1004---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Opiáceos",
+    "Cocaína",
+    "Anfetaminas",
+    "Cannabinoides",
+    "Manejo Prehospitalario",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "10.01 - General",
+    "10.05 - Fármacos y alcohol",
+    "10.04 - Drogas de abuso|10.04 - Fuentes"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "16.08-calidad-y-auditoría",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "16.08 - Calidad y auditoría",
+  "summary": "",
+  "tags": [
+    "16",
+    "transversales",
+    "calidad",
+    "auditoria",
+    "pdca"
+  ],
+  "block": "16 - Transversales",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/16 - Transversales/16.08 - Calidad y auditoría.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "78f77f149f90d8b8ade7bf1c465cd843b69ceaa6f6b718e6848f21914e3cd48f"
+  },
+  "created_at": "2026-08-07T15:56:57.211056+00:00",
+  "updated_at": "2026-08-07T15:56:57.211056+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1603---documentación-clínica",
+      "type": "related"
+    },
+    {
+      "to": "1301---vehículo",
+      "type": "related"
+    },
+    {
+      "to": "0401---farmacocinética",
+      "type": "related"
+    },
+    {
+      "to": "1607---estrés-y-burnout",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Fundamentos del Sistema de Calidad",
+    "Ciclo PDCA (Mejora Continua) - Aplicación Detallada",
+    "Auditoría Clínica",
+    "Notificación de Incidentes (Sensafety)",
+    "Errores Comunes",
+    "Mejora de la Calidad",
+    "Indicadores de Calidad",
+    "Caso Práctico",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "16.03 - Documentación clínica",
+    "13.01 - Vehículo",
+    "04.01 - Farmacocinética",
+    "16.07 - Estrés y burnout"
+  ]
+}

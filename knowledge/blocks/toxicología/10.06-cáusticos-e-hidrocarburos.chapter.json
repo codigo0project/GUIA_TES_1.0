@@ -1,0 +1,58 @@
+{
+  "id": "10.06-cáusticos-e-hidrocarburos",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "10.06 - Cáusticos e hidrocarburos",
+  "summary": "",
+  "tags": [
+    "10",
+    "toxicología",
+    "cáusticos",
+    "hidrocarburos",
+    "lejía",
+    "ácidos"
+  ],
+  "block": "10 - Toxicología",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/10 - Toxicología/10.06 - Cáusticos e hidrocarburos.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "eaf5f07a08ac2bbe445bb514fc4c1815ecfa641bb589687dd15c3b7d6afd803a"
+  },
+  "created_at": "2026-08-07T15:56:57.115577+00:00",
+  "updated_at": "2026-08-07T15:56:57.115577+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1001---general",
+      "type": "related"
+    },
+    {
+      "to": "0611---quemaduras",
+      "type": "related"
+    },
+    {
+      "to": "1006---cáusticos-e-hidrocarburos1006---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Cáusticos",
+    "Hidrocarburos",
+    "Manejo Prehospitalario",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Información al Hospital",
+    "Caso Práctico Avanzado"
+  ],
+  "links": [
+    "10.01 - General",
+    "06.11 - Quemaduras",
+    "10.06 - Cáusticos e hidrocarburos|10.06 - Fuentes"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "06.02-shock-hemorrágico",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "06.02 - Shock hemorrágico",
+  "summary": "",
+  "tags": [
+    "06",
+    "trauma",
+    "shock-hemorrágico",
+    "control-de-daños",
+    "REBOAM",
+    "TXA"
+  ],
+  "block": "06 - Trauma",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/06 - Trauma/06.02 - Shock hemorrágico.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "2d5fcb43777a70e6e8ce9c1beab79ed7964a6cedebcb876a2828be0e7c7f909b"
+  },
+  "created_at": "2026-08-07T15:56:56.756288+00:00",
+  "updated_at": "2026-08-07T15:56:56.756288+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0302---hemorragias-y-torniquetes",
+      "type": "related"
+    },
+    {
+      "to": "0409---fluidoterapia",
+      "type": "related"
+    },
+    {
+      "to": "0411---hemoderivados",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Fisiopatología",
+    "Tratamiento Prehospitalario",
+    "Control de Hemorragia",
+    "Hipovolemia y Reposición",
+    "Medidas Adicionales",
+    "Errores Críticos",
+    "Caso Práctico",
+    "Puntos Clave"
+  ],
+  "links": [
+    "03.02 - Hemorragias y torniquetes",
+    "04.09 - Fluidoterapia",
+    "04.11 - Hemoderivados"
+  ]
+}

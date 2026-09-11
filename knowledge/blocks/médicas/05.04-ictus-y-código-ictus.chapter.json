@@ -1,0 +1,74 @@
+{
+  "id": "05.04-ictus-y-código-ictus",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "05.04 - Ictus y código ictus",
+  "summary": "",
+  "tags": [
+    "05",
+    "médicas",
+    "ictus",
+    "ACV",
+    "código-ictus",
+    "AIT",
+    "stroke"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.04 - Ictus y código ictus.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "e6e3ecd6e81f308c4a2919c425b321e2f3f643072555e026356e784b49ec7f56"
+  },
+  "created_at": "2026-08-07T15:56:56.544794+00:00",
+  "updated_at": "2026-08-07T15:56:56.544794+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0105---escalas-neurológicas",
+      "type": "related"
+    },
+    {
+      "to": "0516---coma-y-alteración-de-conciencia",
+      "type": "related"
+    },
+    {
+      "to": "0405---antiagregantes-y-nitratos",
+      "type": "related"
+    },
+    {
+      "to": "0501---angina-iam-y-código-infarto",
+      "type": "related"
+    },
+    {
+      "to": "0504---ictus-y-código-ictus0504---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Detección: Escala Cincinnati",
+    "Cuadro Clínico",
+    "Código Ictus",
+    "Tratamiento Prehospitalario",
+    "Diagnóstico Diferencial",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "01.05 - Escalas Neurológicas",
+    "05.16 - Coma y alteración de conciencia",
+    "04.05 - Antiagregantes y Nitratos",
+    "05.01 - Angina, IAM y código infarto",
+    "05.04 - Ictus y código ictus|05.04 - Fuentes"
+  ]
+}

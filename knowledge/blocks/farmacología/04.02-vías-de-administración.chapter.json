@@ -1,0 +1,72 @@
+{
+  "id": "04.02-vías-de-administración",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "04.02 - Vías de administración",
+  "summary": "",
+  "tags": [
+    "04",
+    "farmacologia",
+    "vías-administración",
+    "VO",
+    "SL",
+    "IM",
+    "IN",
+    "IO",
+    "IV",
+    "IT"
+  ],
+  "block": "04 - Farmacología",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/04 - Farmacología/04.02 - Vías de administración.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "017ed14233bced52f230715313d180e85e9770d2891338207287d3cec60ed0f7"
+  },
+  "created_at": "2026-08-07T15:56:56.445713+00:00",
+  "updated_at": "2026-08-07T15:56:56.445713+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0401---farmacocinética",
+      "type": "related"
+    },
+    {
+      "to": "0404---adrenalina",
+      "type": "related"
+    },
+    {
+      "to": "0409---fluidoterapia",
+      "type": "related"
+    },
+    {
+      "to": "0209---acceso-vascular",
+      "type": "related"
+    },
+    {
+      "to": "0402---vías-de-administración0402---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Clasificación de Vías",
+    "Vía Intravenosa Periférica (IV)",
+    "Vía Intraósea (IO)",
+    "Vía Intranasal (IN)",
+    "Otras Vías",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "04.01 - Farmacocinética",
+    "04.04 - Adrenalina",
+    "04.09 - Fluidoterapia",
+    "02.09 - Acceso Vascular",
+    "04.02 - Vías de administración|04.02 - Fuentes"
+  ]
+}

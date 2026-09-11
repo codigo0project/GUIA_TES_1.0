@@ -1,0 +1,58 @@
+{
+  "id": "12.05-diversidad-funcional",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "12.05 - Diversidad funcional",
+  "summary": "",
+  "tags": [
+    "12",
+    "psiquiatría",
+    "diversidad-funcional",
+    "autismo",
+    "discapacidad-intelectual",
+    "barreras-idiomáticas"
+  ],
+  "block": "12 - Psiquiatría",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/12 - Psiquiatría/12.05 - Diversidad funcional.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "10f80e2db3dd9fc4997bb4ca096c6534ba84af8009ff77d0fd97f41118121e32"
+  },
+  "created_at": "2026-08-07T15:56:57.148308+00:00",
+  "updated_at": "2026-08-07T15:56:57.148308+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1201---reconocimiento",
+      "type": "related"
+    },
+    {
+      "to": "1602---ética-y-confidencialidad",
+      "type": "related"
+    },
+    {
+      "to": "1205---diversidad-funcional1205---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Trastorno del Espectro Autista (TEA)",
+    "Discapacidad Intelectual",
+    "Barreras Idiomáticas",
+    "Actuación Prehospitalaria",
+    "Manejo Prehospitalario",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "12.01 - Reconocimiento",
+    "16.02 - Ética y confidencialidad",
+    "12.05 - Diversidad funcional|12.05 - Fuentes"
+  ]
+}

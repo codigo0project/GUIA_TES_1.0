@@ -1,0 +1,58 @@
+{
+  "id": "07.09-reanimacion-neonatal.pasos",
+  "type": "pasos-numerados",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "reanimacion"
+  ],
+  "block": "07 - Pediatría",
+  "duration_min": 8,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/07 - Pediatría/07.09 - Reanimación neonatal.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "07.09-reanimacion-neonatal",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "07 - Pediatría"
+  ],
+  "pasos": [
+    {
+      "orden": 1,
+      "accion": "Secar y estimular"
+    },
+    {
+      "orden": 2,
+      "accion": "Posicionar vía aérea"
+    },
+    {
+      "orden": 3,
+      "accion": "Valorar respiración y FC"
+    },
+    {
+      "orden": 4,
+      "accion": "Ventilaciones con bolsa-máscara si necesario"
+    },
+    {
+      "orden": 5,
+      "accion": "Intubar si fracasa"
+    },
+    {
+      "orden": 6,
+      "accion": "Monitorizar temperatura y respuesta"
+    }
+  ],
+  "titulo": "Secuencia 07.09-reanimacion-neonatal"
+}

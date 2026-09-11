@@ -1,0 +1,59 @@
+{
+  "id": "09.04-electricidad",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "09.04 - Electricidad",
+  "summary": "",
+  "tags": [
+    "09",
+    "ambientales",
+    "electricidad",
+    "electrocución",
+    "baja-tensión",
+    "alta-tensión"
+  ],
+  "block": "09 - Ambientales",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/09 - Ambientales/09.04 - Electricidad.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "4be123dbbde430a0c61f103d0c1b099d44998cd958d5b338efee62fe84962fa4"
+  },
+  "created_at": "2026-08-07T15:56:57.100077+00:00",
+  "updated_at": "2026-08-07T15:56:57.100077+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0611---quemaduras",
+      "type": "related"
+    },
+    {
+      "to": "0503---arritmias",
+      "type": "related"
+    },
+    {
+      "to": "0904---electricidad0904---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Cuadro Clínico",
+    "Manejo Prehospitalario",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Información al Hospital"
+  ],
+  "links": [
+    "06.11 - Quemaduras",
+    "05.03 - Arritmias",
+    "09.04 - Electricidad|09.04 - Fuentes"
+  ]
+}

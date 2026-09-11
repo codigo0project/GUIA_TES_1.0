@@ -1,0 +1,66 @@
+{
+  "id": "02.10-algoritmos-sva",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "02.10 - Algoritmos SVA",
+  "summary": "",
+  "tags": [
+    "02",
+    "soporte-vital",
+    "algoritmos",
+    "sva",
+    "ERC",
+    "fv-esp",
+    "PCR"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.10 - Algoritmos SVA.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "c3cc57482c93b0db8cc600f03df9730f08ad64cfd2c00e70c2e4bf239a4eeb04"
+  },
+  "created_at": "2026-08-03T21:34:03.826764+00:00",
+  "updated_at": "2026-08-03T21:34:03.826764+00:00",
+  "reviewed_by": null,
+  "relations": [],
+  "nodes": [
+    "02.10-concepto-sva",
+    "02.10-algoritmo-fv-esp",
+    "02.10-algoritmo-asistolia-pea",
+    "02.10-causas-reversibles-4h4t",
+    "02.10-adrenalina",
+    "02.10-amiodarona",
+    "02.10-vía-aérea-avanzada-sva",
+    "02.10-monitorizacion-sva",
+    "02.10-post-resucitacion",
+    "02.10-caso-practico",
+    "02.10-autoevaluacion"
+  ],
+  "sections": [
+    "Fundamentos del SVA",
+    "Algoritmo FV/ESP",
+    "Algoritmo Asistolia/PEA",
+    "Causas reversibles 4H/4T",
+    "Adrenalina en SVA",
+    "Amiodarona en SVA",
+    "Vía aérea avanzada en SVA",
+    "Monitorización en SVA",
+    "Post-resucitación",
+    "Caso práctico",
+    "Autoevaluación"
+  ],
+  "links": [
+    "02.04 - DESA",
+    "02.02 - RCP Adulto",
+    "02.06 - Vía Aérea Avanzada",
+    "02.09 - Acceso Vascular",
+    "04.09 - Fluidoterapia",
+    "04.01 - Farmacocinética",
+    "01.09 - Fisiopatología del Shock"
+  ]
+}

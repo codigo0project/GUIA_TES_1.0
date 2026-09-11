@@ -1,0 +1,63 @@
+{
+  "id": "16.09-registro-de-la-hoja-de-actividad",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "16.09 - Registro de la hoja de actividad",
+  "summary": "",
+  "tags": [],
+  "block": "16 - Transversales",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/16 - Transversales/16.09 - Registro de la hoja de actividad.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "605a9d23e71b0db91c10ed512b93b046a54e2b7fa82cc67f149b28a9cf1995dc"
+  },
+  "created_at": "2026-08-07T15:56:57.213385+00:00",
+  "updated_at": "2026-08-07T15:56:57.213385+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1601---marco-legal",
+      "type": "related"
+    },
+    {
+      "to": "1603---documentación-clínica",
+      "type": "related"
+    },
+    {
+      "to": "1604---órdenes-de-no-rcp",
+      "type": "related"
+    },
+    {
+      "to": "1608---calidad-y-auditoría",
+      "type": "related"
+    },
+    {
+      "to": "0108---comunicación-clínica-y-entrega",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Fundamentos y Principios de Registro",
+    "Estructura de la Hoja (Campo por Campo)",
+    "Cómo Llenar la Hoja (Guía Paso-a-Paso)",
+    "Digitalización y Formatos Electrónicos",
+    "Errores Frecuentes (y cómo detectarlos)",
+    "Normativa Aplicable",
+    "Caso Práctico (con análisis PDCA)",
+    "Errores Críticos (con consecuencias legales)",
+    "Puntos Clave"
+  ],
+  "links": [
+    "16.01 - Marco Legal",
+    "16.03 - Documentación clínica",
+    "16.04 - Órdenes de No RCP",
+    "16.08 - Calidad y auditoría",
+    "01.08 - Comunicación clínica y entrega"
+  ]
+}

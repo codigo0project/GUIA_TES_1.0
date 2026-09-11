@@ -1,0 +1,60 @@
+{
+  "id": "23.01-interrogatorio-y-triaje-teleférico",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "23.01 - Interrogatorio y triaje telefónico",
+  "summary": "",
+  "tags": [
+    "15",
+    "protocolos",
+    "transtelefónico",
+    "triaje",
+    "interrogatorio",
+    "112"
+  ],
+  "block": "23 - Protocolos Transtelefónicos",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/23 - Protocolos Transtelefónicos/23.01 - Interrogatorio y triaje telefónico.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "a3f898d7b6eff5d797596123fdbbd44863c6a66229fe27cd4bbe489db1b6b58e"
+  },
+  "created_at": "2026-08-07T15:56:57.171093+00:00",
+  "updated_at": "2026-08-07T15:56:57.171093+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1502---rcp-telefónica-y-desa-público",
+      "type": "related"
+    },
+    {
+      "to": "1503---parto-inminente-y-ovace",
+      "type": "related"
+    },
+    {
+      "to": "1504---algoritmos-específicos",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Recepción de la Llamada",
+    "Triaje Telefónico",
+    "Protocolo de Interrogatorio",
+    "Errores Críticos",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Fuentes",
+    "Autoevaluación"
+  ],
+  "links": [
+    "23.02 - RCP telefónica y DESA público",
+    "23.03 - Parto inminente y OVACE",
+    "23.04 - Algoritmos específicos"
+  ]
+}

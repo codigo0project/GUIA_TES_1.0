@@ -1,0 +1,65 @@
+{
+  "id": "03.07-transferencias-y-ergonomía",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "03.07 - Transferencias y ergonomía",
+  "summary": "",
+  "tags": [
+    "03",
+    "material",
+    "transferencias",
+    "ergonomía",
+    "camilla",
+    "silla-de-traslado",
+    "levantamiento"
+  ],
+  "block": "03 - Material",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/03 - Material/03.07 - Transferencias y ergonomía.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "a067da7d0281ed61183a4c1d2391dacfcb93d6cf430ea6a1dc26fdbfd71b459e"
+  },
+  "created_at": "2026-08-07T15:56:56.399940+00:00",
+  "updated_at": "2026-08-07T15:56:56.399940+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0303---inmovilización-y-principios-biomecánicos",
+      "type": "related"
+    },
+    {
+      "to": "0304---collarín-tabla-espinal-y-cuchara",
+      "type": "related"
+    },
+    {
+      "to": "0305---colchón-de-vacío-y-férulas",
+      "type": "related"
+    },
+    {
+      "to": "0306---extricación-vehicular",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Principios Ergonómicos Aplicados",
+    "Tipos de Transferencia",
+    "Sillas de Traslado",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso"
+  ],
+  "links": [
+    "03.03 - Inmovilización y principios biomecánicos",
+    "03.04 - Collarín, tabla espinal y cuchara",
+    "03.05 - Colchón de vacío y férulas",
+    "03.06 - Extricación vehicular"
+  ]
+}

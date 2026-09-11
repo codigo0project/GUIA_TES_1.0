@@ -1,0 +1,59 @@
+{
+  "id": "11.01-conceptos-imv",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "11.01 - Conceptos IMV",
+  "summary": "",
+  "tags": [
+    "11",
+    "IMV",
+    "urgencia",
+    "emergencia",
+    "catástrofe",
+    "triaje"
+  ],
+  "block": "11 - IMV",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/11 - IMV/11.01 - Conceptos IMV.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "732806452913cc1af049feb7537f0c839373c075ec5bdd564c603c5ade08f306"
+  },
+  "created_at": "2026-08-07T15:56:57.119225+00:00",
+  "updated_at": "2026-08-07T15:56:57.119225+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1102---mando-y-control",
+      "type": "related"
+    },
+    {
+      "to": "1103---sectorización",
+      "type": "related"
+    },
+    {
+      "to": "1302---comunicaciones",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Comparativa",
+    "Triaje en IMV",
+    "Actuación del TES en IMV",
+    "Principios del IMV",
+    "Errores Críticos",
+    "Caso Práctico",
+    "Puntos Clave"
+  ],
+  "links": [
+    "11.02 - Mando y control",
+    "11.03 - Sectorización",
+    "13.02 - Comunicaciones"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "mappings": [
+    {
+      "manual": "manual/07 - Pediatría/07.01 - Triángulo de Evaluación Pediátrica.md",
+      "knowledge": "knowledge/blocks/pediatría/07.01-triángulo-de-evaluación-pediátrica.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.109340+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.02 - Constantes y dosis por peso.md",
+      "knowledge": "knowledge/blocks/pediatría/07.02-constantes-y-dosis-por-peso.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.110557+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.03 - Respiratorio pediátrico.md",
+      "knowledge": "knowledge/blocks/pediatría/07.03-respiratorio-pediátrico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.111946+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.04 - Shock pediátrico.md",
+      "knowledge": "knowledge/blocks/pediatría/07.04-shock-pediátrico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.113272+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.05 - Neurológico pediátrico.md",
+      "knowledge": "knowledge/blocks/pediatría/07.05-neurológico-pediátrico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.114658+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.06 - Cardiopatías.md",
+      "knowledge": "knowledge/blocks/pediatría/07.06-cardiopatías.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.116053+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.07 - Abdomen pediátrico.md",
+      "knowledge": "knowledge/blocks/pediatría/07.07-abdomen-pediátrico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.117572+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.08 - Maltrato infantil.md",
+      "knowledge": "knowledge/blocks/pediatría/07.08-maltrato-infantil.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.119337+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.09 - Reanimación neonatal.md",
+      "knowledge": "knowledge/blocks/pediatría/07.09-reanimación-neonatal.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.120904+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.10 - RN crítico.md",
+      "knowledge": "knowledge/blocks/pediatría/07.10-rn-crítico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.122314+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.11 - RN crítico avanzado.md",
+      "knowledge": "knowledge/blocks/pediatría/07.11-rn-crítico-avanzado.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.123780+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.01 - Triángulo de Evaluación Pediátrica.md",
+      "knowledge": "knowledge/blocks/pediatría/07.01-triángulo-de-evaluación-pediátrica.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.293853+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.02 - Constantes y dosis por peso.md",
+      "knowledge": "knowledge/blocks/pediatría/07.02-constantes-y-dosis-por-peso.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.295630+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.03 - Respiratorio pediátrico.md",
+      "knowledge": "knowledge/blocks/pediatría/07.03-respiratorio-pediátrico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.297311+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.04 - Shock pediátrico.md",
+      "knowledge": "knowledge/blocks/pediatría/07.04-shock-pediátrico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.298905+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.05 - Neurológico pediátrico.md",
+      "knowledge": "knowledge/blocks/pediatría/07.05-neurológico-pediátrico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.300470+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.06 - Cardiopatías.md",
+      "knowledge": "knowledge/blocks/pediatría/07.06-cardiopatías.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.302124+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.07 - Abdomen pediátrico.md",
+      "knowledge": "knowledge/blocks/pediatría/07.07-abdomen-pediátrico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.303783+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.08 - Maltrato infantil.md",
+      "knowledge": "knowledge/blocks/pediatría/07.08-maltrato-infantil.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.305629+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.09 - Reanimación neonatal.md",
+      "knowledge": "knowledge/blocks/pediatría/07.09-reanimación-neonatal.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.307380+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.10 - RN crítico.md",
+      "knowledge": "knowledge/blocks/pediatría/07.10-rn-crítico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.309073+00:00"
+    },
+    {
+      "manual": "manual/07 - Pediatría/07.11 - RN crítico avanzado.md",
+      "knowledge": "knowledge/blocks/pediatría/07.11-rn-crítico-avanzado.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.310951+00:00"
+    }
+  ]
+}

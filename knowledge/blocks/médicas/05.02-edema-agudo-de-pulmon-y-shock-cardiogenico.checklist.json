@@ -1,0 +1,40 @@
+{
+  "id": "05.02-edema-agudo-de-pulmon-y-shock-cardiogenico.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 05.02-edema-agudo-de-pulmon-y-shock-cardiogenico",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "edema"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.02 - Edema agudo de pulmón y shock cardiogénico.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "05.02-edema-agudo-de-pulmon-y-shock-cardiogenico",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "05 - Médicas"
+  ],
+  "items": [
+    "Posición semisentada",
+    "O2 de alto flujo",
+    "Monitorizar TA, FC, SatO2",
+    "Canalizar vía y considerar diuréticos",
+    "Preavisar a hospital",
+    "Transportar urgentemente"
+  ]
+}

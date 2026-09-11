@@ -1,0 +1,72 @@
+{
+  "id": "06.11-quemaduras",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "06.11 - Quemaduras",
+  "summary": "",
+  "tags": [
+    "06",
+    "trauma",
+    "quemaduras",
+    "profundidad",
+    "regla-9",
+    "inhalación"
+  ],
+  "block": "06 - Trauma",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/06 - Trauma/06.11 - Quemaduras.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "250c06e465ba8ab65ddd56f4368c94238f71125ff934a801c92554b22f23e126"
+  },
+  "created_at": "2026-08-07T15:56:56.984668+00:00",
+  "updated_at": "2026-08-07T15:56:56.984668+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    },
+    {
+      "to": "0205---vía-aérea-básica",
+      "type": "related"
+    },
+    {
+      "to": "0409---fluidoterapia",
+      "type": "related"
+    },
+    {
+      "to": "0605---trauma-torácico",
+      "type": "related"
+    },
+    {
+      "to": "0611---quemaduras0611---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Valoración",
+    "Manejo Prehospitalario",
+    "Quemaduras Especiales",
+    "Tratamiento del Dolor",
+    "Criterios de Destino",
+    "Complicaciones",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "01.09 - Fisiopatología del Shock",
+    "02.05 - Vía Aérea Básica",
+    "04.09 - Fluidoterapia",
+    "06.05 - Trauma torácico",
+    "06.11 - Quemaduras|06.11 - Fuentes"
+  ]
+}

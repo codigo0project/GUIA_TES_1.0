@@ -1,0 +1,40 @@
+{
+  "id": "08.03-hemorragias-obstetricas.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 08.03-hemorragias-obstetricas",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "hemorragias"
+  ],
+  "block": "08 - Obstetricia",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/08 - Obstetricia/08.03 - Hemorragias obstétricas.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "08.03-hemorragias-obstetricas",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "08 - Obstetricia"
+  ],
+  "items": [
+    "Evaluar sangrado y constantes",
+    "Masaje uterino si atonía",
+    "Canalizar vía y fluidos",
+    "Oxígeno alto flujo",
+    "Posición lateral izquierda",
+    "Transportar a maternidad urgentemente"
+  ]
+}

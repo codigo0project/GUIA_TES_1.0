@@ -1,0 +1,40 @@
+{
+  "id": "05.14-insuficiencia-renal.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 05.14-insuficiencia-renal",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "insuficiencia"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.14 - Insuficiencia renal.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "05.14-insuficiencia-renal",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "05 - Médicas"
+  ],
+  "items": [
+    "Evaluar diuresis y estado neurológico",
+    "Monitorizar TA y FC",
+    "Evitar fluidos en exceso",
+    "Considerar hiperpotasemia",
+    "Reevaluar constantes",
+    "Informar sospecha a hospital"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "06.14-trauma-penetrante",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "06.14 - Trauma penetrante",
+  "summary": "",
+  "tags": [
+    "06",
+    "trauma",
+    "trauma-penetrante",
+    "arma-blanca",
+    "arma-fuego",
+    "balística"
+  ],
+  "block": "06 - Trauma",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/06 - Trauma/06.14 - Trauma penetrante.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "82102a1d4a13b081ca7aa670d26e483d6ac5517cee1384e76fa5df4a5db08ab8"
+  },
+  "created_at": "2026-08-07T15:56:57.010310+00:00",
+  "updated_at": "2026-08-07T15:56:57.010310+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0302---hemorragias-y-torniquetes",
+      "type": "related"
+    },
+    {
+      "to": "0605---trauma-torácico",
+      "type": "related"
+    },
+    {
+      "to": "0606---trauma-abdominal",
+      "type": "related"
+    },
+    {
+      "to": "0603---tce",
+      "type": "related"
+    },
+    {
+      "to": "0614---trauma-penetrante0614---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Evaluación Prehospitalaria",
+    "Manejo Prehospitalario",
+    "Heridas por Arma de Fuego",
+    "Manejo de Objetos Empalados",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "03.02 - Hemorragias y torniquetes",
+    "06.05 - Trauma torácico",
+    "06.06 - Trauma abdominal",
+    "06.03 - TCE",
+    "06.14 - Trauma penetrante|06.14 - Fuentes"
+  ]
+}

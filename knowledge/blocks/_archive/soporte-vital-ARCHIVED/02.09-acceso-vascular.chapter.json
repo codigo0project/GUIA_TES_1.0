@@ -1,0 +1,70 @@
+{
+  "id": "02.09-acceso-vascular",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "02.09 - Acceso Vascular",
+  "summary": "",
+  "tags": [
+    "02",
+    "soporte-vital",
+    "acceso-vascular",
+    "canulacion",
+    "io",
+    "ez-io",
+    "intraóseo"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.09 - Acceso Vascular.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "e4982bfca7974da1d9978eae109ed341af258bf418f32950f673e43d470dacc1"
+  },
+  "created_at": "2026-08-07T15:56:56.378753+00:00",
+  "updated_at": "2026-08-07T15:56:56.378753+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0409---fluidoterapia",
+      "type": "related"
+    },
+    {
+      "to": "0202---rcp-adulto",
+      "type": "related"
+    },
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    },
+    {
+      "to": "0210---algoritmos-sva",
+      "type": "related"
+    },
+    {
+      "to": "0401---farmacocinética",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Importancia del Acceso Vascular en Emergencias",
+    "Canulación Venosa Periférica (IV)",
+    "Acceso Intraóseo (IO) - EZ-IO",
+    "Comparativa IV vs IO",
+    "Errores Críticos",
+    "Caso Práctico",
+    "Puntos Clave",
+    "Checklist de Repaso"
+  ],
+  "links": [
+    "04.09 - Fluidoterapia",
+    "02.02 - RCP Adulto",
+    "01.09 - Fisiopatología del Shock",
+    "02.10 - Algoritmos SVA",
+    "04.01 - Farmacocinética"
+  ]
+}

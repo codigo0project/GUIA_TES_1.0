@@ -1,0 +1,63 @@
+{
+  "id": "10.07-síndromes-tóxicos",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "10.07 - Síndromes tóxicos",
+  "summary": "",
+  "tags": [
+    "10",
+    "toxicología",
+    "síndrome-serotoninérgico",
+    "síndrome-neuroléptico-maligno",
+    "abstinencia"
+  ],
+  "block": "10 - Toxicología",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/10 - Toxicología/10.07 - Síndromes tóxicos.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "5a952ddee2b5999fab42f238ed161c7630473bd461f3d1962055bf5136a06f19"
+  },
+  "created_at": "2026-08-07T15:56:57.117439+00:00",
+  "updated_at": "2026-08-07T15:56:57.117439+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1001---general",
+      "type": "related"
+    },
+    {
+      "to": "1004---drogas-de-abuso",
+      "type": "related"
+    },
+    {
+      "to": "1005---fármacos-y-alcohol",
+      "type": "related"
+    },
+    {
+      "to": "1007---síndromes-tóxicos1007---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Síndrome Serotoninérgico",
+    "Síndrome Neuroléptico Maligno",
+    "Abstinencia",
+    "Manejo Prehospitalario",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Información al Hospital",
+    "Caso Práctico Avanzado"
+  ],
+  "links": [
+    "10.01 - General",
+    "10.04 - Drogas de abuso",
+    "10.05 - Fármacos y alcohol",
+    "10.07 - Síndromes tóxicos|10.07 - Fuentes"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "strict": true,
+    "noEmit": true,
+    "noImplicitAny": true,
+    "noUncheckedIndexedAccess": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["**/*.ts", "**/*.tsx"]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "07.06-cardiopatías",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "07.06 - Cardiopatías",
+  "summary": "",
+  "tags": [
+    "07",
+    "pediatría",
+    "cardiopatías",
+    "cianóticas",
+    "acianóticas",
+    "crisis-hipóxica"
+  ],
+  "block": "07 - Pediatría",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/07 - Pediatría/07.06 - Cardiopatías.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "891ec461e0a43244f4d788c21b09ad8a6252f14575313abcbe9a6f55aecee452"
+  },
+  "created_at": "2026-08-07T15:56:57.071563+00:00",
+  "updated_at": "2026-08-07T15:56:57.071563+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0704---shock-pediátrico",
+      "type": "related"
+    },
+    {
+      "to": "0203---rcp-en-niños-y-lactantes",
+      "type": "related"
+    },
+    {
+      "to": "0710---rn-crítico",
+      "type": "related"
+    },
+    {
+      "to": "0706---cardiopatías0706---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Clasificación",
+    "Cuadro Clínico",
+    "Crisis Hipóxica",
+    "Cardiopatías Específicas",
+    "Manejo Prehospitalario",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "07.04 - Shock pediátrico",
+    "02.03 - RCP en Niños y Lactantes",
+    "07.10 - RN crítico",
+    "07.06 - Cardiopatías|07.06 - Fuentes"
+  ]
+}

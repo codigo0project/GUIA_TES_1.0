@@ -1,0 +1,67 @@
+{
+  "id": "07.08-maltrato-infantil",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "07.08 - Maltrato infantil",
+  "summary": "",
+  "tags": [
+    "07",
+    "pediatría",
+    "maltrato-infantil",
+    "lesiones-no-accidentales",
+    "síndrome-niño-sacudido"
+  ],
+  "block": "07 - Pediatría",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/07 - Pediatría/07.08 - Maltrato infantil.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "43c7aa87178eb4d8469b893259daf9e983df0b978c677ec12b87cb2020beaa2d"
+  },
+  "created_at": "2026-08-07T15:56:57.075504+00:00",
+  "updated_at": "2026-08-07T15:56:57.075504+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0603---tce",
+      "type": "related"
+    },
+    {
+      "to": "0103---valoración-primaria-algoritmo-abcde0103---valoración-primaria",
+      "type": "related"
+    },
+    {
+      "to": "0203---rcp-en-niños-y-lactantes",
+      "type": "related"
+    },
+    {
+      "to": "0708---maltrato-infantil0708---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Signos de Sospecha",
+    "Síndrome del Niño Sacudido",
+    "Actuación Prehospitalaria",
+    "Aspectos Legales",
+    "Exploración",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "06.03 - TCE",
+    "01.03 - Valoración Primaria Algoritmo ABCDE|01.03 - Valoración Primaria",
+    "02.03 - RCP en Niños y Lactantes",
+    "07.08 - Maltrato infantil|07.08 - Fuentes"
+  ]
+}

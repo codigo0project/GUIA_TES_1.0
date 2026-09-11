@@ -1,0 +1,40 @@
+{
+  "id": "02.04-desa.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist DESA",
+  "summary": "Puntos clave para el uso seguro del desfibrilador.",
+  "tags": [
+    "desa",
+    "checklist"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.04 - DESA.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "02.04-desa",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "02.04 - DESA"
+  ],
+  "items": [
+    "Verificar seguridad y respuesta",
+    "Aplicar parches en posición correcta",
+    "No tocar al paciente durante descarga",
+    "Seguir instrucciones del DESA",
+    "Reevaluar ritmo tras descarga"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "05.18-hematológico",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "05.18 - Hematológico",
+  "summary": "",
+  "tags": [
+    "05",
+    "médicas",
+    "hematológico",
+    "anemia",
+    "crisis-falciforme",
+    "coagulopatías"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.18 - Hematológico.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "f3affd770f6bebc0213f5549f7eaa0354c862255c321e919fe5fa43d8505c528"
+  },
+  "created_at": "2026-08-07T15:56:56.752138+00:00",
+  "updated_at": "2026-08-07T15:56:56.752138+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0512---hemorragia-digestiva",
+      "type": "related"
+    },
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    },
+    {
+      "to": "0513---sepsis-y-shock-séptico",
+      "type": "related"
+    },
+    {
+      "to": "0411---hemoderivados",
+      "type": "related"
+    },
+    {
+      "to": "0518---hematológico0518---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Anemia Grave",
+    "Crisis de Células Falciformes",
+    "Coagulopatías",
+    "Otras Emergencias Hematológicas",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "05.12 - Hemorragia digestiva",
+    "01.09 - Fisiopatología del Shock",
+    "05.13 - Sepsis y shock séptico",
+    "04.11 - Hemoderivados",
+    "05.18 - Hematológico|05.18 - Fuentes"
+  ]
+}

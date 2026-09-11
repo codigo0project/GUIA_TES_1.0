@@ -1,0 +1,16 @@
+{
+  "manual": "manual",
+  "base_datos": "base_datos",
+  "sem_search": "sem_search",
+  "pdf_bruto": "pdf_bruto",
+  "external_datasets": "external_datasets",
+  "imagenes": "manual/imagenes",
+  "docs": "docs",
+  "reports": "docs/reports",
+  "embeddings": "base_datos/embeddings",
+  "embedding_model": "nomic-embed-text",
+  "ollama_url": "http://localhost:11434",
+  "max_chars_per_chunk": 1200,
+  "chunk_overlap": 150,
+  "pdf_max_size_mb": 100
+}

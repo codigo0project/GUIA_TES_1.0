@@ -1,0 +1,58 @@
+{
+  "id": "06.06-trauma-abdominal",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "06.06 - Trauma abdominal",
+  "summary": "",
+  "tags": [
+    "06",
+    "trauma",
+    "trauma-abdominal",
+    "órganos-sólidos",
+    "evisceración"
+  ],
+  "block": "06 - Trauma",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/06 - Trauma/06.06 - Trauma abdominal.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "fbddeabc53c902344ee2d56f08ebd759c41fada154bac3f742ca8045ff81dce9"
+  },
+  "created_at": "2026-08-07T15:56:56.941793+00:00",
+  "updated_at": "2026-08-07T15:56:56.941793+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    },
+    {
+      "to": "0510---abdomen-agudo",
+      "type": "related"
+    },
+    {
+      "to": "0302---hemorragias-y-torniquetes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Lesiones por Tipo",
+    "Manejo Prehospitalario",
+    "Valoración Abdominal",
+    "Criterios de Traslado",
+    "Errores Críticos",
+    "Caso Práctico",
+    "Puntos Clave"
+  ],
+  "links": [
+    "01.09 - Fisiopatología del Shock",
+    "05.10 - Abdomen agudo",
+    "03.02 - Hemorragias y torniquetes"
+  ]
+}

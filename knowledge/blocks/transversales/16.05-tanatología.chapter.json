@@ -1,0 +1,70 @@
+{
+  "id": "16.05-tanatología",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "16.05 - Tanatología",
+  "summary": "",
+  "tags": [
+    "16",
+    "transversales",
+    "tanatologia",
+    "muerte",
+    "donacion-organos"
+  ],
+  "block": "16 - Transversales",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/16 - Transversales/16.05 - Tanatología.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "ab5b9aecc64e7546eb70904b346fb61c72cbb2172595f627ae1382fd6aea2e4b"
+  },
+  "created_at": "2026-08-07T15:56:57.204381+00:00",
+  "updated_at": "2026-08-07T15:56:57.204381+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1604---órdenes-de-no-rcp",
+      "type": "related"
+    },
+    {
+      "to": "1606---duelo-y-malas-noticias",
+      "type": "related"
+    },
+    {
+      "to": "1603---documentación-clínica",
+      "type": "related"
+    },
+    {
+      "to": "0202---rcp-adulto",
+      "type": "related"
+    },
+    {
+      "to": "1601---marco-legal",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Fundamentos y Signos de Muerte",
+    "Criterios de Muerte en TES",
+    "Protocolo Donación de Órganos",
+    "Actuación Tras Muerte",
+    "Consideraciones Especiales",
+    "Aspectos Psicosociales",
+    "Protocolo de Donación - Paso a Paso Ampliado",
+    "Caso Práctico",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "16.04 - Órdenes de No RCP",
+    "16.06 - Duelo y malas noticias",
+    "16.03 - Documentación clínica",
+    "02.02 - RCP Adulto",
+    "16.01 - Marco Legal"
+  ]
+}

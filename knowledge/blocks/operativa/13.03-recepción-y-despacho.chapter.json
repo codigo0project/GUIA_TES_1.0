@@ -1,0 +1,62 @@
+{
+  "id": "13.03-recepción-y-despacho",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "13.03 - Recepción y Despacho: Tiempos respuesta, priorización y rutas",
+  "summary": "",
+  "tags": [
+    "13",
+    "operativa",
+    "recepción",
+    "despacho",
+    "112",
+    "priorización"
+  ],
+  "block": "13 - Operativa",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/13 - Operativa/13.03 - Recepción y despacho.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "dade74eacfa5fe4eeb86054ab5d6523d11a601abec4110f66cf51acb6744779b"
+  },
+  "created_at": "2026-08-07T15:56:57.155656+00:00",
+  "updated_at": "2026-08-07T15:56:57.155656+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1301---vehículo",
+      "type": "related"
+    },
+    {
+      "to": "1302---comunicaciones",
+      "type": "related"
+    },
+    {
+      "to": "1304---estacionamiento",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Recepción del Aviso",
+    "Tiempos de Respuesta",
+    "Rutas y Centro Útil",
+    "Protocolo de Despacho",
+    "Errores Críticos",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica",
+    "Fuentes",
+    "Autoevaluación"
+  ],
+  "links": [
+    "13.01 - Vehículo",
+    "13.02 - Comunicaciones",
+    "13.04 - Estacionamiento"
+  ]
+}

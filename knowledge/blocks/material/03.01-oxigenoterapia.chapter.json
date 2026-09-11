@@ -1,0 +1,47 @@
+{
+  "id": "03.01-oxigenoterapia",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "03.01 - Oxigenoterapia",
+  "summary": "",
+  "tags": [
+    "03",
+    "material",
+    "oxigenoterapia",
+    "oxígeno",
+    "FiO2",
+    "gafas",
+    "mascarilla",
+    "reservorio",
+    "venturi"
+  ],
+  "block": "03 - Material",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/03 - Material/03.01 - Oxigenoterapia.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "b9f3c069b2c1270507025247b5a0d082f020091584a46b8fb8e17809ea1f5765"
+  },
+  "created_at": "2026-08-07T15:56:56.389445+00:00",
+  "updated_at": "2026-08-07T15:56:56.389445+00:00",
+  "reviewed_by": null,
+  "relations": [],
+  "nodes": [],
+  "sections": [
+    "Concepto, finalidad y bases fisiológicas",
+    "Indicaciones y contraindicaciones",
+    "Sistemas de administración de oxígeno",
+    "Monitorización y seguridad",
+    "Caso práctico",
+    "Errores críticos",
+    "Puntos clave y checklist",
+    "Conexiones transversales"
+  ],
+  "links": [
+    "imagenes/venturi-mask.png"
+  ]
+}

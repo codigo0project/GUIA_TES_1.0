@@ -1,0 +1,82 @@
+{
+  "mappings": [
+    {
+      "manual": "manual/13 - Operativa/13.02 - Comunicaciones.md",
+      "knowledge": "knowledge/blocks/operativa/13.02-comunicaciones.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.175422+00:00"
+    },
+    {
+      "manual": "manual/13 - Operativa/13.03 - Recepción y despacho.md",
+      "knowledge": "knowledge/blocks/operativa/13.03-recepción-y-despacho.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.177022+00:00"
+    },
+    {
+      "manual": "manual/13 - Operativa/13.04 - Estacionamiento.md",
+      "knowledge": "knowledge/blocks/operativa/13.04-estacionamiento.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.178317+00:00"
+    },
+    {
+      "manual": "manual/13 - Operativa/13.05 - Traslado.md",
+      "knowledge": "knowledge/blocks/operativa/13.05-traslado.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.179647+00:00"
+    },
+    {
+      "manual": "manual/13 - Operativa/13.06 - Monitorización.md",
+      "knowledge": "knowledge/blocks/operativa/13.06-monitorización.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.181025+00:00"
+    },
+    {
+      "manual": "manual/13 - Operativa/13.07 - Logística especial.md",
+      "knowledge": "knowledge/blocks/operativa/13.07-logística-especial.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.182373+00:00"
+    },
+    {
+      "manual": "manual/13 - Operativa/13.02 - Comunicaciones.md",
+      "knowledge": "knowledge/blocks/operativa/13.02-comunicaciones.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.366639+00:00"
+    },
+    {
+      "manual": "manual/13 - Operativa/13.03 - Recepción y despacho.md",
+      "knowledge": "knowledge/blocks/operativa/13.03-recepción-y-despacho.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.368065+00:00"
+    },
+    {
+      "manual": "manual/13 - Operativa/13.04 - Estacionamiento.md",
+      "knowledge": "knowledge/blocks/operativa/13.04-estacionamiento.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.369412+00:00"
+    },
+    {
+      "manual": "manual/13 - Operativa/13.05 - Traslado.md",
+      "knowledge": "knowledge/blocks/operativa/13.05-traslado.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.370976+00:00"
+    },
+    {
+      "manual": "manual/13 - Operativa/13.06 - Monitorización.md",
+      "knowledge": "knowledge/blocks/operativa/13.06-monitorización.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.372636+00:00"
+    },
+    {
+      "manual": "manual/13 - Operativa/13.07 - Logística especial.md",
+      "knowledge": "knowledge/blocks/operativa/13.07-logística-especial.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.374466+00:00"
+    },
+    {
+      "manual": "manual/13 - Operativa/13.01 - Vehículo.md",
+      "knowledge": "knowledge/blocks/operativa/13.01-vehículo.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-04T14:09:52.143407+00:00"
+    }
+  ]
+}

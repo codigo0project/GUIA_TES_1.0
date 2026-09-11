@@ -1,0 +1,63 @@
+{
+  "id": "08.06-trauma-y-quirúrgico",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "08.06 - Trauma y quirúrgico",
+  "summary": "",
+  "tags": [
+    "08",
+    "obstetricia",
+    "trauma-embarazada",
+    "abdomen-agudo-gestacional",
+    "posición-lateral-izquierda"
+  ],
+  "block": "08 - Obstetricia",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/08 - Obstetricia/08.06 - Trauma y quirúrgico.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "5a5e97d873736e989d0752da50f1e7ca8f26825e7ebaea347ff830417ea706ee"
+  },
+  "created_at": "2026-08-07T15:56:57.093459+00:00",
+  "updated_at": "2026-08-07T15:56:57.093459+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0801---fisiología-y-cambios-en-el-embarazo",
+      "type": "related"
+    },
+    {
+      "to": "0510---abdomen-agudo",
+      "type": "related"
+    },
+    {
+      "to": "0802---parto-normal",
+      "type": "related"
+    },
+    {
+      "to": "0806---trauma-y-quirúrgico0806---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Trauma en Embarazada",
+    "Abdomen Agudo Gestacional",
+    "Consideraciones Especiales",
+    "Errores Críticos",
+    "Complicaciones y Criterios de Destino",
+    "Puntos Clave",
+    "Abdomen Agudo Quirúrgico",
+    "Caso Práctico Avanzado"
+  ],
+  "links": [
+    "08.01 - Fisiología y cambios en el embarazo",
+    "05.10 - Abdomen agudo",
+    "08.02 - Parto normal",
+    "08.06 - Trauma y quirúrgico|08.06 - Fuentes"
+  ]
+}

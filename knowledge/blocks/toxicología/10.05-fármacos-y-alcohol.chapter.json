@@ -1,0 +1,61 @@
+{
+  "id": "10.05-fármacos-y-alcohol",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "10.05 - Fármacos y alcohol",
+  "summary": "",
+  "tags": [
+    "10",
+    "toxicología",
+    "benzodiacepinas",
+    "antidepresivos",
+    "etanol",
+    "metanol",
+    "etilenglicol"
+  ],
+  "block": "10 - Toxicología",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/10 - Toxicología/10.05 - Fármacos y alcohol.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "6568ce46d4ef6b5e582fafb6f765dadbdf58e8a199ddf50d6a0db3397dbfecf4"
+  },
+  "created_at": "2026-08-07T15:56:57.113709+00:00",
+  "updated_at": "2026-08-07T15:56:57.113709+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1001---general",
+      "type": "related"
+    },
+    {
+      "to": "1004---drogas-de-abuso",
+      "type": "related"
+    },
+    {
+      "to": "1005---fármacos-y-alcohol1005---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Benzodiacepinas",
+    "Antidepresivos",
+    "Etanol",
+    "Metanol y Etilenglicol",
+    "Manejo Prehospitalario",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Información al Hospital",
+    "Caso Práctico Avanzado"
+  ],
+  "links": [
+    "10.01 - General",
+    "10.04 - Drogas de abuso",
+    "10.05 - Fármacos y alcohol|10.05 - Fuentes"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "02.08-ovace",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "02.08 - OVACE",
+  "summary": "",
+  "tags": [
+    "02",
+    "soporte-vital",
+    "ovace",
+    "atragantamiento",
+    "reanimacion",
+    "obstrucción-vía-aérea"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.08 - OVACE.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "3fbb851d2315e177ae8601db8ff2f4d673f7c4e5ed2b1efb34c814b4dc4bdb3b"
+  },
+  "created_at": "2026-08-03T21:34:03.823746+00:00",
+  "updated_at": "2026-08-03T21:34:03.823746+00:00",
+  "reviewed_by": null,
+  "relations": [],
+  "nodes": [],
+  "sections": [
+    "Fundamentos de la OVACE",
+    "OVACE en Paciente Consciente",
+    "OVACE en Paciente Inconsciente",
+    "OVACE en Poblaciones Especiales",
+    "Complicaciones y Manejo",
+    "Caso Práctico",
+    "Checklist de Repaso"
+  ],
+  "links": [
+    "02.02 - RCP Adulto",
+    "02.05 - Vía Aérea Básica",
+    "02.06 - Vía Aérea Avanzada",
+    "02.10 - Algoritmos SVA",
+    "02.12 - RCP en Situaciones Especiales"
+  ]
+}

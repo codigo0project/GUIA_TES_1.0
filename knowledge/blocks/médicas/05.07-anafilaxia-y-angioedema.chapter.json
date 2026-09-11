@@ -1,0 +1,72 @@
+{
+  "id": "05.07-anafilaxia-y-angioedema",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "05.07 - Anafilaxia y angioedema",
+  "summary": "",
+  "tags": [
+    "05",
+    "médicas",
+    "anafilaxia",
+    "angioedema",
+    "alergia",
+    "shock-anafiláctico"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.07 - Anafilaxia y angioedema.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "dead4bd654a550c6223bdd2d1c97c2d68da7c70811dd2bc2e506812d4d17921a"
+  },
+  "created_at": "2026-08-07T15:56:56.613410+00:00",
+  "updated_at": "2026-08-07T15:56:56.613410+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0203---rcp-en-niños-y-lactantes",
+      "type": "related"
+    },
+    {
+      "to": "0208---ovace",
+      "type": "related"
+    },
+    {
+      "to": "0404---adrenalina",
+      "type": "related"
+    },
+    {
+      "to": "0406---broncodilatadores",
+      "type": "related"
+    },
+    {
+      "to": "0507---anafilaxia-y-angioedema0507---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Cuadro Clínico",
+    "Tratamiento Prehospitalario",
+    "Manejo de la Vía Aérea",
+    "Errores Críticos",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "02.03 - RCP en Niños y Lactantes",
+    "02.08 - OVACE",
+    "04.04 - Adrenalina",
+    "04.06 - Broncodilatadores",
+    "05.07 - Anafilaxia y angioedema|05.07 - Fuentes"
+  ]
+}

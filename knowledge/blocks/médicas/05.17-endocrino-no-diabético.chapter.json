@@ -1,0 +1,72 @@
+{
+  "id": "05.17-endocrino-no-diabético",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "05.17 - Endocrino no diabético",
+  "summary": "",
+  "tags": [
+    "05",
+    "médicas",
+    "endocrino",
+    "crisis-tiroidea",
+    "mixedema",
+    "addison"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.17 - Endocrino no diabético.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "7bffb991943a9fd82e0c6d6598ce29c859538ae5fcf71c5c73ce3216162de133"
+  },
+  "created_at": "2026-08-07T15:56:56.750681+00:00",
+  "updated_at": "2026-08-07T15:56:56.750681+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0516---coma-y-alteración-de-conciencia",
+      "type": "related"
+    },
+    {
+      "to": "0508---diabetes",
+      "type": "related"
+    },
+    {
+      "to": "0515---alteraciones-hidroelectrolíticas",
+      "type": "related"
+    },
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    },
+    {
+      "to": "0517---endocrino-no-diabético0517---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Crisis Tiroidea (Tormenta Tiroidea)",
+    "Mixedema (Coma Mixedematoso)",
+    "Crisis Suprarrenal (Insuficiencia Suprarrenal Aguda)",
+    "Comparación de Emergencias",
+    "Complicaciones",
+    "Manejo Específico",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "05.16 - Coma y alteración de conciencia",
+    "05.08 - Diabetes",
+    "05.15 - Alteraciones hidroelectrolíticas",
+    "01.09 - Fisiopatología del Shock",
+    "05.17 - Endocrino no diabético|05.17 - Fuentes"
+  ]
+}

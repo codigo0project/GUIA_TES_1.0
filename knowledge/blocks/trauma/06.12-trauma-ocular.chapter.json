@@ -1,0 +1,67 @@
+{
+  "id": "06.12-trauma-ocular",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "06.12 - Trauma ocular",
+  "summary": "",
+  "tags": [
+    "06",
+    "trauma",
+    "ocular",
+    "globocular",
+    "químico",
+    "cuerpo-extrano"
+  ],
+  "block": "06 - Trauma",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/06 - Trauma/06.12 - Trauma ocular.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "f8ffe56e6bbacccb2099428274c8062563dd79d456a334c9929058959aa57c78"
+  },
+  "created_at": "2026-08-07T15:56:56.992807+00:00",
+  "updated_at": "2026-08-07T15:56:56.992807+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0611---quemaduras",
+      "type": "related"
+    },
+    {
+      "to": "0205---vía-aérea-básica",
+      "type": "related"
+    },
+    {
+      "to": "0613---trauma-maxilofacial",
+      "type": "related"
+    },
+    {
+      "to": "0612---trauma-ocular0612---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Trauma Globocular",
+    "Trauma Químico",
+    "Cuerpo Extraño",
+    "Trauma Contuso",
+    "Complicaciones",
+    "Errores Críticos",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "06.11 - Quemaduras",
+    "02.05 - Vía Aérea Básica",
+    "06.13 - Trauma maxilofacial",
+    "06.12 - Trauma ocular|06.12 - Fuentes"
+  ]
+}

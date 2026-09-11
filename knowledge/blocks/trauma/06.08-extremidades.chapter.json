@@ -1,0 +1,60 @@
+{
+  "id": "06.08-extremidades",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "06.08 - Extremidades",
+  "summary": "",
+  "tags": [
+    "06",
+    "trauma",
+    "extremidades",
+    "fracturas",
+    "luxaciones",
+    "férulas"
+  ],
+  "block": "06 - Trauma",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/06 - Trauma/06.08 - Extremidades.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "836a77e174cfa96a5718104f09d39e4576c6b76b111b9877f9938a14e1b410df"
+  },
+  "created_at": "2026-08-07T15:56:56.958940+00:00",
+  "updated_at": "2026-08-07T15:56:56.958940+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0303---inmovilización-y-principios-biomecánicos",
+      "type": "related"
+    },
+    {
+      "to": "0305---colchón-de-vacío-y-férulas",
+      "type": "related"
+    },
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Cuadro Clínico",
+    "Manejo Prehospitalario",
+    "Fracturas Abiertas",
+    "Complicaciones",
+    "Inmovilización Específica",
+    "Errores Críticos",
+    "Caso Práctico",
+    "Puntos Clave"
+  ],
+  "links": [
+    "03.03 - Inmovilización y principios biomecánicos",
+    "03.05 - Colchón de vacío y férulas",
+    "01.09 - Fisiopatología del Shock"
+  ]
+}

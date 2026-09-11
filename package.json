@@ -1,0 +1,52 @@
+{
+  "name": "guia-tes",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Guía TES - Proyecto de conocimiento estructurado para Técnicos de Emergencias Sanitarias",
+  "workspaces": [
+    "app/api",
+    "app/web",
+    "app/search"
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces",
+    "test": "npm run test --workspaces",
+    "lint": "npm run lint --workspaces",
+    "dev": "npm run dev --workspace=app/web",
+    "api": "npm run dev --workspace=app/api",
+    "search": "npm run dev --workspace=app/search",
+    "validate": "python scripts/pipeline/validation/validate_index.py && python scripts/pipeline/validation/quality_gate.py",
+    "sync": "python scripts/pipeline/ingestion/sync_to_kb.py",
+    "build:kb": "python scripts/pipeline/validation/build_kb_index.py",
+    "import:openem": "python scripts/pipeline/ingestion/import_openem_corpus.py",
+    "import:aemps": "python scripts/pipeline/ingestion/import_aemps.py",
+    "import:external": "python scripts/pipeline/ingestion/import_external_datasets.py",
+    "fetch:media": "python scripts/pipeline/extraction/fetch_media.py",
+    "download:pdfs": "python scripts/pipeline/extraction/download_pdfs.py",
+    "embed": "python scripts/pipeline/embeddings/generate_embeddings.py",
+    "index:kb": "python scripts/pipeline/embeddings/index_knowledge.py",
+    "search": "python scripts/pipeline/embeddings/search_vectorial.py",
+    "master:index": "python scripts/pipeline/validation/generate_master_index.py",
+    "kb:nodes": "python scripts/pipeline/ingestion/generate_kb_nodes.py",
+    "normalize": "node scripts/pipeline/ingestion/normalize_chapters.js",
+  },
+  "keywords": [
+    "tes",
+    "emergencias",
+    "sanitarias",
+    "guia",
+    "manual",
+    "protocolos",
+    "conocimiento"
+  ],
+  "author": "Javier",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0",
+    "python": ">=3.10"
+  },
+  "dependencies": {
+    "js-yaml": "^5.2.3",
+    "zod": "^4.4.3"
+  }
+}

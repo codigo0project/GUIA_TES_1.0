@@ -1,0 +1,94 @@
+---
+id: "02.02.escala-glasgow"
+slug: "escala-glasgow"
+type: "scale"
+title: "Escala de Coma de Glasgow"
+bloque: "02 - Soporte Vital Básico y Avanzado"
+capitulo: "02.02"
+status: "published"
+version: "2026.08.01"
+reviewed_at: "2026-08-07"
+authors: ["dr-garcia"]
+order: 1
+duration_min: 5
+difficulty: "basico"
+prerequisites: []
+learning_objectives:
+  - "Valorar el nivel de consciencia de un paciente"
+  - "Calcular correctamente la puntuación GCS"
+  - "Identificar cambios en el nivel de consciencia"
+tags: ["GCS", "consciencia", "trauma", "neurologia", "valoracion"]
+relations:
+  - to: "02.02.rcp-adulto"
+    type: "related"
+  - to: "03.01.trauma-craneoencefalico"
+    type: "related"
+fuentes: ["Teasdale G, Jennett B. Lancet 1974", "ACS TQIP 2023"]
+
+proposito: |
+  Valorar objetivamente el nivel de consciencia en pacientes con 
+  alteración neurológica, trauma o cualquier condición que comprometa 
+  el estado mental.
+
+aplicacion: |
+  Evaluar respuesta ocular, verbal y motora. Sumar las tres puntuaciones.
+  Registrar siempre la puntuación desglosada (E_V_M_ = total).
+  No aplicar si el paciente está intubado (usar GCS motor solamente).
+
+puntuacion:
+  - criterio: "Apertura ocular (E)"
+    opciones:
+      - valor: 4
+        descripcion: "Espontánea"
+      - valor: 3
+        descripcion: "A la voz"
+      - valor: 2
+        descripcion: "Al dolor"
+      - valor: 1
+        descripcion: "Ninguna"
+  - criterio: "Respuesta verbal (V)"
+    opciones:
+      - valor: 5
+        descripcion: "Orientada"
+      - valor: 4
+        descripcion: "Confusa"
+      - valor: 3
+        descripcion: "Palabras inapropiadas"
+      - valor: 2
+        descripcion: "Sonidos incomprensibles"
+      - valor: 1
+        descripcion: "Ninguna"
+  - criterio: "Respuesta motora (M)"
+    opciones:
+      - valor: 6
+        descripcion: "Obedece órdenes"
+      - valor: 5
+        descripcion: "Localiza el dolor"
+      - valor: 4
+        descripcion: "Retirada al dolor"
+      - valor: 3
+        descripcion: "Flexión anormal (decorticación)"
+      - valor: 2
+        descripcion: "Extensión anormal (descerebración)"
+      - valor: 1
+        descripcion: "Ninguna"
+
+interpretacion:
+  - rango: "13-15"
+    significado: "Leve. Vigilar evolución."
+    severidad: "baja"
+  - rango: "9-12"
+    significado: "Moderada. Requiere evaluación urgente."
+    severidad: "media"
+  - rango: "3-8"
+    significado: "Grave. Considerar protección de vía aérea."
+    severidad: "critica"
+  - rango: "3"
+    significado: "Coma profundo. Intubación orotraqueal indicada."
+    severidad: "critica"
+
+errores_comunes:
+  - "No desglosar la puntuación (solo reportar total)"
+  - "Aplicar a pacientes intubados sin adaptar"
+  - "No reevaluar serialmente"
+  - "Confundir flexión anormal con retirada"

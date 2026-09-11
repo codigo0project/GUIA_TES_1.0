@@ -1,0 +1,73 @@
+{
+  "id": "05.13-sepsis-y-shock-séptico",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "05.13 - Sepsis y shock séptico",
+  "summary": "",
+  "tags": [
+    "05",
+    "médicas",
+    "sepsis",
+    "shock-séptico",
+    "qSOFA",
+    "infección"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.13 - Sepsis y shock séptico.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "15dccb0815e1496e722e0409b4b293c340a18e305e412c4f4c4fe52203fcaeed"
+  },
+  "created_at": "2026-08-07T15:56:56.744219+00:00",
+  "updated_at": "2026-08-07T15:56:56.744219+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    },
+    {
+      "to": "0519---infeccioso-grave",
+      "type": "related"
+    },
+    {
+      "to": "0409---fluidoterapia",
+      "type": "related"
+    },
+    {
+      "to": "0410---vasoactivos-y-antiarrítmicos",
+      "type": "related"
+    },
+    {
+      "to": "0513---sepsis-y-shock-séptico0513---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Definiciones",
+    "Detección: qSOFA",
+    "Cuadro Clínico",
+    "Tratamiento Prehospitalario",
+    "Manejo del Shock Séptico",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "imagenes/05.13_qsofa-score.png",
+    "01.09 - Fisiopatología del Shock",
+    "05.19 - Infeccioso grave",
+    "04.09 - Fluidoterapia",
+    "04.10 - Vasoactivos y Antiarrítmicos",
+    "05.13 - Sepsis y shock séptico|05.13 - Fuentes"
+  ]
+}

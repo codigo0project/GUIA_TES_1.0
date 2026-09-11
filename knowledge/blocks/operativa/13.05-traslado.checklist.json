@@ -1,0 +1,40 @@
+{
+  "id": "13.05-traslado.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 13.05-traslado",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "traslado"
+  ],
+  "block": "13 - Operativa",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/13 - Operativa/13.05 - Traslado.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "13.05-traslado",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "13 - Operativa"
+  ],
+  "items": [
+    "Verificar estabilidad del paciente",
+    "Fijar al dispositivo de transporte",
+    "Monitorizar constantes",
+    "Comunicar destino y antecedentes",
+    "Preparar llegada a hospital",
+    "Documentar traslado"
+  ]
+}

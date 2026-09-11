@@ -1,0 +1,40 @@
+{
+  "id": "01.01-rol-competencias-y-marco-legal-rd-1397-2007.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 01.01-rol-competencias-y-marco-legal-rd-1397-2007",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "rol"
+  ],
+  "block": "01 - Fundamentos",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/01 - Fundamentos/01.01 - Rol, competencias y marco legal RD 1397-2007.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "01.01-rol-competencias-y-marco-legal-rd-1397-2007",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "01 - Fundamentos"
+  ],
+  "items": [
+    "Verificar seguridad de escena",
+    "Evaluar estado del paciente",
+    "Aplicar protocolo correspondiente",
+    "Monitorizar constantes vitales",
+    "Documentar actuaciones",
+    "Transportar según prioridad"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "01.08-comunicación-clínica-y-entrega",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "01.08 - Comunicación clínica y entrega",
+  "summary": "",
+  "tags": [
+    "fundamentos",
+    "comunicación",
+    "SBAR",
+    "ISBAR",
+    "MIST",
+    "entrega"
+  ],
+  "block": "01 - Fundamentos",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/01 - Fundamentos/01.08 - Comunicación clínica y entrega.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "a6b40f3ea35b00a353e404fa65a087f4528e73d84e9a3fe203d1d39f88585ddb"
+  },
+  "created_at": "2026-08-07T15:56:56.336732+00:00",
+  "updated_at": "2026-08-07T15:56:56.336732+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0103---valoración-primaria-algoritmo-abcde0103---valoración-primaria",
+      "type": "related"
+    },
+    {
+      "to": "0104---valoración-secundaria-sample-y-constantes-vitales0104",
+      "type": "related"
+    },
+    {
+      "to": "0107---triaje-start-jumpstart-siegel-y-hospitalario0107",
+      "type": "related"
+    },
+    {
+      "to": "1302---comunicaciones1302---comunicaciones",
+      "type": "related"
+    },
+    {
+      "to": "1305---traslado1305---traslado",
+      "type": "related"
+    },
+    {
+      "to": "1501---interrogatorio-y-triaje-telefónico1501---interrogatorio",
+      "type": "related"
+    },
+    {
+      "to": "1606---duelo-y-malas-noticias1606---duelo-y-malas-noticias",
+      "type": "related"
+    },
+    {
+      "to": "0103---valoración-primaria-algoritmo-abcde0103",
+      "type": "related"
+    },
+    {
+      "to": "0104---valoración-secundaria-sample-y-constantes-vitales0104",
+      "type": "related"
+    },
+    {
+      "to": "0107---triaje-start-jumpstart-siegel-y-hospitalario0107",
+      "type": "related"
+    },
+    {
+      "to": "1302---comunicaciones1302",
+      "type": "related"
+    },
+    {
+      "to": "1501---interrogatorio-y-triaje-telefónico1501",
+      "type": "related"
+    },
+    {
+      "to": "1606---duelo-y-malas-noticias1606",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Fundamentos de la comunicación clínica en prehospitalaria",
+    "Modelos estructurados: SBAR, ISBAR y MIST",
+    "Comunicación con el centro coordinador",
+    "Comunicación con el paciente y familiares",
+    "Entrega hospitalaria estructurada",
+    "Errores comunes y su prevención",
+    "Casos prácticos",
+    "Puntos clave y checklist",
+    "Conexiones transversales"
+  ],
+  "links": [
+    "01.03 - Valoración Primaria Algoritmo ABCDE|01.03 - Valoración Primaria",
+    "01.04 - Valoración Secundaria SAMPLE y Constantes Vitales|01.04",
+    "01.07 - Triaje START JumpSTART Siegel y hospitalario|01.07",
+    "13.02 - Comunicaciones|13.02 - Comunicaciones",
+    "13.05 - Traslado|13.05 - Traslado",
+    "15.01 - Interrogatorio y triaje telefónico|15.01 - Interrogatorio",
+    "16.06 - Duelo y malas noticias|16.06 - Duelo y Malas Noticias",
+    "01.03 - Valoración Primaria Algoritmo ABCDE|01.03",
+    "01.04 - Valoración Secundaria SAMPLE y Constantes Vitales|01.04",
+    "01.07 - Triaje START JumpSTART Siegel y hospitalario|01.07",
+    "13.02 - Comunicaciones|13.02",
+    "15.01 - Interrogatorio y triaje telefónico|15.01",
+    "16.06 - Duelo y malas noticias|16.06"
+  ]
+}

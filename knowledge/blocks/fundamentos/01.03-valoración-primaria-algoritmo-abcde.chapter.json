@@ -1,0 +1,109 @@
+{
+  "id": "01.03-valoración-primaria-algoritmo-abcde",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "01.03 - Valoración Primaria Algoritmo ABCDE",
+  "summary": "",
+  "tags": [
+    "fundamentos",
+    "valoracion",
+    "ABCDE",
+    "trauma",
+    "valoracion-primaria"
+  ],
+  "block": "01 - Fundamentos",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/01 - Fundamentos/01.03 - Valoración Primaria Algoritmo ABCDE.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "a6b8cc8831a543984f5d6875113e574bdaa10012123566090e0349d016ad9a9c"
+  },
+  "created_at": "2026-08-07T15:56:56.324683+00:00",
+  "updated_at": "2026-08-07T15:56:56.324683+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0102---seguridad-en-escena-epis-y-bioseguridad0102---seguridad-en-escena-epis-y-bioseguridad",
+      "type": "related"
+    },
+    {
+      "to": "0104---valoración-secundaria-sample-y-constantes-vitales0104",
+      "type": "related"
+    },
+    {
+      "to": "0105---escalas-neurológicas0105---escalas-neurológicas",
+      "type": "related"
+    },
+    {
+      "to": "0201---reconocimiento-pcr0201---reconocimiento-pcr",
+      "type": "related"
+    },
+    {
+      "to": "0202---rcp-adulto0202---rcp-adulto",
+      "type": "related"
+    },
+    {
+      "to": "0205---vía-aérea-básica0205---vía-aérea-básica",
+      "type": "related"
+    },
+    {
+      "to": "0209---acceso-vascular0209---acceso-vascular",
+      "type": "related"
+    },
+    {
+      "to": "0601---biomecánica-y-cinemática0601---biomecánica-y-cinemática",
+      "type": "related"
+    },
+    {
+      "to": "0102---seguridad-en-escena-epis-y-bioseguridad0102",
+      "type": "related"
+    },
+    {
+      "to": "0104---valoración-secundaria-sample-y-constantes-vitales0104",
+      "type": "related"
+    },
+    {
+      "to": "0105---escalas-neurológicas0105",
+      "type": "related"
+    },
+    {
+      "to": "0201---reconocimiento-pcr0201",
+      "type": "related"
+    },
+    {
+      "to": "0601---biomecánica-y-cinemática0601",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Concepto, finalidad y alcance de la valoración primaria",
+    "Algoritmo ABCDE: estructura y lógica",
+    "Desarrollo letra a letra",
+    "Ampliación en trauma grave: XABCDE",
+    "Relación con el resto de la asistencia",
+    "Casos prácticos",
+    "Errores críticos y precauciones",
+    "Puntos clave y checklist",
+    "Conexiones transversales"
+  ],
+  "links": [
+    "01.02 - Seguridad en escena, EPIs y bioseguridad|01.02 - Seguridad en escena, EPIs y bioseguridad",
+    "01.04 - Valoración Secundaria SAMPLE y Constantes Vitales|01.04",
+    "01.05 - Escalas Neurológicas|01.05 - Escalas Neurológicas",
+    "02.01 - Reconocimiento PCR|02.01 - Reconocimiento PCR",
+    "02.02 - RCP Adulto|02.02 - RCP Adulto",
+    "02.05 - Vía Aérea Básica|02.05 - Vía Aérea Básica",
+    "02.09 - Acceso Vascular|02.09 - Acceso Vascular",
+    "06.01 - Biomecánica y cinemática|06.01 - Biomecánica y cinemática",
+    "01.02 - Seguridad en escena, EPIs y bioseguridad|01.02",
+    "01.04 - Valoración Secundaria SAMPLE y Constantes Vitales|01.04",
+    "01.05 - Escalas Neurológicas|01.05",
+    "02.01 - Reconocimiento PCR|02.01",
+    "06.01 - Biomecánica y cinemática|06.01"
+  ]
+}

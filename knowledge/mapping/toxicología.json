@@ -1,0 +1,88 @@
+{
+  "mappings": [
+    {
+      "manual": "manual/10 - Toxicología/10.01 - General.md",
+      "knowledge": "knowledge/blocks/toxicología/10.01-general.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.142315+00:00"
+    },
+    {
+      "manual": "manual/10 - Toxicología/10.02 - Gases tóxicos.md",
+      "knowledge": "knowledge/blocks/toxicología/10.02-gases-tóxicos.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.143466+00:00"
+    },
+    {
+      "manual": "manual/10 - Toxicología/10.03 - Plaguicidas.md",
+      "knowledge": "knowledge/blocks/toxicología/10.03-plaguicidas.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.144749+00:00"
+    },
+    {
+      "manual": "manual/10 - Toxicología/10.04 - Drogas de abuso.md",
+      "knowledge": "knowledge/blocks/toxicología/10.04-drogas-de-abuso.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.146092+00:00"
+    },
+    {
+      "manual": "manual/10 - Toxicología/10.05 - Fármacos y alcohol.md",
+      "knowledge": "knowledge/blocks/toxicología/10.05-fármacos-y-alcohol.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.147470+00:00"
+    },
+    {
+      "manual": "manual/10 - Toxicología/10.06 - Cáusticos e hidrocarburos.md",
+      "knowledge": "knowledge/blocks/toxicología/10.06-cáusticos-e-hidrocarburos.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.149101+00:00"
+    },
+    {
+      "manual": "manual/10 - Toxicología/10.07 - Síndromes tóxicos.md",
+      "knowledge": "knowledge/blocks/toxicología/10.07-síndromes-tóxicos.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.150876+00:00"
+    },
+    {
+      "manual": "manual/10 - Toxicología/10.01 - General.md",
+      "knowledge": "knowledge/blocks/toxicología/10.01-general.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.333614+00:00"
+    },
+    {
+      "manual": "manual/10 - Toxicología/10.02 - Gases tóxicos.md",
+      "knowledge": "knowledge/blocks/toxicología/10.02-gases-tóxicos.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.335160+00:00"
+    },
+    {
+      "manual": "manual/10 - Toxicología/10.03 - Plaguicidas.md",
+      "knowledge": "knowledge/blocks/toxicología/10.03-plaguicidas.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.336714+00:00"
+    },
+    {
+      "manual": "manual/10 - Toxicología/10.04 - Drogas de abuso.md",
+      "knowledge": "knowledge/blocks/toxicología/10.04-drogas-de-abuso.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.338156+00:00"
+    },
+    {
+      "manual": "manual/10 - Toxicología/10.05 - Fármacos y alcohol.md",
+      "knowledge": "knowledge/blocks/toxicología/10.05-fármacos-y-alcohol.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.339659+00:00"
+    },
+    {
+      "manual": "manual/10 - Toxicología/10.06 - Cáusticos e hidrocarburos.md",
+      "knowledge": "knowledge/blocks/toxicología/10.06-cáusticos-e-hidrocarburos.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.341188+00:00"
+    },
+    {
+      "manual": "manual/10 - Toxicología/10.07 - Síndromes tóxicos.md",
+      "knowledge": "knowledge/blocks/toxicología/10.07-síndromes-tóxicos.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.342698+00:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "project": "TES Semantic Search",
+  "version": "1.0.0",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "vector_store": "faiss",
+  "batch_size": 50,
+  "sub_batch_size": 10,
+  "max_retries": 3,
+  "checkpoint_interval": 5,
+  "backoff_ms": 1000,
+  "max_backoff_ms": 60000,
+  "timeout_s": 30,
+  "source_dirs": [
+    "../base_datos/05_fuentes_archivos/pdf",
+    "../base_datos/05_fuentes_archivos/text",
+    "../base_datos/05_fuentes_archivos/markdown"
+  ],
+  "output_dir": "./output/enriched_chapters",
+  "corpus_dir": "./corpus",
+  "embeddings_dir": "./embeddings",
+  "checkpoint_dir": "./data/checkpoints",
+  "raw_dir": "./data/raw",
+  "processed_dir": "./data/processed",
+  "download_and_process": {
+    "enabled": true,
+    "max_file_size_mb": 100,
+    "timeout_seconds": 60,
+    "retry_attempts": 3,
+    "rate_limit_delay_seconds": 1,
+    "supported_formats": [
+      "pdf",
+      "docx",
+      "xlsx"
+    ],
+    "output_dirs": {
+      "pdf": "corpus/sources/pdf",
+      "docx": "corpus/sources/docx",
+      "xlsx": "corpus/sources/excel"
+    }
+  }
+}

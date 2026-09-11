@@ -1,0 +1,47 @@
+{
+  "id": "04.01-farmacocinética.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 04.01-farmacocinética",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [],
+  "block": "04 - Farmacología",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/04 - Farmacología/04.01 - Farmacocinética.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "04.01-farmacocinética",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "04 - Farmacología"
+  ],
+  "items": [
+    "**Edad:** ancianos y niños requieren ajuste.",
+    "**Peso:** base para dosis mg/kg.",
+    "**Patología:** shock, insuficiencia renal/hepática, hipoxia.",
+    "**Vía:** IV es más rápida y predecible que IM/SC en emergencias.",
+    "**Hora:** ritmos circadianos, ayuno, interacciones.",
+    "**Fórmula:** `Dosis total (mg) = Dosis (mg/kg) × Peso (kg)`",
+    "**Ejemplo:** Adrenalina 1 mg en adulto vs 0.01 mg/kg en pediatría.",
+    "**Fórmula:** `C1 × V1 = C2 × V2`",
+    "**Ejemplo:** Preparar adrenalina 1:10000 a partir de 1:1000.",
+    "**Fórmula:** `Goteros/min = (Volumen × Gotas/mL) / Tiempo (min)`",
+    "**Microgotero:** 60 gotas/mL.",
+    "**Macrogotero:** 20 gotas/mL.",
+    "**Paciente correcto** → Verificar identidad (nombre + DNI/NASS).",
+    "**Medicamento correcto** → Leer etiqueta 3 veces: sacar, preparar, administrar.",
+    "**Dosis correcta** → Calcular y verificar con compañero si es alta."
+  ]
+}

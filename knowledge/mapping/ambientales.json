@@ -1,0 +1,88 @@
+{
+  "mappings": [
+    {
+      "manual": "manual/09 - Ambientales/09.01 - Hipotermia y frío.md",
+      "knowledge": "knowledge/blocks/ambientales/09.01-hipotermia-y-frío.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.133060+00:00"
+    },
+    {
+      "manual": "manual/09 - Ambientales/09.02 - Golpe de calor.md",
+      "knowledge": "knowledge/blocks/ambientales/09.02-golpe-de-calor.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.134437+00:00"
+    },
+    {
+      "manual": "manual/09 - Ambientales/09.03 - Ahogamiento.md",
+      "knowledge": "knowledge/blocks/ambientales/09.03-ahogamiento.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.136020+00:00"
+    },
+    {
+      "manual": "manual/09 - Ambientales/09.04 - Electricidad.md",
+      "knowledge": "knowledge/blocks/ambientales/09.04-electricidad.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.137373+00:00"
+    },
+    {
+      "manual": "manual/09 - Ambientales/09.05 - Barotrauma.md",
+      "knowledge": "knowledge/blocks/ambientales/09.05-barotrauma.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.138636+00:00"
+    },
+    {
+      "manual": "manual/09 - Ambientales/09.06 - Fauna y flora.md",
+      "knowledge": "knowledge/blocks/ambientales/09.06-fauna-y-flora.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.139914+00:00"
+    },
+    {
+      "manual": "manual/09 - Ambientales/09.07 - Rescate técnico.md",
+      "knowledge": "knowledge/blocks/ambientales/09.07-rescate-técnico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.141136+00:00"
+    },
+    {
+      "manual": "manual/09 - Ambientales/09.01 - Hipotermia y frío.md",
+      "knowledge": "knowledge/blocks/ambientales/09.01-hipotermia-y-frío.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.323031+00:00"
+    },
+    {
+      "manual": "manual/09 - Ambientales/09.02 - Golpe de calor.md",
+      "knowledge": "knowledge/blocks/ambientales/09.02-golpe-de-calor.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.324669+00:00"
+    },
+    {
+      "manual": "manual/09 - Ambientales/09.03 - Ahogamiento.md",
+      "knowledge": "knowledge/blocks/ambientales/09.03-ahogamiento.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.326362+00:00"
+    },
+    {
+      "manual": "manual/09 - Ambientales/09.04 - Electricidad.md",
+      "knowledge": "knowledge/blocks/ambientales/09.04-electricidad.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.327824+00:00"
+    },
+    {
+      "manual": "manual/09 - Ambientales/09.05 - Barotrauma.md",
+      "knowledge": "knowledge/blocks/ambientales/09.05-barotrauma.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.329277+00:00"
+    },
+    {
+      "manual": "manual/09 - Ambientales/09.06 - Fauna y flora.md",
+      "knowledge": "knowledge/blocks/ambientales/09.06-fauna-y-flora.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.330703+00:00"
+    },
+    {
+      "manual": "manual/09 - Ambientales/09.07 - Rescate técnico.md",
+      "knowledge": "knowledge/blocks/ambientales/09.07-rescate-técnico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.332192+00:00"
+    }
+  ]
+}

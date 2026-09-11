@@ -1,0 +1,40 @@
+{
+  "id": "02.07-iot-y-vía-aérea-quirúrgica.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 02.07-iot-y-vía-aérea-quirúrgica",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "iot"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.07 - IOT y Vía Aérea Quirúrgica.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "02.07-iot-y-vía-aérea-quirúrgica",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "02 - Soporte Vital"
+  ],
+  "items": [
+    "Verificar imposibilidad de intubar/ventilar",
+    "Localizar membrana cricotiroidea",
+    "Preparar material quirúrgico",
+    "Realizar cricotiroidotomía",
+    "Confirmar ventilación bilateral",
+    "Fijar y monitorizar"
+  ]
+}

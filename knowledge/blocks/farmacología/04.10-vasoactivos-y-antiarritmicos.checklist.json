@@ -1,0 +1,40 @@
+{
+  "id": "04.10-vasoactivos-y-antiarritmicos.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 04.10-vasoactivos-y-antiarritmicos",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "vasoactivos"
+  ],
+  "block": "04 - Farmacología",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/04 - Farmacología/04.10 - Vasoactivos y Antiarrítmicos.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "04.10-vasoactivos-y-antiarritmicos",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "04 - Farmacología"
+  ],
+  "items": [
+    "Confirmar ritmo desfibrilable",
+    "Administrar adrenalina en PCR",
+    "Administrar amiodarona en FV/TVSP",
+    "Monitorizar TA y FC",
+    "Reevaluar ritmo tras cada ciclo",
+    "Documentar dosis y respuesta"
+  ]
+}

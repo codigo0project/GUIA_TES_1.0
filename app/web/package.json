@@ -1,0 +1,34 @@
+{
+  "name": "guia-tes-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.1.23",
+    "@radix-ui/react-progress": "^1.1.16",
+    "@radix-ui/react-toast": "^1.2.23",
+    "@radix-ui/react-tooltip": "^1.2.16",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "cmdk": "^1.1.1",
+    "lucide-react": "^1.44.0",
+    "marked": "^18.0.9",
+    "next": "15.1.3",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "tailwind-merge": "^3.6.0",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "typescript": "^5.7.2"
+  }
+}

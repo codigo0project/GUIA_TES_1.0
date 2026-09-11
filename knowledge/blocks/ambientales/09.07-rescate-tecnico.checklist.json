@@ -1,0 +1,40 @@
+{
+  "id": "09.07-rescate-tecnico.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 09.07-rescate-tecnico",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "rescate"
+  ],
+  "block": "09 - Ambientales",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/09 - Ambientales/09.07 - Rescate técnico.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "09.07-rescate-tecnico",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "09 - Ambientales"
+  ],
+  "items": [
+    "Asegurar escena y estabilidad",
+    "Evaluar respuesta del paciente",
+    "Inmovilizar columna si mecanismo grave",
+    "Coordinar con equipo de rescate",
+    "Extraer con técnica adecuada",
+    "Transportar a hospital"
+  ]
+}

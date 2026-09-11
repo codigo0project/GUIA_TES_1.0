@@ -1,0 +1,66 @@
+{
+  "id": "05.03-arritmias",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "05.03 - Arritmias",
+  "summary": "",
+  "tags": [
+    "05",
+    "médicas",
+    "arritmias",
+    "FV",
+    "TV",
+    "FA",
+    "bradicardia",
+    "desfibrilación",
+    "ERC"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.03 - Arritmias.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "b0dcfae501cbacbe607d42895e7e5c635725af1a42574215ff475c9354a3115b"
+  },
+  "created_at": "2026-08-07T15:56:56.540017+00:00",
+  "updated_at": "2026-08-07T15:56:56.540017+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0202---rcp-adulto",
+      "type": "related"
+    },
+    {
+      "to": "0210---algoritmos-sva",
+      "type": "related"
+    },
+    {
+      "to": "0410---vasoactivos-y-antiarrítmicos",
+      "type": "related"
+    },
+    {
+      "to": "0501---angina-iam-y-código-infarto",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Clasificación y Algoritmo ERC 2025",
+    "Tratamiento Prehospitalario",
+    "Transporte y Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "02.02 - RCP Adulto",
+    "02.10 - Algoritmos SVA",
+    "04.10 - Vasoactivos y Antiarrítmicos",
+    "05.01 - Angina, IAM y código infarto"
+  ]
+}

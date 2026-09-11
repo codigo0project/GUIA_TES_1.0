@@ -1,0 +1,3233 @@
+1
+
+MÁSTER UNIVERSITARIO EN FORMACIÓN DEL PROFESORADO DE
+SECUNDARIA, BACHILLERATO, CICLOS, ESCUELAS DE IDIOMAS Y
+ENSEÑANZAS DEPORTIVAS
+
+INNOVACIÓN Y MEJORA DE LA PROGRAMACIÓN
+DIDACTICA DEL MÓDULO DE ATENCIÓN SANITARIA EN
+SITUACIONES DE EMERGENCIA Y DESARROLLO DE LA
+UNIDAD DIDÁCTICA DE PATOLOGÍA CARDIOVASCULAR
+DE URGENCIA
+
+Presentado por:
+GASPAR PÉREZ ROCHER
+Dirigido por:
+ANGELICA LAMBRU
+CURSO ACADEMICO
+2024/2025
+
+2
+Agradecimientos
+
+En primer lugar, quiero agradecer a mi madre, por su amor incondicional y por
+enseñarme a no rendirme nunca por muy difíciles que sean las situaciones a las que nos
+enfrentemos. Ella sabe que es mi heroína.
+A mi pareja, por su amor, comprensión y apoyo constante. Ha estado siempre a mi
+lado, sobre todo en los momentos más difíciles cuando todo se volvía cuesta arriba. Eres mi
+persona, mi refugio. Gracias por compartir este camino conmigo. Este logro, también es
+tuyo.
+A mis amigos, por aguantarme y por darme ese espacio donde desconectar. Como
+en varias ocasionas me han dicho, cuando acabe, les debo una comida.
+A mi tutor de prácticas por cuidarme e instruirme en la docencia, recuerdo que
+cuando empecé decía que yo igual nunca le daría uso a este Máster, el me cambió la visión.
+Y, por supuesto a mi tutora Angelica Lambru por su cercanía y hacer que este
+proceso sea mucho mas agradable con sus mensajes de ánimo, sus mensajes de
+orientación y estar siempre disponible para resolver dudas.
+
+3
+Resumen
+El presente trabajo de fin de máster tiene como objetivo analizar, justificar e intentar mejorar
+una unidad didáctica para un ciclo formativo de grado medio en Emergencias Sanitarias,
+dirigido a futuros técnicos en atención prehospitalaria, con el objetivo de desarrollar sus
+competencias profesionales en la gestión de emergencias sanitarias y el cuidado de los
+pacientes en situaciones de urgencia. La unidad a analizar, integra tanto el enfoque teórico
+como práctico permitiendo a los estudiantes aplicar los contenidos adquiridos en situaciones
+que simulan y reflejan la realidad del trabajo proponiendo actividades prácticas teniendo en
+cuenta los escasos recursos del centro.
+
+Palabras clave: trabajo fin de master, unidad didáctica, ciclo formativo de grado
+medio, competencias profesionales, enfoque teórico, enfoque práctico.
+
+Abstract
+The purpose of this master’s thesis is to analyse, justify and try to improve a teaching unit for
+a médium-level training cycle in Health Emergencies, aimed at future pre-hospital care
+technicians, in order to develos their profesional skills in the managent o health emergencies
+and the care of patients in urgent situations. The unit to be analysed integrates both the
+theorical and practical approach, allowing students to apply the acquired content in
+simulated situations thet reflect the reality of work by proposing practical activities taking into
+account the centre’s limited resources.
+
+Keywords: work of final master’s tesis, didactic unit, médium-level training cycle,
+profesional skills, theoretical approach, practical approach.
+
+4
+Índice de contenidos
+Introducción………………………………………………………………………………………….10
+Marco Normativo……………………………………………………………………………............11
+Marco Normativo Estatal y de la Comunidad Valenciana………………………………11
+Contextualización del Centro………………………………………………………………………13
+Centro Educativo……………………………………………………………………………13
+Localización del Centro Educativo………………………………………………………..16
+Identidad y tipo de centro………………………………………………………………….16
+Origen y perfil del alumnado y de las familias…………………………………………..17
+Comunicación con el Alumnado y con las familias……………………………………..18
+Instalaciones del Centro…………………………………………………………………...18
+Organigrama de Centro……………………………………………………………………19
+Características de alumnado……………………………………………………………...19
+Programación Didáctica del Centro Educativo…………………………………………………..20
+Análisis Crítico, Propuestas de Mejora y Novedades de la Programación Didáctica del
+Centro Educativo……………………………………………………………………………...........22
+Mejoras de la Programación Didáctica…………………………………………………..24
+Uso de las TIC………………………………………………………………………………34
+Desarrollo de Valores Relativos a Equidad, Diversidad y Valores
+Éticos…………………………………………………………..…………………………….36
+Metodología Educativa. Las Metodologías Activas…………..…………………………37
+Desarrollo de la Unidad Didáctica…………………………………………………………………38
+
+5
+Objetivos…………………………………………………………………………………….38
+Objetivos Generales……………………………………………………………….39
+Objetivos de la Unidad Didáctica…………………………………………………41
+Competencias………………………………………………………………………...........42
+Competencia General……………………………………………………………..42
+Competencias Profesionales, Personales y Sociales…………………............43
+Contenidos Didácticos................................................................................................44
+Metodologías de Aprendizaje……………………………………………………………..46
+Recursos y Materiales a Utilizar en la UD……………………………………………….48
+Resultados de Aprendizaje y Criterios de Evaluación………………………………….50
+Temporalización…………………………………………………………………………….52
+Elementos Transversales………………………………………………………………….65
+Instrumentos de Evaluación y Criterios de Calificación..............................................66
+Recuperación.............................................................................................................69
+Evaluación de la Práctica Docente……………………………………………………….69
+Atención a la Diversidad…………………………………………………………………...71
+Proyecto de Innovación Educativa. Introducción de las TIC…………………………………...72
+Posibilidades de Proyectos de Investigación Educativa………………………………………..75
+Conclusiones…………………………………………………………………………………………77
+Referencias Bibliográficas…………………………………………………………………............79
+Anexos………………………………………………………………………………………………..80
+
+6
+Lista de Tablas
+Tabla 1 Normativa a Nivel Estatal…………………………………………………………………11
+Tabla 2 Normativa de la Comunidad Valenciana………………………………………………..12
+Tabla 3 Objetivos de la Unidad Didáctica………………………………………………………..42
+Tabla 4 Contenidos Didácticos de la UD Patología Cardiovascular de Urgencia..................44
+
+7
+Lista de Figuras
+Figura 1 IES Tirant Lo Blanc………………………………………………………………………13
+Figura 2 Aula del IES Tirant Lo Blanc……………………………………………………..……..14
+Figura 3 Aula de Tecnología del IES Tirant Lo Blanc…………………………………………..14
+Figura 4 Biblioteca del IES Tirant Lo Blanc……………………………………………….……..15
+Figura 5 Organigrama IES Tirant Lo Blanc………………………………………………..…….19
+Figura 6 Ficha del Ciclo Formativo en Emergencias Sanitarias………………………...…….21
+Figura 7 Horario del Ciclo Formativo de Emergencias Sanitarias…………………………….22
+Figura 8 Criterios de Evaluación y Recuperación………………………………………...…….23
+Figura 9 Tabla de Mejoras y Novedades de la Programación Didáctica……………….…….24
+Figura 10 Asignación Horaria a cada UD del Módulo de Atención Sanitaria Especial en
+Situaciones de Emergencia………………………………………………………………….…….25
+Figura 11 Establecimiento de porcentajes a cada UD del Módulo de Atención Sanitaria
+Especial en Situaciones de Emergencia…………………………………………………..……..26
+Figura 12 Tabla de ponderación…………………………………………………………………..28
+Figura 13 Sistema de Evaluación por Unidades Didácticas…………………………….……..29
+Figura 14 Materiales y Recursos a Utilizar para el Desarrollo de la UD……………….…….49
+Figura 15 Relación de RA, CE y Contenidos de la UD…………………………………..…….51
+Figura 16 Sesión 1…………………………………………………………………………..……..52
+Figura 17 Sesión 2…………………………………………………………………………...…….54
+Figura 18 Sesión 3…………………………………………………………………………...…….56
+Figura 19 Sesión 4…………………………………………………………………………...…….57
+
+8
+Figura 20 Sesión 5…………………………………………………………………………...…….58
+Figura 21 Sesión 6…………………………………………………………………………...…….60
+Figura 22 Sesión 7…………………………………………………………………………...…….62
+Figura 23 Sesión 8…………………………………………………………………………...…….64
+Figura 24 Instrumentos de Evaluación y Criterios de Calificación de la UD…………..…….68
+Figura 25 Encuesta de satisfacción al alumnado sobre el Docente………………………….70
+
+9
+Abreviaturas y Acrónimos
+IES: Instituto de Educación Secundaria.
+ESO: Educación Secundaria Obligatoria.
+ODS: Objetivos de Desarrollo Sostenible.
+ITACA: Innovación Tecnológica Administrativa de Centros y Alumnado.
+UD: Unidad Didáctica
+PD. Programación Didáctica
+SVA: Soporte Vital Avanzado
+RCP: Reanimación Cardiopulmonar
+
+10
+Introducción
+Este Trabajo de Final de Máster que pertenece al Máster Universitario en Formación
+del Profesorado de Secundaria, Bachillerato, Ciclos, Escuela de Idiomas y Enseñanzas
+Deportivas en la especialidad de Procesos Sanitarios, tiene como objetivo mejorar una
+programación didáctica y desarrollar una Unidad Didáctica.
+En primer lugar, se aborda la mejora de la Programación Didáctica del Módulo de
+Atención Sanitaria en Situaciones de Emergencia, uno de los componentes más
+importantes es del Ciclo Formativo de Técnico en Emergencias Sanitarias. Este módulo es
+fundamental para formar a nuevos profesionales a enfrentarse a situaciones de emergencia
+en las que la rapidez en la actuación y la toma de decisiones son cruciales.
+Mediante el análisis de la Programación Didáctica se identifican áreas de mejora
+para garantizar una formación mas efectiva, dinámica y adaptada a las necesidades del
+sector sanitario, proponiendo modificaciones en las metodologías de aprendizaje.
+En segundo lugar, el trabajo se enfoca en el desarrollo de la Unidad Didáctica de
+Patología Cardiovascular de Urgencia, dado que estas patologías son una de las principales
+causas de emergencias sanitarias. Esta Unidad Didáctica se centrará en que los
+estudiantes adquieran los conocimientos tanto teóricos como prácticos desde un enfoque de
+aprendizaje activo.
+El objetivo de este Trabajo de final de Máster es contribuir a la mejora de la
+formación de los/as estudiantes del Ciclo Formativo de Técnico en Emergencias Sanitarias
+aportando mejoras e innovaciones que faciliten el aprendizaje.
+
+11
+Marco Normativo
+El contexto legislativo de la programación didáctica que se va a trabajar se encuadra
+dentro de un marco normativo. En primer lugar, se nombrará todo el marco normativo a nivel
+estatal y seguidamente el marco normativo que regula a la Comunidad Valenciana.
+Marco Normativo Estatal y de la Comunidad Valenciana
+Tabla 1
+Normativa a Nivel Estatal
+NORMATIVA A NIVEL ESTATAL
+LEY ORGÁNICA 2/2006, de 3 de mayo, de Educación, en su artículo 39.6 dispone
+que el encargado de establecer las titulaciones correspondientes a los estudios de
+Formación Profesional como a los aspectos básicos del currículo es del Gobierno de
+la Nación con previa consulta a las diferentes Comunidades Autónomas
+LEY ORGÁNICA 3/2020, de29 de diciembre, por la que se modifica la Ley Orgánica
+2/2006, de 3 de mayo, de Educación, BOE 340, de 30 de diciembre de 2020. (En
+adelante LOE modificada por LOMLOE)
+Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación
+Profesional
+Real Decreto 1397/2007, de 29 de octubre, por el que se establece el título de
+Técnico en Emergencias Sanitarias y se fijan sus enseñanzas mínimas
+Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados
+reales decretos por los que se establecen títulos de Formación Profesional de grado
+medio y se fijan sus enseñanzas mínimas
+
+Real Decreto 287/2023, de 18 de abril, por el que se actualizan los títulos de la
+formación profesional del sistema educativo de Técnico en Emergencias Sanitarias,
+
+12
+Técnico en Farmacia y Parafarmacia, Técnico Superior en Audiología Protésica y
+Técnico Superior en Prótesis Dentales de la familia profesional Sanidad, y se fijan
+sus enseñanzas mínimas.
+
+Orden ESD/3391/2008, de 3 de noviembre, por la que se establece el currículo del
+ciclo formativo de Grado Medio correspondiente al título de Técnico en Emergencias
+Sanitarias.
+
+Tabla 2
+Normativa de la Comunidad Valenciana
+NORMATIVA COMUNIDAD VALENCIANA
+Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación
+Profesional.
+Real Decreto 278/2023, de 11 de abril, por el que se establece el calendario de
+implantación del Sistema de Formación Profesional establecido por la Ley Orgánica
+3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional.
+Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del
+Sistema de Formación Profesional
+Real Decreto 1397/2007, de 29 de octubre, por el que se establece el título de
+Técnico en Emergencias Sanitarias y se fijan sus enseñanzas mínimas.
+DECRETO 135/2014, de 8 de agosto, del Consell, por el que se regulan los ciclos
+formativos de Formación Profesional Básica en el ámbito de la Comunitat
+Valenciana.
+DECRETO 36/2020, de 13 de marzo, del Consell, de modificación del Decreto
+135/2014, de 8 de agosto, por el que se regula la admisión en los ciclos formativos
+de Formación Profesional Básica.
+
+13
+RESOLUCIÓN de 26 de abril de 2023, de la Secretaría Autonómica de Educación y
+Formación Profesional, por la que se establece y ordena los cursos de
+especialización en la Comunitat Valenciana.
+ORDEN de 29 de julio de 2009, de la Conselleria de Educación, por la que se
+establece para la Comunitat Valenciana el currículo del ciclo formativo de Grado
+Medio correspondiente al título de Técnico en Emergencias Sanitarias.
+
+Contextualización Socioeconómica del Centro
+Figura 1
+IES Tirant Lo Blanc
+
+Nota. Fuente de elaboración propia
+En esta imagen, podemos observar la fachada del IES Tirant Lo Blanc de Gandia,
+centro donde se realizaron las prácticas de formación.
+
+14
+Figura 2
+Aula del IES Tirant Lo Blanc
+
+Nota. Fuente de elaboración propia
+En esta figura, se observa cómo es una de las aulas del IES Tirant Lo Blanc, esta
+foto fue tomada por mi mientras el tutor asignado daba una de sus clases teóricas.
+Figura 3
+Aula de Tecnología del IES Tirant Lo Blanc
+
+Nota. Fuente de elaboración propia
+
+15
+En la Figura 3, podemos observar el aula de tecnología donde se imparten las clases
+prácticas de algunos Ciclos Formativos como el de Formación Básica en Madera y Mueble
+o Soldadura y Calderería entre otros.
+Por último, en la Figura 4, observamos la Biblioteca del IES Tirant Lo Blanc, que,
+para sorpresa, es bastante utilizada por los/as estudiantes para realizar sus tareas o para
+estudiar.
+Figura 4
+Biblioteca del IES Tirant Lo Blanc
+
+Nota. Fuente de elaboración propia
+
+El centro donde se cursaron las prácticas del Máster Universitario en Formación del
+Profesorado de Secundaria, Bachillerato, Ciclos, Escuelas de Idiomas y Enseñanzas
+Deportivas es el Instituto de Educación Secundaria (IES) Tirant Lo Blanc. Este centro, está
+situado a las afueras de Gandía, una ciudad costera de la provincia de Valencia. Esta
+ciudad cuenta con unos 80.000 habitantes aproximadamente, aunque su área metropolitana
+tiene una mayor densidad de población debido al turismo y a su actividad económica
+asociada al litoral.
+
+16
+En cuanto a la economía de la ciudad, destaca el sector turístico, el sector agrícola
+especialmente en la producción de cítricos y, en menor medida, el sector industrial.
+Localización del Centro Educativo
+El IES Tirant Lo Blanc, está ubicado en la zona norte de Gandía, al lado del Polígono
+Alcodar, más concretamente en el Carrer del Estudiants número 2. Situado a las afueras de
+la ciudad, se encuentra en una zona muy bien conectada con el resto de la ciudad y con
+otros municipios, sobre todo de la comarca de la Safor, por su fácil acceso en vehículo
+propio. En cuanto al transporte público, hay una parada de autobús a unos escasos 5
+minutos y la estación de trenes de Gandia se encuentra a unos 10 minutos andando, lo que
+propicia tener un amplio espectro de estudiantes que reflejan en gran medida las
+características demográficas y sociales del municipio.
+Identidad y Tipo de Centro
+El IES Tirant Lo Blanc es un centro público de Educación Secundaria donde se
+ofrece una educación completa a nivel de Educación Secundaria Obligatoria (ESO),
+Bachillerato y Ciclos Formativos. En este aspecto, por las mañanas se imparte ESO,
+Bachillerato y algunos Ciclos Formativos, mientras que por la tarde solo se imparten ciclos
+formativos tanto de grado medio como superior.
+Este centro tiene una identidad en la educación orientada al acceso universitario o al
+mercado laboral. Además, debido al perfil del alumnado el centro destaca por su
+compromiso con la inclusión y la diversidad, teniendo muy presente el ODS número 4, una
+educación de calidad, adaptadas a las necesidades y las distintas características del
+alumnado y el ODS número 5, promoviendo en todo momento la igualdad de género.
+
+17
+Origen y Perfil del Alumnado y de las Familias
+El perfil del alumnado del IES Tirant Lo Blanc, es muy diverso, reflejándose una gran
+variedad social y cultural, que proviene de familias de una clase media-baja, ya sean
+residentes en la misma ciudad de Gandía o en las localidades cercanas de la comarca de la
+Safor, aunque se dan casos de alumnos o alumnas que proviene de otras comarcas más
+alejadas.
+Debido a que gran parte del alumnado es descendiente de familias con una situación
+socioeconómica algo desfavorecida, en la oferta educativa se incluyen programas de apoyo
+para los estudiantes con dificultades de aprendizaje debido al idioma, también se trabaja en
+la prevención del abandono escolar con planes de orientación y acompañamiento
+educativo.
+Respecto al género, el instituto presenta una paridad bastante equilibrada entre
+hombres y mujeres, reflejando la tendencia general del sistema educativo, donde no suelen
+observarse diferencias en el acceso a la educación.
+En cuanto a la diversidad cultural, Gandía, en los últimos años, ha experimentado un
+aumento en la inmigración lo que también se refleja en el IES Tirant lo Blanc. Aquí, como en
+otras zonas de la ciudad, los/as estudiantes son procedentes de diferentes países,
+principalmente de Rumania, Marruecos, Ecuador y otros países latinoamericanos. Esto
+propicia una mayor diversidad cultural en las aulas lo que establece retos relacionados con
+la integración social y académica. Los datos estadísticos aproximados, dado que no existen
+datos específicos del centro, son que en torno al 20-25% del alumnado, son inmigrantes. Y,
+si hablamos de los/as estudiantes en situación de vulnerabilidad económica, seria alrededor
+del 15-20%.
+
+18
+Comunicación con el Alumnado y con las Familias
+Este centro, al ser un centro público, la plataforma que utiliza para la comunicación
+con el alumnado es “AULES”, una plataforma de e-learning promovida por la Generalitat
+Valenciana donde se pueden subir, actividades, material de estudio, presentaciones…lo que
+permite una educación en línea accesible desde cualquier dispositivo.
+Para comunicarse con las familias, al ser un centro público, la plataforma que se
+utiliza es ITACA (Innovación Tecnológica Administrativa de Centros y Alumnado) que es un
+sistema de información centralizado que conecta a todos los miembros del sistema
+educativo valenciano. Además, esta plataforma permite a las familias y al alumnado realizar
+trámites electrónicos con la secretaria del centro.
+
+Instalaciones del Centro
+El IES Tirant Lo Blanc, a grandes rasgos, presenta dos tipos de aulas, en primer
+lugar, se encuentran las aulas convencionales que se utilizan sobre todo para las clases
+magistrales explicativas, por otra parte, también están las aulas destinadas a las sesiones
+prácticas, sobre todo para los ciclos formativos del área de sanidad, mecánica, electricidad
+y electrónica y carpintería. En este tipo de clases destinadas a las clases prácticas de la
+formación, se dispone de gran parte de los recursos y maquinaria necesaria para llevar a
+cabo las actividades correspondientes.
+
+19
+Organigrama del Centro
+Figura 5
+Organigrama IES Tirant Lo Blanc
+
+Nota. Fuente https://iestirantloblancgandia.es/organigrama-i-departaments/#organigrama
+
+Características del Alumnado
+Los alumnos y las alumnas del Ciclo Formativo de Grado medio en Emergencias
+Sanitarias tienen edades comprendidas entre los 18 y los 40 años. Este ciclo, está dividido
+en dos cursos con una media de 25 alumnos por curso. La gran parte de los y las
+asistentes, tienen interés por las Ciencias de la Salud o las Emergencias Sanitarias, aunque
+hay dos casos en particular que no les gusta este Ciclo Formativo y no están asistiendo a
+clase, pensaban que sería diferente, de hecho, uno de los casos tiene aprensión a la sangre
+y a las agujas.
+
+20
+La mayoría de los/as estudiantes, provienen de otros Ciclos Formativos del área de
+Sanidad o en el caso del alumnado de mayor edad acceden tras completar la ESO.
+En cuanto al país de proveniencia la mayoría de los alumnos y las alumnas son de
+origen español, pero también se hallan seis alumnos/as procedentes de México, Bolivia o
+Colombia y otras 3 alumnas que provienen de países árabes, una de ellas con dificultades
+de aprendizaje en cuanto al idioma.
+Analizando sus aspiraciones, la mayoría tienen la aspiración de poder acceder a un
+Ciclo Formativo de Grado Superior, aunque también hay estudiantes que quieren terminar
+cuanto antes y así poder entrar al mercado laboral para poder mejorar su situación actual.
+
+Programación Didáctica del Centro Educativo
+Este apartado tratará de presentar la Programación Didáctica del módulo profesional
+de la unidad didáctica que se va a analizar y mejorar. Esta unidad didáctica, será La
+patología Cardiovascular de Urgencia. Esta programación fue facilitada por el centro
+educativo en el cual se realizaron las prácticas.
+El Ciclo Formativo de Técnico en Emergencias Sanitarias es un Ciclo Formativo de
+Grado Medio establecido en el Real Decreto 1397/2007, de 29 de octubre por el que se
+establece el título de Técnico en Emergencias Sanitarias y se fijan sus enseñanzas
+mínimas. Este ciclo formativo, tiene una duración total de 200 horas. Además, está regulado
+también por la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la
+Formación Profesional.
+
+21
+Figura 6
+Ficha del Ciclo Formativo en Emergencias Sanitarias
+Denominación:
+
+Emergencias Sanitarias.
+
+Nivel:
+
+Formación Profesional de Grado Medio
+
+Duración:
+
+2000 horas
+
+Familia Profesional:
+
+Sanidad
+
+Referente Europeo:
+
+CINE-3 (Clasificación Internacional Normalizada de
+Educación
+
+Nota. Tabla extraída de la Programación del Ciclo Formativo de Emergencias Sanitarias,
+facilitada por el IES Tirant Lo Blanc
+
+El módulo al que pertenece la Unidad Didáctica a analizar y mejorar es La Atención
+Sanitaria Especial en Situaciones de Emergencia que tiene un total de 220 horas. Este
+módulo, que cuenta con 10 horas semanales, se imparte en el segundo curso del Ciclo
+Formativo en Emergencias sanitarias. En la programación anual están descritas las
+unidades didácticas que se van a impartir en cada evaluación, ya sea en la primera o en la
+segunda, pero la temporalización en la ficha de cada unidad didáctica no coincide con la
+temporalización final por unidades didácticas del módulo. Como ejemplo, en la unidad
+didáctica que se analizará y mejorará, la patología cardiovascular de urgencia tiene un total
+de 20 horas, sin embargo, en la temporalización final a esta unidad didáctica se lo otorgan
+18 horas. Sin embargo, al final de la temporalización final detalla que “la distribución
+temporal de los contenidos indicados se adaptara al transcurso del curso académico y al
+contexto concreto del grupo de alumnos, siendo posible su modificación para ajustarla a la
+capacidad de aprendizaje de los mismo”.
+
+22
+Análisis Crítico, Propuestas de Mejora y Novedades de la Programación
+Didáctica del Centro Educativo
+Tras analizar la Programación Didáctica del módulo Atención Sanitaria Especial en
+Situaciones de Emergencia se observa que la temporalización por unidades didácticas de
+forma individualizada no coincide con la temporalización final donde se realiza el cómputo
+global de las horas, además este sumatorio final tiene un resultado de 221 horas no de 220
+horas como se indica que debe tener en el ORDEN de 29 de julio de 2009, de la Conselleria
+de Educación, por la que se establece para la Comunitat Valenciana el currículo del ciclo
+formativo de Grado Medio correspondiente al título de Técnico en Emergencias Sanitarias.
+Y también se indica en el horario del Ciclo Formativo en Emergencias Sanitarias que se
+adjunta en la siguiente figura.
+Figura 7
+Horario del Ciclo Formativo de Emergencias Sanitarias
+
+Nota. Fuente https://ceice.gva.es/documents/161863064/162743997/sanemeloe2h_val.pdf
+Siguiendo con el análisis de la Programación Didáctica, se observa que los objeticos
+generales del módulo profesional aparecen bien diferenciados de los objetivos generales
+
+23
+del Ciclo Formativo. De la misma forma que aparece la competencia general y las
+competencias profesionales, personales y sociales, así como las competencias en el
+entorno profesional bien diferenciadas. También se observan unas tablas, donde se
+relacionan los contenidos y los criterios de evaluación con los Resultados de Aprendizaje,
+además, se especifica que Resultado de Aprendizaje se va a valorar en cada Unidad
+Didáctica.
+En cuanto a la Evaluación, no se detalla que herramientas o los procedimientos a
+seguir para la concesión de los Resultados de Aprendizaje, se indica que “la evaluación
+será continua de forma que se evaluaran los resultados en la medida que se vayan
+adquiriendo los Resultado de Aprendizaje basándose en los Criterios de Evaluación
+establecidos en el currículo del Módulo”, además se expone una tabla, que se expondrá en
+la figura 8, con los criterios de evaluación para la nota final, pero no especifica que
+porcentaje se va a otorgar a cada Unidad Didáctica ni la forma de evaluación o si se va a
+realizar la media de las ponderaciones, se detallará en la programación mejorada. Por otra
+parte, en ningún momento se especifica como se va a proceder en el caso de que existan
+alumnos o alumnas con necesidades especiales.
+Figura 8
+Tabla. Criterios de Evaluación y Recuperación
+
+Nota. Tabla extraída de la Programación del Ciclo Formativo de Emergencias Sanitarias,
+facilitada por el IES Tirant Lo Blanc
+
+24
+Siguiendo con la evaluación, en cuanto al sistema de recuperación simplemente se
+especifica que se va a realizar una prueba escrita final de todo el contenido del curso, en la
+programación mejorada se especificará y detallará esta cuestión, poniendo especial énfasis
+en si se superan o no alguno de los contenidos.
+Analizada la Programación Didáctica del módulo Atención Sanitaria Especial en
+Situaciones de Emergencia, y tras detectar algunos aspectos que se pueden mejorar, en la
+siguiente figura, se proponen diversas mejoras y/o novedades que pueden ser de gran
+utilidad.
+Figura 9
+Tabla de Mejoras y Novedades de la Programación Didáctica
+MEJORAS
+
+NOVEDADES
+
+Mejora en la temporalización de las
+horas asignadas a cada UD
+Distribución porcentual de cada UD
+Mejora en la Evaluación tanto a nivel
+general como por UD
+Evaluación del alumnado con
+necesidades especiales
+Planificación de un sistema de
+recuperación
+
+Metodologías de aprendizaje a Nivel
+Práctico
+Uso de la TIC
+
+Nota. Fuente de elaboración propia
+Mejoras de la Programación Didáctica.
+Llegados a este punto, se van a detallar cada una de las mejoras expuestas
+anteriormente.
+En primer lugar, se va a realizar una mejora de la temporalización asignada a cada
+una de las UD dado que no coinciden las horas de cada UD con el cómputo global ni
+tampoco se indican las mismas horas. Esta distribución se realizará mediante la tabla
+expuesta a continuación, indicando las horas y que el total de horas sean 220 como se
+
+25
+indica en el ORDEN de 29 de julio de 2009, de la Conselleria de Educación, por la que se
+establece para la Comunitat Valenciana el currículo del ciclo formativo de Grado Medio
+correspondiente al título de Técnico en Emergencias Sanitarias.
+Figura 10
+Asignación Horaria a cada UD del Módulo de Atención Sanitaria Especial en Situaciones de
+Emergencia
+Atención Sanitaria Especial en Situaciones de Emergencia
+
+220 horas
+
+UD 1. Soporte Vital Avanzado (SVA)
+
+15 h
+
+UD 2. Oxigenoterapia
+
+15 h
+
+UD 3. Patología Cardiovascular de Urgencia
+
+18 h
+
+UD 4. Patología Respiratoria de Urgencia
+
+15 h
+
+UD 5. Administración de Medicamentos
+
+12 h
+
+UD 6. Los accidentes
+
+18 h
+
+UD 7. Lesiones por Agentes Químicos
+
+18 h
+
+UD 8. Atención Sanitaria en Traumatismos Graves
+
+18 h
+
+UD 9. Lesiones por Agente Biológicos
+
+18 h
+
+UD 10. Lesiones Traumáticas
+
+15 h
+
+UD 11. Patología Neurológica y Psiquiátrica de Urgencia
+
+15 h
+
+UD 12. Lesiones por Agentes Físicos
+
+18 h
+
+UD 13. Patología endocrina y Digestiva de Urgencia
+
+15 h
+
+UD 14. Atención Sanitaria al Parto Inminente
+
+10 h
+
+Nota. Fuente de elaboración propia
+
+26
+Esta distribución horaria, se ha realizado teniendo en cuenta aspectos como la
+duración de la Unidad Didáctica y su complicación, así como también las pruebas escritas a
+realizar y las sesiones prácticas.
+Seguidamente, se va a realizar una distribución en porcentajes de cada UD para así
+poder facilitar la posterior evaluación y su ponderación.
+Figura 11
+Establecimiento de porcentajes a cada UD del Módulo de Atención Sanitaria Especial en
+Situaciones de Emergencia
+Atención Sanitaria Especial en Situaciones de Emergencia
+
+100%
+
+UD 1. Soporte Vital Avanzado (SVA)
+
+5%
+
+UD 2. Oxigenoterapia
+
+5%
+
+UD 3. Patología Cardiovascular de Urgencia
+
+10 %
+
+UD 4. Patología Respiratoria de Urgencia
+
+5%
+
+UD 5. Administración de Medicamentos
+
+5%
+
+UD 6. Los accidentes
+
+10 %
+
+UD 7. Lesiones por Agentes Químicos
+
+10 %
+
+UD 8. Atención Sanitaria en Traumatismos Graves
+
+10 %
+
+UD 9. Lesiones por Agente Biológicos
+
+10 %
+
+UD 10. Lesiones Traumáticas
+
+5%
+
+UD 11. Patología Neurológica y Psiquiátrica de Urgencia
+
+5%
+
+UD 12. Lesiones por Agentes Físicos
+
+10%
+
+UD 13. Patología endocrina y Digestiva de Urgencia
+
+5%
+
+UD 14. Atención Sanitaria al Parto Inminente
+
+5%
+
+Nota. Fuente de elaboración propia
+
+27
+La distribución de los porcentajes se ha realizado, teniendo en cuenta la importancia
+de cada UD dentro del Módulo de Atención Sanitaria Especial en Situaciones de
+Emergencia.
+La siguiente mejora, tratará de establecer una forma de evaluación mejorada tanto a
+nivel general como por Unidades Didácticas, tratando también la forma de evaluar a los/as
+estudiantes con necesidades especiales.
+Sistema de Evaluación General del Modulo
+Objetivo del Sistema de Evaluación.
+El sistema de evaluación tiene como objetivo medir el grado de adquisición de las
+competencias teóricas y prácticas esenciales para que el alumnado pueda responder de
+forma eficaz y adecuada ante situaciones de emergencias sanitarias, cumpliendo con los
+estándares de calidad y seguridad exigidos en el ámbito profesional. Para garantizar una
+valoración integral del aprendizaje, la evaluación se llevará a cabo de forma continua,
+permitiendo un seguimiento progresivo del desempeño del alumnado. Esta evaluación
+estará compuesta por diversas actividades diseñadas para medir los conocimientos
+adquiridos, tanto a nivel teórico como práctico. De esta forma, no solo se busca comprobar
+la asimilación de conceptos, sino también valorar la capacidad de aplicar los conocimientos
+adquiridos a situaciones “reales”.
+Criterios de Evaluación.
+Los Criterios de Evaluación están orientados a medir el grado de adquisición de los
+conocimientos teóricos por parte del alumnado. Se evaluará la capacidad para recordar
+información clave, comprender los conceptos fundamentales y aplicarlos en distintos
+conceptos, asegurando que los/as estudiantes no solo memoricen los contenidos que se
+han impartido, sino también que los asimilen. También se van a valorar las habilidades
+prácticas, como es la capacidad de llevar a cabo correctamente los procedimientos,
+protocolos y maniobras de atención sanitaria en situaciones de emergencia, aplicándolas a
+
+28
+simulaciones y prácticas reales. Y, por último, se valorarán los valores y actitudes del
+alumnado. Entre estos valores destacan el respeto hacia los compañeros/as, los pacientes y
+el equipo docente, la responsabilidad en el cumplimiento de tareas y compromisos
+académicos, el trabajo en equipo fomentando la cooperación y la comunicación efectiva, la
+ética profesional asegurando que actúen con integridad, compromiso y sensibilidad y, la
+gestión del estrés en situaciones de emergencia sanitaria, valorando la capacidad para
+mantener la calma y tomar decisiones acertadas para actuar de la mejor forma posible.
+En cuanto a los tipos de Evaluación, esta será una evaluación continua que se
+llevará a cabo durante todo el curso mediante la realización de actividades prácticas,
+trabajos, participación en clase y evaluaciones periódicas. Además, de cada UD se va a
+realizar una prueba escrita basada en los conocimientos adquiridos, así como una prueba
+practica basada en las explicaciones de las sesiones prácticas.
+Por último, en cuanto a la ponderación del Sistema de Evaluación, la calificación final
+del Módulo será la suma de todas de todas las evaluaciones teóricas, prácticas y
+actitudinales de la siguiente forma.
+Figura 12
+Tabla de Ponderación
+Competencias
+Conocimientos teóricos (exámenes, pruebas escritas…)
+
+50%
+
+Conocimientos prácticos (sesiones de prácticas, simulacros…)
+
+30%
+
+Competencias actitudinales (participación, actitud, trabajo en
+
+20%
+
+equipo…)
+
+Nota. Fuente de elaboración propia.
+
+29
+Sistema de Evaluación por Unidades Didácticas
+A continuación, en la siguiente figura, se va a detallar el desglose de la evaluación
+de cada UD, incluyendo la evaluación teórica, práctica y actitudinal.
+Figura 13
+Sistema de Evaluación por Unidades Didácticas
+UD 1. Soporte Vital Avanzado
+Evaluación teórica:
+
+Examen sobre los protocolos de SVA, RCP, manejo de la vía
+aérea y la desfibrilación.
+
+Evaluación
+
+Simulacro de un escenario de SVA con maniquíes.
+
+Práctica:
+Evaluación
+
+Participación en el aula, actitud en situaciones prácticas y
+
+Actitudinal:
+
+trabajo en equipo.
+UD 2. Oxigenoterapia
+
+Evaluación teórica:
+
+Examen sobre los principios y aplicaciones de la
+oxigenoterapia.
+
+Evaluación
+
+Ejercicios prácticos para la administración de oxigeno
+
+Práctica:
+Evaluación
+
+Participación en el aula y la correcta aplicación de las técnicas
+
+Actitudinal:
+
+en situaciones simuladas
+UD 3. Patología Cardiovascular de Urgencia
+
+Evaluación teórica:
+
+Examen sobre las principales patologías cardiovasculares de
+urgencia y su tratamiento inicial.
+
+Evaluación
+
+Práctica de simulación de atención a pacientes con alguna
+
+Práctica:
+
+patología cardiovascular.
+
+Evaluación
+
+Participación en el aula y trabajo en equipo.
+
+Actitudinal:
+
+30
+UD 4. Patología Respiratoria de Urgencia
+Evaluación teórica:
+
+Examen sobre las principales patologías respiratorias de
+urgencia y su tratamiento inicial.
+
+Evaluación
+
+Simulación de una crisis respiratoria.
+
+Práctica:
+Evaluación
+
+Participación en el aula y trabajo en equipo.
+
+Actitudinal:
+UD 5. Administración de Medicamentos
+Evaluación teórica:
+
+Examen sobre farmacología básica y su administración.
+
+Evaluación
+
+Simulación de la administración de medicamentos.
+
+Práctica:
+Evaluación
+
+Participación en el aula, trabajo en equipo y seguimiento de
+
+Actitudinal:
+
+los protocolos para la administración de medicamentos.
+UD 6. Los Accidentes
+
+Evaluación teórica:
+
+Examen sobre los tipos de accidentes más comunes y su
+actuación.
+
+Evaluación
+
+Práctica sobre la atención a las víctimas de los accidentes
+
+Práctica:
+
+más comunes.
+
+Evaluación
+
+Participación en el aula, trabajo en equipo y toma de
+
+Actitudinal:
+
+decisiones antes los accidentes.
+UD 7. Lesiones por Agentes Químicos
+
+Evaluación teórica:
+
+Examen sobre los efectos de los agentes químicos y su
+tratamiento inicial.
+
+Evaluación
+
+Práctica sobre la atención a víctimas con exposición a agentes
+
+Práctica:
+
+químicos.
+
+Evaluación
+
+Participación en el aula y trabajo en equipo, así como
+
+Actitudinal:
+
+seguimiento de los protocolos de seguridad.
+
+31
+UD 8. Atención Sanitaria en Traumatismos Graves.
+Evaluación teórica:
+
+Examen sobre los traumatismos Graves y su actuación.
+
+Evaluación
+
+Simulación de atención a pacientes con traumatismos graves.
+
+Práctica:
+Evaluación
+
+Participación en el aula y trabajo en equipo ante un
+
+Actitudinal:
+
+traumatismo grave.
+UD 9. Lesiones por Agentes Biológicos
+
+Evaluación teórica:
+
+Examen sobre los agentes Biológicos y su actuación.
+
+Evaluación
+
+Práctica sobre la atención a víctimas con exposición a agentes
+
+Práctica:
+
+biológicos.
+
+Evaluación
+
+Participación en el aula y trabajo en equipo, así como
+
+Actitudinal:
+
+seguimiento de los protocolos de seguridad.
+UD 10. Lesiones traumáticas
+
+Evaluación teórica:
+
+Examen sobre el diagnóstico y tratamiento de las lesiones
+traumáticas comunes.
+
+Evaluación
+
+Práctica sobre la atención a pacientes con lesiones
+
+Práctica:
+
+traumáticas.
+
+Evaluación
+
+Participación en el aula y trabajo en equipo, así como la
+
+Actitudinal:
+
+evaluación de la estabilización del paciente y su traslado al
+centro hospitalario.
+UD 11. Patología Neurológica y Psiquiátrica de Urgencia
+
+Evaluación teórica:
+
+Examen sobre las patologías neurológicas y psiquiátricas más
+comunes.
+
+Evaluación
+
+Simulación de atención a pacientes con patologías
+
+Práctica:
+
+neurológicas y psiquiátricas.
+
+Evaluación
+
+Participación en el aula y trabajo en equipo.
+
+Actitudinal:
+
+32
+UD 12. Lesiones por agentes físicos
+Evaluación teórica:
+
+Examen sobre las lesiones provocadas por agentes físicos y
+su actuación inicial.
+
+Evaluación
+
+Practica de atención a pacientes con lesiones provocadas por
+
+Práctica:
+
+agentes físicos.
+
+Evaluación
+
+Participación en el aula y trabajo en equipo.
+
+Actitudinal:
+UD 13. Patología Endocrina y Digestiva de Urgencia
+Evaluación teórica:
+
+Examen sobre las patologías endocrinas y digestivas más
+comunes.
+
+Evaluación
+
+Simulación de atención a pacientes con patologías endocrinas
+
+Práctica:
+
+y digestivas.
+
+Evaluación
+
+Participación en el aula y trabajo en equipo.
+
+Actitudinal:
+UD 14. Atención Sanitaria al Parto Inminente.
+Evaluación teórica:
+
+Examen sobre los protocolos de atención al parto inminente y
+sus posibles complicaciones.
+
+Evaluación
+
+Simulación de la atención a un parto inminente.
+
+Práctica:
+Evaluación
+
+Participación en el aula, trabajo en equipo y manejo del estrés.
+
+Actitudinal:
+
+Nota. Fuente de elaboración propia.
+La nota final del Módulo se obtendrá realizando la media de las notas de cada una
+de las Unidades Didácticas considerando como superada toda nota superior a 5.0. La media
+de las ponderaciones obtenidas se realizará siempre y cuando se hayan superado 12 de las
+
+33
+14 Unidad Didácticas. En caso de no superar alguna, deberá intentar aprobar los contenidos
+no superados en la recuperación
+Siguiendo con la evaluación, se tratará como evaluar al alumnado con necesidades
+especiales.
+La evaluación del alumnado con necesidades especiales, debe ser un proceso
+adaptado y centrado en las características individuales del estudiante en cuestión con lo
+que, en primer lugar, se debe adaptar la evaluación tanto a nivel general como por Unidades
+Didácticas a las características del alumnado además de ello, se debe llevar a cabo una
+evaluación multidisciplinaria involucrando a otro tipo de profesionales como por ejemplo
+psicólogos/as en el proceso de aprendizaje. Tanto los contenidos como los objetivos de
+aprendizaje deben ser adaptados y personalizados a las condiciones del estudiante y a su
+progreso. Además, se ha de llevar a cabo una evaluación integral, considerando no solo las
+competencias académicas sino también las habilidades sociales y emocionales poniendo
+especial énfasis en su participación dentro del sistema educativo.
+Por último, para terminar con las mejoras de la Programación Didáctica, se va a
+diseñar un sistema de recuperación acorde a las exigencias de Módulo ya que esta se
+aborda de una manera muy general.
+Para diseñar un sistema de recuperación, se va a crear un proceso bien definido en
+el cual se considere tanto el tipo de evaluaciones escritas como las pruebas prácticas.
+En primer lugar, las recuperaciones se van a realizar en dos convocatorias, la
+primera será en junio y si esta no es superada, los/as estudiantes tendrán otra oportunidad
+en Julio. Estas recuperaciones serán tanto a nivel escrito como práctico según los
+contenidos que no se hayan superado.
+Las recuperaciones se realizarán de forma personalizada para el alumnado que no
+haya superado 2 o más Unidades Didácticas, al superarlas, para extraer la nota final se
+realizara la media con las notas obtenidas de las UD superadas anteriormente.
+
+34
+Para el alumnado que no haya superado la prueba escrita de alguna de las unidades
+didácticas, se le realizara un examen de cada una de las UD no superadas para así poder
+realizar la media en igualdad de condiciones que el resto de los/as estudiantes. Sin
+embargo, si la parte no superada son las pruebas prácticas, se podrá realizar una
+recuperación práctica, siempre que se pueda, combinando varios de los contenidos que no
+han sido superados por el alumnado.
+Por último, en el caso de superar las pruebas de recuperación se considerará al
+estudiante como suspenso de tendrá que repetir el curso y/o el Módulo.
+
+Uso de las TIC
+La incorporación de la Tecnologías de la Información y la Comunicación (TIC) en el
+centro, sería de gran ayuda para el alumnado, ya que puede transformar la enseñanza con
+herramientas mucho más dinámica e interactivas que pueden complementar el aprendizaje
+tradicional de las clases teóricas y prácticas. Actualmente, el centro no dispone de un plan
+donde se aborde ni el uso ni la integración de las TIC, del mismo modo que en la PD
+tampoco especifica nada al respecto, sin embargo, en cada clase hay un ordenador y un
+proyector, que en rara ocasión se le da uso. Además, la forma de comunicación del
+profesorado con las familias y con el alumnado se realiza a través de las plataformas
+“ITACA” y “Aules” respectivamente.
+La integración de la TIC podría ofrecer nuevas perspectivas para mejorar el
+aprendizaje y poder desarrollar mejor las competencias profesionales. Una de las ventajas
+principales que tienen las TIC es el aprendizaje virtual, el poder crear situaciones de reales
+de emergencia donde los/as estudiantes pueden actuar y tomar decisiones sin los riesgos
+que tiene una situación real de emergencia. Con simuladores reales, se pueden crear
+situación donde poder aplicar los protocolos de actuación explicados en las clases teóricas
+o prácticas. Esto puede resultar de gran ayuda sobre todo para el manejo del estrés en
+
+35
+situaciones reales y la toma de decisiones, además los/as estudiantes se podrían enfrentar
+a gran variedad de situaciones de emergencia sin la necesidad de asistir de forma
+presencial y sin enfrentarse a los riesgos reales de cada situación lo que les otorgaría un
+conocimiento más amplio.
+Como es sabido, las plataformas de aprendizaje en línea con puede ser “Google
+Classroom” puede fortalecer la enseñanza mediante un acceso más fácil y rápido a los
+contenidos teóricos. Además, en este tipo de plataformas se permite organizar contenidos
+de forma intuitiva añadiendo algunos contenidos como podrían ser artículos de interés,
+videos, noticias, etc. Por otra parte, se puede promover la participación de los/as
+estudiantes con la creación de foros de discusión o distintos apartados para resolver las
+dudas.
+También existen aplicaciones específicas que pueden resultar de gran ayuda para
+los/as estudiantes. Existen aplicaciones o plataformas como pueden ser “Medscape” o
+“UpToDate” que, a pesar de estar en inglés, proporcionan información sobre los protocolos a
+seguir en situaciones de emergencia y permite a los/as estudiantes estar al día de los
+avances e innovaciones en el mundo de la salud y la atención prehospitalaria.
+Por otra parte, se podrían utilizar contenidos audiovisuales como videos de
+procedimientos como por ejemplo la aplicación de un vendaje o tutoriales de como realizar
+un torniquete, los/as estudiantes pueden observar cómo se realizan diversas técnicas de
+forma correcta lo que complementaria a las clases teóricas y facilitaría la comprensión de
+alguno de los contenidos.
+También, existen otro tipo de herramientas de gamificación como, por ejemplo,
+“Genially” o “EducaPlay” que brindan al alumnado una forma de aprendizaje mucho más
+divertida y didáctica lo que propicia un interés mayor sobre todo de los/as estudiantes de
+menor edad.
+
+36
+Finalmente, otra de las ventajas de las TIC es la evaluación mediante herramientas
+digitales como por ejemplo con un “Kahoot”. Además, esta forma de evaluación puede ser
+personalizada a cada estudiante, identificando las áreas de mejora de los apartados en los
+que no se ha obtenido el resultado esperado.
+La propuesta de incorporar progresivamente las TIC al entorno educativo del centro
+no solo mejorará el aprendizaje, sino que preparará a los futuros profesionales para un
+entorno cada vez más digitalizado y en constante evolución.
+
+Desarrollo de Valores Relativos a Equidad, Diversidad y Valores Éticos
+La programación Didáctica del Módulo de Atención Sanitaria Especial en Situaciones
+de Emergencia analizada, no contempla el Desarrollo de Valores Relativos a Equidad,
+Diversidad y Valores Éticos, con lo que como propuesta innovadora o novedades en la PD
+se incorporará ya que se considera fundamental para complementar la formación de los/as
+estudiantes con los valores humanos y éticos de la profesión sanitaria.
+En este sentido, tanto a nivel comunitario, nacional como europeo según la Ley
+Orgánica 3/2020 de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de
+mayo, de Educación, establece el garantizar el derecho a una educación inclusiva y de
+calidad incluyendo estos principios en todos los niveles educativos por lo que se incluyen
+las áreas sanitarias.
+El objetivo principal del Módulo de Atención Sanitaria Especial en Situaciones de
+Emergencia es que el alumnado obtenga los conocimientos necesarios para actuar de
+forma efectiva y con ética. Los futuros profesionales, deben también recibir una formación
+donde se desarrolle una actitud respetuosa y aplicando el principio de equidad, que es tratar
+con la misma calidad de atención a todas las personas independientemente de su sexo,
+etnia, orientación sexual o cualquier otra circunstancia que pueda generar algún tipo de
+discriminación.
+
+37
+En cuanto a la diversidad, los/as estudiantes, deben ser capaces de identificarla para
+así poder actuar de forma profesional. En situaciones de emergencia las personas
+afectadas pueden pertenecer a diferentes grupos sociales, culturales o religiosos por ello,
+se debe actuar de forma personalizada respetando siempre las creencias, valores o
+costumbres de las personas. Con lo que es fundamental formar al alumnado en el respeto a
+la diversidad no solo para la entrada al mercado laboral también en las relaciones con sus
+compañeros. Esta formación se deberá abordar para poder conocer y respetar las
+diferencias y saber actuar de forma inclusiva.
+Además de esto, la Ética tiene una especial importancia para los Técnicos en
+Emergencias Sanitarias ya que sus decisiones estarán relacionadas directamente con la
+vida de las personas.
+Metodología Educativa. Las Metodologías Activas
+“Las metodologías activas son una serie de estrategias y técnicas que buscan el
+aprendizaje efectivo del alumnado, a la vez que fomentan la participación activa, la
+colaboración y la aplicación práctica de conocimientos” (Universidad Internacional de la
+Rioja, 2021)
+Las Metodologías Activas más importantes son el Aprendizaje Basado en Proyectos
+(ABP), el Aprendizaje Basado en Problemas (ABP), el Aprendizaje Cooperativo y el Aula
+Invertida
+El aprendizaje basado en proyectos es un enfoque pedagógico que permite a los/as
+estudiantes participar y comprometerse con las actividades que les resultan interesantes
+mientras aprenden. Para implementar este enfoque, el docente plantea un desafío
+relacionado con una situación real, los/as estudiantes deben solucionarlo utilizando
+herramientas como la investigación, realizando diversas actividades de aprendizaje.
+El aprendizaje cooperativo es una estrategia educativa en la que los/as estudiantes
+se organizan en grupos para trabajar conjuntamente en la consecución de una meta común.
+
+38
+En este enfoque, cada miembro del grupo tiene asignado un rol y es responsable del
+progreso del equipo, lo que promueve habilidades como la empatía y la comunicación entre
+otras.
+Por su lado, el Aula Invertida, “es un modelo de aprendizaje semipresencial o mixto,
+el cual tiene por objetivo hacer clases más dinámicas para motivar a los alumnos, al
+combinar los proyectos en clase con trabajos en casa” (Ispring, 2024)
+Como conclusión, las Metodologías Activas, son una innovación en la educación
+favoreciendo el desarrollo de las habilidades del alumnado. Con estas metodologías, los/as
+estudiantes pasan a ser los protagonistas de su aprendizaje.
+
+Desarrollo de la Unidad Didáctica
+Una Unidad Didáctica es un conjunto estructurado de actividades de enseñanza
+creado para alcanzar un objetivo educativo concreto. Es un plan detallado que incluye
+metas de aprendizaje, contenidos, métodos, evolución y recursos necesarios para su
+desarrollo.
+A continuación, se van a detallar los elementos que deben aparecer en una UD. A su
+vez, se va a desarrollar la UD de Patología Cardiovascular de Urgencia, del Módulo de
+Atención Sanitaria Especial en Situaciones de Emergencia que forma parte del Ciclo
+Formativo de Grado Medio de Técnico en Emergencias Sanitarias.
+Objetivos
+Los objetivos conforman la finalidad a la que se pretende que lleguen los/as
+estudiantes en el proceso de aprendizaje, que adquieran una serie de competencias y
+conocimientos siendo capaces de desarrollarlos o realizarlos.
+
+39
+Objetivos Generales
+Los objetivos generales definidos para el Título de Técnico en Emergencias
+Sanitarias son los establecidos en el Real Decreto 1397/2007, de 29 de Octubre, por el que
+se establece el Título de Técnico en Emergencias Sanitarias y se fijan sus enseñanzas
+mínimas.
+A continuación, se van a detallar cuales son los Objetivos Generales del Ciclo
+Formativo de Técnico en Emergencias Sanitarias y para identificar cuáles son los objeticos
+relacionados con el Módulo de Atención Sanitaria Especial en Situaciones de Emergencia,
+estos estarán subrayados y en negrita:
+a)
+
+Relacionar las posibles patologías analizando los procedimientos de
+
+intervención para evacuar a las víctimas de forma segura.
+b) Analizar las técnicas de conducción en condiciones adversas y con pacientes
+que presenten distintas patologías identificado las repercusiones orgánicas que un traslado
+inadecuado puede tener en la salud, para evacuar al paciente o víctima.
+c) Enumerar signos de gravedad, relacionándolos con criterios y
+protocolos de actuación, para clasificar a las víctimas.
+d) Reconoce los signos de compromiso vital, relacionando desviaciones
+de signos externos respecto de los parámetros normales, para determinar el estado
+del paciente.
+e) Aplicar maniobras de reanimación cardiopulmonar y técnicas de
+asistencia sanitaria inicial, relacionando los síntomas con las maniobras y técnicas,
+para estabilizar al paciente.
+f) Identificar el material y medicación de soporte vital avanzado,
+relacionándolos con los protocolos necesarios de actuación para ayudar al personal
+médico y de enfermería.
+
+40
+g) Aplicar las técnicas de soporte psicológico indica das en situaciones de
+emergencia y de crisis, analizando los protocolos de actuación, para prestar apoyo a
+pacientes, familiares y afectados.
+h) Relacionar las necesidades de los usuarios con los recursos a movilizar,
+analizando distintas situaciones, para atender la demanda.
+i)
+
+Caracterizar las intervenciones de mantenimiento de primer nivel del vehículo
+
+y dotación no sanitaria, describiéndolas y relacionándolas con el posible fallo, para
+mantener el vehículo en condiciones operativas.
+j)
+
+Describir las operaciones de limpieza y desinfección de material y equipos
+
+describiéndolas y relacionándolas con los problemas que se pueden presentar, para limpiar
+y desinfectar los vehículos y dotación.
+k) Identificar las comprobaciones iniciales en los equipos y medios auxiliares
+sanitarios relacionando su estado con las condiciones normales indicadas para veri ficar su
+funcionamiento.
+l)
+
+Analizar los protocolos de actuación y la normativa determinando y
+
+catalogando los recursos para asegurar el transporte, la distribución y el abastecimiento de
+los mismos.
+m) Describir los equipos de comunicaciones, determinando la secuencia de
+operaciones a realizar, para establecer y mantener la comunicación entre la zona de
+intervención y el centro coordinador.
+n) Interpretar mapas, planos, reconociendo las características geográficas y
+elementos de obra civil, para aportar datos al centro coordinador.
+ñ) Identificar los riesgos asociados a su actividad profesional, relacionándolos
+con las medidas de protección, para actuar en la prestación sanitaria y el traslado de
+pacientes o víctimas.
+o) Analizar posibilidades de intervención identificando y valorando riesgos
+en siniestros y desastres para resolver problemas y tomar decisiones.
+
+41
+p) Identificar las funciones de los miembros de la cadena de mando, analizando
+su jerarquía para intervenir en función de la misma.
+q) Relacionarse en el equipo de trabajo, participando con tolerancia, respeto y
+sinceridad, para mantener relaciones adecuadas al trabajo en equipo.
+r) Identificar responsabilidades éticas y legales, interpretando la legislación
+vigente, para garantizar la privacidad y la libertad del paciente o víctima.
+s) Reconocer sus derechos y deberes como agente activo en la sociedad,
+analizando el marco legal que regula las condiciones sociales y laborales para participar
+como ciudadano democrático.
+t) Valorar las actividades de trabajo en la prestación del servicio, identificando
+su aportación al proceso global para conseguir los objetivos.
+u) Identificar y valorar las oportunidades de aprendizaje y empleo, analizando
+las ofertas y demandas del mercado laboral para gestionar su carrera profesional.
+v) Reconocer las oportunidades de negocio, identificando y analizando
+demandas del mercado para crear y gestionar una pequeña empresa.
+w) Reconocer sus derechos y deberes como agente activo en la sociedad,
+analizando el marco legal que regula las condiciones sociales y laborales para participar
+como ciudadano democrático.
+Objetivos de la Unidad Didáctica
+Los objetivos para esta UD, que se exponen en la siguiente tabla para una mejor
+visualización, se han elaborado con el fin de que el alumnado esté completamente formado
+y tenga los conocimientos y las habilidades fundamentales necesarias para poder
+reconocer, evaluar y actuar de forma correcta y eficiente ante una Patología Cardiovascular
+de Urgencia, asegurando así una intervención segura que contribuya a mejorar el
+pronóstico del paciente.
+
+42
+Tabla 3
+Objetivos de la Unidad Didáctica
+Objetivos
+a) Saber identificar y clasificar las principales patologías
+cardiovasculares de urgencia para reconocer sus signos y síntomas.
+b) Aplicar los protocolos de actuación adecuados ante una Patología
+Cardiovascular de Urgencia.
+c) Reconocer los factores de riesgo asociados a las Patologías
+Cardiovasculares.
+d) Realizar las Técnicas necesarias ante una Patología Cardiovascular
+de Urgencia como por ejemplo maniobras de reanimación cardiopulmonar (RCP) y
+otras técnicas de Soporte Vital Avanzado.
+e) Usar habilidades de comunicación efectiva y empática con el
+paciente, familiares y otros profesionales sanitarios.
+Nota. Fuente de elaboración propia.
+Competencias
+En este apartado, se detallará la Competencia General del Ciclo Formativo de
+Técnico en Emergencias Sanitarias y las Competencias Profesionales, Personales y
+Sociales del Módulo de Atención Sanitaria en Situaciones de Emergencia así como su
+relación con la UD de Patología Cardiovascular de Urgencia.
+Competencia General
+Según el RD 1397/2007, de 29 de Octubre, por el que se establece el título de
+Técnico en Emergencias Sanitarias y se fijan sus enseñanzas mínimas.
+La competencia general de este título consiste en trasladar al paciente al centro
+sanitario, prestar atención básica sanitaria y psicológica en el entorno
+
+43
+prehospitalario, llevar a cabo actividades de tele operación y tele asistencia sanitaria,
+y colaborar en la organización y desarrollo de los planes de emergencia, de los
+dispositivos de riesgo previsibles y de la logística sanitaria ante una emergencia
+individual, colectiva o catástrofe.
+Para esta UD se va a promover la relación con la Competencia General en cuanto a
+la Atención Sanitaria en situaciones de Patologías Cardiovasculares de Urgencia, así como
+en la prevención del riesgo Cardiovascular.
+Competencias Profesionales, Personales y Sociales
+Según el RD 1397/2007, de 29 de Octubre, por el que se establece el título de
+Técnico en Emergencias Sanitarias y se fijan sus enseñanzas mínimas, las competencias
+profesionales, personales y sociales que se enumeran a continuación, son las relacionadas
+con el Módulo de Atención Sanitaria Especial en Situaciones de Emergencia:
+b) Aplicar técnicas de soporte vital básico ventilatorio y circulatorio en situación
+de compromiso y de atención básica inicial en otras situaciones de emergencia.
+c) Colaborar en la clasificación de las víctimas en todo tipo de emergencias y
+catástrofes, bajo supervisión y siguiendo indicaciones del superior sanitario responsable.
+d) Ayudar al personal médico y de enfermería en la prestación del soporte vital
+avanzado al paciente en situaciones de emergencia sanitaria.
+k) Actuar en la prestación sanitaria y el traslado de pacientes o víctimas
+siguiendo los protocolos de protección individual, prevención, seguridad y calidad.
+o) Adaptarse a diferentes puestos de trabajo y nuevas situaciones laborales
+originados por cambios tecnológicos y organizativos en la prestación de los servicios.
+r) Ejercer sus derechos y cumplir con las obligaciones derivadas de las
+relaciones laborales, de acuerdo con lo establecido en la legislación vigente.
+En cuanto a su relación con la UD, esta va a proporcional al alumnado las
+competencias profesionales, personales y sociales necesarias para realizar una buena
+
+44
+actuación ante una Patología Cardiovascular de Urgencia, así como el poder detectar y
+prevenir sus factores de riesgo y poder comunicarse con empatía y de forma efectiva para
+su relación con familiares, pacientes o otros profesionales sanitarios.
+Contenidos Didácticos
+En este apartado, se van a describir los Contenidos Didácticos relacionados con la
+UD Patología Cardiovascular de Urgencia. Estos contenidos, están basados en el Orden de
+29 de julio de 2009, de la Conselleria de Educación, por la que se establece para la
+Comunidad Valenciana el currículo del Ciclo Formativo de Grado Medio correspondiente al
+Título de Emergencias Sanitarias.
+Para facilitar su visualización, se elabora la siguiente Tabla donde se recogen los
+Contenidos Didácticos de la UD Patología Cardiovascular de Urgencia.
+Tabla 4
+Contenidos Didácticos de la UD Patología Cardiovascular de Urgencia
+1. Patología Cardiovascular de Urgencia
+1.1 El Dolor Torácico.
+1.1.1 Valoración del Dolor Torácico.
+-Consideraciones previas.
+-Evaluación.
+-Anamnesis.
+-Exploración Física.
+-Electrocardiograma
+1.1.2 Dolor Torácico de Origen Vascular.
+-Disección Aórtica
+-Embolismo Pulmonar
+1.1.3 Dolor Torácico de Origen Pleuropulmonar.
+
+45
+-Neumonía
+-Neumotórax
+-Patología Pleural
+1.1.4 Dolor Torácico de Origen Osteomuscular.
+-Fractura o fisura Costal
+-Herpes Zóster
+1.1.5 Dolor Torácico de Origen Esofágico.
+-Espasmo Esofágico
+-Perforación Esofágica
+1.1.6 Dolor Torácico de Origen Cardiaco.
+-Pericarditis Aguda.
+-Síndrome Coronario Agudo (SCA).
+-El Dolor Isquémico.
+-Valoración inicial de un SCA.
+-Actuación ante un SCA.
+1.1.7 Dolor Torácico de Origen Psíquico.
+1.2 Otras Patologías Cardiovasculares de Urgencia.
+1.2.1 La Insuficiencia Cardiaca.
+-Tipos de Insuficiencia Cardiaca.
+-Valoración Inicial de una Insuficiencia Cardiaca.
+-Actuación ante una Insuficiencia Cardiaca.
+1.2.2 Las arritmias.
+-Tipos de Arritmias.
+-Valoración Inicial de una Arritmia.
+-Actuación ante una Arritmia.
+1.2.3 Los Síncopes.
+
+46
+-Tipos de Síncopes.
+-Valoración Inicial de un Síncope.
+-Actuación de un Síncope.
+1.2.4 La Crisis Hipertensiva.
+-Tipos de Crisis Hipertensivas.
+-Valoración Inicial de una Crisis Hipertensiva.
+-Actuación ante una Crisis Hipertensiva.
+
+Nota. Fuente de elaboración propia.
+
+Metodologías de Aprendizaje
+Para poder explicar correctamente los Contenidos Didácticos y alcanzar los
+Objetivos propuestos, se van a combinar las Metodologías Tradicionales con las
+Metodologías Innovadoras.
+“Las Metodologías Tradicionales son aquellas en las que existe una diferencia de
+roles muy marcada entre el docente y el estudiante”. (Universidad Europea, 2023)
+En este tipo de metodología, el docente adopta un rol activo al transmitir sus
+conocimientos como experto en la materia, guiando el desarrollo de la clase y explicando
+los contenidos. Por otro lado, los/as estudiantes adoptan un rol más pasivo, limitándose
+principalmente a recibir información, tomar apuntes y, en ocasiones plantera preguntas o
+expresar dudas. Su aprendizaje se basa, en gran medida, en memorizar los conceptos
+explicados.
+En este aspecto, se van a realizar clases explicativas con el fin de exponer cada uno
+de los contenidos y asegurar que el mensaje llega al estudiante, así estos tendrán la
+posibilidad de exponer sus dudas.
+
+47
+En cuanto a las Metodologías Innovadoras o Metodologías Activas,
+“El estudiante pasa a tener un mayor protagonismo, ser más activo y autónomo en el
+proceso de enseñanza-aprendizaje mediante su participación en actividades y discusiones
+en clase. Entretanto, la misión principal del docente es orientar y ejercer de coordinador.”
+(Universidad Europea, 2023)
+Estas metodologías de enseñanza priorizan el desarrollo de habilidades y
+competencias que resultan útiles y aplicables a situaciones reales, tanto dentro como fuera
+del aula. Su objetivo es fomentar un aprendizaje más significativo y funcional, permitiendo a
+los estudiantes utilizar los contextos adquiridos en distintos contextos. De esta manera, se
+reduce la dependencia a la memorización de conceptos, promoviendo en su lugar, una
+comprensión más profunda y con mayor capacidad de resolución de problemas.
+Las Metodologías Activas que se van a utilizar para la consecución de los objetivos
+serán las siguientes.
+-
+
+Aprendizaje Basado en Proyectos (ABP) en el cual se planteará al alumnado una
+pregunta, un proyecto o situación de Emergencia Sanitaria real a la que
+posiblemente en un futuro van a tener que enfrentarse y resolver manejando el
+estrés y familiarizándose con una toma de decisiones efectiva. Además, este
+método pedagógico influirá en su motivación personal ya que a la vez que
+aprenden, les enfrenta a situaciones “reales”.
+
+-
+
+Aprendizaje cooperativo (AC), en el cual se planteará al alumnado una serie de
+actividades o preguntas las cuales deberán agruparse en pequeños grupos y
+resolver la actividad en cuestión. Esta metodología permitirá a los/as estudiantes
+trabajar en equipo y desarrollar sus habilidades comunicativas.
+
+-
+
+Flipped Classroom (FC) o Aula Invertida, es una metodología de enseñanzaaprendizaje en el que los/as estudiantes se encargan de estudiar y asimilar los
+conceptos teóricos de las lecciones en casa, mientras que el tiempo de clase, se
+dedica a compartir conocimientos con el profesor y sus compañeros. Durante la
+
+48
+sesión presencial, el docente guía el proceso de aprendizaje, resolviendo dudas
+y reforzando los contenidos a través de información complementaria y
+actividades prácticas que permiten al alumnado consolidar los conocimientos
+adquiridos.
+-
+
+Aprendizaje basado en la simulación o Role-Play, con esta metodología, se
+pretende que los/as estudiantes apliquen los conocimientos adquiridos mediante
+la simulación de situaciones reales de emergencia sanitaria. Con esta
+metodología se fomenta en el alumnado la toma de decisiones efectiva ante una
+situación de estrés, el trabajo en equipo y la colaboración con el grupo, la
+comunicación empática mediante una simulación de una situación real de
+emergencia sanitaria como pueda ser un accidente de tráfico.
+
+-
+
+Aprendizaje Basado en Juegos (ABJ) es una metodología educativa que consiste
+en transformar los conocimientos en experiencias lúdicas, utilizando dinámicas
+de juego como una herramienta didáctica. A través de esta estrategia, se
+estimula la motivación del alumnado, favoreciendo su implicación activa en el
+proceso de aprendizaje. Además, el convertir los contenidos en retos más
+interactivos y entretenidos, se mejora la participación en clase, se potencia el
+pensamiento crítico y se refuerzan habilidades como la resolución de problemas,
+el trabajo en equipo y la toma de decisiones. Esta metodología no solo facilita la
+asimilación de conceptos de forma más efectiva, sino que también promueve un
+entorno educativo más dinámico e inclusivo.
+
+Materiales y Recursos a Utilizar en la UD
+En este apartado, se van a detallar tanto los materiales como los recursos que se
+utilizarán para poder desarrollar de forma correcta la Unidad Didáctica de Patología
+Cardiovascular de Urgencia.
+Un recurso didáctico es cualquier herramienta o estrategia que facilita el proceso de
+enseñanza-aprendizaje, brindando el apoyo necesario al docente en su labor pedagógica.
+
+49
+Su propósito principal es mejorar la transmisión de conocimientos, permitiendo que los
+conceptos se presenten de forma más clara, comprensible y accesible para los/as
+estudiantes. Además, estos recursos, favorecen la participación activa del alumnado,
+estimulan el interés por la materia y contribuyen a la diversificación de metodologías,
+pudiéndose adaptar a diferentes estilos y ritmos de aprendizaje para optimizar la
+comprensión y la asimilación de los contenidos.
+Por su parte, un Material Didáctico, “estamos hablando de vídeos, libros, gráficos,
+imágenes, actividades, películas, y cualquier elemento que se nos ocurra que pueda ayudar
+a la comprensión de una idea. Innovar en este aspecto es clave en el avance de la
+educación.” (Universidad de Valencia, 2016)
+Figura 14
+Materiales y Recursos a Utilizar para el Desarrollo de la UD
+Materiales
+
+Recursos
+
+Libro de texto o documentos explicativos
+de los Contenidos de la UD Patología
+
+Acceso a internet o Red Wi-FI
+
+Cardiovascular de Urgencia.
+Apuntes o documentos de ampliación de
+
+Programas de presentación como Canva
+
+los Contenidos de la UD
+
+o PowePoint
+
+Pizarras Interactivas o Pantallas
+
+Aplicaciones o Herramientas de
+
+Inteligentes
+
+Protocolos de Emergencia Sanitaria
+Aplicaciones o Herramientas de
+
+Aulas
+
+Simulación de Situaciones de
+Emergencias Sanitarias
+
+Ordenador
+
+Materiales para desarrollar la simulación
+de Situaciones de Emergencia como
+pueden ser vendas o camillas
+
+50
+Proyector
+
+Maniquí de Salvamento para realizar
+algunas técnicas como la RCP
+
+Mesas y Sillas
+Material para realizar apuntes: libretas,
+folios, bolígrafos…
+
+Nota. Fuente de elaboración propia.
+
+Resultados de aprendizaje y Criterios de Evaluación
+Los resultados de aprendizaje y Criterios de evaluación, para esta UD, se extraen
+del RD 1397/2007, de 29 de Octubre, por el que se establece el título de Técnico en
+Emergencias Sanitarias y se fijan sus enseñanzas mínimas.
+En la siguiente figura, se detalla cual será el resultado de aprendizaje
+correspondiente a esta UD estableciendo su relación con los criterios de evaluación y con
+los contenidos según el Diario Oficial de la Generalitat Valenciana.
+Como en la Programación Didáctica facilitada por el centro no especifica el RA, CE y
+los contenidos de cada UD, sino que lo aborda de forma general para varias Unidades
+Didácticas, se realizará una adaptación de la tabla facilitada por el Centro con el objetivo de
+concretar y estructurar la información de manera mas clara y organizada, permitiendo una
+mejor comprensión.
+Esta adaptación, servirá como referencia para garantizar que los resultados de
+aprendizaje esperados sean medibles y alcanzables, asegurando una alineación adecuada
+con los estándares educativos establecidos.
+
+51
+Figura 15
+Relación de RA, CE y Contenidos de la UD
+UD Patología Cardiovascular de Urgencia
+RA 5: Realizar los procedimientos para atender a los pacientes con alguna patología
+orgánica de urgencia, analizando los protocolos de actuación.
+Contenidos
+
+Criterios de Evaluación
+
+1. Trastornos cardiovasculares de
+Urgencia:
+1.1. Cardiopatía Isquémica.
+1.2. Síndrome Coronario Agudo.
+1.3. Angina de Pecho.
+1.4. Insuficiencia Cardiaca.
+1.5. Shock.
+1.6. Arritmias.
+2. Protocolos de actuación frente a
+la Patología Cardiovascular de
+Urgencia:
+2.1. Identificación.
+2.2. Exploración Inmediata.
+2.3. Oxigenoterapia.
+2.4. Electrocardiograma.
+2.5. Monitorización.
+2.6. Medicación.
+
+Nota. Fuente de elaboración propia.
+
+1. Se describe la Patología
+Cardiovascular de Urgencia.
+2. Se describe al protocolo de
+actuación en Emergencias
+Cardiovasculares.
+
+52
+Temporalización
+Para empezar con la temporalización de la UD, según el Orden de 29 de julio de
+2009, de la Conselleria de Educación, por la que se establece para la Comunidad
+Valenciana el currículo del Ciclo Formativo de Grado Medio correspondiente al Título de
+Emergencias Sanitarias, el Módulo Profesional de Atención Sanitaria en Situaciones de
+Emergencia tiene una duración de 220h, que según el horario aportado en la Figura 7, se
+observa que este Modulo Profesional cuenta con 10 horas semanales para impartir todos
+los contenidos propuestos.
+Según la Programación Didáctica facilitada por el Centro, el tiempo destinado para
+desarrollar la UD de Patología Cardiovascular de Urgencia es de 20 horas. Se imparte en el
+segundo trimestre y en cuanto al horario semanal facilitado por el centro este Modulo
+Profesional cuenta con 3 horas todos lunes, martes y miércoles y 1 hora los viernes.
+A continuación, se va a detallar como será la secuenciación en sesiones de la UD
+Patología Cardiovascular de Urgencia”. Esta se realizará en 2 semanas. Con lo que se
+impartirán 8 sesiones, 6 sesiones de 3 horas cada una y 2 sesiones de 1 hora
+Figura 16
+Sesión 1
+Sesión 1: 3 horas
+Actividad 1:
+
+-
+
+Prueba de nivel Inicial
+
+Breve Introducción sobre las Patologías
+Cardiovasculares de Urgencia más comunes.
+
+-
+
+Kahoot inicial para ver el nivel inicial del
+alumnado
+
+Duración
+
+20 minutos
+
+Espacio
+
+Aula
+
+53
+Objetivo
+
+El Objetivo es Introducir a los/as estudiantes en las
+Patologías Cardiovasculares de Urgencias más comunes
+y conocer el nivel inicial del alumnado
+
+Recursos TIC necesarios
+
+Ordenador/Tablet con acceso a Internet.
+
+Actividad 2: Explicación.
+
+Clase explicativa de los contenidos de la UD. Esta
+sesión se va a impartir siguiendo el libro de texto o
+apuntes facilitados a los/as estudiantes con una
+presentación en PowerPoint o herramienta similar.
+
+Duración
+
+2 horas y 40 minutos
+
+Espacio
+
+Aula
+
+Recursos TIC necesarios
+
+Ordenador con acceso a Internet y proyector.
+
+Objetivo
+
+Explicar a los/as estudiantes que es una Patologías
+Cardiovascular de Urgencia, cuáles son las más
+comunes. Que es una Cardiopatía Isquémica y cómo
+actuar.
+
+Contenido
+
+1, 1.1, 2, 2.1, 2.2, 2.3, 2.4, 2.5 y 2.6
+
+Objetivos Generales
+
+a), c), d), e), f), o)
+
+Objetivos Didácticos
+
+a), b), c), d), e)
+
+Competencias
+Profesionales,
+
+b), c), d), k), o), r)
+
+personales y Sociales
+Criterios de Evaluación
+
+1y2
+
+Atención a la Diversidad
+
+Los/as estudiantes que necesitan algún tipo de atención
+especial o tienen problemas con el lenguaje, se sientan
+en las primeras filas. Se les pregunta en varias
+ocasiones si están entendiendo lo que se explica y al
+
+54
+acabar la sesión se asegura su comprensión con
+preguntas directas y personalizadas a cada estudiante.
+Nota. Fuente de elaboración propia.
+Figura 17
+Sesión 2
+Sesión 2: 3 horas
+Actividad 3:
+
+Aprendizaje Basado en Problemas (APB) y Aprendizaje
+
+Caso Práctico
+
+Cooperativo. Se presenta un problema. Un caso real de una
+Cardiopatía Isquémica. Los/as estudiantes deberán
+agruparse en pequeños grupos para resolver el problema.
+
+Duración
+
+1 hora y 30 minutos
+
+Espacio
+
+Aula
+
+Recursos TIC
+
+Ordenador y Proyector para presentar el Caso Práctico
+
+necesarios
+Objetivo
+
+Consolidar los conocimientos explicador en la sesión
+anterior, desarrollar habilidades comunicativas y reforzar el
+trabajo en equipo.
+
+Contenido
+
+1, 1.1, 2, 2.1, 2.2, 2.3, 2.4, 2.5 y 2.6
+
+Objetivos Generales
+
+a), c), d), e), f), o)
+
+Objetivos Didácticos
+
+a), b), c), d), e)
+
+Competencias
+Profesionales,
+personales y
+Sociales
+Criterios de
+Evaluación
+
+b), c), d), k), o), r)
+1y2
+
+55
+Atención a la
+Diversidad
+
+Se tendrá en cuenta que, como mínimo, cada grupo tenga un
+estudiante con necesidades especiales, además este deberá
+participar de forma activa en la toma de decisiones.
+
+Actividad 4:
+
+Clase explicativa de los contenidos de la UD. Esta sesión se
+
+Explicación.
+
+va a impartir siguiendo el libro de texto o apuntes facilitados
+al alumnado con una presentación en PowerPoint o
+herramienta similar.
+
+Duración
+
+1 hora y 30 minutos
+
+Espacio
+
+Aula
+
+Recursos TIC
+
+Proyector y Ordenador con acceso a internet
+
+necesarios
+Objetivo
+
+Explicar al alumnado el Síndrome Coronario Agudo conocer
+sus riesgos y saber cómo actuar ante esta Patología
+Cardiaca.
+
+Contenido
+
+1.2, 2, 2.1, 2.2, 2.3, 2.4, 2.5 y 2.6
+
+Objetivos Generales
+
+a), c), d), e), f), o)
+
+Objetivos Didácticos
+
+a), b), c), d), e)
+
+Competencias
+Profesionales,
+personales y
+Sociales
+Criterios de
+Evaluación
+Atención a la
+Diversidad
+
+b), c), d), k), o), r)
+1y2
+Los/as estudiantes que necesitan algún tipo de atención
+especial o tienen problemas con el lenguaje, se sientan en
+las primeras filas. Se les pregunta en varias ocasiones si
+están entendiendo lo que se explica y al acabar la sesión se
+asegura su comprensión con preguntas directas y
+personalizadas a cada estudiante.
+
+Nota. Fuente de elaboración propia.
+
+56
+Figura 18
+Sesión 3
+Sesión 3: 3 horas
+Actividad 5:
+
+Aprendizaje Basado en Simulaciones. Simular una situación
+
+Simulación
+
+real de un Síndrome Coronario Agudo y saber cómo actuar
+ante una situación de Emergencia.
+
+Duración
+
+1 hora y 30 minutos
+
+Espacio
+
+Aula
+
+Recursos TIC
+
+Dispositivos con acceso a Internet para ver aplicaciones de
+
+necesarios
+
+protocolos sanitarios.
+
+Objetivo
+
+Motivar al alumnado con la resolución un caso real de
+Síndrome Coronario Agudo, mejorar las habilidades
+comunicativas y el manejo del estrés en la toma de
+decisiones.
+
+Contenido
+
+1.2, 2, 2.1, 2.2, 2.3, 2.4, 2.5 y 2.6
+
+Objetivos Generales
+
+a), c), d), e), f), o)
+
+Objetivos Didácticos
+
+a), b), c), d), e)
+
+Competencias
+Profesionales,
+personales y
+Sociales
+Criterios de
+Evaluación
+Atención a la
+Diversidad
+
+b), c), d), k), o), r)
+1y2
+Poner especial atención en las habilidades comunicativas del
+alumnado que presenten Necesidades Especiales.
+
+Actividad 6:
+
+Clase explicativa de los contenidos de la UD. Esta sesión se
+
+Explicación.
+
+va a impartir siguiendo el libro de texto o apuntes facilitados
+a los/as estudiantes con una presentación en PowerPoint o
+herramienta similar.
+
+57
+Duración
+
+1 hora y 30 minutos
+
+Espacio
+
+Aula
+
+Recursos TIC
+
+Proyector y Ordenador con acceso a Internet
+
+necesarios
+Objetivo
+
+Explicar al alumnado que es una Angina de Pecho como una
+de las patologías cardiovasculares más frecuentes y dar a
+conocer los protocolos de actuación ante esta patología.
+
+Contenido
+
+1.3, 2, 2.1, 2.2, 2.3, 2.4, 2.5 y 2.6
+
+Objetivos Generales
+
+a), c), d), e), f), o)
+
+Objetivos Didácticos
+
+a), b), c), d), e)
+
+Competencias
+Profesionales,
+personales y
+Sociales
+Criterios de
+Evaluación
+Atención a la
+Diversidad
+
+b), c), d), k), o), r)
+1y2
+Los/as estudiantes que necesitan algún tipo de atención
+especial o tienen problemas con el lenguaje, se sientan en
+las primeras filas. Se les pregunta en varias ocasiones si
+están entendiendo lo que se explica y al acabar la sesión se
+asegura su comprensión con preguntas directas y
+personalizadas a cada estudiante.
+
+Nota. Fuente de elaboración propia.
+Figura 19
+Sesión 4
+Sesión 4: 1 hora
+Actividad 7:
+
+Gamificación y Aprendizaje Basado en Juegos (ABJ). Se
+
+Gamificación/Repaso presentará a los estudiantes varios Juegos o herramientas
+
+58
+de Gamificación con distintas plataformas como: Kahoot,
+Genially, ClassDojo, y Educaplay.
+Duración
+
+1 Hora (15 minutos por cada herramienta)
+
+Espacio
+
+Aula
+
+Recursos TIC
+
+Dispositivos (Tablets y Ordenadores) con acceso a Internet.
+
+necesarios
+Objetivo
+
+Consolidar todos los conocimientos explicados hasta ahora
+con un aprendizaje y consolidación más divertido además de
+hacer que el alumnado interactúe más entre ellos.
+
+Contenido
+
+1,1.1,1.2,1.3, 2, 2.1, 2.2, 2.3, 2.4, 2.5 y 2.6
+
+Objetivos Generales
+
+a), c), d), e), f), o)
+
+Objetivos Didácticos
+
+a), b), c), d), e)
+
+Competencias
+Profesionales,
+personales y
+Sociales
+Criterios de
+Evaluación
+Atención a la
+Diversidad
+
+b), c), d), k), o), r)
+1y2
+Asegurar que el alumnado con necesidades especiales,
+entiendan correctamente la dinámica de la sesión y sepan
+utilizar las herramientas propuestas.
+
+Nota. Fuente de elaboración propia.
+Figura 20
+Sesión 5
+Sesión 5: 3 horas
+Actividad 8:
+
+Clase explicativa de los contenidos de la UD. Esta sesión
+
+Desarrollo/Explicación se va a impartir siguiendo el libro de texto o apuntes
+
+59
+facilitados al alumnado con una presentación en
+PowerPoint o herramienta similar.
+Duración
+
+1 hora y 30 minutos
+
+Espacio
+
+Aula
+
+Recursos TIC
+
+Proyector y Ordenador con acceso a Internet
+
+necesarios
+Objetivo
+
+Explicar al alumnado que es una Insuficiencia Cardiaca,
+cuáles son sus protocolos de actuación y saber cómo
+actuar ante una situación real.
+
+Contenido
+
+1.4, 2, 2.1, 2.2, 2.3, 2.4, 2.5 y 2.6
+
+Objetivos Generales
+
+a), c), d), e), f), o)
+
+Objetivos Didácticos
+
+a), b), c), d), e)
+
+Competencias
+Profesionales,
+personales y Sociales
+
+b), c), d), k), o), r)
+
+Criterios de
+Evaluación
+Atención a la
+Diversidad
+
+1y2
+Los/as estudiantes que necesitan algún tipo de atención
+especial o tienen problemas con el lenguaje, se sientan en
+las primeras filas. Se les pregunta en varias ocasiones si
+están entendiendo lo que se explica y al acabar la sesión se
+asegura su comprensión con preguntas directas y
+personalizadas a cada estudiante.
+
+Actividad 9:
+
+Consolidación de los contenidos explicados en la actividad
+
+Consolidación y Rol-
+
+anterior y Rol-Play donde el estudiante deberá actuar como
+
+Play
+
+futuro profesional en la actuación ante una Insuficiencia
+Cardiaca.
+
+Duración
+
+1 hora y 30 minutos
+
+Espacio
+
+Aula
+
+60
+Recursos TIC
+
+Proyector y Ordenador para presentar los casos.
+
+necesarios
+Objetivo
+
+Motivar al alumnado con posibles situaciones reales a las
+que en un futuro deberán enfrentarse y saber actuar.
+Manejo del estrés y la correcta toma de decisiones.
+
+Contenido
+
+1.4, 2, 2.1, 2.2, 2.3, 2.4, 2.5 y 2.6
+
+Objetivos Generales
+
+a), c), d), e), f), o)
+
+Objetivos Didácticos
+
+a), b), c), d), e)
+
+Competencias
+Profesionales,
+personales y Sociales
+
+b), c), d), k), o), r)
+
+Criterios de
+Evaluación
+Atención a la
+Diversidad
+
+1y2
+Poner especial atención en las habilidades comunicativas
+de los/as estudiantes que presenten Necesidades
+Especiales.
+
+Nota. Fuente de elaboración propia.
+Figura 21
+Sesión 6
+Sesión 6: 3 horas
+Actividad 10
+
+Clase explicativa de los contenidos de la UD. Esta sesión se
+va a impartir siguiendo el libro de texto o apuntes facilitados
+a los/as estudiantes con una presentación en PowerPoint o
+herramienta similar.
+
+Duración
+
+1 hora y 30 Minutos
+
+Espacio
+
+Aula
+
+Recursos TIC
+
+Proyectos y Ordenador con acceso a Internet.
+
+necesarios
+
+61
+Objetivo
+
+Explicar al alumnado el Shock, cuáles son sus protocolos de
+actuación y saber cómo actuar ante una situación real.
+
+Contenido
+
+1.5, 2, 2.1, 2.2, 2.3, 2.4, 2.5 y 2.6
+
+Objetivos Generales
+
+a), c), d), e), f), o)
+
+Objetivos Didácticos
+
+a), b), c), d), e)
+
+Competencias
+Profesionales,
+personales y
+Sociales
+Criterios de
+Evaluación
+Atención a la
+Diversidad
+
+b), c), d), k), o), r)
+1y2
+Los/as estudiantes que necesitan algún tipo de atención
+especial o tienen problemas con el lenguaje, se sientan en
+las primeras filas. Se les pregunta en varias ocasiones si
+están entendiendo lo que se explica y al acabar la sesión se
+asegura su comprensión con preguntas directas y
+personalizadas a cada estudiante.
+
+Actividad 11
+
+Aprendizaje Basado en Problemas (APB) y Aprendizaje
+Cooperativo. Se presenta un problema. Un caso real de una
+Cardiopatía Isquémica. Los/as estudiantes deberán
+agruparse en pequeños grupos para resolver el problema.
+
+Duración
+
+1 hora y 30 Minutos
+
+Espacio
+
+Aula
+
+Recursos TIC
+
+Proyectos y Ordenador con acceso a Internet para explicar el
+
+necesarios
+
+caso práctico.
+
+Objetivo
+
+Consolidar los conocimientos explicados en la sesión
+anterior, desarrollar habilidades comunicativas y reforzar el
+trabajo en equipo.
+
+Contenido
+
+1.5, 2, 2.1, 2.2, 2.3, 2.4, 2.5 y 2.6
+
+62
+Objetivos Generales
+
+a), c), d), e), f), o)
+
+Objetivos Didácticos
+
+a), b), c), d), e)
+
+Competencias
+Profesionales,
+personales y
+Sociales
+Criterios de
+Evaluación
+Atención a la
+Diversidad
+
+b), c), d), k), o), r)
+1y2
+Poner especial atención en las habilidades comunicativas del
+alumnado que presenten Necesidades Especiales.
+
+Nota. Fuente de elaboración propia.
+
+Figura 22
+Sesión 7
+Sesión 7: 3 horas
+Actividad 12:
+
+Clase explicativa de los contenidos de la UD. Esta sesión se
+
+Explicación,
+
+va a impartir siguiendo el libro de texto o apuntes facilitados
+
+Desarrollo y Repaso
+
+al alumnado con una presentación en PowerPoint o
+herramienta similar.
+Breve repaso de todos los contenidos de la Unidad Didáctica.
+
+Duración
+
+2 horas
+
+Espacio
+
+Aula
+
+Recursos TIC
+
+Proyector y ordenador con acceso a Internet
+
+necesarios.
+
+63
+Objetivo
+
+Explicar a los/as estudiantes las arritmias, cuáles son sus
+protocolos de actuación y saber cómo actuar ante una
+situación real.
+Consolidación de todos los contenidos de la UD mediante un
+breve repaso.
+
+Contenido
+
+1,1.1,1.2,1.3, 1.4, 1.5, 1.6, 2, 2.1, 2.2, 2.3, 2.4, 2.5 y 2.6
+
+Objetivos Generales
+
+a), c), d), e), f), o)
+
+Objetivos Didácticos
+
+a), b), c), d), e)
+
+Competencias
+Profesionales,
+personales y
+Sociales
+Criterios de
+Evaluación
+Atención a la
+Diversidad
+
+b), c), d), k), o), r)
+1y2
+Los/as estudiantes que necesitan algún tipo de atención
+especial o tienen problemas con el lenguaje, se sientan en
+las primeras filas. Se les pregunta en varias ocasiones si
+están entendiendo lo que se explica y al acabar la sesión se
+asegura su comprensión con preguntas directas y
+personalizadas a cada estudiante.
+
+Actividad 13:
+
+Gamificación y Aprendizaje Basado en Juegos (ABJ). Se
+
+Gamificación/Repaso presentará a los estudiantes varios Juegos o herramientas
+de Gamificación con distintas plataformas como: Kahoot,
+Genially, ClassDojo, y Educaplay.
+Duración
+
+1 Hora (15 minutos por cada herramienta)
+
+Espacio
+
+Aula
+
+Recursos TIC
+
+Dispositivos (Tablets y Ordenadores) con acceso a Internet.
+
+necesarios
+
+64
+Objetivo
+
+Consolidar todos los conocimientos explicados hasta ahora
+con un aprendizaje y consolidación más divertido además de
+hacer que el alumnado interactúe más entre ellos.
+
+Contenido
+
+1,1.1,1.2,1.3, 1.4, 1.5, 1.6, 2, 2.1, 2.2, 2.3, 2.4, 2.5 y 2.6
+
+Objetivos Generales
+
+a), c), d), e), f), o)
+
+Objetivos Didácticos
+
+a), b), c), d), e)
+
+Competencias
+Profesionales,
+personales y
+Sociales
+Criterios de
+Evaluación
+Atención a la
+Diversidad
+
+b), c), d), k), o), r)
+1y2
+Asegurar que el alumnado con necesidades especiales
+entienda correctamente la dinámica de la sesión y sepan
+utilizar las herramientas propuestas.
+
+Nota. Fuente de elaboración propia.
+
+Figura 23
+Sesión 8
+Sesión 8: 1 hora
+Actividad 14:
+
+Prueba escrita sobre los conocimientos adquiridos.
+
+Evaluación
+Duración
+
+1 hora
+
+Espacio
+
+Aula
+
+Objetivo
+
+El objetivo de esta sesión es evaluar los conocimientos
+adquiridos por el alumnado de los contenidos explicados en
+la Unidad Didáctica.
+
+65
+Contenido
+
+1,1.1,1.2,1.3, 1.4, 1.5, 1.6, 2, 2.1, 2.2, 2.3, 2.4, 2.5 y 2.6
+
+Objetivos Generales
+
+a), c), d), e), f), o)
+
+Objetivos Didácticos
+
+a), b), c), d), e)
+
+Competencias
+Profesionales,
+personales y
+Sociales
+Criterios de
+Evaluación
+Atención a la
+Diversidad
+
+b), c), d), k), o), r)
+1y2
+Para los/as estudiantes con necesidades especiales, se les
+adaptará el examen, con posibilidad de realizarlo de forma
+oral y se prolongará el tiempo en caso de que sea necesario.
+
+Evaluación
+
+Examen Teórico. Examen tipo test con 30 preguntas y
+múltiples respuestas en el cual 3 preguntas mal contestadas,
+restan una bien.
+
+Nota. Fuente de elaboración propia.
+
+Elementos Transversales
+Los elementos Transversales, están tratados en Ley Orgánica 3/2020, de 29 de
+diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Los elementos transversales, de la LOMLOE, son aquellos que se deben incorporar
+en todas las enseñanzas del sistema educativo, y que abarcan varias áreas como la
+igualdad de género, la educación en valores cívicos o la atención a la diversidad, las TIC,
+entre muchas otras competencias para formar al alumnado de forma integral.
+En cuanto a su relación con la Unidad Didáctica, las competencias transversales se
+tratan en cada uno de los contenidos explicados y actividades realizadas en la Unidad
+Didáctica, pero sobre todo cuando se llevan a cabo los casos prácticos ya que se intenta
+
+66
+desarrollar y mejorar las capacidades comunicativas de los/as estudiantes al igual que se
+fomenta la empatía y valores de igualdad.
+Por otro lado, con los Rol-Playing, los trabajos y actividades en grupo se fomenta el
+trabajo colaborativo y la capacidad de trabajar en equipo con otros profesionales del sector
+sanitario de forma responsable y ética respetando la igualdad de oportunidades, la
+diversidad, la inclusión y el respeto.
+Para finalizar, otro tema transversal que se trata es el uso de las TIC, dando a
+conocer las ventajas de las nuevas tecnologías que transforman el proceso de aprendizaje
+permitiendo el acceso inmediato a información actualizada y diversa que facilita la
+investigación y el aprendizaje autónomo. Además, el uso de las TIC permite personalizar el
+aprendizaje y dinamizar los contenidos adaptados para todo tipo de estudiante, pero sobre
+todo para el alumnado con necesidades especiales.
+
+Instrumentos de Evaluación y Criterios de Calificación
+En este apartado, se detallarán los Instrumentos que se van a utilizar para la
+Evaluación según las distintas actividades que se han realizado en el desarrollo de la
+Unidad Didáctica.
+Evaluación de simulación/Rol-Play: Con estas actividades, se pretende que el
+alumnado ponga en práctica los conocimientos adquiridos en las clases explicativas de los
+contenidos. En estas sesiones, los/as estudiantes deberán enfrentarse a la simulación
+situaciones “reales” de Patologías Cardiovasculares de Urgencia y saber actuar de forma
+eficiente.
+El objetivo de estas actividades será consolidar los contenidos adquiridos
+fomentando el pensamiento crítico, la toma de decisiones y el manejo del estrés. Con este
+tipo de actividades, se crea una situación en la que los/as estudiantes van a tener un
+
+67
+pequeño intervalo de tiempo para actuar y poder salvar la vida del paciente o solucionar el
+problema, por ello, van a tener que improvisar, según los conocimientos adquiridos
+previamente.
+A este apartado de la evolución, se le otorga una ponderación del 20% de la nota
+final, y los criterios a evaluar van a ser: El uso adecuado de protocolos de actuación
+sanitaria, la toma de decisiones, el manejo del estrés, la aplicación de los contenidos y la
+correcta comunicación tanto con el paciente como con los demás profesionales sanitarios.
+Aprendizaje cooperativo. Con estas actividades de trabajo en equipo, los/as
+estudiantes deben trabajar sus habilidades sociales. Se fomenta el trabajo en equipo y la
+colaboración para resolver problemas. Al final de cada actividad de trabajo cooperativo, el
+grupo deberá realizar una presentación o exposición con la resolución del problema
+planteado.
+A este apartado, se le otorga un 20% de la puntuación final y los criterios a evaluar
+serán: la capacidad de resolución de problemas en grupo, la aportación de ideas, la
+colaboración con el equipo, la aportación de ideas, la distribución del trabajo y las
+habilidades de comunicación.
+Aprendizaje basado en Juegos y Gamificación: con estas actividades, se pretende
+que los/as estudiantes participen de forma activa en el proceso de aprendizaje de una forma
+más dinámica y más divertida con el uso de aplicaciones y juegos que situaciones de
+Emergencias cardiovasculares.
+Al Aprendizaje Basado en Juegos y Gamificación, se le otorgará un 10% de la nota
+final y, los criterios a evaluar serán: la participación en los juegos propuestos por el docente,
+la capacidad de tomar decisiones rápidas bajo presión y su aprendizaje.
+Evaluación de la prueba escrita: El objetivo de esta prueba escrita mediante un
+examen tipo test, es evaluar la comprensión de los contenidos teóricos. Este examen se va
+a realizar con una prueba tipo test de 30 preguntas.
+
+68
+A este apartado, se le otorga un 40% de la puntuación final y se va a evaluar la
+capacidad de los estudiantes para identificar, describir y explicar cuáles son las principales
+patologías cardiovasculares y sus protocolos de actuación.
+Por último, la forma de evaluar las clases explicativas va a ser de forma continua
+mediante la observación directa en el aula, valorando aspectos como la participación activa,
+la atención o la actitud.
+A este apartado, se le otorga un 10% de la puntuación final y los criterios a evaluar
+serán: la actitud de escucha activa, la comprensión y la participación en las clases.
+A modo de facilitar su visualización, en la siguiente figura, se relacionan los
+Instrumentos de Evaluación con los Criterios de Calificación y los porcentajes que se
+otorgan.
+Figura 24
+Instrumentos de Evaluación y Criterios de Calificación de la UD
+Instrumentos de Evaluación
+
+Criterios de Calificación
+
+Prueba Escrita. Examen tipo Test
+
+40%
+
+Evaluación de situaciones de
+
+20%
+
+simulación/Rol-Play
+Aprendizaje Cooperativo. Trabajo en
+
+20%
+
+Equipo.
+Aprendizaje Basado en
+
+10%
+
+Juegos/Gamificación
+Actitud
+
+Nota. Fuente de elaboración propia.
+
+10%
+
+69
+Recuperación
+Para la recuperación de las Unidades Didácticas no superadas, se establecerán 2
+convocatorias, una ordinaria, que se llevará a cabo antes de que finalice el trimestre,
+permitiendo al estudiante una primera oportunidad para recuperar los contenidos pendientes
+y otra convocatoria extraordinaria, una vez finalizado el curso escolar, como última
+oportunidad para aprobar las Unidades Didácticas no superadas.
+Cualquier UD no superada, se podrá recuperar tanto a nivel teórico como práctico. Si
+un estudiante no supera la parte teórica de una o varias UD, deberá presentarse a la
+convocatoria ordinaria en la que se realizará un examen tipo test de cada una de las UD
+didácticas no superadas. En el caso de superar todas la UD pendientes, la calificación
+obtenida se promediará con las notas de las UD aprobadas anteriormente, obtenido así la
+nota final del módulo.
+Si el estudiante no supera esta convocatoria ordinaria, tendrá otra oportunidad en la
+convocatoria extraordinaria. No obstante, en esta ocasión, el examen tipo test será de todas
+las UD del módulo, no solo las no superadas previamente, lo que supondrá una prueba más
+completa y exigente.
+De la misma forma, si se suspende la parte práctica de la UD, en la recuperación se
+realizará una prueba mixta que combinará tanto elementos teóricos como prácticos en el
+caso de no poder realizar una práctica como las realizadas durante el transcurso de curso.
+Por último, si tras ambas convocatorias el/la estudiante no logra superar la UD
+pendiente, se considerará como no apto en el módulo correspondiente, lo que implicará la
+necesidad de repetir el mismo en el siguiente curso.
+Evaluación Práctica de Docente
+Para evaluar de manera efectiva el desempeño del docente, se llevará a cabo un
+proceso de evaluación basado en dos pilares fundamentales. En primer lugar si se han
+
+70
+alcanzado los objetivos propuestos en las programaciones didácticas y seguidamente el
+nivel de satisfacción que tienen los/as estudiantes.
+Para ello, se van a realizar encuestas de satisfacción dirigidas al alumnado que
+abordarán diversos aspectos clave del proceso educativo. Estas encuestas, no solo medirán
+el nivel de adquisición de contenidos impartidos, sino también se valoraran aspectos como
+la claridad en la exposición de temas, la capacidad de motivación, su disponibilidad para
+resolver dudas, la empatía y el uso de las TIC.
+Las encuestas se realizarán de forma anónima, garantizando así la sinceridad y
+objetividad de las respuestas. Los resultados obtenidos servirán como una herramienta de
+mejora continua, permitiendo detectar fortalezas y áreas de mejora en la labor docente.
+Este proceso, busca fomentar la excelencia educativa, promoviendo una enseñanza
+más efectiva, cercana y adaptada a las necesidades del alumnado.
+Figura 25
+Encuesta de satisfacción al alumnado sobre el Docente.
+Encuesta de Satisfacción sobre el Docente
+Docente:
+Modulo:
+Instrucciones: Se debe responder con una puntuación del 1 al 5 donde el 1 es muy
+en desacuerdo y el 5 es totalmente de acuerdo. Esta encuesta es anónima.
+Cuestión
+1. ¿Crees que se han cumplido todos los objetivos propuestos?
+2. ¿El Docente te ha ayudado a la comprensión de los contenidos?
+3. ¿La realización de las tareas y/o actividades han sido facilitadas
+de manera que se han podido realizar correctamente?
+4. ¿Crees que el docente esta suficiente formado con las TIC?
+
+Puntuación
+
+71
+5. Si has tenido algún problema de comprensión, ¿El docente te ha
+ayudado de forma personalizada?
+6. Si has tenido algún problema a nivel personal ¿El docente ha
+sido empático con tu situación?
+7. ¿Crees que el docente ha sabido adaptarse a las condiciones de
+los estudiantes?
+8. ¿Crees que el docente ha sabido adaptarse a las condiciones de
+los estudiantes con necesidades especiales?
+9. ¿Consideras que tienes los conocimientos necesarios después
+de realizar el Módulo?
+10. En líneas generales, ¿crees que es un buen docente?
+Observaciones:
+Nota. Fuente de elaboración propia
+Atención a la Diversidad
+En esta y en cualquier UD, la atención a la diversidad ha de ser una de las
+prioridades para poder asegurar que cualquier estudiante, independientemente de sus
+características, pueda superar los contenidos propuestos y poder desarrollar las
+capacidades necesarias para llevar a cabo su futura labor profesional.
+Es primordial, que los/as docentes adapten el proceso de aprendizaje a las
+necesidades de cada estudiante, utilizando diferentes recursos o herramientas que faciliten
+la comprensión de los contenidos, especialmente para aquellos estudiantes con dificultades
+sensoriales o cognitivas. Además, en cuanto a las simulaciones o realizaciones de
+actividades prácticas en situaciones de emergencias sanitarias les ayudará a que participen
+de forma activa sin que importen sus limitaciones.
+Los docentes deben promover la inclusión con metodologías activas de aprendizaje
+para que los/las estudiantes con necesidades especiales de aprendizaje participen de forma
+
+72
+activa en el proceso de enseñanza. De la misma forma, se fomentará el uso de recursos y
+plataformas digitales para poder personalizar el aprendizaje a cada estudiante
+independientemente de sus condiciones.
+Por último, en cuanto a la evaluación, se deben ofrecer formas de evaluación
+adaptadas a cada estudiante que garanticen la igualdad de oportunidades ya sea con
+pruebas orales, tiempo adicional en la realización de pruebas escritas o el uso de cualquier
+herramienta para que puedan desarrollar los conocimientos adquiridos.
+Proyecto de Innovación Educativa. Introducción de las TIC
+Como proyecto de Innovación Educativa, tanto para la mejora de la programación
+didáctica como para esta UD, se va a introducir el uso de las TIC.
+Actualmente, la educación se enfrenta a múltiples desafíos, y uno de los más
+relevantes en la integración efectiva de las TIC en los procesos de enseñanza-aprendizaje.
+Este proyecto, tiene como objetivo mejorar optimizar la formación teórica y práctica de
+los/as estudiantes mediante la incorporación de herramientas digitales.
+Como se ha especificado anteriormente, en el centro, se ha detectado una escasa
+utilización de las TIC. Lo único que se observa, es que en cada aula hay un ordenador y un
+proyector, que rara vez se usa. Además, la forma de comunicación del profesorado con las
+familias se realiza a través de las plataformas “ITACA” y “Aules” respectivamente. Esto
+indica que existe una infraestructura básica con lo que se podría aprovechar mejor para la
+enseñanza.
+Este proyecto, busca cambiar esa situación al fomentar el uso de simuladores
+digitales y aplicaciones que permitan a los/las estudiantes adquirir habilidades de una forma
+más interactiva.
+La integración de las TIC podría ofrecer nuevas perspectivas para mejorar el
+aprendizaje y poder desarrollar mejor las competencias profesionales relacionadas tanto
+
+73
+con el Módulo de Atención Sanitaria en Situaciones de Emergencia como con la UD de
+Patología Cardiovascular de Urgencia.
+Una de las principales ventajas que tienen las TIC, es el aprendizaje virtual, en este
+caso, es el poder crear situaciones reales de emergencias sanitarias o situaciones de
+patologías cardiovasculares de urgencia donde los estudiantes van a poder actuar y tomar
+decisiones sin los riesgos que tiene una situación real. Con Software de simulación, se
+pueden crear situaciones reales donde los/as estudiantes va a atener que aplicar los
+protocolos de actuación que previamente han sido explicado en clase. Esto, puede resultar
+de gran ayuda sobre todo para el manejo del estrés en situaciones reales y la toma de
+decisiones, además, los/as estudiantes van a poder enfrentarse a una gran variedad de
+situaciones de emergencia sin enfrentarse a los riesgos reales de estas situaciones lo que
+les otorgaría mucha más experiencia práctica y un conocimiento más amplio.
+Los objetivos de este proyecto de Innovación van a ser:
+-
+
+Desarrollar la capacidad para tomar decisiones rápidas y eficaces con el uso de
+simuladores de situaciones de emergencia sanitaria.
+
+-
+
+Mejorar el manejo del estrés en situaciones de emergencia, brindando a los/as
+estudiantes un espacio seguro para practicar y fortalecer su resiliencia.
+
+-
+
+Fomentar el trabajo cooperativo a través de aplicaciones donde simulen escenarios
+reales de trabajo permitiendo al alumnado interactuar en entornos digitales que
+simulan escenarios reales de trabajo.
+
+-
+
+Motivar al alumnado con herramientas digitales que faciliten la práctica de
+situaciones de Emergencia Sanitaria.
+Para alcanzar estos objetivos se van a llevar a cabo una serie de metodologías y
+
+estrategias basadas en la tecnología:
+
+74
+- Uso de simuladores de Emergencias Sanitarias como pueden ser programas
+informáticos que recrean situaciones de crisis en tiempo real para que los/as
+estudiantes puedan tomar decisiones y aplicar los protocolos que hayan aprendido.
+- Aplicaciones de aprendizaje colaborativo mediante plataformas donde el alumnado
+podrá resolver casos clínicos y compartir experiencias en un entorno digital.
+- Gamificación de los contenidos utilizando dinámicas de juegos para mejorar la
+motivación y el compromiso de los/las estudiantes en el aprendizaje de los
+protocolos de emergencia.
+- Evaluaciones interactivas: Mediante herramientas digitales, el cuerpo docente podrá
+medir el desempeño de los estudiantes en situaciones simuladas.
+La ventaja principal de la integración de la TIC en el centro es que el alumnado
+podrá enfrentarse a situaciones de emergencias sin los riesgos asociados de un entorno
+real. Esto, llevará asociados una serie de beneficios:
+- Ganar confianza y seguridad en la toma de decisiones.
+- Enfrentar situaciones diversas a las que se podrán enfrentar en un futuro.
+- Desarrollar habilidades para gestionar el estrés.
+- Mejorar su capacidad de trabajo en equipo.
+Además, en uso de las TIC, contribuye a una educación inclusiva, permitiendo
+adaptar los contenidos a las necesidades específicas de los/las estudiantes.
+En cuanto a su relación con los Objetivos de Desarrollo Sostenible (ODS), este
+proyecto, esta relacionado directamente con dos ODS. En primer lugar, con el ODS 3, salud
+y bienestar, ya que la formación en situaciones de emergencia sanitaria contribuye
+directamente a mejorar la preparación de futuros profesionales sanitarios y en consecuencia
+la salud de las personas que van a atender en un futuro, además, el uso de simuladores
+permite entrenar a los/as estudiantes en la respuesta ante emergencias, lo que, a largo
+plazo, mejora la atención sanitaria y reduce errores en la práctica clínica.
+
+75
+Por otra parte, también está relacionado con el ODS 4, educación de calidad, ya que
+la integración de las TIC en la enseñanza fortalece el aprendizaje activo. Además, permite a
+los/as estudiantes adquirir habilidades prácticas de manera innovadora, fomentando una
+educación más equitativa y de calidad. Por último, contribuye a la digitalización y prepara al
+alumnado para los desafíos tecnológicos del sector sanitario.
+En conclusión, este proyecto de innovación educativa, representa una oportunidad
+para transformar la enseñanza con el uso de herramientas digitales. Al integrar las TIC en la
+formación sanitaria, no solo mejora la calidad educativa, sino que también contribuye al
+desarrollo de competencias clave para la atención en emergencias sanitarias.
+El impacto positivo, se reflejará en estudiantes mejor preparados, con mayor
+confianza y mejores habilidades para actuar en situaciones críticas, lo que beneficiará tanto
+a los/as estudiantes como a la sociedad en general.
+
+Posibilidad de Proyectos de Investigación Educativa
+Analizando el comportamiento de los estudiantes del IES Tirant Lo Blanc durante el
+periodo de prácticas, se ha observa una clara agrupación por grupos según el lugar de
+procedencia del alumnado. Esta segregación se observa tanto dentro como fuera del aula.
+Los/as estudiantes, tienden a agruparse con los que comparten su mismo origen cultural o
+geográfico lo que crea barreras para una convivencia inclusiva y dificulta la interacción entre
+los estudiantes de orígenes diferentes. Aunque no hubo ningún conflicto entre los diferentes
+grupos, se observa que entre ellos no se relacionan.
+El objetivo general de este proyecto será investigar las causar de esta segregación y
+analizar que impacto puede tener tanto a nivel escolar como personal, además se van a
+proponer estrategias para fomentar la integración y la interacción entre todos los
+estudiantes independientemente de su lugar de procedencia.
+
+76
+Este proyecto, se basará en el análisis de los comportamientos grupales tanto dentro
+como fuera del aula para identificar los factores que impulsan esta segregación por origen
+de procedencia. Además, se investigará sobre los efectos de esta segregación en el
+rendimiento académico de los estudiantes para poder fomentar una educación de
+integración intercultural.
+Los objetivos de este proyecto van a ser:
+-
+
+Analizar las causas de la segregación por lugar de procedencia.
+
+-
+
+Identificar las consecuencias de esta segregación en el rendimiento académico y el
+desarrollo social del alumnado.
+
+-
+
+Desarrollar estrategias que fomenten la integración de los/as estudiantes de
+diferentes orígenes y su interacción.
+
+-
+
+Evaluar la efectividad de las propuestas de mejora para fomentar la relación del
+alumnado de diferentes orígenes de procedencia.
+En primer lugar, se llevará a cabo un diagnostico de la situación mediante encuestas
+
+y entrevistas con el alumnado, con el equipo docente y con las familias para identificar como
+se distribuyen los/as estudiantes tanto dentro como fuera del aula y que percepciones
+tienen entre los distintos grupos.
+A continuación, se van a proponer actividades que fomenten la colaboración entre
+los/as estudiantes de distintos orígenes, estas actividades, se basarán en juegos
+cooperativos, talleres o proyectos donde el alumnado va a tener que trabajar en equipo
+independientemente de su procedencia.
+Con esta iniciativa, se va a fomentar la inclusión y la erradicación de la segregación
+racial promoviendo un ambiente en el que todos los/as estudiantes se sientan valorados sin
+importar su procedencia.
+Realizadas estas actividades, se evaluará el resultado mediante encuestas de
+seguimiento, entrevista y la observación directa del comportamiento del alumnado tanto
+
+77
+dentro como fuera del aula midiendo el nivel de interacción de los/as estudiantes de
+distintos orígenes.
+Conclusiones
+Llegados a este punto, se van a detallar las principales conclusiones extraídas del
+presente Trabajo de Final de Máster que esta centrado en la mejora de la Programación
+Didáctica del Módulo de Atención Sanitaria en Situaciones de Emergencia facilitada por el
+centro donde se cursaron las prácticas y en el desarrollo de la Unidad Didáctica de
+Patología Cardiovascular de Urgencia. Este trabajo de Final de Máster está enfocado a la
+introducción de las TIC y de Metodologías Activas de Aprendizaje.
+Las principales conclusiones extraídas son:
+-
+
+Para la introducción de las TIC y de las Metodologías Activas de Aprendizaje, se
+debe contar, en primer lugar, con un equipo docente formado en las Tecnologías de
+la Información y la Comunicación y que además estén abiertos a introduces estas
+nuevas metodologías educativas. Por otra parte, se debe contar también con un
+alumnado motivado y dispuesto a adquirir conocimientos con nuevas metodologías
+de aprendizaje, reduciendo los métodos de enseñanza tradicionales.
+
+-
+
+Esta introducción de las TIC y de las Metodologías Activas de Aprendizaje, debe
+realizarse de forma progresiva.
+
+-
+
+Con la introducción de las Tecnologías de la Información y la Comunicación, se
+pretende facilitar el proceso de aprendizaje con una educación mas dinámica y
+accesible como por ejemplo con el uso de simuladores donde los/as estudiantes se
+enfrenten a situaciones reales de emergencias sanitarias o con el uso de
+plataformas, recursos multimedia o aplicaciones de protocolos sanitarios que permita
+al alumnado acceder a estos recursos desde cualquier lugar, únicamente
+necesitando un dispositivo con acceso a internet.
+
+78
+-
+
+Con la introducción de las Metodologías Activas de Aprendizaje, se pretende
+transformar la enseñanza tradicional a una mas interactiva en la cual los/as
+estudiantes pasan a ser protagonistas del proceso activo de aprendizaje. La
+introducción de estas metodologías permitirá una mayor participación del alumnado
+en el proceso de aprendizaje, favoreciendo el desarrollo de distintas competencias
+en área de la Atención Sanitaria en situaciones de Emergencia como por ejemplo la
+toma de decisiones rápida o el manejo del estrés.
+
+79
+Referencias Bibliográficas
+Ispring. Soluciones e-learning. (2024) Aula invertida: conoce sus características y cómo se
+aplica. Aula invertida: qué es y cuál es la mejor forma de usarla
+Orden de 29 de julio de 2009, de la Conselleria de Educación, por la que se establece para
+la Comunidad Valenciana el currículo del Ciclo Formativo de Grado Medio correspondiente
+al Título de Emergencias Sanitarias.
+Real Decreto 1397/2007, de 29 de Octubre, por el que se establece el título de Técnico en
+Emergencias Sanitarias y se fijan sus enseñanzas mínimas.
+Universidad de Valencia. (2016) Recursos Didácticos del Ministerio de Educación. Recursos
+didácticos del Ministerio de Educación
+Universidad Europea. (2023) Tipos de Metodologías Educativas: Cómo elegir la mejor. Tipos
+de metodologías educativas: cómo elegir la mejor | Blog UE
+Universidad Europea (2024) Como Elaborar una Unidad Didáctica para la LOMLOE. Cómo
+elaborar una unidad didáctica para la LOMLOE | Blog UE
+Universidad Internacional de la Rioja (2021) Metodologías Activas ¿Sabes en qué consisten
+y cómo aplicarlas? Metodologías activas: ¿Qué son y cómo favorecen a la educación?
+
+80
+Anexos
+Anexo 1. Rubrica de Evaluación para simulaciones y Rol-Play.
+Criterios
+
+Excelente (9-10)
+
+Bien (7-8)
+
+Suficiente (5-6)
+
+Insuficiente
+(1-4)
+
+Toma de
+
+Toma decisiones
+
+Toma buenas
+
+Toma
+
+No toma
+
+decisiones
+
+rápidas y
+
+decisiones
+
+decisiones
+
+decisiones
+
+precisas.
+
+pero con cierto
+
+lentas y más o
+
+correctas o
+
+retraso
+
+menos correctas rápidas.
+
+Manejo de
+
+Maneja el estrés
+
+Maneja el
+
+Tiene crisis,
+
+No tiene un
+
+estrés
+
+a la perfección.
+
+estrés de
+
+pero acaba
+
+buen
+
+forma correcta.
+
+manejando el
+
+manejo del
+
+estrés.
+
+estrés.
+
+Trabajo en
+
+Colabora activa
+
+Colabora con
+
+Colabora
+
+No trabaja
+
+equipo
+
+y eficazmente
+
+el equipo, pero
+
+mínimamente
+
+en equipo.
+
+con el equipo.
+
+con algunos
+
+con el equipo.
+
+desacuerdos.
+Cumplimiento
+
+Cumple todos
+
+Cumple la
+
+Algunos
+
+No sigue
+
+de protocolos
+
+los protocolos a
+
+mayoría de los
+
+protocolos no
+
+los
+
+la perfección.
+
+protocolos,
+
+los sigue
+
+protocolos
+
+pero con
+
+correctamente.
+
+de forma
+
+algunos fallos.
+
+correcta.
+
+81
+
+Anexo 2. Rubrica del trabajo en equipo (Aprendizaje Cooperativo)
+Criterios
+
+Excelente(9-10)
+
+Suficiente (5-
+
+Insuficiente (1-
+
+6)
+
+4)
+
+Participa muy
+
+No trabaja en
+
+significativamente el trabajo
+
+poco en el
+
+equipo
+
+al trabajo en
+
+trabajo en
+
+Colaboración Aporta
+
+Bien (7-8)
+
+Participa en
+
+en equipo.
+
+equipo.
+
+equipo.
+
+Distribución
+
+Distribuye las
+
+Hace las
+
+Pone
+
+No realiza las
+
+de las tareas
+
+tareas y lidera el
+
+tareas
+
+problemas al
+
+tareas.
+
+grupo.
+
+distribuidas.
+
+hacer las
+tareas
+
+Solución de
+
+Resuelve las
+
+Resuelve
+
+Resuelve
+
+No resuelve
+
+problemas
+
+tareas de forma
+
+problemas.
+
+problemas
+
+problemas
+
+efectiva e
+
+pero con
+
+innovadora.
+
+dificultades.
+
+Presentación
+
+Presenta el
+
+Presenta el
+
+Presenta el
+
+No presenta el
+
+del trabajo
+
+trabajo de forma
+
+trabajo de
+
+trabajo de
+
+trabajo.
+
+clara, ordenada y
+
+forma clara
+
+forma confusa
+
+bien
+
+pero con
+
+o incompleta.
+
+argumentada.
+
+algunos
+errores.
+
+82
+
+Anexo 3. Rúbrica de Evaluación para la participación en juegos y Gamificación.
+Criterios
+
+Excelente(9-
+
+Bien (7-8)
+
+10)
+
+Suficiente (5-
+
+Insuficiente
+
+6)
+
+(1-4)
+No participa.
+
+Participación
+
+Participa activa
+
+Participa de
+
+Participa
+
+activa
+
+y
+
+forma activa
+
+mínimamente.
+
+constantemente per con menos
+en los juegos
+
+frecuencia
+
+Toma de
+
+Toma
+
+Toma
+
+Toma
+
+Toma
+
+decisiones en
+
+decisiones y
+
+decisiones y
+
+decisiones
+
+decisiones
+
+juegos
+
+sus respuestas
+
+responde bien
+
+poco
+
+incorrectas o
+
+son correctas.
+
+pero
+
+eficientes.
+
+no las toma
+
+lentamente.
+Aprendizaje y
+
+Reflexiona a la
+
+Reflexiona y
+
+Reflexiona
+
+No aplica lo
+
+reflexión
+
+perfección y
+
+aprende del
+
+pero no aplica
+
+aprendido.
+
+aplica lo
+
+proceso.
+
+correctamente
+
+aprendido
+
+lo aprendido.
+
+

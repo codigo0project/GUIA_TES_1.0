@@ -1,0 +1,59 @@
+{
+  "id": "09.02-golpe-de-calor",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "09.02 - Golpe de calor",
+  "summary": "",
+  "tags": [
+    "09",
+    "ambientales",
+    "golpe-calor",
+    "agotamiento",
+    "calambres",
+    "rabdomiólisis"
+  ],
+  "block": "09 - Ambientales",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/09 - Ambientales/09.02 - Golpe de calor.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "90d1f301b2fd6057eab68865eeb83f204dbd74fa4e6e88bb3505499e2f5ede00"
+  },
+  "created_at": "2026-08-07T15:56:57.096899+00:00",
+  "updated_at": "2026-08-07T15:56:57.096899+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0901---hipotermia-y-frío",
+      "type": "related"
+    },
+    {
+      "to": "0515---alteraciones-hidroelectrolíticas",
+      "type": "related"
+    },
+    {
+      "to": "0902---golpe-de-calor0902---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Cuadro Clínico",
+    "Manejo Prehospitalario",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Información al Hospital"
+  ],
+  "links": [
+    "09.01 - Hipotermia y frío",
+    "05.15 - Alteraciones hidroelectrolíticas",
+    "09.02 - Golpe de calor|09.02 - Fuentes"
+  ]
+}

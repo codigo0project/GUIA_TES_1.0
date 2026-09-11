@@ -1,0 +1,68 @@
+{
+  "id": "23.03-parto-inminente-y-ovace",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "23.03 - Parto inminente y OVACE",
+  "summary": "",
+  "tags": [
+    "15",
+    "protocolos",
+    "transtelefónico",
+    "parto",
+    "OVACE",
+    "atragantamiento"
+  ],
+  "block": "23 - Protocolos Transtelefónicos",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/23 - Protocolos Transtelefónicos/23.03 - Parto inminente y OVACE.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "3262c485a6463cc27434e49b3c4fe380797cf2f11e18e170f132d76003fdcd52"
+  },
+  "created_at": "2026-08-07T15:56:57.183046+00:00",
+  "updated_at": "2026-08-07T15:56:57.183046+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1502---rcp-telefónica-y-desa-público",
+      "type": "related"
+    },
+    {
+      "to": "0709---reanimación-neonatal",
+      "type": "related"
+    },
+    {
+      "to": "0208---ovace",
+      "type": "related"
+    },
+    {
+      "to": "0802---parto-normal",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Parto Inminente por Teléfono",
+    "Atención Inmediata al RN por Teléfono",
+    "OVACE en Consciente por Teléfono",
+    "Caso Práctico",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica",
+    "Fuentes",
+    "Autoevaluación"
+  ],
+  "links": [
+    "23.02 - RCP telefónica y DESA público",
+    "07.09 - Reanimación neonatal",
+    "02.08 - OVACE",
+    "08.02 - Parto normal"
+  ]
+}

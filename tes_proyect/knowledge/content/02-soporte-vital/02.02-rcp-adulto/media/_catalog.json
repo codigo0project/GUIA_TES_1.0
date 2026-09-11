@@ -1,0 +1,16 @@
+{
+  "rcp-secuencia.webp": {
+    "chapter": "02.02-rcp-adulto",
+    "description": "Diagrama de la secuencia RCP adulto según ERC 2025",
+    "license": "original",
+    "width": 1200,
+    "height": 800
+  },
+  "ecg-vf.webp": {
+    "chapter": "02.02-rcp-adulto",
+    "description": "ECG con fibrilación ventricular",
+    "license": "cc-by",
+    "width": 800,
+    "height": 400
+  }
+}

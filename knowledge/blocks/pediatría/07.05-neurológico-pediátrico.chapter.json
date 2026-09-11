@@ -1,0 +1,71 @@
+{
+  "id": "07.05-neurológico-pediátrico",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "07.05 - Neurológico pediátrico",
+  "summary": "",
+  "tags": [
+    "07",
+    "pediatría",
+    "neurológico-pediátrico",
+    "convulsiones-febriles",
+    "meningitis",
+    "TCE-infantil"
+  ],
+  "block": "07 - Pediatría",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/07 - Pediatría/07.05 - Neurológico pediátrico.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "e56be71888f3f2eb94e482d3c95db8ffdf7147a9ced0a6ce2f14d07bc484f7cf"
+  },
+  "created_at": "2026-08-07T15:56:57.069622+00:00",
+  "updated_at": "2026-08-07T15:56:57.069622+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0509---crisis-epiléptica-y-eclampsia",
+      "type": "related"
+    },
+    {
+      "to": "0603---tce",
+      "type": "related"
+    },
+    {
+      "to": "0519---infeccioso-grave",
+      "type": "related"
+    },
+    {
+      "to": "0203---rcp-en-niños-y-lactantes",
+      "type": "related"
+    },
+    {
+      "to": "0705---neurológico-pediátrico0705---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Convulsiones Febriles",
+    "Meningitis",
+    "TCE Infantil",
+    "Otras Emergencias Neurológicas",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "05.09 - Crisis epiléptica y eclampsia",
+    "06.03 - TCE",
+    "05.19 - Infeccioso grave",
+    "02.03 - RCP en Niños y Lactantes",
+    "07.05 - Neurológico pediátrico|07.05 - Fuentes"
+  ]
+}

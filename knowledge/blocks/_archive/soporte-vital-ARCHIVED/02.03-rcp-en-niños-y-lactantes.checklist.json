@@ -1,0 +1,40 @@
+{
+  "id": "02.03-rcp-en-niños-y-lactantes.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 02.03-rcp-en-niños-y-lactantes",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "rcp"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.03 - RCP en Niños y Lactantes.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "02.03-rcp-en-niños-y-lactantes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "02 - Soporte Vital"
+  ],
+  "items": [
+    "Verificar respuesta y respiración en niño/lactante",
+    "Solicitar ayuda y DESA pediátrico si disponible",
+    "Compresiones 15:2 si hay 1 reanimador",
+    "Profundidad 4 cm en lactante, 5 cm en niño",
+    "Ventilación visible y sin exceso",
+    "Adrenalina 0.01 mg/kg cada 3-5 min"
+  ]
+}

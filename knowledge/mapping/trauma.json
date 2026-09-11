@@ -1,0 +1,190 @@
+{
+  "mappings": [
+    {
+      "manual": "manual/06 - Trauma/06.01 - Biomecánica y cinemática.md",
+      "knowledge": "knowledge/blocks/trauma/06.01-biomecánica-y-cinemática.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.087805+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.02 - Shock hemorrágico.md",
+      "knowledge": "knowledge/blocks/trauma/06.02-shock-hemorrágico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.089015+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.03 - TCE.md",
+      "knowledge": "knowledge/blocks/trauma/06.03-tce.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.090371+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.04 - Raquimedular.md",
+      "knowledge": "knowledge/blocks/trauma/06.04-raquimedular.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.091665+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.06 - Trauma abdominal.md",
+      "knowledge": "knowledge/blocks/trauma/06.06-trauma-abdominal.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.093924+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.07 - Trauma pélvico.md",
+      "knowledge": "knowledge/blocks/trauma/06.07-trauma-pélvico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.095185+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.08 - Extremidades.md",
+      "knowledge": "knowledge/blocks/trauma/06.08-extremidades.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.096489+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.09 - Amputaciones.md",
+      "knowledge": "knowledge/blocks/trauma/06.09-amputaciones.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.097845+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.10 - Crush syndrome.md",
+      "knowledge": "knowledge/blocks/trauma/06.10-crush-syndrome.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.099261+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.11 - Quemaduras.md",
+      "knowledge": "knowledge/blocks/trauma/06.11-quemaduras.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.100810+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.12 - Trauma ocular.md",
+      "knowledge": "knowledge/blocks/trauma/06.12-trauma-ocular.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.102227+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.13 - Trauma maxilofacial.md",
+      "knowledge": "knowledge/blocks/trauma/06.13-trauma-maxilofacial.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.103616+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.14 - Trauma penetrante.md",
+      "knowledge": "knowledge/blocks/trauma/06.14-trauma-penetrante.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.105021+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.15 - Caídas de altura.md",
+      "knowledge": "knowledge/blocks/trauma/06.15-caídas-de-altura.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.106463+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.16 - Trauma en especiales.md",
+      "knowledge": "knowledge/blocks/trauma/06.16-trauma-en-especiales.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.107968+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.01 - Biomecánica y cinemática.md",
+      "knowledge": "knowledge/blocks/trauma/06.01-biomecánica-y-cinemática.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.268001+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.02 - Shock hemorrágico.md",
+      "knowledge": "knowledge/blocks/trauma/06.02-shock-hemorrágico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.269315+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.03 - TCE.md",
+      "knowledge": "knowledge/blocks/trauma/06.03-tce.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.270573+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.04 - Raquimedular.md",
+      "knowledge": "knowledge/blocks/trauma/06.04-raquimedular.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.272194+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.06 - Trauma abdominal.md",
+      "knowledge": "knowledge/blocks/trauma/06.06-trauma-abdominal.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.275251+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.07 - Trauma pélvico.md",
+      "knowledge": "knowledge/blocks/trauma/06.07-trauma-pélvico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.276875+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.08 - Extremidades.md",
+      "knowledge": "knowledge/blocks/trauma/06.08-extremidades.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.278650+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.09 - Amputaciones.md",
+      "knowledge": "knowledge/blocks/trauma/06.09-amputaciones.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.280295+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.10 - Crush syndrome.md",
+      "knowledge": "knowledge/blocks/trauma/06.10-crush-syndrome.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.281924+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.11 - Quemaduras.md",
+      "knowledge": "knowledge/blocks/trauma/06.11-quemaduras.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.283583+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.12 - Trauma ocular.md",
+      "knowledge": "knowledge/blocks/trauma/06.12-trauma-ocular.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.285317+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.13 - Trauma maxilofacial.md",
+      "knowledge": "knowledge/blocks/trauma/06.13-trauma-maxilofacial.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.286996+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.14 - Trauma penetrante.md",
+      "knowledge": "knowledge/blocks/trauma/06.14-trauma-penetrante.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.288698+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.15 - Caídas de altura.md",
+      "knowledge": "knowledge/blocks/trauma/06.15-caídas-de-altura.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.290408+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.16 - Trauma en especiales.md",
+      "knowledge": "knowledge/blocks/trauma/06.16-trauma-en-especiales.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.292156+00:00"
+    },
+    {
+      "manual": "manual/06 - Trauma/06.05 - Trauma torácico.md",
+      "knowledge": "knowledge/blocks/trauma/06.05-trauma-torácico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-04T14:09:51.891454+00:00"
+    }
+  ]
+}

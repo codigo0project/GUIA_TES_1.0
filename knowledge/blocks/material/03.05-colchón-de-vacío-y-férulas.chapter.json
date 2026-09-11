@@ -1,0 +1,65 @@
+{
+  "id": "03.05-colchón-de-vacío-y-férulas",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "03.05 - Colchón de vacío y férulas",
+  "summary": "",
+  "tags": [
+    "03",
+    "material",
+    "colchón-vacío",
+    "férula",
+    "tracción",
+    "inmovilización",
+    "KED"
+  ],
+  "block": "03 - Material",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/03 - Material/03.05 - Colchón de vacío y férulas.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "0b3ca40e2b3d572e7c0210e98a3d842ed6c74a6a8599f7ace23000f5c334fce1"
+  },
+  "created_at": "2026-08-07T15:56:56.396706+00:00",
+  "updated_at": "2026-08-07T15:56:56.396706+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0303---inmovilización-y-principios-biomecánicos",
+      "type": "related"
+    },
+    {
+      "to": "0304---collarín-tabla-espinal-y-cuchara",
+      "type": "related"
+    },
+    {
+      "to": "0306---extricación-vehicular",
+      "type": "related"
+    },
+    {
+      "to": "0307---transferencias-y-ergonomía",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Colchón de Vacío",
+    "Férulas de Inmovilización",
+    "Férula de Extracción (KED)",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso"
+  ],
+  "links": [
+    "03.03 - Inmovilización y principios biomecánicos",
+    "03.04 - Collarín, tabla espinal y cuchara",
+    "03.06 - Extricación vehicular",
+    "03.07 - Transferencias y ergonomía"
+  ]
+}

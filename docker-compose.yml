@@ -1,0 +1,65 @@
+services:
+  api:
+    build:
+      context: ./app/api
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=mongodb://mongo:27017/guia_tes
+      - OLLAMA_URL=http://ollama:11434
+    volumes:
+      - ./app/public/data:/app/data
+    depends_on:
+      mongo:
+        condition: service_healthy
+    restart: unless-stopped
+
+  web:
+    build:
+      context: ./app/web
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+    depends_on:
+      - api
+    restart: unless-stopped
+
+  search:
+    build:
+      context: ./app/search
+      dockerfile: Dockerfile
+    ports:
+      - "3001:3001"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+    depends_on:
+      - api
+    restart: unless-stopped
+
+  mongo:
+    image: mongo:7
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    restart: unless-stopped
+
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    restart: unless-stopped
+
+volumes:
+  mongo_data:
+  ollama_data:

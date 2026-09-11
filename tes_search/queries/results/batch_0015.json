@@ -1,0 +1,66 @@
+[
+  {
+    "keyword": "BLS 2025 head-up CPR posición elevada evidencia muy baja",
+    "category": "02_soporte_vital",
+    "chapter": "02.02",
+    "hits": [
+      {
+        "path": "manual/02 - Soporte Vital/02.00 - Fuentes Bloque 02.md",
+        "score": 0.72,
+        "text": "ced Life Support (PALS) - AHA.**\n  - *Relevancia:* Algoritmos pediátricos, las 5 insuflaciones iniciales, relación 15:2.\n\n- **Manual de Soporte Vital Básico y DESA - CERCP.**\n  - *Relevancia:* Protoco"
+      },
+      {
+        "path": "base_datos/04_capitulos/01.06_informacion_cruda.md",
+        "score": 0.7168,
+        "text": "# Información cruda - Capítulo 01.06\n\n## Fuentes oficiales\n- BOE Orden ESD/3391/2008: https://www.boe.es/buscar/doc.php?id=BOE-A-2008-19101\n- BOE RD 1397/2007: https://www.boe.es/buscar/doc.php?id=BOE"
+      },
+      {
+        "path": "manual/videos/02-soporte-vital/rcp-adulto-calidad.md",
+        "score": 0.7153,
+        "text": "---\nimagen: cpr-adult-chest-compression.png\ntitulo: RCP de alta calidad en adultos\ncapitulo: 02.02 - RCP Adulto\nurl: https://commons.wikimedia.org/wiki/File:CPR_Adult_Chest_Compression.png\nlicencia: C"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.00 - Fuentes Bloque 02.md",
+        "score": 0.7073,
+        "text": "estado: 🟡 En progreso\n---\ntags: [fuentes, bloque-02, soporte-vital, ERC, AHA]\ntipo: fuente\n---\n\n# 📚 Fuentes: Bloque 02 - Soporte Vital y Reanimación\n\n## 🧬 Guías Clínicas Internacionales (La \"Biblia\" d"
+      },
+      {
+        "path": "base_datos/03_modulos/05_atencion_sanitaria_especial.md",
+        "score": 0.7049,
+        "text": "# Módulo 5 - Atención sanitaria especial en situaciones de emergencia\n\n## Referencias oficiales\n- Orden ESD/3391/2008, de 3 de noviembre.\n- Real Decreto 1397/2007, de 29 de octubre.\n\n## Contenidos rec"
+      }
+    ]
+  },
+  {
+    "keyword": "BLS 2025 feedback tiempo real dispositivos ventilación calidad",
+    "category": "02_soporte_vital",
+    "chapter": "02.11",
+    "hits": [
+      {
+        "path": "manual/02 - Soporte Vital/02.02 - RCP Adulto.md",
+        "score": 0.7186,
+        "text": "\n- **Volumen:** Solo lo necesario para **ver la expansión torácica** (aprox. 500-600 ml).\n- **Tiempo:** 1 segundo por insuflación.\n\n### 2.2. Con Vía Aérea Avanzada (IOT o Supraglótico)\n- **NO se pausa"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+        "score": 0.6924,
+        "text": "istencia.\n- **Ventilación del habitáculo:** mantener ventilación adecuada para reducir concentración de aerosoles; renovar el aire entre servicios cuando sea posible.\n- **Limitación de profesionales:*"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.06 - Vía Aérea Avanzada.md",
+        "score": 0.6818,
+        "text": ")\n2. Medir 60% del tamaño (normalmente talla 4 o 5 en adulto)\n3. Insertar con movimiento rotatorio\n4. Verificar cánula guía (resistencia pulmonar)\n\n## 🫁 3. Laringeo (LT/LMA)\n\n### 3.1. Tipos\n- **LT I:*"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.03 - RCP en Niños y Lactantes.md",
+        "score": 0.6689,
+        "text": "ico**.\n4. **5 ventilaciones** (si hay personal sanitario).\n5. **Compresiones** 15:2 (2 reanimadores) o 30:2 (1 reanimador).\n6. **Minimizar interrupciones**.\n7. **Desfibrilación** si es desfibrilable y"
+      },
+      {
+        "path": "base_datos/04_capitulos/02.05_informacion_cruda.md",
+        "score": 0.6637,
+        "text": "r sobredistensión.\n- En parada: 2 ventilaciones cada 30 compresiones en adulto, 15:2 en niño.\n- Oxígeno a 15 lpm en adulto, 10-12 lpm en niño, 8-10 lpm en lactante.\n\n## Referencias para casos práctico"
+      }
+    ]
+  }
+]

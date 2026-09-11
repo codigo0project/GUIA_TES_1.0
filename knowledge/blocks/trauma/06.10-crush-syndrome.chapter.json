@@ -1,0 +1,72 @@
+{
+  "id": "06.10-crush-syndrome",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "06.10 - Crush syndrome",
+  "summary": "",
+  "tags": [
+    "06",
+    "trauma",
+    "crush-syndrome",
+    "síndrome-compartimental",
+    "aplastamiento",
+    "mioglobinuria"
+  ],
+  "block": "06 - Trauma",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/06 - Trauma/06.10 - Crush syndrome.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "ecd67bb6bd97d44e86e670f6ecbbc18ff74346a089017f469ed1bbd0c578ca03"
+  },
+  "created_at": "2026-08-07T15:56:56.977648+00:00",
+  "updated_at": "2026-08-07T15:56:56.977648+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    },
+    {
+      "to": "0608---extremidades",
+      "type": "related"
+    },
+    {
+      "to": "0514---insuficiencia-renal",
+      "type": "related"
+    },
+    {
+      "to": "0209---acceso-vascular",
+      "type": "related"
+    },
+    {
+      "to": "0610---crush-syndrome0610---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Fisiopatología",
+    "Tratamiento Prehospitalario",
+    "Manejo de Atrapamiento",
+    "Complicaciones Renal",
+    "Criterios de Gravedad",
+    "Errores Críticos",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "01.09 - Fisiopatología del Shock",
+    "06.08 - Extremidades",
+    "05.14 - Insuficiencia renal",
+    "02.09 - Acceso Vascular",
+    "06.10 - Crush syndrome|06.10 - Fuentes"
+  ]
+}

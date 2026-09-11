@@ -1,0 +1,112 @@
+{
+  "mappings": [
+    {
+      "manual": "manual/16 - Transversales/16.01 - Marco Legal.md",
+      "knowledge": "knowledge/blocks/transversales/16.01-marco-legal.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.194177+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.02 - Ética y confidencialidad.md",
+      "knowledge": "knowledge/blocks/transversales/16.02-ética-y-confidencialidad.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.195541+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.03 - Documentación clínica.md",
+      "knowledge": "knowledge/blocks/transversales/16.03-documentación-clínica.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.197051+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.04 - Órdenes de No RCP.md",
+      "knowledge": "knowledge/blocks/transversales/16.04-órdenes-de-no-rcp.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.198516+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.05 - Tanatología.md",
+      "knowledge": "knowledge/blocks/transversales/16.05-tanatología.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.200424+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.06 - Duelo y malas noticias.md",
+      "knowledge": "knowledge/blocks/transversales/16.06-duelo-y-malas-noticias.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.202276+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.07 - Estrés y burnout.md",
+      "knowledge": "knowledge/blocks/transversales/16.07-estrés-y-burnout.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.203956+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.08 - Calidad y auditoría.md",
+      "knowledge": "knowledge/blocks/transversales/16.08-calidad-y-auditoría.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.205507+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.09 - Registro de la hoja de actividad.md",
+      "knowledge": "knowledge/blocks/transversales/16.09-registro-de-la-hoja-de-actividad.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.207440+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.01 - Marco Legal.md",
+      "knowledge": "knowledge/blocks/transversales/16.01-marco-legal.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.392333+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.02 - Ética y confidencialidad.md",
+      "knowledge": "knowledge/blocks/transversales/16.02-ética-y-confidencialidad.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.394458+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.03 - Documentación clínica.md",
+      "knowledge": "knowledge/blocks/transversales/16.03-documentación-clínica.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.396645+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.04 - Órdenes de No RCP.md",
+      "knowledge": "knowledge/blocks/transversales/16.04-órdenes-de-no-rcp.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.398685+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.05 - Tanatología.md",
+      "knowledge": "knowledge/blocks/transversales/16.05-tanatología.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.400209+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.06 - Duelo y malas noticias.md",
+      "knowledge": "knowledge/blocks/transversales/16.06-duelo-y-malas-noticias.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.401493+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.07 - Estrés y burnout.md",
+      "knowledge": "knowledge/blocks/transversales/16.07-estrés-y-burnout.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.403208+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.08 - Calidad y auditoría.md",
+      "knowledge": "knowledge/blocks/transversales/16.08-calidad-y-auditoría.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.405133+00:00"
+    },
+    {
+      "manual": "manual/16 - Transversales/16.09 - Registro de la hoja de actividad.md",
+      "knowledge": "knowledge/blocks/transversales/16.09-registro-de-la-hoja-de-actividad.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.407233+00:00"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "04.04-adrenalina",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "04.04 - Adrenalina",
+  "summary": "",
+  "tags": [
+    "04",
+    "farmacologia",
+    "adrenalina",
+    "anafilaxia",
+    "PCR",
+    "asma",
+    "shock"
+  ],
+  "block": "04 - Farmacología",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/04 - Farmacología/04.04 - Adrenalina.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "fcd7da6d23a015013d29ea212b65b10de45a9e6ffe3b3c379104c0e6fa470356"
+  },
+  "created_at": "2026-08-07T15:56:56.492388+00:00",
+  "updated_at": "2026-08-07T15:56:56.492388+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0202---rcp-adulto",
+      "type": "related"
+    },
+    {
+      "to": "0203---rcp-en-niños-y-lactantes",
+      "type": "related"
+    },
+    {
+      "to": "0507---anafilaxia-y-angioedema",
+      "type": "related"
+    },
+    {
+      "to": "0506---asma-y-epoc",
+      "type": "related"
+    },
+    {
+      "to": "0402---vías-de-administración",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Presentaciones y Concentraciones",
+    "Indicaciones y Dosis",
+    "Preparación de Diluciones",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "02.02 - RCP Adulto",
+    "02.03 - RCP en Niños y Lactantes",
+    "05.07 - Anafilaxia y angioedema",
+    "05.06 - Asma y EPOC",
+    "04.02 - Vías de administración"
+  ]
+}

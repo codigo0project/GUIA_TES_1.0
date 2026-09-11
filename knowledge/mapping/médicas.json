@@ -1,0 +1,232 @@
+{
+  "mappings": [
+    {
+      "manual": "manual/05 - Médicas/05.01 - Angina, IAM y código infarto.md",
+      "knowledge": "knowledge/blocks/médicas/05.01-angina-iam-y-código-infarto.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.051582+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.02 - Edema agudo de pulmón y shock cardiogénico.md",
+      "knowledge": "knowledge/blocks/médicas/05.02-edema-agudo-de-pulmón-y-shock-cardiogénico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.053340+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.03 - Arritmias.md",
+      "knowledge": "knowledge/blocks/médicas/05.03-arritmias.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.055055+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.04 - Ictus y código ictus.md",
+      "knowledge": "knowledge/blocks/médicas/05.04-ictus-y-código-ictus.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.056920+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.05 - Crisis hipertensiva.md",
+      "knowledge": "knowledge/blocks/médicas/05.05-crisis-hipertensiva.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.058681+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.06 - Asma y EPOC.md",
+      "knowledge": "knowledge/blocks/médicas/05.06-asma-y-epoc.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.060573+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.07 - Anafilaxia y angioedema.md",
+      "knowledge": "knowledge/blocks/médicas/05.07-anafilaxia-y-angioedema.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.062520+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.08 - Diabetes.md",
+      "knowledge": "knowledge/blocks/médicas/05.08-diabetes.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.064643+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.09 - Crisis epiléptica y eclampsia.md",
+      "knowledge": "knowledge/blocks/médicas/05.09-crisis-epiléptica-y-eclampsia.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.066522+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.10 - Abdomen agudo.md",
+      "knowledge": "knowledge/blocks/médicas/05.10-abdomen-agudo.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.068967+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.11 - Aneurisma de aorta abdominal.md",
+      "knowledge": "knowledge/blocks/médicas/05.11-aneurisma-de-aorta-abdominal.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.071161+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.12 - Hemorragia digestiva.md",
+      "knowledge": "knowledge/blocks/médicas/05.12-hemorragia-digestiva.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.073013+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.13 - Sepsis y shock séptico.md",
+      "knowledge": "knowledge/blocks/médicas/05.13-sepsis-y-shock-séptico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.075093+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.14 - Insuficiencia renal.md",
+      "knowledge": "knowledge/blocks/médicas/05.14-insuficiencia-renal.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.077120+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.15 - Alteraciones hidroelectrolíticas.md",
+      "knowledge": "knowledge/blocks/médicas/05.15-alteraciones-hidroelectrolíticas.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.078475+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.16 - Coma y alteración de conciencia.md",
+      "knowledge": "knowledge/blocks/médicas/05.16-coma-y-alteración-de-conciencia.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.079963+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.17 - Endocrino no diabético.md",
+      "knowledge": "knowledge/blocks/médicas/05.17-endocrino-no-diabético.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.081531+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.18 - Hematológico.md",
+      "knowledge": "knowledge/blocks/médicas/05.18-hematológico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.083858+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.19 - Infeccioso grave.md",
+      "knowledge": "knowledge/blocks/médicas/05.19-infeccioso-grave.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.085425+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.01 - Angina, IAM y código infarto.md",
+      "knowledge": "knowledge/blocks/médicas/05.01-angina-iam-y-código-infarto.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.233224+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.02 - Edema agudo de pulmón y shock cardiogénico.md",
+      "knowledge": "knowledge/blocks/médicas/05.02-edema-agudo-de-pulmón-y-shock-cardiogénico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.234438+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.03 - Arritmias.md",
+      "knowledge": "knowledge/blocks/médicas/05.03-arritmias.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.235918+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.04 - Ictus y código ictus.md",
+      "knowledge": "knowledge/blocks/médicas/05.04-ictus-y-código-ictus.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.237302+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.05 - Crisis hipertensiva.md",
+      "knowledge": "knowledge/blocks/médicas/05.05-crisis-hipertensiva.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.238879+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.06 - Asma y EPOC.md",
+      "knowledge": "knowledge/blocks/médicas/05.06-asma-y-epoc.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.241097+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.07 - Anafilaxia y angioedema.md",
+      "knowledge": "knowledge/blocks/médicas/05.07-anafilaxia-y-angioedema.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.242967+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.08 - Diabetes.md",
+      "knowledge": "knowledge/blocks/médicas/05.08-diabetes.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.245273+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.09 - Crisis epiléptica y eclampsia.md",
+      "knowledge": "knowledge/blocks/médicas/05.09-crisis-epiléptica-y-eclampsia.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.247416+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.10 - Abdomen agudo.md",
+      "knowledge": "knowledge/blocks/médicas/05.10-abdomen-agudo.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.248973+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.11 - Aneurisma de aorta abdominal.md",
+      "knowledge": "knowledge/blocks/médicas/05.11-aneurisma-de-aorta-abdominal.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.250602+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.12 - Hemorragia digestiva.md",
+      "knowledge": "knowledge/blocks/médicas/05.12-hemorragia-digestiva.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.252412+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.13 - Sepsis y shock séptico.md",
+      "knowledge": "knowledge/blocks/médicas/05.13-sepsis-y-shock-séptico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.253946+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.14 - Insuficiencia renal.md",
+      "knowledge": "knowledge/blocks/médicas/05.14-insuficiencia-renal.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.255636+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.15 - Alteraciones hidroelectrolíticas.md",
+      "knowledge": "knowledge/blocks/médicas/05.15-alteraciones-hidroelectrolíticas.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.257016+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.16 - Coma y alteración de conciencia.md",
+      "knowledge": "knowledge/blocks/médicas/05.16-coma-y-alteración-de-conciencia.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.258596+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.17 - Endocrino no diabético.md",
+      "knowledge": "knowledge/blocks/médicas/05.17-endocrino-no-diabético.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.260573+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.18 - Hematológico.md",
+      "knowledge": "knowledge/blocks/médicas/05.18-hematológico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.262870+00:00"
+    },
+    {
+      "manual": "manual/05 - Médicas/05.19 - Infeccioso grave.md",
+      "knowledge": "knowledge/blocks/médicas/05.19-infeccioso-grave.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.264907+00:00"
+    }
+  ]
+}

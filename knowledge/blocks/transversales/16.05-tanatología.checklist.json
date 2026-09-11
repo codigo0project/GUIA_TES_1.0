@@ -1,0 +1,47 @@
+{
+  "id": "16.05-tanatología.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 16.05-tanatología",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [],
+  "block": "16 - Transversales",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/16 - Transversales/16.05 - Tanatología.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "16.05-tanatología",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "16 - Transversales"
+  ],
+  "items": [
+    "**Informar con sensibilidad:** Lenguaje claro, sin tecnicismos.",
+    "**Escuchar:** Permitir expresión de emociones sin juzgar.",
+    "**Derivar:** A psicología o servicios sociales si es necesario.",
+    "**No abandonar:** Mantener presencia hasta que llegue apoyo especializado.",
+    "**Documentar:** Quién estuvo presente, qué información se dio, reacción.",
+    "**Sospecha de intoxicación:** Comunicar a policía y judicial.",
+    "**Muestras:** Orina, sangre, contenido gástrico si es posible.",
+    "**Cadena de custodia:** Registrar quién, cuándo y cómo se recogen.",
+    "**Comunicar a policía:** Siempre que haya indicios de violencia.",
+    "**No manipular:** Evitar contaminar la escena.",
+    "**Registrar:** Todo lo observado, sin interpretaciones subjetivas.",
+    "**Estrés agudo:** Escenas de muerte violenta o infantil.",
+    "**Fatiga compasiva:** Repetición de muertes o sufrimiento extremo.",
+    "**Necesidad de debriefing:** Procesar emociones tras guardia.",
+    "**Apoyo entre compañeros:** Cultura de equipo, no culpa."
+  ]
+}

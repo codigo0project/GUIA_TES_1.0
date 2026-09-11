@@ -1,0 +1,42 @@
+{
+  "id": "06.02-shock-hemorrágico.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist shock hemorrágico",
+  "summary": "Puntos críticos en el manejo prehospitalario del shock hemorrágico.",
+  "tags": [
+    "shock",
+    "hemorragia",
+    "checklist"
+  ],
+  "block": "06 - Trauma",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/06 - Trauma/06.02 - Shock hemorrágico.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "06.02-shock-hemorrágico",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "06.02 - Shock hemorrágico"
+  ],
+  "items": [
+    "Controlar hemorragia externa",
+    "Canalizar vía IV de gran calibre",
+    "Cargar cristaloides 500-1000 mL",
+    "Tapar pelvis si hay traumatismo pélvico",
+    "Calentar sueros y al paciente",
+    "Transportar a centro con cirugía"
+  ]
+}

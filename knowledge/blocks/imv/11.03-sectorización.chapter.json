@@ -1,0 +1,61 @@
+{
+  "id": "11.03-sectorización",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "11.03 - Sectorización",
+  "summary": "",
+  "tags": [
+    "11",
+    "IMV",
+    "sectorización",
+    "zonas-caliente",
+    "zonas-templada",
+    "zonas-fría"
+  ],
+  "block": "11 - IMV",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/11 - IMV/11.03 - Sectorización.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "aeba8db2723d756b39c2774c1c7a8efdf61d88edf097674124258e9fffae0674"
+  },
+  "created_at": "2026-08-07T15:56:57.122950+00:00",
+  "updated_at": "2026-08-07T15:56:57.122950+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1101---conceptos-imv",
+      "type": "related"
+    },
+    {
+      "to": "1102---mando-y-control",
+      "type": "related"
+    },
+    {
+      "to": "1105---nrbq",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Zonas",
+    "Control de Accesos",
+    "Aplicación por Tipo de Incidente",
+    "Seguridad Personal",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Coordinación entre Zonas",
+    "Documentación",
+    "Seguridad y Prevención",
+    "Caso Práctico"
+  ],
+  "links": [
+    "11.01 - Conceptos IMV",
+    "11.02 - Mando y control",
+    "11.05 - NRBQ"
+  ]
+}

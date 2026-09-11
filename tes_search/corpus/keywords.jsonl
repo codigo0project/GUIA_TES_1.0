@@ -1,0 +1,152 @@
+{"term": "valoración primaria ABCDE", "category": "01_fundamentos", "chapter": "01.03"}
+{"term": "cadena de supervivencia ERC 2025", "category": "01_fundamentos", "chapter": "01.06"}
+{"term": "triaje START JumpSTART", "category": "01_fundamentos", "chapter": "01.07"}
+{"term": "comunicación SBAR ISBAR", "category": "01_fundamentos", "chapter": "01.08"}
+{"term": "fisiopatología del shock", "category": "01_fundamentos", "chapter": "01.09"}
+{"term": "equilibrio ácido base gasometría", "category": "01_fundamentos", "chapter": "01.10"}
+{"term": "escalas neurológicas Glasgow", "category": "01_fundamentos", "chapter": "01.05"}
+{"term": "seguridad en escena EPI bioseguridad", "category": "01_fundamentos", "chapter": "01.02"}
+{"term": "valoración secundaria SAMPLE constantes vitales", "category": "01_fundamentos", "chapter": "01.04"}
+{"term": "rol competencias TES RD 1397", "category": "01_fundamentos", "chapter": "01.01"}
+{"term": "RCP alta calidad adultos", "category": "02_soporte_vital", "chapter": "02.02"}
+{"term": "RCP niños lactantes", "category": "02_soporte_vital", "chapter": "02.03"}
+{"term": "DESA desfibrilación", "category": "02_soporte_vital", "chapter": "02.04"}
+{"term": "via aérea básica cánulas Guedel", "category": "02_soporte_vital", "chapter": "02.05"}
+{"term": "via aérea avanzada iGel ML", "category": "02_soporte_vital", "chapter": "02.06"}
+{"term": "IOT vía aérea quirúrgica cricotiroidotomía", "category": "02_soporte_vital", "chapter": "02.07"}
+{"term": "OVACE Heimlich compresiones", "category": "02_soporte_vital", "chapter": "02.08"}
+{"term": "acceso vascular canulación periférica IO EZ-IO", "category": "02_soporte_vital", "chapter": "02.09"}
+{"term": "algoritmos SVA FV ESP asistolia 4H 4T", "category": "02_soporte_vital", "chapter": "02.10"}
+{"term": "capnografía EtCO2 ECG 12 derivaciones POCUS", "category": "02_soporte_vital", "chapter": "02.11"}
+{"term": "RCP situaciones especiales embarazo obesidad hipotermia", "category": "02_soporte_vital", "chapter": "02.12"}
+{"term": "RCP mecánica LUCAS AutoPulse", "category": "02_soporte_vital", "chapter": "02.13"}
+{"term": "oxigenoterapia dispositivos FiO2 caudales", "category": "03_material", "chapter": "03.01"}
+{"term": "torniquetes hemostáticos QuikClot vendaje compresivo", "category": "03_material", "chapter": "03.02"}
+{"term": "inmovilización principios biomecánicos tracción", "category": "03_material", "chapter": "03.03"}
+{"term": "collarín tabla espinal cuchara log-roll", "category": "03_material", "chapter": "03.04"}
+{"term": "colchón de vacío férulas tracción Sager pélvica", "category": "03_material", "chapter": "03.05"}
+{"term": "extricación vehicular rescate técnico", "category": "03_material", "chapter": "03.06"}
+{"term": "transferencias ergonomía carga descarga", "category": "03_material", "chapter": "03.07"}
+{"term": "farmacocinética cálculos dosis 10 correctos", "category": "04_farmacología", "chapter": "04.01"}
+{"term": "vías administración VO SL IM IN IO IV IT", "category": "04_farmacología", "chapter": "04.02"}
+{"term": "oxígeno medicinal indicaciones riesgos toxicidad", "category": "04_farmacología", "chapter": "04.03"}
+{"term": "adrenalina anafilaxia PCR asma grave diluciones", "category": "04_farmacología", "chapter": "04.04"}
+{"term": "antiagregantes AAS nitroglicerina clopidogrel", "category": "04_farmacología", "chapter": "04.05"}
+{"term": "broncodilatadores salbutamol ipratropio nebulización", "category": "04_farmacología", "chapter": "04.06"}
+{"term": "emergencias metabólicas glucosa glucagón insulina bicarbonato", "category": "04_farmacología", "chapter": "04.07"}
+{"term": "sedantes midazolam ketamina naloxona MAD", "category": "04_farmacología", "chapter": "04.08"}
+{"term": "fluidoterapia cristaloides macro microgoteros carga rápida", "category": "04_farmacología", "chapter": "04.09"}
+{"term": "vasoactivos noradrenalina antiarrítmicos amiodarona atropina", "category": "04_farmacología", "chapter": "04.10"}
+{"term": "hemoderivados transfusión prehospitalaria sangre plasma", "category": "04_farmacología", "chapter": "04.11"}
+{"term": "angina IAM STEMI NSTEMI código infarto", "category": "05_médicas", "chapter": "05.01"}
+{"term": "edema agudo pulmón shock cardiogénico", "category": "05_médicas", "chapter": "05.02"}
+{"term": "arritmias bradiarritmias taquiarritmias marcapasos", "category": "05_médicas", "chapter": "05.03"}
+{"term": "ACV isquémico hemorrágico AIT código ictus", "category": "05_médicas", "chapter": "05.04"}
+{"term": "crisis hipertensiva urgencia emergencia", "category": "05_médicas", "chapter": "05.05"}
+{"term": "status asthmaticus EPOC reagudizada CPAP VMNI", "category": "05_médicas", "chapter": "05.06"}
+{"term": "shock anafiláctico angioedema urticaria", "category": "05_médicas", "chapter": "05.07"}
+{"term": "hipoglucemia severa CAD estado hiperosmolar", "category": "05_médicas", "chapter": "05.08"}
+{"term": "crisis epiléptica estatus eclampsia síndrome West", "category": "05_médicas", "chapter": "05.09"}
+{"term": "abdomen agudo apendicitis perforación oclusión", "category": "05_médicas", "chapter": "05.10"}
+{"term": "aneurisma aorta abdominal AAA roto", "category": "05_médicas", "chapter": "05.11"}
+{"term": "hemorragia digestiva hematemesis melenas rectorragias", "category": "05_médicas", "chapter": "05.12"}
+{"term": "sepsis shock séptico qSOFA cadena supervivencia", "category": "05_médicas", "chapter": "05.13"}
+{"term": "insuficiencia renal cólico nefrítico diálisis", "category": "05_médicas", "chapter": "05.14"}
+{"term": "alteraciones hidroelectrolíticas hipo hipernatremia potasemia", "category": "05_médicas", "chapter": "05.15"}
+{"term": "coma alteración conciencia AEIOU-TIPS herniación", "category": "05_médicas", "chapter": "05.16"}
+{"term": "endocrino no diabético tormenta tiroidea Addison mixedema", "category": "05_médicas", "chapter": "05.17"}
+{"term": "hematológico anemia crisis células falciformes coagulopatías", "category": "05_médicas", "chapter": "05.18"}
+{"term": "infeccioso grave meningitis meningococemia fascitis necrotizante tétanos", "category": "05_médicas", "chapter": "05.19"}
+{"term": "biomecánica cinemática índice colisión triángulo muerte", "category": "06_trauma", "chapter": "06.01"}
+{"term": "shock hemorrágico fases control daños REBOAM TXA", "category": "06_trauma", "chapter": "06.02"}
+{"term": "TCE leve moderado grave hipertensión intracraneal Cushing", "category": "06_trauma", "chapter": "06.03"}
+{"term": "lesión medular shock neurogénico espinal dermatomas", "category": "06_trauma", "chapter": "06.04"}
+{"term": "trauma torácico neumotórax a tensión descompresión taponamiento", "category": "06_trauma", "chapter": "06.05"}
+{"term": "trauma abdominal órganos sólidos huecos evisceración", "category": "06_trauma", "chapter": "06.06"}
+{"term": "trauma pélvico fracturas faja pélvica", "category": "06_trauma", "chapter": "06.07"}
+{"term": "fracturas fémur tibia húmero clavícula luxaciones", "category": "06_trauma", "chapter": "06.08"}
+{"term": "amputaciones manejo muñones conservación partes", "category": "06_trauma", "chapter": "06.09"}
+{"term": "crush syndrome aplastamiento mioglobinuria", "category": "06_trauma", "chapter": "06.10"}
+{"term": "quemaduras regla 9 profundidad química eléctrica vía aérea", "category": "06_trauma", "chapter": "06.11"}
+{"term": "trauma ocular globular químico cuerpo extraño enucleación", "category": "06_trauma", "chapter": "06.12"}
+{"term": "trauma maxilofacial Le Fort avulsiones dentarias", "category": "06_trauma", "chapter": "06.13"}
+{"term": "trauma penetrante arma blanca balística cavidades", "category": "06_trauma", "chapter": "06.14"}
+{"term": "caídas altura patrón lesiones ley Newton", "category": "06_trauma", "chapter": "06.15"}
+{"term": "trauma especiales embarazadas ancianos obesos", "category": "06_trauma", "chapter": "06.16"}
+{"term": "triángulo evaluación pediátrica TEP diferencias anatómicas", "category": "07_pediatría", "chapter": "07.01"}
+{"term": "constantes dosis peso cintas Broselow", "category": "07_pediatría", "chapter": "07.02"}
+{"term": "respiratorio pediátrico bronquiolitis crup epiglotitis", "category": "07_pediatría", "chapter": "07.03"}
+{"term": "shock pediátrico deshidratación escalas gastroenteritis", "category": "07_pediatría", "chapter": "07.04"}
+{"term": "neurológico pediátrico convulsiones febriles meningitis TCE", "category": "07_pediatría", "chapter": "07.05"}
+{"term": "cardiopatías congénitas cianóticas acianóticas crisis hipóxicas", "category": "07_pediatría", "chapter": "07.06"}
+{"term": "abdomen pediátrico invaginación estenosis apendicitis", "category": "07_pediatría", "chapter": "07.07"}
+{"term": "maltrato infantil síndrome niño sacudido lesiones no accidentales", "category": "07_pediatría", "chapter": "07.08"}
+{"term": "reanimación neonatal SMSL ALTE síndrome muerte súbita", "category": "07_pediatría", "chapter": "07.09"}
+{"term": "RN crítico algoritmo NRP VPP masaje adrenalina", "category": "07_pediatría", "chapter": "07.10"}
+{"term": "RN crítico avanzado prematuridad meconio hipotermia apnea", "category": "07_pediatría", "chapter": "07.11"}
+{"term": "fisiología embarazo cambios anatómicos signos alarma", "category": "08_obstetricia", "chapter": "08.01"}
+{"term": "parto normal fases atención corte cordón alumbramiento", "category": "08_obstetricia", "chapter": "08.02"}
+{"term": "hemorragias obstétricas placenta previa DPPNI hemorragia postparto", "category": "08_obstetricia", "chapter": "08.03"}
+{"term": "distocias prolapso cordón Marzack shoulder dystocia", "category": "08_obstetricia", "chapter": "08.04"}
+{"term": "aborto ectópico roto amenaza torsión ovárica", "category": "08_obstetricia", "chapter": "08.05"}
+{"term": "trauma quirúrgico embarazada abdomen agudo gestacional", "category": "08_obstetricia", "chapter": "08.06"}
+{"term": "hipotermia estadios congelación muerte inmersión REW", "category": "09_ambientales", "chapter": "09.01"}
+{"term": "golpe de calor agotamiento calambres rabdomiólisis", "category": "09_ambientales", "chapter": "09.02"}
+{"term": "ahogamiento casi ahogamiento protocolos rescate acuático", "category": "09_ambientales", "chapter": "09.03"}
+{"term": "electrocución baja alta tensión fulguración", "category": "09_ambientales", "chapter": "09.04"}
+{"term": "barotrauma enfermedad descompresiva ley Boyle", "category": "09_ambientales", "chapter": "09.05"}
+{"term": "fauna flora ofidios escorpiones medusas arañas plantas tóxicas", "category": "09_ambientales", "chapter": "09.06"}
+{"term": "rescate técnico espacios confinados alturas aguas rápidas", "category": "09_ambientales", "chapter": "09.07"}
+{"term": "evaluación tóxico descontaminación antídotos teléfono toxicológico", "category": "10_toxicología", "chapter": "10.01"}
+{"term": "gases tóxicos monóxido carbono cianuros sulfhídrico", "category": "10_toxicología", "chapter": "10.02"}
+{"term": "plaguicidas organofosforados carbamatos síndrome colinérgico atropina", "category": "10_toxicología", "chapter": "10.03"}
+{"term": "drogas abuso opiáceos cocaína anfetaminas cannabinoides", "category": "10_toxicología", "chapter": "10.04"}
+{"term": "fármacos alcohol benzodiacepinas antidepresivos etanol metanol", "category": "10_toxicología", "chapter": "10.05"}
+{"term": "cáusticos hidrocarburos ingestión lejía ácidos derivados petróleo", "category": "10_toxicología", "chapter": "10.06"}
+{"term": "síndromes tóxicos serotoninérgico neuroléptico maligno abstinencia", "category": "10_toxicología", "chapter": "10.07"}
+{"term": "IMV catástrofe urgencia emergencia diferencia", "category": "11_IMV", "chapter": "11.01"}
+{"term": "PMA puesto mando avanzado cadena mando", "category": "11_IMV", "chapter": "11.02"}
+{"term": "sectorización zonas caliente templada fría", "category": "11_IMV", "chapter": "11.03"}
+{"term": "PMA noria ambulancias clasificación evacuación", "category": "11_IMV", "chapter": "11.04"}
+{"term": "NRBQ riesgos nucleares radiológicos biológicos químicos ERPG IDLH", "category": "11_IMV", "chapter": "11.05"}
+{"term": "descontaminación duchas protección TES EPIs NBQ", "category": "11_IMV", "chapter": "11.06"}
+{"term": "tirador activo run hide fight TECC", "category": "11_IMV", "chapter": "11.07"}
+{"term": "violencia doméstica género familiar abuso mayores", "category": "11_IMV", "chapter": "11.08"}
+{"term": "delirio alucinaciones trastornos ánimo personalidad", "category": "12_psiquiatría", "chapter": "12.01"}
+{"term": "agitación escalada verbal crisis psicomotriz contención", "category": "12_psiquiatría", "chapter": "12.02"}
+{"term": "contención física 5 puntos farmacológica marco legal", "category": "12_psiquiatría", "chapter": "12.03"}
+{"term": "riesgo suicida ideación tentativa evaluación negociación", "category": "12_psiquiatría", "chapter": "12.04"}
+{"term": "diversidad funcional TEA autismo discapacidad intelectual barreras idiomáticas", "category": "12_psiquiatría", "chapter": "12.05"}
+{"term": "tipos ambulancias dotación checklists ergonomía habitáculo", "category": "13_operativa", "chapter": "13.01"}
+{"term": "radio TETRA códigos lenguaje claro OTAN", "category": "13_operativa", "chapter": "13.02"}
+{"term": "recepción aviso tiempos respuesta priorización rutas", "category": "13_operativa", "chapter": "13.03"}
+{"term": "balizamiento protección escena conos luces", "category": "13_operativa", "chapter": "13.04"}
+{"term": "monitorización ruta preaviso hospitalario elección centro útil", "category": "13_operativa", "chapter": "13.05"}
+{"term": "monitorización multiparámetro en ruta", "category": "13_operativa", "chapter": "13.06"}
+{"term": "transporte órganos equipos ECMO incubadoras sangre", "category": "13_operativa", "chapter": "13.07"}
+{"term": "normativa tráfico luces V-1 sirenas V-2 prioridad paso", "category": "14_conducción", "chapter": "14.01"}
+{"term": "conducción defensiva aquaplaning frenada emergencia deslizamiento", "category": "14_conducción", "chapter": "14.02"}
+{"term": "conducción nocturna fatiga deslumbramiento meteorología extrema", "category": "14_conducción", "chapter": "14.03"}
+{"term": "seguridad equipo cinturones EPIs cabina riesgo proyección", "category": "14_conducción", "chapter": "14.04"}
+{"term": "triaje telefónico preguntas guía manejo llamante", "category": "15_transtelefónico", "chapter": "15.01"}
+{"term": "RCP telefónica DESA público instrucciones ciudadano", "category": "15_transtelefónico", "chapter": "15.02"}
+{"term": "parto inminente OVACE atragantamiento maniobras teléfono", "category": "15_transtelefónico", "chapter": "15.03"}
+{"term": "guías transtelefónicas ictus infarto asma politrauma", "category": "15_transtelefónico", "chapter": "15.04"}
+{"term": "marco legal responsabilidad civil penal negligencias testimonio juicio", "category": "16_transversales", "chapter": "16.01"}
+{"term": "ética confidencialidad consentimiento informado secreto profesional menores", "category": "16_transversales", "chapter": "16.02"}
+{"term": "documentación clínica hoja asistencia legalidad firma RGPD", "category": "16_transversales", "chapter": "16.03"}
+{"term": "órdenes no RCP DNR instrucciones previas LET limitación esfuerzo terapéutico", "category": "16_transversales", "chapter": "16.04"}
+{"term": "tanatología signos muerte levantamiento cadáver donación órganos", "category": "16_transversales", "chapter": "16.05"}
+{"term": "duelo malas noticias SPIKES apoyo duelo familias", "category": "16_transversales", "chapter": "16.06"}
+{"term": "estrés burnout TEPT debriefing resiliencia", "category": "16_transversales", "chapter": "16.07"}
+{"term": "calidad auditoría clínica Sensafety mejora continua ciclo PDCA", "category": "16_transversales", "chapter": "16.08"}
+{"term": "registro hoja actividad digitalización errores frecuentes", "category": "16_transversales", "chapter": "16.09"}
+{"term": "Title VI no discriminación transporte público servicios federales", "category": "16_transversales", "chapter": "16.01"}
+{"term": "Title VI asistencia lingüística LEP plan cuatro factores", "category": "16_transversales", "chapter": "16.02"}
+{"term": "ILCOR BLS 2025 CoSTR AED gabinetes cerrados recomendación", "category": "02_soporte_vital", "chapter": "02.04"}
+{"term": "BLS 2025 desfibrilación pad placement anterolateral vector change", "category": "02_soporte_vital", "chapter": "02.04"}
+{"term": "BLS 2025 drone delivery AED optimización recuperación despacho", "category": "02_soporte_vital", "chapter": "02.04"}
+{"term": "BLS 2025 RCP PPE fatiga rescatadores revisión 2025", "category": "02_soporte_vital", "chapter": "02.02"}
+{"term": "BLS 2025 minimizar pausas compresiones ciclo 2 minutos", "category": "02_soporte_vital", "chapter": "02.02"}
+{"term": "BLS 2025 head-up CPR posición elevada evidencia muy baja", "category": "02_soporte_vital", "chapter": "02.02"}
+{"term": "BLS 2025 feedback tiempo real dispositivos ventilación calidad", "category": "02_soporte_vital", "chapter": "02.11"}

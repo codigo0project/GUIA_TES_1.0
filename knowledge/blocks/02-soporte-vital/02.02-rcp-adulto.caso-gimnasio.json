@@ -1,0 +1,55 @@
+{
+  "id": "02.02-rcp-adulto.caso-gimnasio",
+  "type": "caso-clinico",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Caso práctico: parada en gimnasio",
+  "summary": "Aplicación de RCP y DESA en adulto joven.",
+  "tags": [
+    "rcp",
+    "caso"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 10,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.02 - RCP Adulto.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "02.02-rcp-adulto",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "02.02 - RCP Adulto"
+  ],
+  "escenario": "Varón de 45 años colapsa en gimnasio mientras corre en cinta.",
+  "datos_paciente": {
+    "edad": "45",
+    "sexo": "M",
+    "motivo_consulta": "Colapso súbito",
+    "antecedentes": []
+  },
+  "signos_vitales": {},
+  "preguntas": [
+    {
+      "id": "q1",
+      "pregunta": "¿Cuál es el primer paso?",
+      "opciones": [
+        "Verificar respuesta",
+        "Buscar pulso",
+        "Llamar al 112"
+      ],
+      "respuesta_correcta": "Verificar respuesta",
+      "explicacion": "Seguridad y verificación de consciencia antes de actuar."
+    }
+  ],
+  "solucion_comentada": "Iniciar RCP tras verificar inconsciencia y no respirar."
+}

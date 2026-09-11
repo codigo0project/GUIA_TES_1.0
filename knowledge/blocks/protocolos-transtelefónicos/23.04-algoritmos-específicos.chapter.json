@@ -1,0 +1,69 @@
+{
+  "id": "23.04-algoritmos-específicos",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "23.04 - Algoritmos específicos",
+  "summary": "",
+  "tags": [
+    "15",
+    "protocolos",
+    "transtelefónico",
+    "ictus",
+    "infarto",
+    "asma",
+    "triaje"
+  ],
+  "block": "23 - Protocolos Transtelefónicos",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/23 - Protocolos Transtelefónicos/23.04 - Algoritmos específicos.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "58d6dca7995ec56e8226d6f765b27044e568b64bc22c6bb90d3c9c92f119ae8c"
+  },
+  "created_at": "2026-08-07T15:56:57.184782+00:00",
+  "updated_at": "2026-08-07T15:56:57.184782+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0504---ictus-y-código-ictus",
+      "type": "related"
+    },
+    {
+      "to": "0501---angina-iam-y-código-infarto",
+      "type": "related"
+    },
+    {
+      "to": "0506---asma-y-epoc",
+      "type": "related"
+    },
+    {
+      "to": "0601---biomecánica-y-cinemática",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Ictus",
+    "Infarto / SCA",
+    "Asma / EPOC Reagudizada",
+    "Politraumatismo",
+    "Caso Práctico",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Fuentes",
+    "Autoevaluación"
+  ],
+  "links": [
+    "05.04 - Ictus y código ictus",
+    "05.01 - Angina, IAM y código infarto",
+    "05.06 - Asma y EPOC",
+    "06.01 - Biomecánica y cinemática"
+  ]
+}

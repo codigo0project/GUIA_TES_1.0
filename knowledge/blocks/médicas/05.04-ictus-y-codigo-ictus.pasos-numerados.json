@@ -1,0 +1,58 @@
+{
+  "id": "05.04-ictus-y-codigo-ictus.pasos",
+  "type": "pasos-numerados",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "ictus"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 8,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.04 - Ictus y código ictus.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "05.04-ictus-y-codigo-ictus",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "05 - Médicas"
+  ],
+  "pasos": [
+    {
+      "orden": 1,
+      "accion": "Verificar hora de inicio"
+    },
+    {
+      "orden": 2,
+      "accion": "Escala FAST/CPSS"
+    },
+    {
+      "orden": 3,
+      "accion": "TA y glucemia capilar"
+    },
+    {
+      "orden": 4,
+      "accion": "ECG y TC craneal"
+    },
+    {
+      "orden": 5,
+      "accion": "Preavisar código ictus"
+    },
+    {
+      "orden": 6,
+      "accion": "Trasladar a hospital con tratamiento endovascular"
+    }
+  ],
+  "titulo": "Secuencia 05.04-ictus-y-codigo-ictus"
+}

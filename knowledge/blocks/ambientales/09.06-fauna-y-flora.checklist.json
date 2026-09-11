@@ -1,0 +1,40 @@
+{
+  "id": "09.06-fauna-y-flora.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 09.06-fauna-y-flora",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "fauna"
+  ],
+  "block": "09 - Ambientales",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/09 - Ambientales/09.06 - Fauna y flora.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "09.06-fauna-y-flora",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "09 - Ambientales"
+  ],
+  "items": [
+    "Identificar animal/planta",
+    "Lavar herida con suero",
+    "Extraer aguijón si es posible",
+    "Inmovilizar extremidad",
+    "Considerar antídoto si disponible",
+    "Transportar a hospital"
+  ]
+}

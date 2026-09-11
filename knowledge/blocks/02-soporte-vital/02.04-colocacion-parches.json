@@ -1,0 +1,32 @@
+{
+  "id": "02.04-colocacion-parches",
+  "type": "technique",
+  "version": "2026.08.04",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Colocación de parches",
+  "summary": "Posiciones anterolateral y anteroposterior, precauciones.",
+  "relations": [
+    {
+      "to": "02.02-rcp-adulto",
+      "type": "related"
+    },
+    {
+      "to": "02.02-desfibrilacion",
+      "type": "related"
+    },
+    {
+      "to": "02.04-desa",
+      "type": "related"
+    }
+  ],
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.04 - DESA.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": null
+  },
+  "created_at": "2026-08-04T13:40:00+00:00",
+  "updated_at": "2026-08-04T13:40:00+00:00",
+  "reviewed_by": null
+}

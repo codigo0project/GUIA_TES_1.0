@@ -1,0 +1,42 @@
+{
+  "id": "05.06-asma-y-epoc.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist crisis asmática/EPOC",
+  "summary": "Puntos de evaluación y tratamiento inicial.",
+  "tags": [
+    "asma",
+    "epoc",
+    "checklist"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.06 - Asma y EPOC.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "05.06-asma-y-epoc",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "05.06 - Asma y EPOC"
+  ],
+  "items": [
+    "Valorar gravedad: SatO2, trabajo respiratorio, habla",
+    "Administrar O2 titulado",
+    "Salbutamol nebulizado 5 mg",
+    "Añadir ipratropio 0.5 mg en EPOC/asma grave",
+    "Considerar adrenalina nebulizada si no mejora",
+    "Preavisar UCI si empeora"
+  ]
+}

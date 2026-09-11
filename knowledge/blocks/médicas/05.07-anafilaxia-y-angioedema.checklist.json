@@ -1,0 +1,40 @@
+{
+  "id": "05.07-anafilaxia-y-angioedema.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 05.07-anafilaxia-y-angioedema",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "anafilaxia"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.07 - Anafilaxia y angioedema.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "05.07-anafilaxia-y-angioedema",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "05 - Médicas"
+  ],
+  "items": [
+    "Verificar vía aérea y respiración",
+    "Adrenalina IM 0.5 mg en muslo",
+    "Posición supina con piernas elevadas",
+    "O2 de alto flujo",
+    "Preparar segunda dosis",
+    "Transportar a hospital"
+  ]
+}

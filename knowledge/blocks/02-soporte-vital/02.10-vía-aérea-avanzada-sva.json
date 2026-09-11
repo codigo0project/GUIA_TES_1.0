@@ -1,0 +1,28 @@
+{
+  "id": "02.10-vía-aérea-avanzada-sva",
+  "type": "technique",
+  "version": "2026.08.04",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Vía aérea avanzada en SVA",
+  "summary": "IOT, dispositivo supraglótico y ventilación durante la parada.",
+  "relations": [
+    {
+      "to": "02.10-concepto-sva",
+      "type": "related"
+    },
+    {
+      "to": "02.06-vía-aérea-avanzada",
+      "type": "related"
+    }
+  ],
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.10 - Algoritmos SVA.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": null
+  },
+  "created_at": "2026-08-04T14:00:00+00:00",
+  "updated_at": "2026-08-04T14:00:00+00:00",
+  "reviewed_by": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": "14.03-conducción-nocturna-y-meteorología",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "14.03 - Conducción nocturna y meteorología",
+  "summary": "",
+  "tags": [
+    "14",
+    "Conducción Prioritaria"
+  ],
+  "block": "14 - Conducción Prioritaria",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/14 - Conducción Prioritaria/14.03 - Conducción nocturna y meteorología.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "71891e22211f180330658bb2515c72ef6f1dfe0f6814b8897bf275a19c018ceb"
+  },
+  "created_at": "2026-08-07T15:56:57.167812+00:00",
+  "updated_at": "2026-08-07T15:56:57.167812+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1401---normativa-de-tráfico",
+      "type": "related"
+    },
+    {
+      "to": "1402---conducción-defensiva",
+      "type": "related"
+    },
+    {
+      "to": "1404---seguridad-del-equipo",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Conducción Nocturna",
+    "Deslumbramiento",
+    "Fatiga del Conductor",
+    "Meteorología Extrema",
+    "Caso Práctico",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Fuentes",
+    "Autoevaluación"
+  ],
+  "links": [
+    "14.01 - Normativa de tráfico",
+    "14.02 - Conducción defensiva",
+    "14.04 - Seguridad del equipo"
+  ]
+}

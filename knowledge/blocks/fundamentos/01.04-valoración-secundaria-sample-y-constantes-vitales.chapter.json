@@ -1,0 +1,101 @@
+{
+  "id": "01.04-valoración-secundaria-sample-y-constantes-vitales",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "01.04 - Valoración Secundaria SAMPLE y Constantes Vitales",
+  "summary": "",
+  "tags": [
+    "fundamentos",
+    "valoracion",
+    "SAMPLE",
+    "constantes",
+    "valoracion-secundaria"
+  ],
+  "block": "01 - Fundamentos",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/01 - Fundamentos/01.04 - Valoración Secundaria SAMPLE y Constantes Vitales.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "0a1a76fe1622b90c3c911158786bb7505bfe7725ec1ec3628ae15b1e305dafc3"
+  },
+  "created_at": "2026-08-07T15:56:56.328338+00:00",
+  "updated_at": "2026-08-07T15:56:56.328338+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0102---seguridad-en-escena-epis-y-bioseguridad0102---seguridad-en-escena-epis-y-bioseguridad",
+      "type": "related"
+    },
+    {
+      "to": "0103---valoración-primaria-algoritmo-abcde0103---valoración-primaria",
+      "type": "related"
+    },
+    {
+      "to": "0105---escalas-neurológicas0105---escalas-neurológicas",
+      "type": "related"
+    },
+    {
+      "to": "0201---reconocimiento-pcr0201---reconocimiento-pcr",
+      "type": "related"
+    },
+    {
+      "to": "0202---rcp-adulto0202---rcp-adulto",
+      "type": "related"
+    },
+    {
+      "to": "0603---tce0603---tce",
+      "type": "related"
+    },
+    {
+      "to": "0103---valoración-primaria-algoritmo-abcde0103",
+      "type": "related"
+    },
+    {
+      "to": "0105---escalas-neurológicas0105",
+      "type": "related"
+    },
+    {
+      "to": "0201---reconocimiento-pcr0201",
+      "type": "related"
+    },
+    {
+      "to": "0603---tce0603",
+      "type": "related"
+    },
+    {
+      "to": "1305---traslado1305",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Concepto, finalidad y diferencias con la valoración primaria",
+    "Anamnesis estructurada: SAMPLE",
+    "Constantes vitales prehospitalarias",
+    "Exploración física sistemática",
+    "Reevaluación continua y vigilancia durante el traslado",
+    "Documentación y entrega estructurada",
+    "Casos prácticos",
+    "Errores críticos y precauciones",
+    "Puntos clave y checklist",
+    "Conexiones transversales"
+  ],
+  "links": [
+    "imagenes/01.04_constantes-por-edad.png",
+    "01.02 - Seguridad en escena, EPIs y bioseguridad|01.02 - Seguridad en escena, EPIs y bioseguridad",
+    "01.03 - Valoración Primaria Algoritmo ABCDE|01.03 - Valoración Primaria",
+    "01.05 - Escalas Neurológicas|01.05 - Escalas Neurológicas",
+    "02.01 - Reconocimiento PCR|02.01 - Reconocimiento PCR",
+    "02.02 - RCP Adulto|02.02 - RCP Adulto",
+    "06.03 - TCE|06.03 - TCE",
+    "01.03 - Valoración Primaria Algoritmo ABCDE|01.03",
+    "01.05 - Escalas Neurológicas|01.05",
+    "02.01 - Reconocimiento PCR|02.01",
+    "06.03 - TCE|06.03",
+    "13.05 - Traslado|13.05"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "03.02-hemorragias-y-torniquetes.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist control de hemorragia",
+  "summary": "Pasos para controlar una hemorragia externa masiva.",
+  "tags": [
+    "hemorragia",
+    "checklist"
+  ],
+  "block": "03 - Material",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/03 - Material/03.02 - Hemorragias y torniquetes.md"
+  },
+  "created_at": "2026.08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "03.02-hemorragias-y-torniquetes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "03.02 - Hemorragias y torniquetes"
+  ],
+  "items": [
+    "Comprimir directamente sobre la herida",
+    "Aplicar torniquete si no cede",
+    "Marcar hora de colocación",
+    "No aflojar sin orden hospitalaria",
+    "Reevaluar pulso distal",
+    "Transportar urgentemente"
+  ]
+}

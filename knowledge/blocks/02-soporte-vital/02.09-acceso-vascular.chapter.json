@@ -1,0 +1,62 @@
+{
+  "id": "02.09-acceso-vascular",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "02.09 - Acceso Vascular",
+  "summary": "",
+  "tags": [
+    "02",
+    "soporte-vital",
+    "acceso-vascular",
+    "canulacion",
+    "io",
+    "ez-io",
+    "intraóseo"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.09 - Acceso Vascular.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "e4982bfca7974da1d9978eae109ed341af258bf418f32950f673e43d470dacc1"
+  },
+  "created_at": "2026-08-03T21:34:03.825160+00:00",
+  "updated_at": "2026-08-03T21:34:03.825160+00:00",
+  "reviewed_by": null,
+  "relations": [],
+  "nodes": [
+    "02.09-concepto-acceso-vascular",
+    "02.09-vía-periférica-iv",
+    "02.09-vía-intraósea-io",
+    "02.09-vía-central",
+    "02.09-material-y-preparación",
+    "02.09-técnica-punción",
+    "02.09-complicaciones",
+    "02.09-caso-practico",
+    "02.09-checklist",
+    "02.09-autoevaluacion"
+  ],
+  "sections": [
+    "Importancia del acceso vascular en emergencias",
+    "Canulación venosa periférica (IV)",
+    "Acceso intraóseo (IO)",
+    "Acceso venoso central",
+    "Material y preparación",
+    "Técnica de punción",
+    "Complicaciones y resolución",
+    "Caso práctico",
+    "Checklist",
+    "Autoevaluación"
+  ],
+  "links": [
+    "04.09 - Fluidoterapia",
+    "02.02 - RCP Adulto",
+    "01.09 - Fisiopatología del Shock",
+    "02.10 - Algoritmos SVA",
+    "04.01 - Farmacocinética"
+  ]
+}

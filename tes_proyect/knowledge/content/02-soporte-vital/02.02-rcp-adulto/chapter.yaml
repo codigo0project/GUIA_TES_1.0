@@ -1,0 +1,129 @@
+---
+id: "02.02.rcp-adulto"
+slug: "rcp-adulto"
+type: "chapter"
+title: "Reanimación Cardiopulmonar en Adulto"
+bloque: "02 - Soporte Vital Básico y Avanzado"
+capitulo: "02.02"
+status: "draft"
+version: "2026.08.01"
+reviewed_at: "2026-08-07"
+authors: ["dr-garcia"]
+order: 2
+duration_min: 20
+difficulty: "intermedio"
+prerequisites:
+  - "01.03.valoracion-primaria"
+  - "01.04.dea-conceptos"
+learning_objectives:
+  - "Identificar una parada cardiorrespiratoria (PCR)"
+  - "Realizar compresiones torácicas de calidad"
+  - "Coordinar RCP con respiraciones de rescate"
+  - "Operar un desfibrilador externo automático (DEA)"
+  - "Reconocer indicaciones de finalización del esfuerzo"
+tags: ["RCP", "PCR", "SCA", "DEA", "SVB", "compresiones", "reanimacion"]
+relations:
+  - to: "02.03.rcp-pediatrica"
+    type: "related"
+  - to: "04.04.adrenalina"
+    type: "related"
+  - to: "02.01.soporte-vital-basico"
+    type: "prerequisite"
+imagen_portada: ""
+fuentes: ["ERC 2025", "AHA 2025 Guidelines", "RD 1397/2007"]
+
+blocks:
+  - type: "texto"
+    content: |
+      La parada cardiorrespiratoria (PCR) es la cesación súbita e inesperada de la 
+      circulación espontánea efectiva. La RCP de calidad iniciada precozmente 
+      duplica o triplica la supervivencia.
+
+  - type: "escala-color"
+    titulo: "Cadena de supervivencia"
+    niveles:
+      - id: "reconocimiento"
+        severidad: "critica"
+        tiempo_max_min: 0
+        ejemplos: ["Identificar PCR", "Llamar a emergencias"]
+      - id: "rcp-inmediata"
+        severidad: "critica"
+        tiempo_max_min: 1
+        ejemplos: ["Iniciar compresiones", "Ventilar"]
+      - id: "desfibrilacion"
+        severidad: "alta"
+        tiempo_max_min: 3
+        ejemplos: ["Aplicar DEA", "Descargar"]
+      - id: "atencion-avanzada"
+        severidad: "media"
+        tiempo_max_min: 8
+        ejemplos: ["Intubación", "Acceso vascular"]
+      - id: "post-resucitacion"
+        severidad: "baja"
+        tiempo_max_min: null
+        ejemplos: ["Cuidados intensivos", "Hipotermia"]
+
+  - type: "pasos-numerados"
+    titulo: "Algoritmo RCP Adulto (SVB)"
+    pasos:
+      - orden: 1
+        accion: "Comprobar seguridad de la escena"
+        verificacion: "Sin peligro para el reanimador ni la víctima"
+        errores_criticos: ["No valorar escena antes de acercarse"]
+      - orden: 2
+        accion: "Valorar consciencia: sacudir suavemente y preguntar '¿Está bien?'"
+        verificacion: "No hay respuesta verbal ni movimiento"
+      - orden: 3
+        accion: "Pedir ayuda: activar sistema de emergencias (112) y solicitar DEA"
+        verificacion: "Se ha activado el 112 y alguien va por el DEA"
+        errores_criticos: ["Retrasar la llamada al 112", "Dejar solo al paciente sin indicar a nadie"]
+      - orden: 4
+        accion: "Comprobar respiración: observar, escuchar y sentir durante 10 segundos"
+        verificacion: "No hay respiración normal (agonía NO es respiración normal)"
+        errores_criticos: ["Confundir respiración agónica con respiración normal"]
+      - orden: 5
+        accion: "Iniciar compresiones torácicas: centro del tórax, 100-120/min, profundidad 5-6 cm"
+        verificacion: "El tórax se recoloca completamente entre compresiones"
+        errores_criticos: 
+          - "Compresiones demasiado lentas (< 100/min)"
+          - "Compresiones demasiado superficiales (< 5 cm)"
+          - "No dejar recolar el tórax"
+      - orden: 6
+        accion: "Alternar 30 compresiones con 2 ventilaciones de rescate"
+        verificacion: "Cada ventilación dura 1 segundo y produce elevación visible del tórax"
+        errores_criticos: 
+          - "Hiperventilar"
+          - "Ventilar sin abrir la vía aérea"
+      - orden: 7
+        accion: "No interrumpir compresiones hasta llegada del DEA o equipo avanzado"
+        verificacion: "Interrupciones < 10 segundos"
+        errores_criticos: ["Interrumpir compresiones innecesariamente"]
+
+  - type: "tabla-comparativa"
+    titulo: "Compresiones: Adulto vs Pediátrico"
+    columnas: ["Parámetro", "Adulto", "Lactante", "Niño"]
+    filas:
+      - etiqueta: "Profundidad"
+        valores: ["5-6 cm", "4 cm (1/3 del tórax)", "5 cm (1/3 del tórax)"]
+        highlight: "critica"
+      - etiqueta: "Frecuencia"
+        valores: ["100-120/min", "100-120/min", "100-120/min"]
+      - etiqueta: "Técnica"
+        valores: ["Dos manos", "Dos dedos", "Una o dos manos"]
+      - etiqueta: "Relación compresiones:ventilaciones"
+        valores: ["30:2", "30:2 (2 reanimadores 15:2)", "30:2 (2 reanimadores 15:2)"]
+
+  - type: "ficha-farmaco"
+    farmaco_id: "04.04.adrenalina"
+
+  - type: "checklist"
+    items:
+      - "Escena segura confirmada"
+      - "112 activado y DEA solicitado"
+      - "Consciencia y respiración evaluadas (< 10 seg)"
+      - "Compresiones a 100-120/min, 5-6 cm"
+      - "Recolación completa del tórax"
+      - "Ventilaciones 1 seg, elevación visible"
+      - "Interrupciones < 10 segundos"
+      - "DEA aplicado tan pronto como disponible"
+      - "Equipo avanzado notificado"

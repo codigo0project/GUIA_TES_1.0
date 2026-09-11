@@ -1,0 +1,52 @@
+{
+  "mappings": [
+    {
+      "manual": "manual/14 - Conducción Prioritaria/14.01 - Normativa de tráfico.md",
+      "knowledge": "knowledge/blocks/conducción-prioritaria/14.01-normativa-de-tráfico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.184396+00:00"
+    },
+    {
+      "manual": "manual/14 - Conducción Prioritaria/14.02 - Conducción defensiva.md",
+      "knowledge": "knowledge/blocks/conducción-prioritaria/14.02-conducción-defensiva.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.186050+00:00"
+    },
+    {
+      "manual": "manual/14 - Conducción Prioritaria/14.03 - Conducción nocturna y meteorología.md",
+      "knowledge": "knowledge/blocks/conducción-prioritaria/14.03-conducción-nocturna-y-meteorología.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.187680+00:00"
+    },
+    {
+      "manual": "manual/14 - Conducción Prioritaria/14.04 - Seguridad del equipo.md",
+      "knowledge": "knowledge/blocks/conducción-prioritaria/14.04-seguridad-del-equipo.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.188920+00:00"
+    },
+    {
+      "manual": "manual/14 - Conducción Prioritaria/14.01 - Normativa de tráfico.md",
+      "knowledge": "knowledge/blocks/conducción-prioritaria/14.01-normativa-de-tráfico.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.376320+00:00"
+    },
+    {
+      "manual": "manual/14 - Conducción Prioritaria/14.02 - Conducción defensiva.md",
+      "knowledge": "knowledge/blocks/conducción-prioritaria/14.02-conducción-defensiva.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.378463+00:00"
+    },
+    {
+      "manual": "manual/14 - Conducción Prioritaria/14.03 - Conducción nocturna y meteorología.md",
+      "knowledge": "knowledge/blocks/conducción-prioritaria/14.03-conducción-nocturna-y-meteorología.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.380499+00:00"
+    },
+    {
+      "manual": "manual/14 - Conducción Prioritaria/14.04 - Seguridad del equipo.md",
+      "knowledge": "knowledge/blocks/conducción-prioritaria/14.04-seguridad-del-equipo.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.382577+00:00"
+    }
+  ]
+}

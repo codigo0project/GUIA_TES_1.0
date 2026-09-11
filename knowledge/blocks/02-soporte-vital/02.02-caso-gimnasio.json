@@ -1,0 +1,28 @@
+{
+  "id": "02.02-caso-gimnasio",
+  "type": "case",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Caso práctico - Colapso en gimnasio",
+  "summary": "Varón 55 años con PCR por FV en gimnasio: RCP por testigos, DESA precoz y tratamiento con adrenalina y amiodarona.",
+  "relations": [
+    {
+      "to": "02.02-rcp-adulto",
+      "type": "related"
+    },
+    {
+      "to": "02.02-algoritmo-erc",
+      "type": "related"
+    }
+  ],
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.02 - RCP Adulto.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": null
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "02.10-monitorizacion-sva",
+  "type": "technique",
+  "version": "2026.08.04",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Monitorización en SVA",
+  "summary": "ECG, capnografía, SpO₂ y objetivos de fracción de RCP.",
+  "relations": [
+    {
+      "to": "02.10-concepto-sva",
+      "type": "related"
+    }
+  ],
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.10 - Algoritmos SVA.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": null
+  },
+  "created_at": "2026-08-04T14:00:00+00:00",
+  "updated_at": "2026-08-04T14:00:00+00:00",
+  "reviewed_by": null
+}

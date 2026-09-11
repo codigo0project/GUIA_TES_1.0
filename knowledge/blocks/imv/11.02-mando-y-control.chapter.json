@@ -1,0 +1,60 @@
+{
+  "id": "11.02-mando-y-control",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "11.02 - Mando y control",
+  "summary": "",
+  "tags": [
+    "11",
+    "IMV",
+    "PMA",
+    "mando-y-control",
+    "cadena-de-mando",
+    "interoperabilidad"
+  ],
+  "block": "11 - IMV",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/11 - IMV/11.02 - Mando y control.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "c89f1f204fd386561ef72f6a6c969d11c9c31150ae844f73265c78f21c446f38"
+  },
+  "created_at": "2026-08-07T15:56:57.120988+00:00",
+  "updated_at": "2026-08-07T15:56:57.120988+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1101---conceptos-imv",
+      "type": "related"
+    },
+    {
+      "to": "1103---sectorización",
+      "type": "related"
+    },
+    {
+      "to": "1302---comunicaciones",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Puesto de Mando Avanzado (PMA)",
+    "Cadena de Mando",
+    "Interoperabilidad",
+    "Comunicaciones en IMV",
+    "Sectorización",
+    "Gestión de Recursos",
+    "Caso Práctico",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "11.01 - Conceptos IMV",
+    "11.03 - Sectorización",
+    "13.02 - Comunicaciones"
+  ]
+}

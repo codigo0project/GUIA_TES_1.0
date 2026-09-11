@@ -1,0 +1,40 @@
+{
+  "id": "05.08-diabetes.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 05.08-diabetes",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "diabetes"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.08 - Diabetes.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "05.08-diabetes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "05 - Médicas"
+  ],
+  "items": [
+    "Glucemia capilar si sospecha",
+    "Glucosa oral si consciente",
+    "Glucosa IV o glucagón si inconsciente",
+    "Reponer hidratos al recuperar",
+    "Monitorizar glucemia seriada",
+    "Transportar si repetida"
+  ]
+}

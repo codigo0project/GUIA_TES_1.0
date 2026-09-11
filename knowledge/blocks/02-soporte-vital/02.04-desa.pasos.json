@@ -1,0 +1,61 @@
+{
+  "id": "02.04-desa.pasos",
+  "type": "pasos-numerados",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Secuencia de uso del DESA",
+  "summary": "Pasos básicos desde la llegada del DESA hasta la postdescarga.",
+  "tags": [
+    "desa",
+    "pasos"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 8,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.04 - DESA.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "02.04-desa",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "02.04 - DESA"
+  ],
+  "titulo": "Secuencia de uso del DESA",
+  "pasos": [
+    {
+      "orden": 1,
+      "accion": "Encender el DESA y conectar parches.",
+      "verificacion": "Verificar indicador de funcionamiento."
+    },
+    {
+      "orden": 2,
+      "accion": "Aplicar parches en posición anatómica.",
+      "verificacion": "Piel seca y sin vello."
+    },
+    {
+      "orden": 3,
+      "accion": "Permitir análisis del ritmo.",
+      "verificacion": "Nadie toca al paciente."
+    },
+    {
+      "orden": 4,
+      "accion": "Descargar si está indicado.",
+      "verificacion": "Retirar contacto y reanudar RCP."
+    },
+    {
+      "orden": 5,
+      "accion": "Reevaluar pulso y respiración.",
+      "verificacion": "Continuar RCP si no hay retorno."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "02.02-checklist",
+  "type": "checklist_item",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist RCP adulto",
+  "summary": "Puntos críticos de verificación durante una RCP adulto.",
+  "relations": [
+    {
+      "to": "02.02-rcp-adulto",
+      "type": "related"
+    }
+  ],
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.02 - RCP Adulto.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": null
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null
+}

@@ -1,0 +1,112 @@
+{
+  "mappings": [
+    {
+      "manual": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.02-seguridad-en-escena-epis-y-bioseguridad.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:39.987437+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.03 - Valoración Primaria Algoritmo ABCDE.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.03-valoración-primaria-algoritmo-abcde.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:39.989672+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.04 - Valoración Secundaria SAMPLE y Constantes Vitales.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.04-valoración-secundaria-sample-y-constantes-vitales.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:39.992485+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.06 - Cadena de Supervivencia.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.06-cadena-de-supervivencia.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:39.996391+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.07 - Triaje START JumpSTART Siegel y hospitalario.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.07-triaje-start-jumpstart-siegel-y-hospitalario.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:39.998516+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.08 - Comunicación clínica y entrega.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.08-comunicación-clínica-y-entrega.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.000761+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.09 - Fisiopatología del Shock.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.09-fisiopatología-del-shock.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.003056+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.10 - Equilibrio Ácido-Base.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.10-equilibrio-ácido-base.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:34:40.005117+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.02-seguridad-en-escena-epis-y-bioseguridad.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.166661+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.03 - Valoración Primaria Algoritmo ABCDE.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.03-valoración-primaria-algoritmo-abcde.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.169034+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.04 - Valoración Secundaria SAMPLE y Constantes Vitales.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.04-valoración-secundaria-sample-y-constantes-vitales.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.171310+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.06 - Cadena de Supervivencia.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.06-cadena-de-supervivencia.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.175054+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.07 - Triaje START JumpSTART Siegel y hospitalario.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.07-triaje-start-jumpstart-siegel-y-hospitalario.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.177265+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.08 - Comunicación clínica y entrega.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.08-comunicación-clínica-y-entrega.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.179617+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.09 - Fisiopatología del Shock.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.09-fisiopatología-del-shock.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.181946+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.10 - Equilibrio Ácido-Base.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.10-equilibrio-ácido-base.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-03T21:37:53.183981+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.01 - Rol, competencias y marco legal RD 1397-2007.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.01-rol-competencias-y-marco-legal-rd-1397-2007.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-04T14:09:51.728480+00:00"
+    },
+    {
+      "manual": "manual/01 - Fundamentos/01.05 - Escalas Neurológicas.md",
+      "knowledge": "knowledge/blocks/fundamentos/01.05-escalas-neurológicas.chapter.json",
+      "status": "synced",
+      "last_sync": "2026-08-04T14:09:51.742330+00:00"
+    }
+  ]
+}

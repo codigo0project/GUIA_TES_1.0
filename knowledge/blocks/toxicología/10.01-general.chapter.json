@@ -1,0 +1,63 @@
+{
+  "id": "10.01-general",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "10.01 - General",
+  "summary": "",
+  "tags": [
+    "10",
+    "toxicología",
+    "intoxicación",
+    "descontaminación",
+    "antídotos",
+    "triaje-toxicológico"
+  ],
+  "block": "10 - Toxicología",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/10 - Toxicología/10.01 - General.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "2f5d001420f4eb6ad393ebd0adf7775307ddb40d6ff2f3123ad3ae96cf2a9af4"
+  },
+  "created_at": "2026-08-07T15:56:57.106497+00:00",
+  "updated_at": "2026-08-07T15:56:57.106497+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1002---gases-tóxicos",
+      "type": "related"
+    },
+    {
+      "to": "1003---plaguicidas",
+      "type": "related"
+    },
+    {
+      "to": "1004---drogas-de-abuso",
+      "type": "related"
+    },
+    {
+      "to": "1001---general1001---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Triaje Toxicológico",
+    "Descontaminación",
+    "Antídotos",
+    "Manejo Prehospitalario",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "10.02 - Gases tóxicos",
+    "10.03 - Plaguicidas",
+    "10.04 - Drogas de abuso",
+    "10.01 - General|10.01 - Fuentes"
+  ]
+}

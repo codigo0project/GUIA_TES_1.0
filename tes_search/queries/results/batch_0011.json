@@ -1,0 +1,322 @@
+[
+  {
+    "keyword": "NRBQ riesgos nucleares radiológicos biológicos químicos ERPG IDLH",
+    "category": "11_IMV",
+    "chapter": "11.05",
+    "hits": [
+      {
+        "path": "manual/11 - IMV/11.05 - NRBQ.md",
+        "score": 0.7464,
+        "text": "---\ntags:\n  - IMV\n  - NRBQ\n  - nuclear\n  - radiológico\n  - biológico\n  - químico\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Símbolos NRBQ y niveles de protección\"\n---\n\n# 11.05 -"
+      },
+      {
+        "path": "manual/11 - IMV/11.05 - NRBQ.md",
+        "score": 0.7045,
+        "text": "2.1. Nuclear/Radiológico\n- **Radiación** ionizante.\n- **Síndrome** agudo por radiación.\n- **Contaminación** externa/interna.\n\n### 2.2. Biológico\n- **Infecciones** por bacterias/virus.\n- **Síntomas** s"
+      },
+      {
+        "path": "manual/11 - IMV/11.06 - Descontaminación.md",
+        "score": 0.6717,
+        "text": " 6. Recursos Relacionados\n\n- NRBQ: [[11.05 - NRBQ]]\n- Gases tóxicos: [[10.02 - Gases tóxicos]]\n- Plaguicidas: [[10.03 - Plaguicidas]]\n- Fuentes: [[11.06 - Descontaminación|11.06 - Fuentes]]\n\n---\n\n## 📝"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.01 - Reconocimiento PCR.md",
+        "score": 0.66,
+        "text": "stema debe movilizarse mientras tú comprimes).\n- ❌ **No asegurar la escena** antes de arrodillarte (ver [[01.02 - Seguridad en escena, EPIs y bioseguridad|01.02 - Seguridad y Bioseguridad]]).\n\n## ✅ 7."
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.01 - Rol, competencias y marco legal (RD 1397/2007).md",
+        "score": 0.6518,
+        "text": " El TES es un profesional sanitario oficialmente regulado por el RD 1397/2007 y actualizado por el RD 287/2023.\n- Su competencia general combina asistencia prehospitalaria básica, traslado seguro, tel"
+      }
+    ]
+  },
+  {
+    "keyword": "descontaminación duchas protección TES EPIs NBQ",
+    "category": "11_IMV",
+    "chapter": "11.06",
+    "hits": [
+      {
+        "path": "manual/11 - IMV/11.06 - Descontaminación.md",
+        "score": 0.7296,
+        "text": "---\ntags:\n  - IMV\n  - descontaminación\n  - NBQ\n  - EPI\n  - protección-TES\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Flujo de descontaminación y niveles de EPI\"\n---\n\n# 11.06 - D"
+      },
+      {
+        "path": "manual/11 - IMV/11.05 - NRBQ.md",
+        "score": 0.6875,
+        "text": "* con equipos especializados.\n\n---\n\n## 🔗 6. Recursos Relacionados\n\n- Descontaminación: [[11.06 - Descontaminación]]\n- Gases tóxicos: [[10.02 - Gases tóxicos]]\n- Plaguicidas: [[10.03 - Plaguicidas]]\n- "
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+        "score": 0.6814,
+        "text": "ntaminación.\n- **Calzado cerrado y antideslizante:** protección frente a caídas, objetos punzantes y derrames.\n\n### 2.3. Protección avanzada según riesgo\n\nSe añade protección cuando el riesgo supera e"
+      },
+      {
+        "path": "manual/11 - IMV/11.06 - Descontaminación.md",
+        "score": 0.6737,
+        "text": " 6. Recursos Relacionados\n\n- NRBQ: [[11.05 - NRBQ]]\n- Gases tóxicos: [[10.02 - Gases tóxicos]]\n- Plaguicidas: [[10.03 - Plaguicidas]]\n- Fuentes: [[11.06 - Descontaminación|11.06 - Fuentes]]\n\n---\n\n## 📝"
+      },
+      {
+        "path": "manual/11 - IMV/11.05 - NRBQ.md",
+        "score": 0.6685,
+        "text": "---\ntags:\n  - IMV\n  - NRBQ\n  - nuclear\n  - radiológico\n  - biológico\n  - químico\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Símbolos NRBQ y niveles de protección\"\n---\n\n# 11.05 -"
+      }
+    ]
+  },
+  {
+    "keyword": "tirador activo run hide fight TECC",
+    "category": "11_IMV",
+    "chapter": "11.07",
+    "hits": [
+      {
+        "path": "manual/11 - IMV/11.07 - Tirador activo.md",
+        "score": 0.6963,
+        "text": "---\ntags:\n  - IMV\n  - tirador-activo\n  - violencia-extrema\n  - TECC\n  - run-hide-fight\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Protocolo Run-Hide-Fight y zonas de fuego en ti"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.04 - Seguridad del equipo.md",
+        "score": 0.5128,
+        "text": "ura excesiva).\n\n## 🚑 3. EPIs en Cabina\n\n### Equipo mínimo durante la conducción\n- **Chaleco reflectante** de alta visibilidad (guardado accesible, no puesto mientras se conduce).\n- **Guantes de nitril"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+        "score": 0.5075,
+        "text": "ntaminación.\n- **Calzado cerrado y antideslizante:** protección frente a caídas, objetos punzantes y derrames.\n\n### 2.3. Protección avanzada según riesgo\n\nSe añade protección cuando el riesgo supera e"
+      },
+      {
+        "path": "manual/09 - Ambientales/09.07 - Rescate técnico.md",
+        "score": 0.4969,
+        "text": "do.\n- ❌ No coordinar con bomberos → rescate inseguro.\n- ❌ Retrasar transporte una vez rescatado.\n\n---\n\n## ✅ 7. Puntos Clave\n\n- **Seguridad del equipo primero.**\n- **No entrar** sin entrenamiento.\n- **"
+      },
+      {
+        "path": "manual/14 - Conducción Prioritaria/14.04 - Seguridad del equipo.md",
+        "score": 0.4927,
+        "text": "hículo deben llevar el cinturón abrochado, incluido el acompañante y los ocupantes de la cabina trasera.\n- En servicio urgente con V-1 y V-2 activadas, **NO hay exención legal** del uso del cinturón.\n"
+      }
+    ]
+  },
+  {
+    "keyword": "violencia doméstica género familiar abuso mayores",
+    "category": "11_IMV",
+    "chapter": "11.08",
+    "hits": [
+      {
+        "path": "manual/11 - IMV/11.08 - Violencia doméstica.md",
+        "score": 0.7673,
+        "text": "---\ntags:\n  - IMV\n  - violencia-doméstica\n  - violencia-género\n  - abuso-mayores\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Señales de alarma en violencia de género y abuso a ma"
+      },
+      {
+        "path": "manual/16 - Transversales/16.05 - Tanatología.md",
+        "score": 0.635,
+        "text": ":** Equipo de donación (teléfono específico)\n- **Documentación:** Registrar en hoja de asistencia\n\n## ⚠️ 4. Actuación Tras Muerte\n\n- **Cuerpo:**\n  - Cubrir respetando intimidad\n  - No mover innecesari"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+        "score": 0.6337,
+        "text": "principales familias de riesgo:\n\n- **Riesgos de tráfico:** colisiones, atropellos, vehículos sin estabilizar, falta de balizamiento, maniobras de marcha atrás.\n- **Riesgos físicos:** caídas desde altu"
+      },
+      {
+        "path": "manual/11 - IMV/11.08 - Violencia doméstica.md",
+        "score": 0.6277,
+        "text": ". Errores Críticos\n\n- ❌ Confrontar al agresor → riesgo para víctima y equipo.\n- ❌ No documentar → falta de pruebas.\n- ❌ No comunicar sospecha → continuar violencia.\n- ❌ Presionar a la víctima → retrai"
+      },
+      {
+        "path": "manual/16 - Transversales/16.06 - Duelo y malas noticias.md",
+        "score": 0.6113,
+        "text": "---\ntags:\n  - transversales\n  - duelo\n  - malas-noticias\n  - spike\nestado: 🟡 En progreso\nprioridad: Alta\nduracion: 20 min\nimagen: \"Modelo SPIKES y recomendaciones de apoyo\"\n---\n\n# 16.06 - Duelo y Comu"
+      }
+    ]
+  },
+  {
+    "keyword": "delirio alucinaciones trastornos ánimo personalidad",
+    "category": "12_psiquiatría",
+    "chapter": "12.01",
+    "hits": [
+      {
+        "path": "manual/12 - Psiquiatría/12.01 - Reconocimiento.md",
+        "score": 0.7047,
+        "text": "---\ntags:\n  - psiquiatría\n  - delirium\n  - demencia\n  - trastornos-del-ánimo\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Delirium vs demencia y signos de trastorno del ánimo\"\n---"
+      },
+      {
+        "path": "manual/12 - Psiquiatría/12.01 - Reconocimiento.md",
+        "score": 0.7032,
+        "text": ": [[12.02 - Agitación]]\n- Contención: [[12.03 - Contención]]\n- Riesgo suicida: [[12.04 - Riesgo suicida]]\n- Fuentes: [[12.01 - Reconocimiento|12.01 - Fuentes]]\n\n---\n\n## 📝 8. Notas Personales\n\n- Regla:"
+      },
+      {
+        "path": "manual/16 - Transversales/16.07 - Estrés y burnout.md",
+        "score": 0.6974,
+        "text": ":** Preguntas de autochequeo mensual\n- **Profesional:** Psicología del trasplante/emergencias\n- **Medicación:** Según prescripción (ISRS, ansiolíticos)\n\n## ⚠️ 4. Señales de Alarma\n\n- **Personal:** Irr"
+      },
+      {
+        "path": "manual/12 - Psiquiatría/12.01 - Reconocimiento.md",
+        "score": 0.6956,
+        "text": "je.\n- **Conciencia** conservada inicialmente.\n\n---\n\n## 🧠 3. Trastornos del Ánimo\n\n### 3.1. Depresión\n- **Anhedonia**, tristeza.\n- **Alteraciones** sueño/apetito.\n- **Ideación** suicida.\n\n### 3.2. Maní"
+      },
+      {
+        "path": "manual/10 - Toxicología/10.07 - Síndromes tóxicos.md",
+        "score": 0.661,
+        "text": ".\n- **Antieméticos** (metoclopramida).\n\n### 2.2. Clínica\n- **Hipertermia** alta.\n- **Rigidez** muscular (\"tubo de plomo\").\n- **Alteración** conciencia.\n- **Autonomicidad** elevada.\n\n### 2.3. Manejo\n- "
+      }
+    ]
+  },
+  {
+    "keyword": "agitación escalada verbal crisis psicomotriz contención",
+    "category": "12_psiquiatría",
+    "chapter": "12.02",
+    "hits": [
+      {
+        "path": "manual/12 - Psiquiatría/12.02 - Agitación.md",
+        "score": 0.8144,
+        "text": "---\ntags:\n  - psiquiatría\n  - agitación\n  - escalada-verbal\n  - crisis-psicomotriz\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Escala de agitación y protocolo de escalada verbal\""
+      },
+      {
+        "path": "manual/12 - Psiquiatría/12.02 - Agitación.md",
+        "score": 0.7546,
+        "text": "**Ofrecer** opciones.\n\n---\n\n## 🚑 3. Crisis Psicomotriz\n\n### 3.1. Medidas generales\n- **Espacio** amplio, sin obstáculos.\n- **Personal** entrenado.\n- **Material** de contención preparado.\n- **Vía aérea"
+      },
+      {
+        "path": "base_datos/03_modulos/07_apoyo_psicologico_emergencias.md",
+        "score": 0.7119,
+        "text": "# Módulo 7 - Apoyo psicológico en situaciones de emergencia\n\n## Referencias oficiales\n- Orden ESD/3391/2008, de 3 de noviembre.\n- Real Decreto 1397/2007, de 29 de octubre.\n\n## Contenidos recuperados\n-"
+      },
+      {
+        "path": "manual/04 - Farmacología/04.08 - Sedantes y Antagonistas.md",
+        "score": 0.7082,
+        "text": "Agitación psicomotriz** peligrosa para paciente o equipo.\n- **Sedación** para procedimientos (IOT, reducción fracturas).\n- **Status epiléptico** si fallan otras medidas.\n\n### 1.2. Técnica\n- **IV:** ad"
+      },
+      {
+        "path": "base_datos/03_modulos/00_modulos_base.md",
+        "score": 0.6864,
+        "text": "bstétricas iniciales.\n- Atención pediátrica, geriátrica y a pacientes con discapacidad.\n- Manejo de lesiones traumáticas, quemaduras, intoxicaciones y agresiones químicas o biológicas.\n\n### Evacuación"
+      }
+    ]
+  },
+  {
+    "keyword": "contención física 5 puntos farmacológica marco legal",
+    "category": "12_psiquiatría",
+    "chapter": "12.03",
+    "hits": [
+      {
+        "path": "manual/12 - Psiquiatría/12.03 - Contención.md",
+        "score": 0.766,
+        "text": "---\ntags:\n  - psiquiatría\n  - contención-física\n  - contención-farmacológica\n  - 5-puntos\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Técnica de contención física en 5 puntos\"\n--"
+      },
+      {
+        "path": "manual/12 - Psiquiatría/12.03 - Contención.md",
+        "score": 0.6904,
+        "text": "seguro.\n\n---\n\n## 💊 2. Contención Farmacológica\n\n### 2.1. Benzodiazepinas\n- **Indicación:** agitación severa.\n- **Dosis:** según protocolo.\n- **Vía:** IM/IV.\n\n### 2.2. Antipsicóticos\n- **Indicación:** "
+      },
+      {
+        "path": "manual/04 - Farmacología/04.00 - Fuentes Bloque 04.md",
+        "score": 0.6774,
+        "text": "---\ntags:\n  - Fuentes\n  - Bloque 04\nestado: 🟡 En progreso\nbloque: \"04 - Farmacología\"\ncapitulo: \"04 - Fuentes\"\n---\n\n# Fuentes - Bloque 04\n\n## Referencias normativas\n- Real Decreto 836/2012, de 25 de m"
+      },
+      {
+        "path": "manual/07 - Pediatría/07.02 - Constantes y dosis por peso.md",
+        "score": 0.6773,
+        "text": "\n\n---\n\n## ✅ 6. Puntos Clave\n\n- **Constantes** varían con la edad.\n- **Peso estimado** por fórmula o Broselow.\n- **Dosis por kg** en pediatría.\n- **Broselow:** longitud → color → dosis/equipos.\n- **Sie"
+      },
+      {
+        "path": "manual/13 - Operativa/13.06 - Monitorización.md",
+        "score": 0.6618,
+        "text": "es del servicio.\n\n---\n\n## ✅ 5. Puntos Clave\n\n- **Monitor:** ECG, SpO2, PNI continua.\n- **Capnografía:** estándar en intubados.\n- **Registro:** documento legal y clínico.\n- **Alarmas:** verificar antes"
+      }
+    ]
+  },
+  {
+    "keyword": "riesgo suicida ideación tentativa evaluación negociación",
+    "category": "12_psiquiatría",
+    "chapter": "12.04",
+    "hits": [
+      {
+        "path": "manual/12 - Psiquiatría/12.04 - Riesgo suicida.md",
+        "score": 0.7609,
+        "text": "---\ntags:\n  - psiquiatría\n  - riesgo-suicida\n  - ideación\n  - tentativa\n  - negociación\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Algoritmo de evaluación de riesgo suicida\"\n---"
+      },
+      {
+        "path": "base_datos/03_modulos/00_modulos_base.md",
+        "score": 0.6673,
+        "text": "sas, trámites de constitución y financiación.\n- Marketing básico, clientes y comercialización de servicios sanitarios.\n- Responsabilidad social, ética profesional y sostenibilidad.\n\n### Formación en C"
+      },
+      {
+        "path": "manual/12 - Psiquiatría/12.04 - Riesgo suicida.md",
+        "score": 0.6653,
+        "text": "3 - Contención]]\n- Fuentes: [[12.04 - Riesgo suicida|12.04 - Fuentes]]\n\n---\n\n## 📝 7. Notas Personales\n\n- Regla: **\"preguntar no aumenta el riesgo\"**.\n- Suicidio: **\"plan + acceso = urgencia\"**.\n"
+      },
+      {
+        "path": "base_datos/04_capitulos/01.08_informacion_cruda.md",
+        "score": 0.6614,
+        "text": "tuación, Antecedentes, Evaluación, Recomendación.\n- ISBAR: Identificación, Situación, Antecedentes, Evaluación, Recomendación.\n- MIST: Mechanism, Injuries, Signs, Treatment.\n- Aplicación en entrega de"
+      },
+      {
+        "path": "manual/12 - Psiquiatría/12.01 - Reconocimiento.md",
+        "score": 0.6509,
+        "text": ": [[12.02 - Agitación]]\n- Contención: [[12.03 - Contención]]\n- Riesgo suicida: [[12.04 - Riesgo suicida]]\n- Fuentes: [[12.01 - Reconocimiento|12.01 - Fuentes]]\n\n---\n\n## 📝 8. Notas Personales\n\n- Regla:"
+      }
+    ]
+  },
+  {
+    "keyword": "diversidad funcional TEA autismo discapacidad intelectual barreras idiomáticas",
+    "category": "12_psiquiatría",
+    "chapter": "12.05",
+    "hits": [
+      {
+        "path": "manual/12 - Psiquiatría/12.05 - Diversidad funcional.md",
+        "score": 0.7934,
+        "text": "---\ntags:\n  - psiquiatría\n  - diversidad-funcional\n  - autismo\n  - discapacidad-intelectual\n  - barreras-idiomáticas\nestado: ✅ Completado\nprioridad: Alta\nduracion: 12 min\nimagen: \"Comunicación adaptad"
+      },
+      {
+        "path": "base_datos/03_modulos/00_modulos_base.md",
+        "score": 0.6511,
+        "text": "bstétricas iniciales.\n- Atención pediátrica, geriátrica y a pacientes con discapacidad.\n- Manejo de lesiones traumáticas, quemaduras, intoxicaciones y agresiones químicas o biológicas.\n\n### Evacuación"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.05 - Escalas Neurológicas.md",
+        "score": 0.6411,
+        "text": "e valora respuesta a estímulos verbales y motores apropiados a la edad.\n- **Niño (2-5 años):** se ajusta la respuesta verbal y motora según el desarrollo del lenguaje y la motricidad.\n- **Escala de Gl"
+      },
+      {
+        "path": "manual/05 - Médicas/05.16 - Coma y alteración de conciencia.md",
+        "score": 0.635,
+        "text": "s: [[01.05 - Escalas Neurológicas]]\n- Hipoglucemia: [[05.08 - Diabetes]]\n- Ictus: [[05.04 - Ictus y código ictus]]\n- Fuentes: [[05.16 - Coma y alteración de conciencia|05.16 - Fuentes]]\n\n---\n\n## 📝 7. "
+      },
+      {
+        "path": "manual/12 - Psiquiatría/12.05 - Diversidad funcional.md",
+        "score": 0.6329,
+        "text": "No involucrar cuidador → información perdida.\n- ❌ Tratar como menor capacidad sin evaluación.\n\n---\n\n## ✅ 6. Puntos Clave\n\n- **TEA:** ambiente calmado, lenguaje literal.\n- **Discapacidad intelectual:**"
+      }
+    ]
+  },
+  {
+    "keyword": "tipos ambulancias dotación checklists ergonomía habitáculo",
+    "category": "13_operativa",
+    "chapter": "13.01",
+    "hits": [
+      {
+        "path": "manual/13 - Operativa/13.01 - Vehículo.md",
+        "score": 0.7989,
+        "text": "---\ntags:\n  - operativa\n  - ambulancia\n  - vehículo\n  - checklists\n  - ergonomía\nestado: ✅ Completado\nprioridad: Alta\nduracion: 15 min\nimagen: \"Plano de ambulancia y checklist de material\"\n---\n\n# 13.0"
+      },
+      {
+        "path": "manual/13 - Operativa/13.01 - Vehículo.md",
+        "score": 0.711,
+        "text": "\n- ❌ No reponer material tras consumo.\n- ❌ Trabajar sin cinturón en movimiento.\n- ❌ Levantar cargas en solitario.\n- ❌ Ignorar fallos mecánicos o eléctricos.\n\n---\n\n## ✅ 6. Puntos Clave\n\n- **Ambulancia "
+      },
+      {
+        "path": "base_datos/03_modulos/00_modulos_base.md",
+        "score": 0.7049,
+        "text": "s y recursos para atender la demanda.\n- Realizar mantenimiento de primer nivel del vehículo y su dotación.\n- Describir operaciones de limpieza, desinfección y verificación de equipos.\n- Analizar proto"
+      },
+      {
+        "path": "base_datos/04_capitulos/01.02_informacion_cruda.md",
+        "score": 0.6826,
+        "text": "ento básico.\n- Documentación: hoja de asistencia, partes de incidencia, registros de limpieza y desinfección.\n\n## Referencias para casos prácticos\n- SAMUR: valoración de escena y protocolo PAS.\n- Osak"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+        "score": 0.6787,
+        "text": "edores de cortantes.\n\n### 7.3. Precauciones generales\n\n- Cumplir siempre el protocolo PAS antes de atender.\n- Aplicar el EPI adecuado antes del primer contacto con el paciente.\n- Verificar la fecha de"
+      }
+    ]
+  }
+]

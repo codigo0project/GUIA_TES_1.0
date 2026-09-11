@@ -1,0 +1,40 @@
+{
+  "id": "06.11-quemaduras.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 06.11-quemaduras",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "quemaduras"
+  ],
+  "block": "06 - Trauma",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/06 - Trauma/06.11 - Quemaduras.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "06.11-quemaduras",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "06 - Trauma"
+  ],
+  "items": [
+    "Evaluar profundidad y superficie",
+    "Enfriar con agua templada",
+    "Canalizar vía si >15% SCQ",
+    "Analgesia según protocolo",
+    "Cubrir con apósito estéril",
+    "Transportar a hospital"
+  ]
+}

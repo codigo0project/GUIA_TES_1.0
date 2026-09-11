@@ -1,0 +1,28 @@
+{
+  "id": "02.10-causas-reversibles-4h4t",
+  "type": "concept",
+  "version": "2026.08.04",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Causas reversibles 4H/4T",
+  "summary": "Hipoxia, hipovolemia, hipotermia, hipoglucemia; trombosis, tromboembolismo, toxinas, taponamiento.",
+  "relations": [
+    {
+      "to": "02.10-algoritmo-fv-esp",
+      "type": "related"
+    },
+    {
+      "to": "02.10-algoritmo-asistolia-pea",
+      "type": "related"
+    }
+  ],
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.10 - Algoritmos SVA.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": null
+  },
+  "created_at": "2026-08-04T14:00:00+00:00",
+  "updated_at": "2026-08-04T14:00:00+00:00",
+  "reviewed_by": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "06.09-amputaciones.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 06.09-amputaciones",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [],
+  "block": "06 - Trauma",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/06 - Trauma/06.09 - Amputaciones.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "06.09-amputaciones",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "06 - Trauma"
+  ],
+  "items": [
+    "**Amputación traumática:** separación traumática de una extremidad o parte.",
+    "**Causas:** accidentes laborales, domésticos, tráfico, agrícolas.",
+    "**Clasificación:**",
+    "**Completa:** separación total del tejido.",
+    "**Incompleta:** tejido conectivo mantiene unión parcial.",
+    "**Avulsión:** desgarro con pérdida tisular extensa.",
+    "**Desgarro:** lesión irregular, mala prognosis.",
+    "**Dedos:** alta viabilidad, reimplante rutinario.",
+    "**Mano:** viabilidad buena, indicación clara.",
+    "**Antebrazo:** viabilidad moderada, valorar.",
+    "**Brazo:** viabilidad baja, indicación restrictiva.",
+    "**Pierna:** viabilidad baja, indicación muy restrictiva.",
+    "**Compresión directa:** apósito estéril, presión mantenida.",
+    "**Elevación:** reduce presión hidrostática.",
+    "**Puntos de presión:** arterias femoral, braquial, poplítea."
+  ]
+}

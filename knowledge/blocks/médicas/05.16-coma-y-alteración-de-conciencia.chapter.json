@@ -1,0 +1,72 @@
+{
+  "id": "05.16-coma-y-alteración-de-conciencia",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "05.16 - Coma y alteración de conciencia",
+  "summary": "",
+  "tags": [
+    "05",
+    "médicas",
+    "coma",
+    "alteración-conciencia",
+    "AEIOU-TIPS",
+    "herniación-cerebral"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.16 - Coma y alteración de conciencia.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "6c6d6985a566a51e94f91919caa5c04a4a1a75f396c768a8b142b53918e62c88"
+  },
+  "created_at": "2026-08-07T15:56:56.748920+00:00",
+  "updated_at": "2026-08-07T15:56:56.748920+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0105---escalas-neurológicas",
+      "type": "related"
+    },
+    {
+      "to": "0508---diabetes",
+      "type": "related"
+    },
+    {
+      "to": "0504---ictus-y-código-ictus",
+      "type": "related"
+    },
+    {
+      "to": "0603---tce",
+      "type": "related"
+    },
+    {
+      "to": "0516---coma-y-alteración-de-conciencia0516---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Evaluación Prehospitalaria",
+    "Etiologías Más Frecuentes",
+    "Tratamiento Prehospitalario",
+    "Signos de Herniación Cerebral",
+    "Manejo de Vía Aérea",
+    "Complicaciones",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "01.05 - Escalas Neurológicas",
+    "05.08 - Diabetes",
+    "05.04 - Ictus y código ictus",
+    "06.03 - TCE",
+    "05.16 - Coma y alteración de conciencia|05.16 - Fuentes"
+  ]
+}

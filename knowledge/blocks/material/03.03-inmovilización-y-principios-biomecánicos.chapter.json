@@ -1,0 +1,70 @@
+{
+  "id": "03.03-inmovilización-y-principios-biomecánicos",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "03.03 - Inmovilización y principios biomecánicos",
+  "summary": "",
+  "tags": [
+    "03",
+    "material",
+    "biomecánica",
+    "alineación",
+    "inmovilización",
+    "levantamiento",
+    "ergonomía"
+  ],
+  "block": "03 - Material",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/03 - Material/03.03 - Inmovilización y principios biomecánicos.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "bc8dd596dd1c042c02bc9c9056b95052106ef41538dfb854a8a2fee214bac671"
+  },
+  "created_at": "2026-08-07T15:56:56.393301+00:00",
+  "updated_at": "2026-08-07T15:56:56.393301+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0102---seguridad-en-escena-epis-y-bioseguridad",
+      "type": "related"
+    },
+    {
+      "to": "0103---valoración-primaria-algoritmo-abcde",
+      "type": "related"
+    },
+    {
+      "to": "0304---collarín-tabla-espinal-y-cuchara",
+      "type": "related"
+    },
+    {
+      "to": "0305---colchón-de-vacío-y-férulas",
+      "type": "related"
+    },
+    {
+      "to": "0307---transferencias-y-ergonomía",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Principios Biomecánicos Básicos",
+    "Técnicas de Levantamiento",
+    "Inmovilización de Columna Vertebral",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso"
+  ],
+  "links": [
+    "01.02 - Seguridad en escena, EPIs y bioseguridad",
+    "01.03 - Valoración Primaria Algoritmo ABCDE",
+    "03.04 - Collarín, tabla espinal y cuchara",
+    "03.05 - Colchón de vacío y férulas",
+    "03.07 - Transferencias y ergonomía"
+  ]
+}

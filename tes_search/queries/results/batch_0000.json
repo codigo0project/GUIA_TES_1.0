@@ -1,0 +1,322 @@
+[
+  {
+    "keyword": "valoración primaria ABCDE",
+    "category": "01_fundamentos",
+    "chapter": "01.03",
+    "hits": [
+      {
+        "path": "manual/01 - Fundamentos/01.03 - Valoración Primaria Algoritmo ABCDE.md",
+        "score": 0.7268,
+        "text": "---\ntags:\n  - Capítulo 01.03\n  - TES\n  - valoracion\n  - ABCDE\n  - trauma\n  - valoracion-primaria\nparte: \"01 - Fundamentos\"\ncapitulo: \"01.03 - Valoración Primaria: Algoritmo ABCDE\"\nimagen: \"Flujo ABCDE"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.03 - Valoración Primaria Algoritmo ABCDE.md",
+        "score": 0.7108,
+        "text": "primaria no termina en la escena; continúa durante el traslado y se revalida ante cualquier cambio.\n- **Documentación paralela:** los hallazgos deben registrarse en la hoja de asistencia mientras se a"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.04 - Valoración Secundaria SAMPLE y Constantes Vitales.md",
+        "score": 0.6953,
+        "text": " circulación están protegidas o controladas, y el paciente está estabilizado o en fase de traslado.\n\nA diferencia de la primaria, que busca amenazas vitales inmediatas, la secundaria profundiza en det"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.03 - Valoración Primaria Algoritmo ABCDE.md",
+        "score": 0.6867,
+        "text": " vida en minutos y actuar en el orden correcto.\n\nEn prehospitalaria, la valoración primaria se entiende como un proceso **breve, repetitivo y protocolizado**. No es una exploración única, sino una sec"
+      },
+      {
+        "path": "base_datos/04_capitulos/01.04_informacion_cruda.md",
+        "score": 0.6723,
+        "text": "# Información cruda - Capítulo 01.04\n\n## Fuentes oficiales\n- BOE Orden ESD/3391/2008: https://www.boe.es/buscar/doc.php?id=BOE-A-2008-19101\n- BOE RD 1397/2007: https://www.boe.es/buscar/doc.php?id=BOE"
+      }
+    ]
+  },
+  {
+    "keyword": "cadena de supervivencia ERC 2025",
+    "category": "01_fundamentos",
+    "chapter": "01.06",
+    "hits": [
+      {
+        "path": "manual/01 - Fundamentos/01.06 - Cadena de Supervivencia.md",
+        "score": 0.7511,
+        "text": "a probabilidad de supervivencia disminuye drásticamente.\n\nEl TES actúa en casi todos los eslabones: desde el reconocimiento temprano hasta la entrega hospitalaria. Por eso conocer la cadena no es un e"
+      },
+      {
+        "path": "base_datos/04_capitulos/01.06_informacion_cruda.md",
+        "score": 0.7503,
+        "text": "quipos sanitarios.\n- Cadena de supervivencia pediátrica: prevención, RCP pediátrica, cuidados avanzados, recuperación.\n- Cadena de supervivencia intrahospitalaria: activación de equipo, RCP precoz, de"
+      },
+      {
+        "path": "base_datos/04_capitulos/01.06_informacion_cruda.md",
+        "score": 0.7296,
+        "text": "# Información cruda - Capítulo 01.06\n\n## Fuentes oficiales\n- BOE Orden ESD/3391/2008: https://www.boe.es/buscar/doc.php?id=BOE-A-2008-19101\n- BOE RD 1397/2007: https://www.boe.es/buscar/doc.php?id=BOE"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.06 - Cadena de Supervivencia.md",
+        "score": 0.7255,
+        "text": "---\ntags:\n  - Capítulo 01.06\n  - TES\n  - cadena\n  - supervivencia\n  - ERC\n  - RCP\n  - parada\nparte: \"01 - Fundamentos\"\ncapitulo: \"01.06 - Cadena de Supervivencia ERC 2025\"\nimagen: \"6 eslabones ERC\"\nes"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.06 - Fuentes.md",
+        "score": 0.7135,
+        "text": "estado: 🟡 En progreso\n---\ntags: [fuentes, cap-01.06, cadena-supervivencia, ERC]\ntipo: fuente\n---\n\n# 📚 Fuentes: 01.06 - Cadena de Supervivencia\n\n## 🧬 Guías Clínicas\n- **European Resuscitation Council ("
+      }
+    ]
+  },
+  {
+    "keyword": "triaje START JumpSTART",
+    "category": "01_fundamentos",
+    "chapter": "01.07",
+    "hits": [
+      {
+        "path": "manual/01 - Fundamentos/01.07 - Triaje START JumpSTART Siegel y hospitalario.md",
+        "score": 0.6552,
+        "text": "---\ntags:\n  - Capítulo 01.07\n  - TES\n  - triaje\n  - START\n  - JumpSTART\n  - Siegel\n  - IMV\n  - catástrofe\nparte: \"01 - Fundamentos\"\ncapitulo: \"01.07 - Triaje START, JumpSTART, Siegel y hospitalario\"\ni"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.07 - Fuentes.md",
+        "score": 0.6365,
+        "text": "a\n\n- **Australasian Triage Scale (ATS).**\n  - *Relevancia:* Sistema australiano de 5 niveles\n\n## 📊 Artículos Científicos\n- **START System - Original Development.**\n  - *Autores:* Benson et al. (1996)\n"
+      },
+      {
+        "path": "base_datos/04_capitulos/01.07_informacion_cruda.md",
+        "score": 0.6016,
+        "text": "equence=1&isAllowed=y\n- ReASBE - Múltiples soluciones para múltiples víctimas: https://www.sanitariosbomberos.es/images/boletines/boletin-38/ReASBE-2014-38-7-10.pdf\n\n## Datos clave extraídos\n- Triaje "
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.07 - Triaje START JumpSTART Siegel y hospitalario.md",
+        "score": 0.601,
+        "text": ", shock oculto ni lesiones internas sin signos externos.\n- Depende de la experiencia del clasificador.\n- No sustituye a la valoración clínica posterior.\n\n---\n\n## 3. JumpSTART: adaptación pediátrica\n\n#"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.07 - Fuentes.md",
+        "score": 0.6009,
+        "text": "estado: 🟡 En progreso\n---\ntags: [fuentes, cap-01.07, triaje, START, JumpSTART, Siegel]\ntipo: fuente\n---\n\n# 📚 Fuentes: 01.07 - Triaje\n\n## 📖 Manuales de Referencia\n- **PHTLS (Prehospital Trauma Life Sup"
+      }
+    ]
+  },
+  {
+    "keyword": "comunicación SBAR ISBAR",
+    "category": "01_fundamentos",
+    "chapter": "01.08",
+    "hits": [
+      {
+        "path": "manual/01 - Fundamentos/01.08 - Comunicación clínica y entrega.md",
+        "score": 0.6715,
+        "text": "- **Comunicación con otros servicios:** policía, bomberos, Protección Civil.\n\n---\n\n## 2. Modelos estructurados: SBAR, ISBAR y MIST\n\n### 2.1. SBAR: Situación, Antecedentes, Evaluación, Recomendación\n\nS"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.08 - Comunicación clínica y entrega.md",
+        "score": 0.6548,
+        "text": "---\ntags:\n  - Capítulo 01.08\n  - TES\n  - comunicación\n  - SBAR\n  - ISBAR\n  - MIST\n  - entrega\nparte: \"01 - Fundamentos\"\ncapitulo: \"01.08 - Comunicación clínica y entrega (SBAR/ISBAR/MIST)\"\nimagen: \"Pl"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.08 - Comunicación clínica y entrega.md",
+        "score": 0.6421,
+        "text": " de comunicación.\n\n---\n\n## 11. Notas personales\n\n- En entrega urgente, usar MIST si es trauma y SBAR si es médico; no mezclar modelos.\n- Preparar la entrega durante el traslado: tener listos los datos"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.08 - Comunicación clínica y entrega.md",
+        "score": 0.6019,
+        "text": "re el TES, el centro coordinador, el equipo hospitalario, el paciente y sus familiares. Su finalidad es garantizar la continuidad asistencial, reducir errores y mejorar la seguridad del paciente.\n\nEn "
+      },
+      {
+        "path": "base_datos/04_capitulos/01.08_informacion_cruda.md",
+        "score": 0.6007,
+        "text": "tuación, Antecedentes, Evaluación, Recomendación.\n- ISBAR: Identificación, Situación, Antecedentes, Evaluación, Recomendación.\n- MIST: Mechanism, Injuries, Signs, Treatment.\n- Aplicación en entrega de"
+      }
+    ]
+  },
+  {
+    "keyword": "fisiopatología del shock",
+    "category": "01_fundamentos",
+    "chapter": "01.09",
+    "hits": [
+      {
+        "path": "manual/01 - Fundamentos/01.09 - Fisiopatología del Shock.md",
+        "score": 0.7552,
+        "text": " neumotórax a tensión y el taponamiento son causas de shock obstructivo en trauma.\n\n---\n\n## 11. Notas personales\n\n- En prehospitalaria, “shock” es un diagnóstico clínico, no una cifra de TA.\n- Si el p"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.09 - Fisiopatología del Shock.md",
+        "score": 0.7308,
+        "text": "te de oxígeno y nutrientes a las células, produciendo disfunción orgánica y daño celular progresivo. En prehospitalaria, el shock no se diagnostica por una cifra concreta de presión arterial, sino por"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.09 - Fisiopatología del Shock.md",
+        "score": 0.7297,
+        "text": "ento inicial\n\n- **Shock hipovolémico:** control de la hemorragia, acceso vascular, reposición de fluidos.\n- **Shock cardiogénico:** oxigenoterapia, posición semisentada, monitorización, traslado urgen"
+      },
+      {
+        "path": "manual/06 - Trauma/06.07 - Trauma pélvico.md",
+        "score": 0.7276,
+        "text": " + shock sin causa externa.\n- **Faja pélvica:** primera medida, nivel trocánteres.\n- **Shock** por hemorragia retroperitoneal.\n- **Fluidoterapia** agresiva.\n- **Transporte urgente** a centro con cirug"
+      },
+      {
+        "path": "manual/02 - Soporte Vital/02.11 - Monitorización SVA.md",
+        "score": 0.724,
+        "text": "scular|02.09 - Algoritmos SVA]]\n- Shock: [[01.09 - Fisiopatología del Shock]]\n\n---\n\n> [!quote] Regla Mnemotécnica\n> \"EtCO2 es tu termómetro de perfusión. ECG es tu brújula de desfibrilación. POCUS es "
+      }
+    ]
+  },
+  {
+    "keyword": "equilibrio ácido base gasometría",
+    "category": "01_fundamentos",
+    "chapter": "01.10",
+    "hits": [
+      {
+        "path": "manual/01 - Fundamentos/01.10 - Equilibrio Ácido-Base.md",
+        "score": 0.7073,
+        "text": "ist\n\n### 9.1. Puntos clave\n\n- La gasometría arterial evalúa oxigenación, ventilación y equilibrio ácido-base.\n- La interpretación sistemática sigue tres pasos: pH, PaCO2, HCO3-.\n- La acidosis respirat"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.10 - Equilibrio Ácido-Base.md",
+        "score": 0.7003,
+        "text": "co con cetoacidosis\n\nGasometría: pH 7,15, PaCO2 22 mmHg, HCO3- 10 mEq/L, PaO2 95 mmHg, SatO2 98%.\n\n- pH muy bajo → acidosis grave.\n- HCO3- muy bajo → acidosis metabólica grave.\n- PaCO2 baja → compensa"
+      },
+      {
+        "path": "base_datos/04_capitulos/01.10_informacion_cruda.md",
+        "score": 0.6997,
+        "text": "rt-eq-acido-base.pdf\n\n## Datos clave extraídos\n- Gasometría arterial: técnica invasiva para determinar pH, PaCO2, HCO3-, PaO2, saturación de oxígeno.\n- Interpretación sistemática: 1) valorar pH, 2) va"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.10 - Equilibrio Ácido-Base.md",
+        "score": 0.6838,
+        "text": ".1. Principio general\n\nEl TES puede interpretar una gasometría siguiendo una secuencia corta y reproducible:\n\n1. **Valorar el pH.**\n2. **Valorar la PaCO2.**\n3. **Valorar el HCO3- o el exceso de base.*"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.10 - Equilibrio Ácido-Base.md",
+        "score": 0.6706,
+        "text": "---\ntags:\n  - Capítulo 01.10\n  - TES\n  - gasometría\n  - equilibrio ácido-base\n  - acidosis\n  - alcalosis\nparte: \"01 - Fundamentos\"\ncapitulo: \"01.10 - Interpretación básica de gasometría y equilibrio á"
+      }
+    ]
+  },
+  {
+    "keyword": "escalas neurológicas Glasgow",
+    "category": "01_fundamentos",
+    "chapter": "01.05",
+    "hits": [
+      {
+        "path": "manual/01 - Fundamentos/01.05 - Escalas Neurológicas.md",
+        "score": 0.7884,
+        "text": "* riesgo de herniación cerebral; traslado urgente, hiperventilación controlada si está indicada.\n- **Cincinnati positivo:** activación de código ictus, traslado directo a centro adecuado.\n- **Pupilas "
+      },
+      {
+        "path": "base_datos/04_capitulos/01.05_informacion_cruda.md",
+        "score": 0.7829,
+        "text": "icas permiten estandarizar la valoración del nivel de conciencia y déficit neurológico.\n- Escala de Glasgow: apertura ocular, respuesta verbal, respuesta motora; puntuación 3-15.\n- AVDI: Alert, Verbal"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.05 - Escalas Neurológicas.md",
+        "score": 0.7827,
+        "text": "iones del nivel de conciencia, la función cortical, los pares craneales y la integridad del sistema nervioso central. En el ámbito extrahospitalario, su importancia radica en que muchas patologías neu"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.05 - Escalas Neurológicas.md",
+        "score": 0.7738,
+        "text": " 6.2. Escala completa\n\n| Puntuación | Descripción |\n|------------|-------------|\n| +4 | Combativo |\n| +3 | Muy agitado |\n| +2 | Agitado |\n| +1 | Inquieto |\n| 0 | Alerta y tranquilo |\n| -1 | Somnolient"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.05 - Escalas Neurológicas.md",
+        "score": 0.7694,
+        "text": "ectada por factores no neurológicos: hipotermia, sedantes, hipoglucemia, intoxicación.\n- La Cincinnati no detecta todos los ictus, especialmente los de presentación atípica.\n- El NIHSS no está validad"
+      }
+    ]
+  },
+  {
+    "keyword": "seguridad en escena EPI bioseguridad",
+    "category": "01_fundamentos",
+    "chapter": "01.02",
+    "hits": [
+      {
+        "path": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+        "score": 0.744,
+        "text": "---\ntags:\n  - Capítulo 01.02\n  - TES\n  - seguridad\n  - EPI\n  - bioseguridad\n  - prevención-de-riesgos\nparte: \"01 - Fundamentos\"\ncapitulo: \"01.02 - Seguridad en escena, EPIs y bioseguridad\"\nimagen: \"Ma"
+      },
+      {
+        "path": "manual/03 - Material/03.03 - Inmovilización y principios biomecánicos.md",
+        "score": 0.7187,
+        "text": " Bioseguridad: [[01.02 - Seguridad en escena, EPIs y bioseguridad|01.02 - Seguridad y Bioseguridad]]\n- Valoración Primaria: [[01.03 - Valoración Primaria Algoritmo ABCDE|01.03 - Valoración Primaria]]\n"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.02 - Seguridad en escena, EPIs y bioseguridad.md",
+        "score": 0.7118,
+        "text": "ario, el TES debe seleccionar el EPI según el escenario, el tipo de exposición y la normativa aplicable. La selección incorrecta o el uso inadecuado anulan la protección.\n\nEl EPI debe:\n- Adecuarse al "
+      },
+      {
+        "path": "base_datos/04_capitulos/01.02_informacion_cruda.md",
+        "score": 0.7056,
+        "text": "ento básico.\n- Documentación: hoja de asistencia, partes de incidencia, registros de limpieza y desinfección.\n\n## Referencias para casos prácticos\n- SAMUR: valoración de escena y protocolo PAS.\n- Osak"
+      },
+      {
+        "path": "base_datos/04_capitulos/01.02_informacion_cruda.md",
+        "score": 0.6988,
+        "text": "com/es/blog/tecnico-emergencias-sanitarias.html\n- Guía PRL SAMUR: https://www.madrid.es/UnidadesDescentralizadas/Emergencias/Samur-PCivil/Samur/Apartados-secciones/6-%20Descargas%20y%20Publicaciones/F"
+      }
+    ]
+  },
+  {
+    "keyword": "valoración secundaria SAMPLE constantes vitales",
+    "category": "01_fundamentos",
+    "chapter": "01.04",
+    "hits": [
+      {
+        "path": "manual/01 - Fundamentos/01.04 - Valoración Secundaria SAMPLE y Constantes Vitales.md",
+        "score": 0.7362,
+        "text": "---\ntags:\n  - Capítulo 01.04\n  - TES\n  - valoracion\n  - SAMPLE\n  - constantes\n  - valoracion-secundaria\nparte: \"01 - Fundamentos\"\ncapitulo: \"01.04 - Valoración Secundaria, SAMPLE y Constantes Vitales\""
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.10 - Equilibrio Ácido-Base.md",
+        "score": 0.7299,
+        "text": "daria, SAMPLE y Constantes Vitales|01.04 - Valoración Secundaria]]\n- [[01.09 - Fisiopatología del Shock|01.09 - Fisiopatología del Shock]]\n- [[05.13 - Sepsis y shock séptico|05.13 - Sepsis]]\n- [[05.08"
+      },
+      {
+        "path": "base_datos/04_capitulos/01.04_informacion_cruda.md",
+        "score": 0.7192,
+        "text": "ión secundaria se realiza después de la primaria, cuando el paciente está estabilizado.\n- Objetivo: identificar lesiones no evidentes y completar la historia clínica breve.\n- Componentes: SAMPLE + exp"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.04 - Valoración Secundaria SAMPLE y Constantes Vitales.md",
+        "score": 0.6965,
+        "text": " constante, impidiendo ver tendencias.\n- ❌ No reevaluar durante el traslado porque “el paciente estaba estable en la escena”.\n- ❌ Omitir el mecanismo lesional en trauma por centrarse solo en los signo"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.04 - Fuentes.md",
+        "score": 0.6826,
+        "text": "estado: 🟡 En progreso\n---\ntags: [fuentes, cap-01.04, valoracion-secundaria, SAMPLE]\ntipo: fuente\n---\n\n# 📚 Fuentes: 01.04 - Valoración Secundaria\n\n## 📖 Manuales de Referencia\n- **PHTLS (Prehospital Tra"
+      }
+    ]
+  },
+  {
+    "keyword": "rol competencias TES RD 1397",
+    "category": "01_fundamentos",
+    "chapter": "01.01",
+    "hits": [
+      {
+        "path": "manual/01 - Fundamentos/01.01 - Rol, competencias y marco legal (RD 1397/2007).md",
+        "score": 0.6973,
+        "text": "---\ntags:\n  - Capítulo 01.01\n  - TES\nparte: \"01 - Fundamentos\"\ncapitulo: \"01.01 - Rol, competencias y marco legal (RD 1397/2007)\"\nimagen: \"Organigrama del sistema sanitario y perfil del TES\"\n---\n\n# 01"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.01 - Rol, competencias y marco legal (RD 1397/2007).md",
+        "score": 0.6947,
+        "text": " El TES es un profesional sanitario oficialmente regulado por el RD 1397/2007 y actualizado por el RD 287/2023.\n- Su competencia general combina asistencia prehospitalaria básica, traslado seguro, tel"
+      },
+      {
+        "path": "base_datos/01_normativa/00_normativa_base.md",
+        "score": 0.6801,
+        "text": "# Normativa base del TES\n\n## Fuentes oficiales\n- **Real Decreto 1397/2007**, de 29 de octubre — título oficial de Técnico en Emergencias Sanitarias.\n- **Real Decreto 287/2023**, de 18 de abril — actua"
+      },
+      {
+        "path": "base_datos/03_modulos/13_formacion_centros_trabajo.md",
+        "score": 0.6799,
+        "text": "# Módulo 13 - Formación en Centros de Trabajo\n\n## Referencias oficiales\n- Orden ESD/3391/2008, de 3 de noviembre.\n- Real Decreto 1397/2007, de 29 de octubre.\n\n## Contenidos recuperados\n- Integración e"
+      },
+      {
+        "path": "base_datos/04_capitulos/01.01_informacion_cruda.md",
+        "score": 0.6786,
+        "text": "# Información cruda - Capítulo 01.01\n\n## Fuentes oficiales\n- BOE RD 1397/2007: https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20202\n- BOE Orden ESD/3391/2008: https://www.boe.es/buscar/doc.php?id=BOE"
+      }
+    ]
+  }
+]

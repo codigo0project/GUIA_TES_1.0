@@ -1,0 +1,40 @@
+{
+  "id": "05.12-hemorragia-digestiva.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 05.12-hemorragia-digestiva",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "hemorragia"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.12 - Hemorragia digestiva.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "05.12-hemorragia-digestiva",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "05 - Médicas"
+  ],
+  "items": [
+    "Valorar sangrado y estabilidad hemodinámica",
+    "Canalizar vía y fluidos",
+    "Monitorizar TA, FC, SatO2",
+    "No dar nada por boca",
+    "Posición lateral de seguridad si vómitos",
+    "Transportar a hospital urgentemente"
+  ]
+}

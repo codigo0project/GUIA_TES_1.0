@@ -1,0 +1,40 @@
+{
+  "id": "03.07-transferencias-y-ergonomia.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 03.07-transferencias-y-ergonomia",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "transferencias"
+  ],
+  "block": "03 - Material",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/03 - Material/03.07 - Transferencias y ergonomía.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "03.07-transferencias-y-ergonomia",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "03 - Material"
+  ],
+  "items": [
+    "Evaluar peso y colaboración",
+    "Bloquear ruedas de camilla/silla",
+    "Usar mínimo 2 personas si necesario",
+    "Mantener alineación corporal",
+    "Comunicar cuenta atrás",
+    "Verificar comodidad post-transferencia"
+  ]
+}

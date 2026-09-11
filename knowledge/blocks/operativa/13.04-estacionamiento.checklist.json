@@ -1,0 +1,47 @@
+{
+  "id": "13.04-estacionamiento.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 13.04-estacionamiento",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [],
+  "block": "13 - Operativa",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/13 - Operativa/13.04 - Estacionamiento.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "13.04-estacionamiento",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "13 - Operativa"
+  ],
+  "items": [
+    "**Acceso** al paciente sin riesgo.",
+    "**Protección** del vehículo y del equipo.",
+    "**Visibilidad** del lugar del incidente.",
+    "**Salida** rápida si es necesario.",
+    "**Delante** del paciente: acceso directo.",
+    "**A 5-10 metros:** evitar proyecciones en colisión.",
+    "**En recto:** no obstaculizar tráfico.",
+    "**Con ruedas giradas:** hacia la acera o arcén.",
+    "Tipo de vía: urbana, autopista, carretera convencional.",
+    "Sentido de la circulación y visibilidad.",
+    "Existencia de arcén, mediana o zona de escape.",
+    "Presencia de vehículos parados, curvas o cambios de rasante.",
+    "**Luces** V-1 y V-2 en servicio urgente.",
+    "**Balizas** reflectantes en extremos del vehículo.",
+    "**Conos** para delimitar zona de trabajo."
+  ]
+}

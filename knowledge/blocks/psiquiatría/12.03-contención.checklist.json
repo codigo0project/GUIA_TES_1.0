@@ -1,0 +1,47 @@
+{
+  "id": "12.03-contención.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 12.03-contención",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [],
+  "block": "12 - Psiquiatría",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/12 - Psiquiatría/12.03 - Contención.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "12.03-contención",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "12 - Psiquiatría"
+  ],
+  "items": [
+    "**Riesgo** inminente para paciente o terceros.",
+    "**Fracaso** de escalada verbal.",
+    "**Necesidad** de tratamiento médico urgente.",
+    "**Mínima** necesaria.",
+    "**Reevaluar** cada 5-10 min.",
+    "**Retirar** tan pronto sea seguro.",
+    "**Indicación:** agitación severa.",
+    "**Dosis:** según protocolo.",
+    "**Vía:** IM/IV.",
+    "**Indicación:** psicosis.",
+    "**Vía:** IM.",
+    "**Necesidad** terapéutica.",
+    "**Proporcionalidad** al riesgo.",
+    "**Documentación** obligatoria.",
+    "**Supervisión** médica."
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "01.06-cadena-de-supervivencia",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "01.06 - Cadena de Supervivencia",
+  "summary": "",
+  "tags": [
+    "fundamentos",
+    "cadena",
+    "supervivencia",
+    "ERC",
+    "RCP",
+    "parada"
+  ],
+  "block": "01 - Fundamentos",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/01 - Fundamentos/01.06 - Cadena de Supervivencia.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "525315ddab67de26cfcd5af061cffffbd0906c55e79c84016bb7e75f6e09138e"
+  },
+  "created_at": "2026-08-07T15:56:56.333575+00:00",
+  "updated_at": "2026-08-07T15:56:56.333575+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0103---valoración-primaria-algoritmo-abcde0103---valoración-primaria",
+      "type": "related"
+    },
+    {
+      "to": "0105---escalas-neurológicas0105---escalas-neurológicas",
+      "type": "related"
+    },
+    {
+      "to": "0201---reconocimiento-pcr0201---reconocimiento-pcr",
+      "type": "related"
+    },
+    {
+      "to": "0202---rcp-adulto0202---rcp-adulto",
+      "type": "related"
+    },
+    {
+      "to": "0203---rcp-en-niños-y-lactantes0203---rcp-pediátrica",
+      "type": "related"
+    },
+    {
+      "to": "0204---desa0204---desa",
+      "type": "related"
+    },
+    {
+      "to": "0210---algoritmos-sva0210---algoritmos-sva",
+      "type": "related"
+    },
+    {
+      "to": "0710---rn-crítico0710---reanimación-neonatal",
+      "type": "related"
+    },
+    {
+      "to": "0103---valoración-primaria-algoritmo-abcde0103",
+      "type": "related"
+    },
+    {
+      "to": "0105---escalas-neurológicas0105",
+      "type": "related"
+    },
+    {
+      "to": "0201---reconocimiento-pcr0201",
+      "type": "related"
+    },
+    {
+      "to": "0202---rcp-adulto0202",
+      "type": "related"
+    },
+    {
+      "to": "0203---rcp-en-niños-y-lactantes0203",
+      "type": "related"
+    },
+    {
+      "to": "0210---algoritmos-sva0210",
+      "type": "related"
+    },
+    {
+      "to": "1104---pma-y-noria1104",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Definición, fundamentos y finalidad",
+    "Cadena de supervivencia adulta según ERC 2025",
+    "Cadena de supervivencia pediátrica",
+    "Cadena de supervivencia intrahospitalaria",
+    "Función del TES en cada eslabón",
+    "Conceptos operativos clave",
+    "Casos prácticos",
+    "Errores críticos y precauciones",
+    "Puntos clave y checklist",
+    "Conexiones transversales"
+  ],
+  "links": [
+    "01.03 - Valoración Primaria Algoritmo ABCDE|01.03 - Valoración Primaria",
+    "01.05 - Escalas Neurológicas|01.05 - Escalas Neurológicas",
+    "02.01 - Reconocimiento PCR|02.01 - Reconocimiento PCR",
+    "02.02 - RCP Adulto|02.02 - RCP Adulto",
+    "02.03 - RCP en Niños y Lactantes|02.03 - RCP Pediátrica",
+    "02.04 - DESA|02.04 - DESA",
+    "02.10 - Algoritmos SVA|02.10 - Algoritmos SVA",
+    "07.10 - RN crítico|07.10 - Reanimación Neonatal",
+    "01.03 - Valoración Primaria Algoritmo ABCDE|01.03",
+    "01.05 - Escalas Neurológicas|01.05",
+    "02.01 - Reconocimiento PCR|02.01",
+    "02.02 - RCP Adulto|02.02",
+    "02.03 - RCP en Niños y Lactantes|02.03",
+    "02.10 - Algoritmos SVA|02.10",
+    "11.04 - PMA y Noria|11.04"
+  ]
+}

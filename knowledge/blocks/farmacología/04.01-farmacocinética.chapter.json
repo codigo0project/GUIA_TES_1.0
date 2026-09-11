@@ -1,0 +1,62 @@
+{
+  "id": "04.01-farmacocinética",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "04.01 - Farmacocinética",
+  "summary": "",
+  "tags": [
+    "04",
+    "farmacologia",
+    "farmacocinética",
+    "cálculos",
+    "dosis",
+    "10-correctos",
+    "goteo"
+  ],
+  "block": "04 - Farmacología",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/04 - Farmacología/04.01 - Farmacocinética.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "9ffe1b5633566f6cae8ede2f5282fae6f1fdd96915c1588d612d5397fd62c158"
+  },
+  "created_at": "2026-08-07T15:56:56.401467+00:00",
+  "updated_at": "2026-08-07T15:56:56.401467+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0402---vías-de-administración",
+      "type": "related"
+    },
+    {
+      "to": "0404---adrenalina",
+      "type": "related"
+    },
+    {
+      "to": "0409---fluidoterapia",
+      "type": "related"
+    },
+    {
+      "to": "0411---hemoderivados",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Farmacocinética Básica en Emergencias",
+    "Cálculos Esenciales",
+    "Los 10 Correctos de la Administración Segura",
+    "Errores Críticos",
+    "Puntos Clave"
+  ],
+  "links": [
+    "04.02 - Vías de administración",
+    "04.04 - Adrenalina",
+    "04.09 - Fluidoterapia",
+    "04.11 - Hemoderivados"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "02.11-monitorización-sva",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "02.11 - Monitorización SVA",
+  "summary": "",
+  "tags": [
+    "02",
+    "soporte-vital",
+    "monitorizacion",
+    "capnografia",
+    "pocus",
+    "ECG"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.11 - Monitorización SVA.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "8828752c393de80f5c50337929058c83563f26fdc0260ce3d4414f021188c435"
+  },
+  "created_at": "2026-08-07T15:56:56.383288+00:00",
+  "updated_at": "2026-08-07T15:56:56.383288+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0202---rcp-adulto",
+      "type": "related"
+    },
+    {
+      "to": "0210---algoritmos-sva",
+      "type": "related"
+    },
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Capnografía (EtCO2)",
+    "ECG de 12 Derivaciones",
+    "POCUS Básica (Ecografía)",
+    "Errores Críticos",
+    "Interpretación integrada",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Fuentes",
+    "Autoevaluación"
+  ],
+  "links": [
+    "imagenes/02.11_capnografia-ondas.png",
+    "02.02 - RCP Adulto",
+    "02.10 - Algoritmos SVA",
+    "01.09 - Fisiopatología del Shock"
+  ]
+}

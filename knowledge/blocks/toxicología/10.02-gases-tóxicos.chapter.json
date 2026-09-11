@@ -1,0 +1,59 @@
+{
+  "id": "10.02-gases-tóxicos",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "10.02 - Gases tóxicos",
+  "summary": "",
+  "tags": [
+    "10",
+    "toxicología",
+    "CO",
+    "cianuro",
+    "gases-toxicos",
+    "incendios"
+  ],
+  "block": "10 - Toxicología",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/10 - Toxicología/10.02 - Gases tóxicos.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "ac85ab1170127f4f12620a54357ca9f483b9ef0e539edca1c9cacc05ac76e079"
+  },
+  "created_at": "2026-08-07T15:56:57.108257+00:00",
+  "updated_at": "2026-08-07T15:56:57.108257+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1001---general",
+      "type": "related"
+    },
+    {
+      "to": "0907---rescate-técnico",
+      "type": "related"
+    },
+    {
+      "to": "1002---gases-tóxicos1002---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Monóxido de Carbono (CO)",
+    "Cianuro",
+    "Sulfuro de Hidrógeno (H2S)",
+    "Manejo Prehospitalario",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Información al Hospital",
+    "Caso Práctico Avanzado"
+  ],
+  "links": [
+    "10.01 - General",
+    "09.07 - Rescate técnico",
+    "10.02 - Gases tóxicos|10.02 - Fuentes"
+  ]
+}

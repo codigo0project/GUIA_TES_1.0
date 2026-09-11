@@ -1,0 +1,322 @@
+[
+  {
+    "keyword": "aneurisma aorta abdominal AAA roto",
+    "category": "05_médicas",
+    "chapter": "05.11",
+    "hits": [
+      {
+        "path": "manual/05 - Médicas/05.11 - Aneurisma de aorta abdominal.md",
+        "score": 0.7099,
+        "text": "---\ntags:\n  - médicas\n  - AAA\n  - aneurisma-aorta\n  - shock-hemorrágico\n  - dolor-lumbar\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 10 min\nimagen: \"Anatomía de aorta abdominal con aneurisma rot"
+      },
+      {
+        "path": "manual/05 - Médicas/05.10 - Abdomen agudo.md",
+        "score": 0.6543,
+        "text": "hock]]\n- Hemorragia digestiva: [[05.12 - Hemorragia digestiva]]\n- AAA: [[05.11 - Aneurisma de aorta abdominal]]\n- Fuentes: [[05.10 - Abdomen agudo|05.10 - Fuentes]]\n\n---\n\n## 📝 9. Notas Personales\n\n- R"
+      },
+      {
+        "path": "manual/05 - Médicas/05.11 - Aneurisma de aorta abdominal.md",
+        "score": 0.636,
+        "text": "hock → mortalidad alta.\n\n---\n\n## ✅ 5. Puntos Clave\n\n- **AAA roto:** dolor lumbar \"desgarro\" + shock.\n- **Masa pulsátil** abdominal es signo clave.\n- **Tratamiento:** soporte vital + transporte urgente"
+      },
+      {
+        "path": "manual/05 - Médicas/05.10 - Abdomen agudo.md",
+        "score": 0.5811,
+        "text": "d\n- **Shock:** TA <90 mmHg, palidez, sudoración.\n- **Peritonitis:** rigidez abdominal, rebote positivo.\n- **Hemorragia digestiva:** hematemesis, melenas.\n- **Fiebre alta + dolor:** posible sepsis.\n\n##"
+      },
+      {
+        "path": "manual/08 - Obstetricia/08.05 - Aborto y ectópico.md",
+        "score": 0.5803,
+        "text": "\n- **Fluidoterapia** en shock.\n- **No exploración** vaginal.\n- **Transporte urgente** a cirugía.\n\n---\n\n## 🩺 3. Torsión Ovárica\n\n### 3.1. Definición\n- Rotación del ovario sobre su pedículo.\n- **Isquemi"
+      }
+    ]
+  },
+  {
+    "keyword": "hemorragia digestiva hematemesis melenas rectorragias",
+    "category": "05_médicas",
+    "chapter": "05.12",
+    "hits": [
+      {
+        "path": "manual/05 - Médicas/05.12 - Hemorragia digestiva.md",
+        "score": 0.7112,
+        "text": "---\ntags:\n  - médicas\n  - hemorragia-digestiva\n  - hematemesis\n  - melenas\n  - varices-esofágicas\nestado: ✅ Completado\nprioridad: Alta\nduracion: 12 min\nimagen: \"Causas de hemorragia digestiva alta y b"
+      },
+      {
+        "path": "manual/05 - Médicas/05.10 - Abdomen agudo.md",
+        "score": 0.6908,
+        "text": "hock]]\n- Hemorragia digestiva: [[05.12 - Hemorragia digestiva]]\n- AAA: [[05.11 - Aneurisma de aorta abdominal]]\n- Fuentes: [[05.10 - Abdomen agudo|05.10 - Fuentes]]\n\n---\n\n## 📝 9. Notas Personales\n\n- R"
+      },
+      {
+        "path": "manual/05 - Médicas/05.12 - Hemorragia digestiva.md",
+        "score": 0.6506,
+        "text": "ito con sangre fresca (\"en posos de café\") |\n| **Melenas** | Deposiciones negras, alquitranadas |\n| **Shock** | Hipotensión, taquicardia, palidez |\n| **Dolor** | Epigástrico, quemazón |\n\n### 2.2. Hemo"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.04 - Valoración Secundaria SAMPLE y Constantes Vitales.md",
+        "score": 0.6424,
+        "text": " hematomas, heridas penetrantes, pelvis inestable.\n- **Pelvis:** estabilidad, dolor a la compresión, sangrado urogenital.\n- **Extremidades:** pulsos, movimiento, sensibilidad, deformidades, heridas, s"
+      },
+      {
+        "path": "manual/06 - Trauma/06.06 - Trauma abdominal.md",
+        "score": 0.6366,
+        "text": "* por contenido intestinal.\n- **Dolor** abdominal intenso.\n- **Vómitos.**\n- **Signos de irritación peritoneal.**\n\n### 2.3. Evisceración\n- **Definición:** Salida de asas intestinales por herida.\n- **Ma"
+      }
+    ]
+  },
+  {
+    "keyword": "sepsis shock séptico qSOFA cadena supervivencia",
+    "category": "05_médicas",
+    "chapter": "05.13",
+    "hits": [
+      {
+        "path": "manual/05 - Médicas/05.13 - Sepsis y shock séptico.md",
+        "score": 0.7562,
+        "text": "séptico|05.13 - Fuentes]]\n\n---\n\n## 📝 9. Notas Personales\n\n- Regla: **\"fiebre + hipotensión + alteración conciencia = sepsis\"**.\n- qSOFA: **\"TA baja, respiración rápida, cerebro lento\"**.\n"
+      },
+      {
+        "path": "manual/05 - Médicas/05.13 - Sepsis y shock séptico.md",
+        "score": 0.7547,
+        "text": "nsporte urgente. Los antibióticos se administran en hospital.\n\n---\n\n## 🚑 5. Transporte y Destino\n\n### 5.1. Prioridad\n- **Sepsis con qSOFA ≥2:** transporte urgente a hospital.\n- **Shock séptico:** máxi"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.09 - Fisiopatología del Shock.md",
+        "score": 0.7487,
+        "text": "co; requiere descompresión o reperfusión inmediata.\n\n### 4.2. Clases de shock hemorrágico\n\n| Clase | Pérdida sanguínea | FC | TA | Estado mental |\n|-------|-------------------|----|----|--------------"
+      },
+      {
+        "path": "manual/05 - Médicas/05.13 - Sepsis y shock séptico.md",
+        "score": 0.7471,
+        "text": "---\ntags:\n  - médicas\n  - sepsis\n  - shock-séptico\n  - qSOFA\n  - infección\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Algoritmo qSOFA y criterios SIRS\"\n---\n\n# 05.13 - Sepsis y s"
+      },
+      {
+        "path": "base_datos/03_modulos/04_atencion_sanitaria_inicial.md",
+        "score": 0.7299,
+        "text": "as (SIE).\n- Cadena de supervivencia.\n- Mecanismos lesionales en catástrofes.\n- Objetivos terapéuticos generales y por áreas.\n\n## Fuentes\n- https://www.boe.es/buscar/doc.php?id=BOE-A-2008-19101\n- https"
+      }
+    ]
+  },
+  {
+    "keyword": "insuficiencia renal cólico nefrítico diálisis",
+    "category": "05_médicas",
+    "chapter": "05.14",
+    "hits": [
+      {
+        "path": "manual/05 - Médicas/05.14 - Insuficiencia renal.md",
+        "score": 0.7624,
+        "text": "---\ntags:\n  - médicas\n  - insuficiencia-renal\n  - cólico-nefrítico\n  - fístula-hemodiálisis\n  - complicaciones-diálisis\nestado: ✅ Completado\nprioridad: Alta\nduracion: 10 min\nimagen: \"Localización dolo"
+      },
+      {
+        "path": "manual/05 - Médicas/05.14 - Insuficiencia renal.md",
+        "score": 0.6979,
+        "text": "re** de esa extremidad.\n\n---\n\n## ⚠️ 4. Errores Críticos\n\n- ❌ Canalizar vía en extremidad con fístula AV.\n- ❌ Administrar contrastes en paciente con IRC.\n- ❌ No hidratar en cólico nefrítico → riesgo an"
+      },
+      {
+        "path": "manual/05 - Médicas/05.14 - Insuficiencia renal.md",
+        "score": 0.6682,
+        "text": "lculo.\n- Aumento presión en sistema colector → dolor intenso.\n\n### 2.2. Clínica\n- **Dolor:** lumbar, irradiado a flanco y región inguinal.\n- **Cólico:** intermitente, Ondas.\n- **Náuseas y vómitos** fr"
+      },
+      {
+        "path": "manual/06 - Trauma/06.10 - Crush syndrome.md",
+        "score": 0.6446,
+        "text": "resiva** prehospitalaria.\n- **Transporte urgente** a hospital con diálisis.\n\n---\n\n## 🔗 6. Recursos Relacionados\n\n- Shock: [[01.09 - Fisiopatología del Shock]]\n- Extremidades: [[06.08 - Extremidades]]\n"
+      },
+      {
+        "path": "manual/04 - Farmacología/04.01 - Farmacocinética.md",
+        "score": 0.6406,
+        "text": "| Eliminación renal o biliar | Insuficiencia renal: ajuste de dosis |\n\n### 1.2. Factores que modifican la respuesta\n- **Edad:** ancianos y niños requieren ajuste.\n- **Peso:** base para dosis mg/kg.\n- "
+      }
+    ]
+  },
+  {
+    "keyword": "alteraciones hidroelectrolíticas hipo hipernatremia potasemia",
+    "category": "05_médicas",
+    "chapter": "05.15",
+    "hits": [
+      {
+        "path": "manual/05 - Médicas/05.15 - Alteraciones hidroelectrolíticas.md",
+        "score": 0.7412,
+        "text": "cología: [[04.10 - Vasoactivos y Antiarrítmicos]]\n- Fuentes: [[05.15 - Alteraciones hidroelectrolíticas|05.15 - Fuentes]]\n\n---\n\n## 📝 8. Notas Personales\n\n- Regla: **\"K alto = ECG, Ca bajo = tetania\"**"
+      },
+      {
+        "path": "manual/05 - Médicas/05.15 - Alteraciones hidroelectrolíticas.md",
+        "score": 0.7354,
+        "text": "---\ntags:\n  - médicas\n  - hidroelectrolítico\n  - hiponatremia\n  - hipernatremia\n  - hipopotasemia\n  - calcio\nestado: ✅ Completado\nprioridad: Alta\nduracion: 12 min\nimagen: \"ECG de hipopotasemia y tabla"
+      },
+      {
+        "path": "manual/05 - Médicas/05.15 - Alteraciones hidroelectrolíticas.md",
+        "score": 0.6868,
+        "text": "ón:** K <3.5 mEq/L.\n- **Causas:** diuréticos, vómitos, diarrea.\n- **Clínica:**\n  - Debilidad muscular.\n  - Arritmias, bloqueo AV.\n  - ECG: onda T plana, onda U, depresión ST.\n\n### 2.2. Hiperpotasemia\n"
+      },
+      {
+        "path": "manual/05 - Médicas/05.15 - Alteraciones hidroelectrolíticas.md",
+        "score": 0.6805,
+        "text": "---|\n| **Hiperpotasemia grave** | Gluconato cálcico 1 g IV, insulinoglucosa (teórico) |\n| **Hipocalcemia sintomática** | Gluconato cálcico 1 g IV |\n| **Hiponatremia grave** | SF 3% (solo hospital) |\n\n"
+      },
+      {
+        "path": "manual/06 - Trauma/06.10 - Crush syndrome.md",
+        "score": 0.6764,
+        "text": "idos:** acidosis metabólica.\n- **Factores tisulares:** coagulopatía.\n\n### 2.2. Complicaciones\n- **Insuficiencia renal aguda.**\n- **Hiperpotasemia** mortal.\n- **Shock** hipovolémico.\n- **Coagulopatía.*"
+      }
+    ]
+  },
+  {
+    "keyword": "coma alteración conciencia AEIOU-TIPS herniación",
+    "category": "05_médicas",
+    "chapter": "05.16",
+    "hits": [
+      {
+        "path": "manual/05 - Médicas/05.16 - Coma y alteración de conciencia.md",
+        "score": 0.6988,
+        "text": "s: [[01.05 - Escalas Neurológicas]]\n- Hipoglucemia: [[05.08 - Diabetes]]\n- Ictus: [[05.04 - Ictus y código ictus]]\n- Fuentes: [[05.16 - Coma y alteración de conciencia|05.16 - Fuentes]]\n\n---\n\n## 📝 7. "
+      },
+      {
+        "path": "manual/05 - Médicas/05.16 - Coma y alteración de conciencia.md",
+        "score": 0.6918,
+        "text": "---\ntags:\n  - médicas\n  - coma\n  - alteración-conciencia\n  - AEIOU-TIPS\n  - herniación-cerebral\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Mnemotecnia AEIOU-TIPS para etiología "
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.05 - Escalas Neurológicas.md",
+        "score": 0.6868,
+        "text": "Coma y alteración de conciencia|05.16 - Coma]]\n- [[12.02 - Agitación|12.02 - Agitación]]\n- [[12.03 - Contención|12.03 - Contención]]\n\n---\n\n## 12. Conexiones transversales\n\n- Con [[01.03 - Valoración P"
+      },
+      {
+        "path": "manual/06 - Trauma/06.03 - TCE.md",
+        "score": 0.6681,
+        "text": "n cabecera 30°.\n\n### 4.2. Medidas específicas\n| Medida | Objetivo |\n|--------|----------|\n| **Hiperventilación** | Solo si herniación inminente |\n| **Mannitol** | No prehospitalario |\n| **Hipertonia**"
+      },
+      {
+        "path": "base_datos/04_capitulos/01.05_informacion_cruda.md",
+        "score": 0.6553,
+        "text": "icas permiten estandarizar la valoración del nivel de conciencia y déficit neurológico.\n- Escala de Glasgow: apertura ocular, respuesta verbal, respuesta motora; puntuación 3-15.\n- AVDI: Alert, Verbal"
+      }
+    ]
+  },
+  {
+    "keyword": "endocrino no diabético tormenta tiroidea Addison mixedema",
+    "category": "05_médicas",
+    "chapter": "05.17",
+    "hits": [
+      {
+        "path": "manual/05 - Médicas/05.17 - Endocrino no diabético.md",
+        "score": 0.7253,
+        "text": "---\ntags:\n  - médicas\n  - endocrino\n  - crisis-tiroidea\n  - mixedema\n  - addison\nestado: ✅ Completado\nprioridad: Alta\nduracion: 10 min\nimagen: \"Signos de crisis tiroidea y mixedema\"\n---\n\n# 05.17 - End"
+      },
+      {
+        "path": "manual/05 - Médicas/05.17 - Endocrino no diabético.md",
+        "score": 0.6567,
+        "text": "es sin corticoides en crisis tiroidea → shock.\n- ❌ No hidratar en crisis suprarrenal → colapso.\n- ❌ Retrasar transporte por estabilizar.\n\n---\n\n## ✅ 5. Puntos Clave\n\n- **Crisis tiroidea:** fiebre + taq"
+      },
+      {
+        "path": "manual/04 - Farmacología/04.07 - Emergencias metabólicas.md",
+        "score": 0.6296,
+        "text": "a: **\"consciente = boca, inconsciente = vena o glucagón\"**.\n- En CAD: **no insulina prehospitalaria**.\n- Glucemia <70 mg/dL o síntomas = hipoglucemia hasta demostrar lo contrario.\n"
+      },
+      {
+        "path": "manual/05 - Médicas/05.08 - Diabetes.md",
+        "score": 0.6125,
+        "text": "COSA EN BOLSA\n> Administrar **lentamente** para evitar extravasación y necrosis tisular.\n\n---\n\n## 🧪 2. Cetoacidosis Diabética (CAD)\n\n### 2.1. Criterios\n- Glucemia >250 mg/dL.\n- Cetonas elevadas.\n- pH "
+      },
+      {
+        "path": "manual/05 - Médicas/05.07 - Anafilaxia y angioedema.md",
+        "score": 0.6115,
+        "text": "a, prurito, eritema |\n| **Vía aérea** | Disfonía, odinofagia, edema labial |\n| **Respiratorio** | Sibilancias, disnea, estridor |\n| **Cardiovascular** | Hipotensión, taquicardia, shock |\n| **Digestivo"
+      }
+    ]
+  },
+  {
+    "keyword": "hematológico anemia crisis células falciformes coagulopatías",
+    "category": "05_médicas",
+    "chapter": "05.18",
+    "hits": [
+      {
+        "path": "manual/05 - Médicas/05.18 - Hematológico.md",
+        "score": 0.721,
+        "text": "---\ntags:\n  - médicas\n  - hematológico\n  - anemia\n  - crisis-falciforme\n  - coagulopatías\nestado: ✅ Completado\nprioridad: Alta\nduracion: 10 min\nimagen: \"Crisis de células falciformes y signos de anemi"
+      },
+      {
+        "path": "manual/05 - Médicas/05.18 - Hematológico.md",
+        "score": 0.6764,
+        "text": "citosis.\n\n### 2.2. Clínica\n- **Dolor óseo** intenso, generalizado o localizado.\n- **Fiebre** si infección asociada.\n- **Síndrome torácico agudo** si afectación pulmonar.\n- **Crisis cerebral** si afect"
+      },
+      {
+        "path": "manual/05 - Médicas/05.18 - Hematológico.md",
+        "score": 0.65,
+        "text": "ransfusión hospitalaria.\n\n---\n\n## ✅ 5. Puntos Clave\n\n- **Anemia grave:** Hb <7 g/dL, disnea, taquicardia.\n- **Crisis falciforme:** dolor óseo intenso, requiere analgesia potente.\n- **Coagulopatía:** h"
+      },
+      {
+        "path": "manual/06 - Trauma/06.10 - Crush syndrome.md",
+        "score": 0.6226,
+        "text": "idos:** acidosis metabólica.\n- **Factores tisulares:** coagulopatía.\n\n### 2.2. Complicaciones\n- **Insuficiencia renal aguda.**\n- **Hiperpotasemia** mortal.\n- **Shock** hipovolémico.\n- **Coagulopatía.*"
+      },
+      {
+        "path": "manual/04 - Farmacología/04.11 - Hemoderivados.md",
+        "score": 0.6211,
+        "text": "LI |\n| **Plaquetas** | Trombocitopenia, sangrado | Mejora agregación | Conservación limitada |\n\n---\n\n## 🩺 2. Transfusión en el Shock Hemorrágico\n\n### 2.1. Cuándo transfundir prehospitalariamente\n- **P"
+      }
+    ]
+  },
+  {
+    "keyword": "infeccioso grave meningitis meningococemia fascitis necrotizante tétanos",
+    "category": "05_médicas",
+    "chapter": "05.19",
+    "hits": [
+      {
+        "path": "manual/05 - Médicas/05.19 - Infeccioso grave.md",
+        "score": 0.7734,
+        "text": "---\ntags:\n  - médicas\n  - infeccioso-grave\n  - meningitis\n  - meningococemia\n  - fascitis-necrotizante\n  - tétanos\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 12 min\nimagen: \"Petequias y equimos"
+      },
+      {
+        "path": "manual/05 - Médicas/05.19 - Infeccioso grave.md",
+        "score": 0.7714,
+        "text": "\n\n---\n\n## 🦠 2. Fascitis Necrotizante\n\n### 2.1. Definición\n- Infección grave de la fascia profunda.\n- Progresión rápida.\n\n### 2.2. Clínica\n- **Dolor** desproporcionado al hallazgo cutáneo.\n- **Edema**,"
+      },
+      {
+        "path": "manual/05 - Médicas/05.19 - Infeccioso grave.md",
+        "score": 0.7349,
+        "text": "s.\n- Teórico: ceftriaxona en meningitis.\n\n---\n\n## ⚠️ 5. Errores Críticos\n\n- ❌ No detectar petequias → retraso en meningococemia.\n- ❌ Administrar antipiréticos sin evaluar → enmascarar signos.\n- ❌ No a"
+      },
+      {
+        "path": "manual/07 - Pediatría/07.05 - Neurológico pediátrico.md",
+        "score": 0.7305,
+        "text": ".\n- **Buscar foco** de infección.\n\n---\n\n## 🦠 2. Meningitis\n\n### 2.1. Signos de alarma\n- **Fiebre alta.**\n- **Rigidez de nuca** (difícil en lactantes).\n- **Irritabilidad** o letargo.\n- **Petequias** en"
+      },
+      {
+        "path": "manual/07 - Pediatría/07.05 - Neurológico pediátrico.md",
+        "score": 0.7057,
+        "text": "eningitis:** fiebre + rigidez + petequias.\n- **TCE infantil:** inmovilizar cervical, valorar conciencia.\n- **Transporte urgente** en meningitis y TCE grave.\n\n---\n\n## 🔗 6. Recursos Relacionados\n\n- Cris"
+      }
+    ]
+  },
+  {
+    "keyword": "biomecánica cinemática índice colisión triángulo muerte",
+    "category": "06_trauma",
+    "chapter": "06.01",
+    "hits": [
+      {
+        "path": "manual/06 - Trauma/06.01 - Biomecánica y cinemática.md",
+        "score": 0.7102,
+        "text": "---\ntags:\n  - trauma\n  - biomecánica\n  - cinemática\n  - energía\n  - triángulo-de-la-muerte\nestado: ✅ Completado\nprioridad: Crítica\nduracion: 15 min\nimagen: \"Triángulo de la muerte y fases del impacto "
+      },
+      {
+        "path": "manual/06 - Trauma/06.01 - Biomecánica y cinemática.md",
+        "score": 0.6516,
+        "text": " Tipos de colisión\n| Tipo | Descripción | Lesiones típicas |\n|------|-------------|------------------|\n| **Frontal** | Vehículo contra obstáculo | TCE, tórax, abdomen |\n| **Lateral** | Impacto en flan"
+      },
+      {
+        "path": "manual/01 - Fundamentos/01.03 - Valoración Primaria Algoritmo ABCDE.md",
+        "score": 0.6486,
+        "text": "|06.01 - Biomecánica y cinemática]]\n\n---\n\n## 10. Conexiones transversales\n\n- Con [[01.02 - Seguridad en escena, EPIs y bioseguridad|01.02]]: la seguridad de escena precede al ABCDE y los EPIs protegen"
+      },
+      {
+        "path": "manual/06 - Trauma/06.01 - Biomecánica y cinemática.md",
+        "score": 0.6432,
+        "text": "ágico: [[06.02 - Shock hemorrágico]]\n- TCE: [[06.03 - TCE]]\n- Raquimedular: [[06.04 - Raquimedular]]\n- Fuentes: [[06.01 - Biomecánica y cinemática|06.01 - Fuentes]]\n\n---\n\n## 📝 8. Notas Personales\n\n- R"
+      },
+      {
+        "path": "manual/16 - Transversales/16.05 - Tanatología.md",
+        "score": 0.629,
+        "text": "---\ntags:\n  - transversales\n  - tanatologia\n  - muerte\n  - donacion-organos\nestado: 🟡 En progreso\nprioridad: Media\nduracion: 15 min\nimagen: \"Signos de muerte y protocolo donación\"\n---\n\n# 16.05 - Tanat"
+      }
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "id": "02.04-desa",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "02.04 - Uso del DESA y algoritmo de desfibrilación",
+  "summary": "",
+  "tags": [
+    "02",
+    "soporte-vital",
+    "desa",
+    "desfibrilacion",
+    "rcp",
+    "parada-cardiorrespiratoria"
+  ],
+  "block": "02 - Soporte Vital",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/02 - Soporte Vital/02.04 - DESA.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "981261d707e2bedbaaf93741fdd3028ba5e9c3e82773b86eca91fb135b3b06f7"
+  },
+  "created_at": "2026-08-07T15:56:56.367939+00:00",
+  "updated_at": "2026-08-07T15:56:56.367939+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0202---rcp-adulto",
+      "type": "related"
+    },
+    {
+      "to": "0205---vía-aérea-básica",
+      "type": "related"
+    },
+    {
+      "to": "0206---vía-aérea-avanzada",
+      "type": "related"
+    },
+    {
+      "to": "0210---algoritmos-sva",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Cuándo usar el DESA",
+    "Algoritmo básico",
+    "Selección y colocación de parches",
+    "Seguridad y entorno",
+    "Novedades ERC/ILCOR 2025",
+    "Situaciones Especiales",
+    "Post-desfibrilación",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica",
+    "Fuentes",
+    "Autoevaluación"
+  ],
+  "links": [
+    "02.02 - RCP Adulto",
+    "02.05 - Vía Aérea Básica",
+    "02.06 - Vía Aérea Avanzada",
+    "02.10 - Algoritmos SVA"
+  ]
+}

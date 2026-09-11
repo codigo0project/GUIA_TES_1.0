@@ -1,0 +1,69 @@
+{
+  "id": "07.10-rn-crítico",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "07.10 - RN crítico",
+  "summary": "",
+  "tags": [
+    "07",
+    "pediatría",
+    "RN-crítico",
+    "prematuridad",
+    "meconio",
+    "hipotermia",
+    "apnea",
+    "hernia-diafragmática"
+  ],
+  "block": "07 - Pediatría",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/07 - Pediatría/07.10 - RN crítico.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "e4dff5e20f695bb8ebf3b7adf71ac3c2e4052c0cb2d5b13702586f9d833d6ee1"
+  },
+  "created_at": "2026-08-07T15:56:57.079442+00:00",
+  "updated_at": "2026-08-07T15:56:57.079442+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0709---reanimación-neonatal",
+      "type": "related"
+    },
+    {
+      "to": "0203---rcp-en-niños-y-lactantes",
+      "type": "related"
+    },
+    {
+      "to": "0711---rn-crítico-avanzado",
+      "type": "related"
+    },
+    {
+      "to": "0710---rn-crítico0710---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Prematurez",
+    "Aspiración de Meconio",
+    "Hipotermia Neonatal",
+    "Apnea Neonatal",
+    "Hernia Diafragmática Congénita",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "07.09 - Reanimación neonatal",
+    "02.03 - RCP en Niños y Lactantes",
+    "07.11 - RN crítico avanzado",
+    "07.10 - RN crítico|07.10 - Fuentes"
+  ]
+}

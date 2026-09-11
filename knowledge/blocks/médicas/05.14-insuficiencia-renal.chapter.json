@@ -1,0 +1,72 @@
+{
+  "id": "05.14-insuficiencia-renal",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "05.14 - Insuficiencia renal",
+  "summary": "",
+  "tags": [
+    "05",
+    "médicas",
+    "insuficiencia-renal",
+    "cólico-nefrítico",
+    "fístula-hemodiálisis",
+    "complicaciones-diálisis"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.14 - Insuficiencia renal.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "322ac9a340e11adcf9aeb71c67d17decdee5141f1a82ee2623d997dc51be6b64"
+  },
+  "created_at": "2026-08-07T15:56:56.745587+00:00",
+  "updated_at": "2026-08-07T15:56:56.745587+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0515---alteraciones-hidroelectrolíticas",
+      "type": "related"
+    },
+    {
+      "to": "0109---fisiopatología-del-shock",
+      "type": "related"
+    },
+    {
+      "to": "0510---abdomen-agudo",
+      "type": "related"
+    },
+    {
+      "to": "0411---hemoderivados",
+      "type": "related"
+    },
+    {
+      "to": "0514---insuficiencia-renal0514---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Cólico Nefrítico",
+    "Fístula Arteriovenosa (FAV) y Diálisis",
+    "Complicaciones Diálisis",
+    "Insuficiencia Renal Crónica",
+    "Criterios de Destino",
+    "Complicaciones",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "05.15 - Alteraciones hidroelectrolíticas",
+    "01.09 - Fisiopatología del Shock",
+    "05.10 - Abdomen agudo",
+    "04.11 - Hemoderivados",
+    "05.14 - Insuficiencia renal|05.14 - Fuentes"
+  ]
+}

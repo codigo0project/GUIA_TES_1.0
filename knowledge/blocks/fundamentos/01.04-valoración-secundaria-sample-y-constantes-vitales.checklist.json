@@ -1,0 +1,40 @@
+{
+  "id": "01.04-valoración-secundaria-sample-y-constantes-vitales.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 01.04-valoración-secundaria-sample-y-constantes-vitales",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "valoración"
+  ],
+  "block": "01 - Fundamentos",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/01 - Fundamentos/01.04 - Valoración Secundaria SAMPLE y Constantes Vitales.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "01.04-valoración-secundaria-sample-y-constantes-vitales",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "01 - Fundamentos"
+  ],
+  "items": [
+    "Realizar examen físico completo",
+    "Aplicar historia SAMPLE",
+    "Medir constantes vitales",
+    "Registrar hallazgos",
+    "Reevaluar periódicamente",
+    "Documentar cambios"
+  ]
+}

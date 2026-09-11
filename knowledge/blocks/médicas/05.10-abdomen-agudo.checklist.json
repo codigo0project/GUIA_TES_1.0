@@ -1,0 +1,40 @@
+{
+  "id": "05.10-abdomen-agudo.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 05.10-abdomen-agudo",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "abdomen"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.10 - Abdomen agudo.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "05.10-abdomen-agudo",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "05 - Médicas"
+  ],
+  "items": [
+    "Evaluar dolor abdominal y defensa",
+    "Verificar TA y FC",
+    "Canalizar vía y fluidos si shock",
+    "No dar nada por boca",
+    "Considerar abdomen agudo quirúrgico",
+    "Transportar a hospital"
+  ]
+}

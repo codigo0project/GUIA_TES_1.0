@@ -1,0 +1,68 @@
+{
+  "id": "05.01-angina-iam-y-código-infarto",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "05.01 - Angina, IAM y código infarto",
+  "summary": "",
+  "tags": [
+    "05",
+    "médicas",
+    "SCA",
+    "IAM",
+    "angina",
+    "código-infarto",
+    "ECG"
+  ],
+  "block": "05 - Médicas",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/05 - Médicas/05.01 - Angina, IAM y código infarto.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "6cc3c023d0030cb0bc6a9b6baf2b11943357bd4c63be168ec967f0aaff94f289"
+  },
+  "created_at": "2026-08-07T15:56:56.513802+00:00",
+  "updated_at": "2026-08-07T15:56:56.513802+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0503---arritmias",
+      "type": "related"
+    },
+    {
+      "to": "0405---antiagregantes-y-nitratos",
+      "type": "related"
+    },
+    {
+      "to": "0410---vasoactivos-y-antiarrítmicos",
+      "type": "related"
+    },
+    {
+      "to": "0501---angina-iam-y-código-infarto0501---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Cuadro Clínico",
+    "Código Infarto",
+    "Diagnóstico Prehospitalario",
+    "Tratamiento Prehospitalario",
+    "Transporte y Destino",
+    "Complicaciones",
+    "Caso Práctico",
+    "Recursos Relacionados",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "05.03 - Arritmias",
+    "04.05 - Antiagregantes y Nitratos",
+    "04.10 - Vasoactivos y Antiarrítmicos",
+    "05.01 - Angina, IAM y código infarto|05.01 - Fuentes"
+  ]
+}

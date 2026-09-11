@@ -1,0 +1,40 @@
+{
+  "id": "13.02-comunicaciones.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 13.02-comunicaciones",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "comunicaciones"
+  ],
+  "block": "13 - Operativa",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/13 - Operativa/13.02 - Comunicaciones.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "13.02-comunicaciones",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "13 - Operativa"
+  ],
+  "items": [
+    "Verificar equipo de comunicación",
+    "Mantener protocolo de radio",
+    "Confirmar identidad y ubicación",
+    "Registrar comunicaciones relevantes",
+    "Informar a centro de control",
+    "Guardar confidencialidad"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "09.07-rescate-técnico",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "09.07 - Rescate técnico",
+  "summary": "",
+  "tags": [
+    "09",
+    "ambientales",
+    "rescate-técnico",
+    "espacios-confinados",
+    "alturas",
+    "aguas-rápidas"
+  ],
+  "block": "09 - Ambientales",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/09 - Ambientales/09.07 - Rescate técnico.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "cbadf27b6b97de8655fbd42f48f7a2f3e922604aa3bbbb167f4efa06ce97b45c"
+  },
+  "created_at": "2026-08-07T15:56:57.104779+00:00",
+  "updated_at": "2026-08-07T15:56:57.104779+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "0306---extricación-vehicular",
+      "type": "related"
+    },
+    {
+      "to": "1101---conceptos-imv",
+      "type": "related"
+    },
+    {
+      "to": "0907---rescate-técnico0907---fuentes",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Conceptos Básicos",
+    "Espacios Confinados",
+    "Alturas",
+    "Aguas Rápidas",
+    "Coordinación",
+    "Errores Críticos",
+    "Puntos Clave",
+    "Complicaciones",
+    "Criterios de Destino",
+    "Información al Hospital",
+    "Checklist de Repaso",
+    "Regla Mnemotécnica"
+  ],
+  "links": [
+    "03.06 - Extricación vehicular",
+    "11.01 - Conceptos IMV",
+    "09.07 - Rescate técnico|09.07 - Fuentes"
+  ]
+}

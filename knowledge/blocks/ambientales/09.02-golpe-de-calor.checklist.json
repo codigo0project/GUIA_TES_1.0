@@ -1,0 +1,40 @@
+{
+  "id": "09.02-golpe-de-calor.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 09.02-golpe-de-calor",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "golpe"
+  ],
+  "block": "09 - Ambientales",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/09 - Ambientales/09.02 - Golpe de calor.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "09.02-golpe-de-calor",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "09 - Ambientales"
+  ],
+  "items": [
+    "Retirar del calor",
+    "Desnudar y abanicar",
+    "Refrigerar con agua",
+    "Monitorizar temperatura",
+    "O2 y fluidos si necesario",
+    "Transportar a hospital"
+  ]
+}

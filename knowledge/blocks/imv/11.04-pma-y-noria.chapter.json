@@ -1,0 +1,62 @@
+{
+  "id": "11.04-pma-y-noria",
+  "type": "chapter",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "11.04 - PMA y Noria",
+  "summary": "",
+  "tags": [
+    "11",
+    "IMV",
+    "PMA",
+    "noria-ambulancias",
+    "clasificación",
+    "evacuación"
+  ],
+  "block": "11 - IMV",
+  "duration_min": 15,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/11 - IMV/11.04 - PMA y Noria.md",
+    "pdf": null,
+    "src_id": null,
+    "evidence_hash": "7e44db3806f67f6897d665feb470fbc4e8bb37492feaa9bda198c9b644e78311"
+  },
+  "created_at": "2026-08-07T15:56:57.124894+00:00",
+  "updated_at": "2026-08-07T15:56:57.124894+00:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "1102---mando-y-control",
+      "type": "related"
+    },
+    {
+      "to": "1103---sectorización",
+      "type": "related"
+    },
+    {
+      "to": "1305---traslado",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [
+    "Montaje de PMA",
+    "Noria de Ambulancias",
+    "Clasificación y Evacuación",
+    "Coordinación con Hospitales",
+    "Gestión de la Información",
+    "Errores Críticos",
+    "Caso Práctico",
+    "Puntos Clave",
+    "Señalización y Organización Visual",
+    "Documentación y Cierre",
+    "Caso Práctico"
+  ],
+  "links": [
+    "11.02 - Mando y control",
+    "11.03 - Sectorización",
+    "13.05 - Traslado"
+  ]
+}

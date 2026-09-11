@@ -1,0 +1,40 @@
+{
+  "id": "14.04-seguridad-del-equipo.checklist",
+  "type": "checklist",
+  "version": "2026.08.01",
+  "status": "published",
+  "language": "es-ES",
+  "title": "Checklist 14.04-seguridad-del-equipo",
+  "summary": "Puntos críticos estructurados.",
+  "tags": [
+    "seguridad"
+  ],
+  "block": "14 - Conducción Prioritaria",
+  "duration_min": 5,
+  "priority": "Alta",
+  "sources": {
+    "manual": "manual/14 - Conducción Prioritaria/14.04 - Seguridad del equipo.md"
+  },
+  "created_at": "2026-08-03T00:00:00+02:00",
+  "updated_at": "2026-08-03T00:00:00+02:00",
+  "reviewed_by": null,
+  "relations": [
+    {
+      "to": "14.04-seguridad-del-equipo",
+      "type": "related"
+    }
+  ],
+  "nodes": [],
+  "sections": [],
+  "links": [
+    "14 - Conducción Prioritaria"
+  ],
+  "items": [
+    "Verificar seguridad de escena",
+    "Evaluar estado del paciente",
+    "Aplicar protocolo correspondiente",
+    "Monitorizar constantes vitales",
+    "Documentar actuaciones",
+    "Transportar según prioridad"
+  ]
+}

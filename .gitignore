@@ -75,4 +75,5 @@ Thumbs.db
 *.log
 
 # --- Manifest de medios (pendiente de generación) ---
-galeria/
+galeria/.kilocodeignore/
+.kilocode/
